@@ -1,5 +1,3 @@
-# crawl_about_fed.py
-
 import os
 import requests
 from bs4 import BeautifulSoup
@@ -13,7 +11,9 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 visited = set()
 to_visit = [START_URL]
-max_pages = 1000  # increased to allow deeper crawling
+max_pages = 2000  # safe limit; adjust as needed
+
+ALLOWED_EXTENSIONS = (".htm", ".html")
 
 def extract_text(html):
     soup = BeautifulSoup(html, "html.parser")
@@ -22,19 +22,14 @@ def extract_text(html):
 count = 0
 while to_visit and count < max_pages:
     url = to_visit.pop(0)
-
-    # Normalize: remove fragments (#) and query params (?)
-    url = url.split("#")[0].split("?")[0]
-
     if url in visited:
         continue
 
     try:
         print(f"🔗 Fetching: {url}")
         r = requests.get(url, timeout=10)
-        print(f"   ↪ Status: {r.status_code}, Content-Type: {r.headers.get('Content-Type')}")
-
-        if r.status_code != 200:
+        if r.status_code != 200 or "text/html" not in r.headers.get("Content-Type", ""):
+            print(f"   ❌ Skipping non-HTML or bad response")
             continue
 
         visited.add(url)
@@ -45,10 +40,10 @@ while to_visit and count < max_pages:
             print("   ⚠️ Skipping — too short")
             continue
 
-        # Save to file
+        # Save with a clear filename
         path = urlparse(url).path.strip("/")
         slug = path.replace("/", "_").replace(".htm", "").replace(".html", "")
-        filename = os.path.join(OUTPUT_DIR, f"{slug if slug else 'aboutthefed_index'}.txt")
+        filename = os.path.join(OUTPUT_DIR, f"{slug or 'aboutthefed_home'}.txt")
 
         with open(filename, "w", encoding="utf-8") as f:
             f.write(f"<!-- {url} -->\n")
@@ -64,15 +59,15 @@ while to_visit and count < max_pages:
             full_url = urljoin(BASE_URL, href)
             if (
                 full_url.startswith(f"{BASE_URL}/aboutthefed/") and
-                full_url.endswith((".htm", ".html")) and
-                "currencies" not in full_url and
-                "frb" not in full_url
+                full_url.endswith(ALLOWED_EXTENSIONS) and
+                not any(ext in full_url.lower() for ext in [".pdf", ".zip", ".csv", ".xlsx"])
             ):
-                clean_url = full_url.split("#")[0].split("?")[0]
-                if clean_url not in visited and clean_url not in to_visit:
-                    to_visit.append(clean_url)
+                if full_url not in visited and full_url not in to_visit:
+                    to_visit.append(full_url)
 
         time.sleep(0.3)
 
     except Exception as e:
         print(f"❌ Error at {url}: {e}")
+
+print(f"\n🔚 Crawl complete. Total pages saved: {count}")

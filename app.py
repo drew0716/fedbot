@@ -5,14 +5,10 @@ import numpy as np
 import streamlit as st
 from sentence_transformers import SentenceTransformer
 import anthropic
-# from dotenv import load_dotenv
-
-# load_dotenv()
+from datetime import datetime
 
 # Claude API key
-# api_key = os.getenv("ANTHROPIC_API_KEY")
-api_key = st.secrets["ANTHROPIC_API_KEY"]
-
+api_key = os.getenv("ANTHROPIC_API_KEY")
 if not api_key:
     st.error("Anthropic API key not found. Set ANTHROPIC_API_KEY in your environment.")
     st.stop()
@@ -84,6 +80,12 @@ def load_assets():
 
 model, index, metadata = load_assets()
 
+# Show last updated timestamp (if file exists)
+if os.path.exists("last_updated.txt"):
+    with open("last_updated.txt", "r") as f:
+        last_updated = f.read().strip()
+    st.markdown(f"**Data last updated:** {last_updated}")
+
 # Initialize session state
 if "question_input" not in st.session_state:
     st.session_state.question_input = ""
@@ -135,18 +137,10 @@ if question:
 
         context += f"\n---\n{content}"
 
-        title_raw = meta.get("source", "Unknown Source")
-        title_parts = title_raw.replace(".txt", "").replace("_chunk", "").replace("_", " ").split()
-        if "fedexplained" in title_parts:
-            try:
-                section_index = title_parts.index("fedexplained") + 1
-                title = f"About the Fed: Fed Explained – {' '.join(title_parts[section_index:]).title()}"
-            except:
-                title = "About the Fed: Fed Explained"
-        else:
-            title = f"About the Fed: {' '.join(title_parts).title()}"
+        base = meta.get("source", "Unknown")
+        page_title = base.replace("aboutthefed_", "").replace("_", " ").strip().title()
+        sources.append((page_title, meta.get("url")))
 
-        sources.append((title, meta.get("url")))
         added += 1
         if added >= 5:
             break
@@ -186,7 +180,6 @@ Question: {question}
 st.markdown("""
 ---
 <footer>
-  This tool uses public data from federalreserve.gov and Anthropic's Claude 3 model to provide answers based on "About the Fed" content.<br>
-  <strong>Disclaimer:</strong> This tool is not affiliated with or endorsed by the Federal Reserve System.
+  This tool uses public data from federalreserve.gov and Anthropic's Claude 3 model to provide answers based on "About the Fed" content. It is not affiliated with the Federal Reserve System.
 </footer>
 """, unsafe_allow_html=True)
