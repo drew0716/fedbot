@@ -38,3 +38,36 @@ Built with Python, FAISS, Sentence Transformers, and Streamlit, FedBot combines 
 
 ## 📁 Project Structure
 
+```
+fedbot/
+├── app.py                  # Streamlit frontend
+├── crawl_about_fed.py      # Web crawler for "About the Fed"
+├── extract_and_chunk.py    # Chunking raw text
+├── embed_and_store.py      # Embedding and FAISS indexing
+├── requirements.txt        # Python dependencies
+├── .env                    # API keys (not committed to Git)
+├── .gitignore
+├── README.md
+└── ...
+```
+
+---
+
+## 🔐 API Keys
+
+To run locally, set your Anthropic Claude API key in a `.env` file:
+
+```
+ANTHROPIC_API_KEY=your_api_key_here
+```
+
+Make sure `.env` is listed in your `.gitignore` to prevent accidental commits.
+
+---
+
+## 🤝 License
+
+This project is for educational and informational purposes only.  
+It is **not affiliated with or endorsed by the Federal Reserve System**.
+
+---
