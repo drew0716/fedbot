@@ -1,0 +1,8 @@
+streamlit
+faiss-cpu
+numpy
+sentence-transformers
+anthropic
+requests
+beautifulsoup4
+tqdm

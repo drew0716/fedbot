@@ -1,0 +1,24 @@
+# 🔐 Environment variables
+.env
+
+# 🧠 Model output and metadata
+*.pkl
+*.index
+
+# 📦 Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# 📂 Local data directories (not needed in repo)
+chunks/
+about_the_fed_pages/
+
+# 🚫 VSCode + Streamlit configs (optional, but good to ignore)
+.vscode/
+.streamlit/config.toml
+
+# 📁 System files
+.DS_Store
+Thumbs.db
+venv/
