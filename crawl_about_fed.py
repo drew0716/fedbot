@@ -13,7 +13,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 visited = set()
 to_visit = [START_URL]
-max_pages = 100
+max_pages = 1000  # increased to allow deeper crawling
 
 def extract_text(html):
     soup = BeautifulSoup(html, "html.parser")
@@ -22,6 +22,10 @@ def extract_text(html):
 count = 0
 while to_visit and count < max_pages:
     url = to_visit.pop(0)
+
+    # Normalize: remove fragments (#) and query params (?)
+    url = url.split("#")[0].split("?")[0]
+
     if url in visited:
         continue
 
@@ -44,7 +48,7 @@ while to_visit and count < max_pages:
         # Save to file
         path = urlparse(url).path.strip("/")
         slug = path.replace("/", "_").replace(".htm", "").replace(".html", "")
-        filename = os.path.join(OUTPUT_DIR, f"{slug or 'aboutthefed_home'}.txt")
+        filename = os.path.join(OUTPUT_DIR, f"{slug if slug else 'aboutthefed_index'}.txt")
 
         with open(filename, "w", encoding="utf-8") as f:
             f.write(f"<!-- {url} -->\n")
@@ -58,9 +62,15 @@ while to_visit and count < max_pages:
         for a in soup.find_all("a", href=True):
             href = a["href"]
             full_url = urljoin(BASE_URL, href)
-            if full_url.startswith(BASE_URL) and "/aboutthefed" in full_url and full_url.endswith((".htm", ".html")):
-                if full_url not in visited and full_url not in to_visit:
-                    to_visit.append(full_url)
+            if (
+                full_url.startswith(f"{BASE_URL}/aboutthefed/") and
+                full_url.endswith((".htm", ".html")) and
+                "currencies" not in full_url and
+                "frb" not in full_url
+            ):
+                clean_url = full_url.split("#")[0].split("?")[0]
+                if clean_url not in visited and clean_url not in to_visit:
+                    to_visit.append(clean_url)
 
         time.sleep(0.3)
 
