@@ -72,7 +72,7 @@ st.title("FedBot: About the Fed Q&A")
 if os.path.exists("last_updated.txt"):
     with open("last_updated.txt", "r") as f:
         last_updated = f.read().strip()
-    st.markdown(f"**Data last updated:** {last_updated}")
+    st.markdown(f"📅 Last updated: {last_updated}")
 
 # Load model, index, and metadata
 @st.cache_resource
