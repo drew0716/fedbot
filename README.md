@@ -1,38 +1,54 @@
-# FedBot: About the Fed Q&A
+# FedBot: About the Fed Q\&A
 
-**FedBot** is an interactive question-and-answer web application that uses Retrieval-Augmented Generation (RAG) to help users explore information about the United States Federal Reserve. This app focuses exclusively on content found in the **"About the Fed"** section of [federalreserve.gov](https://www.federalreserve.gov/aboutthefed.htm).
+**FedBot** is an interactive question-and-answer web app that uses Retrieval-Augmented Generation (RAG) to help users explore official information about the United States Federal Reserve. It focuses exclusively on content from the **"About the Fed"** section of [federalreserve.gov](https://www.federalreserve.gov/aboutthefed.htm).
 
-Built with Python, FAISS, Sentence Transformers, and Streamlit, FedBot combines web crawling, text chunking, semantic search, and large language model responses to provide helpful and relevant answers based on official sources.
+FedBot uses a semantic search pipeline with document embedding, vector indexing, and large language model responses from Anthropic’s Claude 3.
 
 ---
 
 ## 🔎 Features
 
-- Natural language question interface
-- Embedded search powered by FAISS and Sentence Transformers
-- Answers generated using Anthropic’s Claude 3 model (via API)
-- Only uses content from the public "About the Fed" section of federalreserve.gov
-- Source links shown for transparency and traceability
+* Natural language question interface
+* Automatic weekly crawl + chunk + reindex pipeline
+* FAISS-powered vector search over Federal Reserve documents
+* Context-aware answers using Claude 3 (via API)
+* Source links for transparency
+* Last updated timestamp shown in-app
 
 ---
 
-## 🌐 Try the App
+## 🚀 Try the App
 
-▶️ [**Launch FedBot**](https://fedbot.streamlit.app)
+🔺 **[Launch FedBot](https://fedbot.streamlit.app)**
 
-> **Note**: Access to the hosted version is currently limited.  
-> If you'd like to test or use FedBot, please [contact Drew](mailto:drew0716@gmail.com) to request access.
+> **Note:** Access to the hosted version is currently limited.
+> Contact [Drew](mailto:drew0716@gmail.com) to request access.
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **Streamlit** – UI and frontend
-- **BeautifulSoup** – Web crawling and HTML parsing
-- **FAISS** – Semantic vector index for search
-- **SentenceTransformers** – Text embeddings (`all-MiniLM-L6-v2`)
-- **Anthropic Claude 3 API** – Large language model for answers
-- **Python** – Glue code and preprocessing
+* **Streamlit** – Interactive web UI
+* **BeautifulSoup** – Web crawling & parsing
+* **FAISS** – Semantic vector index for fast document similarity search
+* **Sentence Transformers** – Embedding model (`all-MiniLM-L6-v2`)
+* **Anthropic Claude 3** – Large language model API for natural answers
+* **GitHub Actions** – Automated weekly refresh of indexed content
+* **Python** – Scripting & orchestration
+
+---
+
+## 🔁 Automatic Refresh (Every Other Day)
+
+FedBot is automatically kept up-to-date using a GitHub Actions workflow that runs every other day. It performs the following:
+
+1. Crawls the latest “About the Fed” pages
+2. Extracts and chunks the content
+3. Rebuilds the vector index
+4. Updates `last_updated.txt` and `force_redeploy.txt`
+5. Commits changes to GitHub, triggering a Streamlit redeploy
+
+You can also manually trigger the refresh via the GitHub **Actions tab**.
 
 ---
 
@@ -40,34 +56,72 @@ Built with Python, FAISS, Sentence Transformers, and Streamlit, FedBot combines 
 
 ```
 fedbot/
-├── app.py                  # Streamlit frontend
-├── crawl_about_fed.py      # Web crawler for "About the Fed"
-├── extract_and_chunk.py    # Chunking raw text
-├── embed_and_store.py      # Embedding and FAISS indexing
-├── requirements.txt        # Python dependencies
-├── .env                    # API keys (not committed to Git)
+├── .github/workflows/update_index.yml   # GitHub Action for automation
+├── .streamlit/config.toml               # Streamlit config
+├── app.py                               # Streamlit app interface
+├── crawl_about_fed.py                   # Crawls the Fed website
+├── extract_and_chunk.py                 # Splits documents into chunks
+├── embed_and_store.py                   # Embeds chunks and builds FAISS index
+├── ingest_documents.py                  # Optional ingestion utility
+├── chunks/                              # Text chunks used for indexing
+├── about_the_fed_pages/                 # Raw crawled pages (optional to commit)
+├── chunk_data.pkl                       # Chunk metadata
+├── faiss_index.index                    # Vector index for semantic search
+├── metadata.pkl                         # Chunk-to-source metadata
+├── last_updated.txt                     # Timestamp of last refresh
+├── force_redeploy.txt                   # Triggers Streamlit redeploy
+├── requirements.txt                     # Python dependencies
 ├── .gitignore
-├── README.md
-└── ...
+├── .env                                 # Local API keys (not committed)
+└── README.md
 ```
 
 ---
 
 ## 🔐 API Keys
 
-To run locally, set your Anthropic Claude API key in a `.env` file:
+To run the app locally, create a `.env` file in the project root:
 
-```
+```env
 ANTHROPIC_API_KEY=your_api_key_here
 ```
 
-Make sure `.env` is listed in your `.gitignore` to prevent accidental commits.
+Ensure `.env` is in `.gitignore` to avoid exposing credentials.
+
+---
+
+## ✅ Run Locally
+
+1. Clone the repo
+2. Create a virtual environment:
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # or venv\Scripts\activate on Windows
+   ```
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Add your `.env` with your API key
+5. Launch the app:
+
+   ```bash
+   streamlit run app.py
+   ```
+
+---
+
+## 📩 Questions?
+
+For access or support, reach out to [Drew](mailto:drew0716@gmail.com).
 
 ---
 
 ## 🤝 License
 
-This project is for educational and informational purposes only.  
+This project is for educational and informational purposes only.
 It is **not affiliated with or endorsed by the Federal Reserve System**.
 
 ---
