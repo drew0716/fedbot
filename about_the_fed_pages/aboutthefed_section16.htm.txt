@@ -1,0 +1,117 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/section16.htm -->
+<!-- title: Federal Reserve Board - Section 16. Note Issues -->
+<!-- date_fetched: 2025-07-09T02:18:23.777868Z -->
+
+Home
+About the Fed
+Federal Reserve Act
+Federal Reserve Act
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+Official title
+Section 1. Short title and definitions
+Section 2. Federal Reserve Districts
+Section 2A. Monetary policy objectives
+Section 2B. Appearances Before and Reports to the Congress
+Section 3. Branch Offices
+Section 4. Federal Reserve Banks
+Section 5. Stock Issues; Increase and Decrease of Capital
+Section 6. Insolvency of member banks
+Section 7. Division of Earnings
+Section 8. Conversion of state banks into national banks
+Section 9. State Banks as Members
+Section 9A. Participation in lotteries prohibited
+Section 9B. Resolution of Clearing Banks
+Section 10. Board of Governors of the Federal Reserve System
+Section 10A. Emergency advances to groups of member banks*
+Section 10B. Advances to Individual Member Banks*
+Section 11. Powers of Board of Governors of the Federal Reserve System
+Section 11A. Pricing of Services
+Section 11B. Annual Independent Audits of Federal Reserve Banks and Board
+Section 11C. Master Account and Services Database
+Section 12. Federal Advisory Council
+Section 12A. Federal Open Market Committee
+Section 13. Powers of Federal Reserve Banks
+Section 13A.* Discount of agricultural paper
+Section 14. Open-Market Operations
+Section 15. Government Deposits
+Section 16. Note Issues
+Section 17. Deposit of bonds by national banks
+Section 18. Refunding Bonds
+Section 19. Bank Reserves
+Section 20. National bank notes redemption fund as reserve
+Section 21. Bank Examinations
+Section 22. Offenses of examiners, member banks, officers, and directors
+Section 23. Interbank Liabilities*
+Section 23A. Relations with affiliates
+Section 23B. Restrictions on Transactions with Affiliates
+Section 24. Real Estate Loans
+Section 24A. Investment in Bank Premises or Stock of Corporation Holding Premises
+Section 25. Foreign Branches
+Section 25A. Banking Corporations Authorized to Do Foreign Banking Business*
+Section 25B. Jurisdiction of suits*
+Section 25C. Potential Liability on Foreign Accounts
+Section 26. [Repealed]
+Section 27. Tax on national bank notes
+Section 28. Reduction of capital of national banks
+Section 29. Civil Money Penalty
+Section 30. Saving clause
+Section 31. Reservation of right to amend
+Section 16. Note Issues
+1. Issuance of Federal Reserve notes; nature of obligation; where redeemable
+Federal reserve notes, to be issued at the discretion of the Board of Governors of the Federal Reserve System for the purpose of making advances to Federal reserve banks through the Federal reserve agents as hereinafter set forth and for no other purpose, are hereby authorized. The said notes shall be obligations of the United States and shall be receivable by all national and member banks and Federal reserve banks and for all taxes, customs, and other public dues. They shall be redeemed in lawful money on demand at the Treasury Department of the United States, in the city of Washington, District of Columbia, or at any Federal Reserve bank.
+[12 USC 411. As amended by act of Jan. 30, 1934 (48 Stat. 337). For redemption of Federal reserve notes whose bank of issue cannot be identified, see act of June 13, 1933.]
+2. Application for notes by Federal Reserve banks
+Any Federal Reserve bank may make application to the local Federal Reserve agent for such amount of the Federal Reserve notes hereinbefore provided for as it may require. Such application shall be accompanied with a tender to the local Federal Reserve agent of collateral in amount equal to the sum of the Federal Reserve notes thus applied for and issued pursuant to such application. The collateral security thus offered shall be notes, drafts, bills of exchange, or acceptances acquired under section 10A, 10B, 13, or 13A of this Act, or bills of exchange endorsed by a member bank of any Federal Reserve district and purchased under the provisions of section 14 of this Act, or bankers' acceptances purchased under the provisions of said section 14, or gold certificates, or Special Drawing Right certificates, or any obligations which are direct obligations of, or are fully guaranteed as to principal and interest by, the United States or any agency thereof, or assets that Federal Reserve banks may purchase or hold under section 14 of this Act or any other asset of a Federal reserve bank. In no event shall such collateral security be less than the amount of Federal Reserve notes applied for. The Federal Reserve agent shall each day notify the Board of Governors of the Federal Reserve System of all issues and withdrawals of Federal Reserve notes to and by the Federal Reserve bank to which he is accredited. The said Board of Governors of the Federal Reserve System may at any time call upon a Federal Reserve bank for additional security to protect the Federal Reserve notes issued to it. Collateral shall not be required for Federal Reserve notes which are held in the vaults of, or are otherwise held by or on behalf of, Federal Reserve banks.
+[12 USC 412. As amended by the acts of Sept. 7, 1916 (39 Stat. 754); June 21, 1917 (40 Stat. 236); Feb. 27, 1932 (47 Stat. 57); Feb. 3, 1933 (47 Stat. 794); Jan. 30, 1934 (48 Stat. 338); March 6, 1934 (48 Stat. 991); June 30, 1941 (55 Stat. 395); May 25, 1943 (57 Stat. 85); June 12, 1945 (59 Stat. 237); June 19, 1968 (82 Stat. 189); Nov. 10, 1978 (92 Stat. 3672); March 31, 1980 (94 Stat. 140); Dec. 6, 1999 (113 Stat. 1638); and Oct. 28, 2003 (117 Stat. 1193).]
+3. Distinctive letter on notes; destruction of unfit notes
+Federal Reserve notes shall bear upon their faces a distinctive letter and serial number which shall be assigned by the Board of Governors of the Federal Reserve System to each Federal Reserve bank. Federal Reserve notes unfit for circulation shall be canceled, destroyed, and accounted for under procedures prescribed and at locations designated by the Secretary of the Treasury. Upon destruction of such notes, credit with respect thereto shall be apportioned among the twelve Federal Reserve banks as determined by the Board of Governors of the Federal Reserve System.
+[12 USC 413. As amended by acts of June 21, 1917 (40 Stat. 236); Jan. 30, 1934 (48 Stat. 338); June 12, 1945 (59 Stat. 237); July 19, 1954 (68 Stat. 495); March 3, 1965 (79 Stat. 5); May 20, 1966 (80 Stat. 161); and March 18, 1968 (82 Stat. 50).]
+4. Granting right to issue notes
+The Board of Governors of the Federal Reserve System shall have the right, acting through the Federal Reserve agent, to grant in whole or in part, or to reject entirely the application of any Federal Reserve bank for Federal Reserve notes; but to the extent that such application may be granted the Board of Governors of the Federal Reserve System shall, through its local Federal Reserve agent, supply Federal Reserve notes to the banks so applying, and such bank shall be charged with the amount of the notes issued to it and shall pay such rate of interest as may be established by the Board of Governors of the Federal Reserve System on only that amount of such notes which equals the total amount of its outstanding Federal Reserve notes less the amount of gold certificates held by the Federal Reserve agent as collateral security. Federal Reserve notes issued to any such bank shall, upon delivery, together with such notes of such Federal Reserve bank as may be issued under section 18 of this Act upon security of United States 2 per centum Government bonds, become a first and paramount lien on all the assets of such bank.
+[12 USC 414. As amended by acts of June 21, 1917 (40 Stat. 237); Jan. 30, 1934 (48 Stat. 338); June 12, 1945 (59 Stat. 237); and March 18, 1968 (82 Stat. 50).]
+5. Deposit to reduce liability for outstanding notes
+Any Federal Reserve bank may at any time reduce its liability for outstanding Federal Reserve notes by depositing with the Federal Reserve agent its Federal Reserve notes, gold certificates, Special Drawing Right certificates, or lawful money of the United States. Federal Reserve notes so deposited shall not be reissued, except upon compliance with the conditions of an original issue. The liability of a Federal Reserve bank with respect to its outstanding Federal Reserve notes shall be reduced by any amount paid by such bank to the Secretary of the Treasury under section 4 of the Old Series Currency Adjustment Act.
+[12 USC 415. As reenacted by act of June 21, 1917 (40 Stat. 237); and as amended by acts of Jan. 30, 1934 (48 Stat. 339); June 30, 1961 (75 Stat. 147); March 18, 1968 (82 Stat. 50); and June 19, 1968 (82 Stat. 189). The act of June 30, 1961, is the Old Series Currency Adjustment Act.]
+6. Substitution of collateral; retirement of Federal Reserve notes
+Any Federal reserve bank may at its discretion withdraw collateral deposited with the local Federal reserve agent for the protection of its Federal reserve notes issued to it and shall at the same time substitute therefor other collateral of equal amount with the approval of the Federal reserve agent under regulations to be prescribed by the Board of Governors of the Federal Reserve System. Any Federal reserve bank may retire any of its Federal reserve notes by depositing them with the Federal reserve agent or with the Treasurer of the United States, and such Federal reserve bank shall thereupon be entitled to receive back the collateral deposited with the Federal reserve agent for the security of such notes. Any Federal Reserve bank shall further be entitled to receive back the collateral deposited with the Federal Reserve agent for the security of any notes with respect to which such bank has made payment to the Secretary of the Treasury under section 4 of the Old Series Currency Adjustment Act. Federal reserve notes so deposited shall not be reissued except upon compliance with the conditions of an original issue.
+[12 USC 416. As amended by acts of June 21, 1917 (40 Stat. 237); June 30, 1961 (75 Stat. 147); and March 18, 1968 (82 Stat. 50). The act of June 30, 1961 is the Old Series Currency Adjustment Act.]
+7. Custody of reserve notes, gold certificates, and lawful money
+All Federal Reserve notes and all gold certificates, Special Drawing Right certificates, and lawful money issued to or deposited with any Federal Reserve agent under the provisions of the Federal Reserve Act shall hereafter be held for such agent, under such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe, in the joint custody of himself and the Federal Reserve bank to which he is accredited. Such agent and such Federal Reserve bank shall be jointly liable for the safekeeping of such Federal Reserve notes, gold certificates, Special Drawing Right certificates, and lawful money. Nothing herein contained, however, shall be construed to prohibit a Federal Reserve agent from depositing gold certificates and Special Drawing Right certificates with the Board of Governors of the Federal Reserve System, to be held by such Board subject to his order, or with the Treasurer of the United States for the purposes authorized by law.
+[12 USC 417. As added by act of June 21, 1917 (40 Stat. 238); and amended by acts of Jan. 30, 1934 (48 Stat. 339) and June 19, 1968 (82 Stat. 189).]
+8. Engraving of plates; denominations and form of notes
+In order to furnish suitable notes for circulation as Federal reserve notes, the Secretary of the Treasury shall cause plates and dies to be engraved in the best manner to guard against counterfeits and fraudulent alterations, and shall have printed therefrom and numbered such quantities of such notes of the denominations of $1, $2, $5, $10, $20, $50, $100, $500, $1,000 $5,000, $10,000 as may be required to supply the Federal reserve banks. Such notes shall be in form and tenor as directed by the Secretary of the Treasury under the provisions of this Act and shall bear the distinctive numbers of the several Federal reserve banks through which they are issued.
+[12 USC 418. As amended by acts of Sept. 26, 1918 (40 Stat. 970); June 4, 1963 (77 Stat. 54); and Sept. 23, 1994 (108 Stat. 2293).]
+9. Custody of unissued notes
+When such notes have been prepared, the notes shall be delivered to the Board of Governors of the Federal Reserve System subject to the order of the Secretary of the Treasury for the delivery of such notes in accordance with this Act.
+[12 USC 419. As amended by acts of May 29, 1920 (41 Stat. 654) and Sept. 23, 1994 (108 Stat. 2293).]
+10. Custody of plates and dies; expenses of issue and retirement of notes
+The plates and dies to be procured by the Secretary of the Treasury for the printing of such circulating notes shall remain under his control and direction, and the expenses necessarily incurred in executing the laws relating to the procuring of such notes, and all other expenses incidental to their issue and retirement, shall be paid by the Federal reserve banks, and the Board of Governors of the Federal Reserve System shall include in its estimate of expenses levied against the Federal reserve banks a sufficient amount to cover the expenses herein provided for.
+[12 USC 420. Part of original Federal Reserve Act; not amended.]
+11. Examinations of plates, dies, etc.
+The Secretary of the Treasury may examine the plates, dies, bed pieces, and other material used in the printing of Federal Reserve notes and issue regulations relating to such examinations.
+[12 USC 421. As amended by act of Sept. 23, 1994 (108 Stat. 2293).]
+12. Appropriation for engraving, etc.
+Any appropriation heretofore made out of the general funds of the Treasury for engraving plates and dies, the purchase of distinctive paper, or to cover any other expense in connection with the printing of national-bank notes or notes provided for by the Act of May thirtieth, nineteen hundred and eight, and any distinctive paper that may be on hand at the time of the passage of this Act may be used in the discretion of the Secretary for the purposes of this Act, and should the appropriations heretofore made be insufficient to meet the requirements of this Act in addition to circulating notes provided for by existing law, the Secretary is hereby authorized to use so much of any funds in the Treasury not otherwise appropriated for the purpose of furnishing the notes aforesaid:
+Provided, however
+, That nothing in this section contained shall be construed as exempting national banks or Federal reserve banks from their liability to reimburse the United States for any expenses incurred in printing and issuing circulating notes.
+[Omitted from U.S. Code. Part of original Federal Reserve Act. This paragraph was in effect amended by subsection (a) of section 1 of the Permanent Appropriation Repeal Act of 1934, approved June 26, 1934 (48 Stat. 1224; 31 USC, 725), which provides: "That effective July 1, 1935, such portions of any acts as provide permanent or continuing appropriations from the general fund of the Treasury to be disbursed under the appropriation accounts appearing on the books of the Government, and listed in subsection (b) of this section, are hereby repealed, and any unobligated balances under such accounts as of June 30, 1935, shall be covered into the surplus fund of the Treasury." Among the appropriation accounts listed in subsection (b) is that for the preparation and issue of Federal Reserve notes.]
+13. Checks and drafts to be received on deposit at par
+Every Federal reserve bank shall receive on deposit at par from depository institutions or from Federal reserve banks checks and other items, including negotiable orders of withdrawal and share drafts and drafts drawn upon any of its depositors, and when remitted by a Federal reserve bank, checks and other items, including negotiable orders of withdrawal and share drafts and drafts drawn by any depositor in any other Federal reserve bank or depository institution upon funds to the credit of said depositor in said reserve bank or depository institution. Nothing herein contained shall be construed as prohibiting a depository institution from charging its actual expense incurred in collecting and remitting funds, or for exchange sold to its patrons. The Board of Governors of the Federal Reserve System shall, by rule, fix the charges to be collected by the depository institutions from its patrons whose checks and other items, including negotiable orders of withdrawal and share drafts are cleared through the Federal reserve bank and the charge which may be imposed for the service of clearing or collection rendered by the Federal reserve bank.
+[12 USC 360. As amended by act of March 31, 1980 (94 Stat. 140).]
+14. Transfer of funds among Federal Reserve banks
+The Board of Governors of the Federal Reserve System shall make and promulgate from time to time regulations governing the transfer of funds and charges therefor among Federal reserve banks and their branches, and may at its discretion exercise the functions of a clearing house for such Federal reserve banks, or may designate a Federal reserve bank to exercise such functions, and may also require each such bank to exercise the functions of a clearing house for depository institutions.
+[12 USC 248-1. As amended by acts of Aug. 23, 1935 (49 Stat. 704) and March 31, 1980 (94 Stat. 140). Reclassified (previously 12 USC 248(o).]
+15. Settlement fund
+The Secretary of the Treasury is hereby authorized and directed to receive deposits of gold or of gold certificates or of Special Drawing Right certificates with the Treasurer or any Assistant Treasurer of the United States when tendered by any Federal Reserve bank or Federal Reserve agent for credit to its or his account with the Board of Governors of the Federal Reserve System. The Secretary shall prescribe by regulation the form of receipt to be issued by the Treasurer or Assistant Treasurer to the Federal Reserve bank or Federal Reserve agent making the deposit, and a duplicate of such receipt shall be delivered to the Board of Governors of the Federal Reserve System by the Treasurer at Washington upon proper advices from any Assistant Treasurer that such deposit has been made. Deposits so made shall be held subject to the orders of the Board of Governors of the Federal Reserve System and deposits of gold or gold certificates shall be payable in gold certificates, and deposits of Special Drawing Right certificates shall be payable in Special Drawing Right certificates, on the order of the Board of Governors of the Federal Reserve System to any Federal Reserve bank or Federal Reserve agent at the Treasury or at the subtreasury of the United States nearest the place of business of such Federal Reserve bank or such Federal Reserve agent. The order used by the Board of Governors of the Federal Reserve System in making such payments shall be signed by the chairman or vice chairman, or such other officers or members as the Board may by regulation prescribe. The form of such order shall be approved by the Secretary of the Treasury.
+[12 USC 467. As added by act of June 21, 1917 (40 Stat. 238); and amended by acts of Jan. 30, 1934 (48 Stat. 339) and June 19, 1968 (82 Stat. 189). Prior to enactment of the Banking Act of 1935, approved Aug. 23, 1935, the chairman and vice chairman of the Board of Governors of the Federal Reserve System were known as the governor and vice governor of the Federal Reserve Board, respectively. See note to
+section 1
+.]
+16. Expenses
+The expenses necessarily incurred in carrying out these provisions, including the cost of the certificates or receipts issued for deposits received, and all expenses incident to the handling of such deposits shall be paid by the Board of Governors of the Federal Reserve System and included in its assessments against the several Federal reserve banks.
+[12 USC 467. As added by act of June 21, 1917 (40 Stat. 238).]
+17. Preservation of provisions of Act of March 14, 1900
+Nothing in this section shall be construed as amending section six of the Act of March fourteenth, nineteen hundred, as amended by the Acts of March fourth, nineteen hundred and seven, March second, nineteen hundred and eleven, and June twelfth, nineteen hundred and sixteen, nor shall the provisions of this section be construed to apply to the deposits made or to the receipts or certificates issued under those Acts.
+[12 USC 467. As added by act of June 21, 1917 (40 Stat. 239).]
+Back to Top
+Last Update:
+                    March 13, 2017

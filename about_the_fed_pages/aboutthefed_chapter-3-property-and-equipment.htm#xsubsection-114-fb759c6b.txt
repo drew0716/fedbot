@@ -1,0 +1,660 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-3-property-and-equipment.htm#xsubsection-114-fb759c6b -->
+<!-- title: The Fed - Chapter 3. Property and Equipment -->
+<!-- date_fetched: 2025-07-09T02:18:57.408875Z -->
+
+Home
+About the Fed
+Fed Financial Statements
+Federal Reserve System Audited Annual Financial Statements
+Financial Accounting Manual for Federal Reserve Banks
+Financial Accounting Manual for Federal Reserve Banks, May 2025
+PDF
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+About This Manual
+Abbreviations
+Summary of Revisions
+Chapter 1. Balance Sheet
+Chapter 2. Collateral and Custodies
+Chapter 3. Property and Equipment
+Chapter 4. System Open Market Account
+Chapter 5. Federal Reserve Notes
+Chapter 6. Reporting Requirements
+Chapter 7. Funding, Credit, Liquidity, and Loan Facilities
+Chapter 8. Special Topics
+Appendixes
+Appendix A. Currency
+Appendix B. Dividends
+Appendix C. FR 34 Accounts
+Appendix D. Software
+Appendix E. Reserved
+Appendix F. Pension
+Chapter 3. Property and Equipment
+30.01 General
+This chapter discusses property and equipment accounts. These accounts consist of the four accounts listed in the Bank Premises section of the FR 34 balance sheet, the Furniture and Equipment account and its related allowance for depreciation account, and the Other Real Estate account listed in the Other Assets section of the FR 34. This chapter also gives instructions concerning leasehold improvements and software which are discussed in Deferred Charges (see also
+paragraph 4.20
+).
+Property and equipment, also referred to as fixed assets, are used in the production and distribution of services by all Federal Reserve Banks. Fixed assets have three primary characteristics:
+Acquired and held for use in operations (i.e., not held for sale).
+Long-term in nature (greater than one year).
+Possess physical substance.
+Generally accepted accounting principles (GAAP) generally requires fixed assets to be recorded at their cost, including all normal expenditures to bring the asset to a location and condition for its intended use.
+Full acquisition cost for fixed assets (except software—see
+appendix D
+) includes all expenditures necessary to bring the asset to a location and condition in which it is usable for the purpose intended. Acquisition cost includes the following:
+installation costs
+assembly
+freight
+warehousing
+insurance
+taxes
+Full acquisition cost should also include trade-in allowances (i.e., the amount capitalized when an asset is traded-in for a new asset should equal the cash outlay for the new asset plus the lesser of (1) the net book value of the asset traded-in or (2) the allowance provided for the trade-in. Further information on trade-ins is found in
+paragraph 30.90
+).
+The capitalized cost of equipment should include installation and/or integration costs incurred. This may include consultant expense (including associated travel) for contractors and/or internal salary, benefits, and travel expenses incurred by staff who are directly involved with the installation project; and the initial programming and software as part of the integration cost, if the programming and/or software is an integral part of the equipment and the equipment cannot function without it.
+Internal use computer software with an acquisition cost of $100,000 or greater should be capitalized as a deferred charge. (See
+paragraph 4.20
+for further information.)
+The capitalized cost of an asset is written off periodically, or depreciated, in a manner that is systematic and rational after consideration of any salvage values (see
+paragraph 30.75
+). Allocating the cost of a long-lived asset over the accounting periods which the asset is used matches its cost with revenue generated throughout its useful life. The Federal Reserve System uses the straight-line method for depreciating fixed assets.
+In general, assets should be capitalized using the individual asset method, which is based on the individual asset unit. Asset units should be readily identifiable (subject to verification of existence without disassembly) and provide economic benefit through distinct, substantive functionality. Thus, in some instances, an asset may be an integrated unit made up of components that individually do not provide functionality without connection to the other components.
+Prior to 2021 an alternate method of capitalization, the pooled method, was used when capitalizing furniture, furnishings, and fixtures. Beginning in 2021, furniture, furnishings, and fixtures will have a capitalization threshold applied to the individual asset level. The pooled method may still be used to capitalize a bulk purchase of low-cost furniture or equipment (depreciation should begin once the assets are put into service), at the Reserve Bank's option, when the RBOPS Financial Accounting Policy and Reporting Section has been notified. The pooled asset method is described in paragraphs
+30.47
+and
+30.55
+–
+30.58
+. All other paragraphs relate to individual asset accounting. The useful lives and capitalization thresholds discussed in the following paragraphs reflect minimum accounting requirements for Reserve Banks. Based on local experience or practice, Reserve Banks may establish policies authorizing shorter useful lives or lower capitalization thresholds. Such policies must be in writing, applied consistently within the District, and provided as information to the RBOPS Financial Accounting Policy and Reporting Section.
+30.05 Historical Information
+The accounting rules for capitalizing and depreciating property and equipment have remained the same over the years with only minor departures for special circumstances. Prior to 1922, for example, several offices were authorized to charge larger amounts of depreciation against earnings because of inflated construction costs during and after World War I, and in 1922 FRB-Minneapolis was authorized to write off $500,000 to reduce the book value of its quarters to the approximate market value.
+In 1995, the Federal Reserve Banks began recognizing impairment losses consistent with FASB ASC Topic 840-30, which was superseded by FASB ASC Topic 360-10, Accounting for the Impairment or Disposal of Long-Lived Assets. Accordingly, write-downs of property and equipment occur periodically as a result of adjusting assets to their estimated fair values. (See
+paragraph 30.95
+.)
+Prior to 1996, construction costs for improvements or additions to a building were capitalized as part of the original building only if the addition or improvement significantly increased the useful life of the building beyond the current depreciation schedule or added functionality or space, in accordance with GAAP. In practice, ensuring accounting consistency for large improvement projects became burdensome, especially as some buildings approached the end of their initial useful lives. Since 1996, improvements to existing buildings are evaluated, capitalized, and depreciated as separate assets as a practical expedient. Accordingly, underlying asset values are not adjusted for capitalized improvements regardless of when the underlying asset was acquired. Improvement assets and accumulated depreciation, however, are adjusted if replaced or modified by a subsequent capitalized improvement and charged to depreciation expense.
+Two fixed asset policy changes were implemented in 2021 to align with standard accounting practices in parallel with the implementation of a new financial system: elimination of pooled accounting for furniture, furnishings, and fixtures; and elimination of the separate Building Machinery and Equipment account. The pooled asset method is described in paragraphs
+30.47
+and
+30.55
+–
+30.58
+. The separate Building Machinery and Equipment (160-075) asset account was used to account for stand-alone or supplemental equipment with a shorter expected life than the building but that would remain as part of a building upon its sale or abandonment by the Reserve Bank. Existing Building Machinery and Equipment assets were moved to Furniture and Equipment, and any new Building Machinery and Equipment type assets will be booked as Furniture and Equipment.
+Accounting for Asset Retirement Obligations (FASB ASC Topic 410-20) requires recording an asset and related liability for conditional asset retirement obligations, such as the legal obligation associated with the retirement of long-lived tangible assets. Accounting for Environmental Obligations (FASB ASC 410-30) provides guidance on accounting for environmental remediation liabilities and discusses expense or capitalization treatment. Application of these standards can be complex, and Reserve Bank staff must obtain approval (including for asbestos abatement) from the RBOPS Financial Accounting Policy and Reporting Section prior to making any accounting entries.
+30.06 Publication of Property and Equipment Information
+Property and equipment information is published weekly, monthly and annually in various publications as described in paragraphs
+60.15
+,
+60.20
+, and
+60.35
+. A detailed table showing costs and net book values, by office, for land and buildings, construction, and other real estate also appears in the Board's
+Annual Report
+.
+1
+30.10 Land
+This account includes all expenditures to acquire a site (such as purchase price, closing costs, and attorney/recording fees), and costs to prepare a site for construction (such as the removal of existing structures, draining, filling, and clearing).
+2
+The account should be debited when property is purchased for immediate Bank use or when a property that was previously carried in Other Real Estate is approved for construction. Land is carried on the Reserve Bank's books at cost and is not depreciated.
+If the property includes a building or other structure which is intended to be used for banking purposes, the portion to be charged to Land should be based on the assigned value in the purchase document or, in the absence of such specific information, on the appraised value. When appraised values are used and are different from the purchase price, the cost should be distributed on a pro-rata basis in the same proportion as the value of Land and Building bears to total appraised value. If the purchased property includes a building or other structure, which is to be razed, the entire purchase price should be allocated to this account. The cost of removing such structures should be charged to this account and the proceeds from the sale of salvaged materials should be credited. Incidental costs of demolishing the building (such as liability insurance, measures taken to maintain adjacent property during operation, reinforcement of walls of adjacent buildings, other repairs made for safety, and reconnection or construction of sewers) should also be included in this account.
+30.15 Land Improvements
+The Land Improvements account is used to record costs incurred for capital land improvements which have limited lives (e.g., sidewalks, fountains, and fences). Land improvements that cost $100,000 or more must be capitalized. The Land Improvements account is reported as a sub-account to Land. The allowance for depreciation for land improvements is reported as a sub-account to the bank premises allowance for depreciation.
+The cost of each improvement should be recorded in a subsidiary ledger within the Land Improvements sub-account and depreciated over its own unique estimated useful life. Depreciation is recorded by debiting depreciation expense and crediting Accumulated Depreciation for Land Improvements. The maximum useful life for land improvements is 20 years.
+30.20 Building
+This account is used to record costs of acquiring or constructing a building to be used by the Bank. The cost of a building should include all expenditures related directly to its acquisition or construction. Generally, all costs incurred, beginning with excavation through completion of construction, are considered part of the building costs. The cost of the building should not include the cost of land, land improvements, or fixed machinery and equipment.
+This account should be charged when a building is purchased for immediate Bank use or when the Construction account is closed upon completion of a project. Thereafter, only major alterations, renovations and improvements may be added to the capitalized cost of the building.
+3
+Building improvements must be capitalized if the cost is $100,000 or more, and if the improvements meet the capitalization criteria defined in
+paragraph 30.70
+.
+Such major improvements should be recorded and depreciated individually in the Bank's subsidiary records. The account should be credited only when the building or major improvement is sold, demolished, or otherwise retired, such as by transfer to the Other Real Estate account.
+Projects such as repairing, painting or refurbishing should be charged to expense unless they meet the capitalization tests for improvements as defined in section
+30.70
+. The maximum useful life of a building is 50 years. Improvements should be assigned unique useful lives, not to exceed 50 years.
+30.30 Construction Account
+This account is used to accumulate all capitalizable costs relating to a building or renovation project, and is closed out following completion of the project. This account should be charged for all costs of a new building, the purchase price of a building to be held for future use pending renovation, and all renovation and improvement costs. Receipts from the sale for such items as scrap or recoveries of building costs for such items as change orders and insurance should be deducted from the amount of the project to be capitalized.
+Upon completion of a given project, amounts that were accumulated in this account should be analyzed and capitalized in accordance with the provisions contained in this chapter. Construction projects should be capitalized in a timely fashion (i.e., when the project is substantially complete) and, if necessary, in portions. Resolution of punch list items and billing disputes should not delay capitalization unless their nature is so significant that the asset(s) are rendered virtually unusable until resolution. Reserve Banks may capitalize and depreciate salaries of employees directly engaged in construction projects if they are performing functions that an outside contractor or consultant would be retained to perform if the internal staff were not available or did not have the necessary expertise. Personnel costs associated with management oversight should not be capitalized if they are of an administrative nature. See
+30.40
+for examples of capitalized items.
+As costs are incurred, they should be analyzed for propriety as capital costs related to the project. Expense items should not be carried in this account except as necessary when commingled with other costs. When such expense items are finally determined, they should normally be applied to the current year's expenses. Similarly, costs related to building and construction projects, such as consulting fees and survey costs, that have not been and are not likely to be approved by the Board in the near future should be expensed when incurred, rather than included in this account.
+30.40 Examples of Classification of Capitalized Bank Premises Assets
+The following are examples of disbursements, which are to be capitalized as land, land improvements, and building. The list is intended to suggest the scope of the Bank Premises accounts and is not exhaustive.
+Land
+Amount paid to vendor
+Back taxes (not paid before acquisition)
+1
+Clearing
+Commissions (real estate)
+Cost of options and appraisals
+Demolition
+Earth work
+Internal Revenue stamps
+Legal expenses
+Outdoor landscaping—new building or significant redesign of the land
+Permits
+Recording deed and lease
+Relocation costs (paid to or for tenants requested to vacate)
+Site drainage
+Soil treatment
+Subsurface exploration
+Title examination
+Unexpired leases
+Utility relocations
+1
+Amounts paid after acquisition should be expensed.
+Land Improvements
+Built-in concrete benches and planters
+Fences and gates
+Flag poles
+Fountains, pools, and monuments
+Irrigation systems
+Environmental remediation
+1
+Other site improvements (retaining walls, stationary bollards)
+Parking lots
+Plazas and patios
+Sidewalks, curbs, pavers, and handrails
+Site lighting
+1
+Reserve Banks must consult with the RBOPS Financial Accounting Policy and Reporting Section to determine if capitalization is appropriate.
+Building
+All permanent and demountable partitions (except freestanding)
+Architects and consultants fees (including design development, schematic designs, and construction artifacts)
+Book and record vaults
+Brick, marble, limestone and granite cut stone work foundation
+Builders' risk and other insurance
+Built-in fire protection equipment (e.g., sprinkler systems)
+Built-in loading dock equipment
+Built-in maintenance systems
+Built-in shooting range equipment (e.g., stops/traps)
+Built-in window treatments (including film)
+Built-in window washing equipment
+Casework (built-in furniture)
+Ceiling and support systems
+Cement or metal floors and stairs
+Damp proofing and water proofing
+Ducts, conduits, cables, wiring and power points not associated with a specific building machinery and equipment
+Electrical wiring
+Elevator doors
+Elevator shafts
+Environmental remediation
+1
+Excavation
+Finished hardware
+Fire and storm doors
+Floor and roof construction (including structural and raised)
+Foundation systems (piles, walls, piers, and footings)
+Fuel connections
+Hoist
+Indoor built-in artwork
+Indoor built-in landscaping
+2
+Licenses and permits
+Lighting fixtures
+Mail chutes and conveyors
+Mill work and dimension lumber
+Moving stairs and walks
+Paint—Wall paper and wall graphics
+Parking garages/structures
+Permanent flooring (including initial installation of carpeting in building)
+Plastering
+Plumbing
+Reinforced concrete work
+Rolled steel doors
+Sanitation/sewer lines
+Sheet metal work
+Sky lights
+Structural steel work
+Temporary construction fencing
+Temporary utilities and facilities during construction
+Restroom and bath accessories
+Vapor barriers and insulation
+Vaults including racks and files, doors and day gates
+Walls and wall systems (including studs)
+Windows
+1
+Reserve Banks must consult with the RBOPS Financial Accounting Policy and Reporting Section to determine if capitalization is appropriate.
+2
+When landscaping involves the roof of a secure wing and the roof of the space below plaza ground level, these landscape costs should be prorated between building and land improvements.
+30.45 Furniture and Equipment
+Furniture and equipment includes computing equipment, automotive equipment, furniture, furnishings, and fixtures, operating equipment, and artwork. This account also includes machinery and equipment associated with building structures that are considered part of the building and will convey with the building when it is sold. Examples include air conditioning units, boilers, elevators, and heating or lighting equipment.
+30.46 Examples of Classification of Capitalized Furniture and Equipment Assets
+The following are examples of expenditures that are to be capitalized as furniture and equipment. The list is intended to suggest the scope of the furniture and equipment accounts, and is not exhaustive.
+Furniture and Equipment
+Equipment
+(if > $10,000 or bulk purchased with notification to RBOPS)
+Computing Equipment:
+Computers
+Desktops, tablets, and laptops
+Virtual/Augmented Reality Equipment
+Network: routers, switches, wireless equipment
+Peripheral equipment
+Telecommunication systems
+Disc drives
+Mass storage units (network attached storage)
+Printers, copiers, and fax machines
+Scanners
+Smartboards
+Storage area network
+Tape drives / libraries
+Security assets, including visual display terminals, and intrusion detection and prevention systems
+Public Key Infrastructure identity and authentication systems
+Servers
+Portable uninterrupted power sources
+IT vending machines
+Automotive Equipment
+Automobiles
+Tractors
+Trucks
+Furniture, Furnishings and Fixtures
+(if > $10,000 or bulk purchased with notification to RBOPS)
+Furniture:
+Desks, chairs, credenzas, bookcases, cabinets, tables, files (except operationally dedicated high-density filing systems), lockers, outside patio benches and tables, initial stock of cafeteria tableware and dishes, etc.
+Furnishings and Fixtures:
+Window treatments, attached Sit-To-Stand desks, freestanding partitions and cubicle components (such as shelves, work surfaces, cabinets, and file drawers).
+Operating Equipment
+2
+Heating and Air Conditioning Equipment:
+Boilers
+Commissioning (testing of all HVAC equipment)
+Compressors and fans
+Cooling towers, chillers, water tanks, and hot water heaters
+Environmental control consoles
+Heating, ventilating, and air handling equipment
+Pumps
+Electrical and Mechanical Equipment:
+Built in Sound Masking System (installed in ceiling)
+Dynamos and stationary electric motors
+Electrical panels and transformers
+Non-portable uninterrupted power sources
+Non-portable power-distribution units
+Elevators
+Pumps
+Switchgear and generators
+Operating Equipment:
+Built-in and operationally dedicated material handling and conveying systems; lobby exhibits (A/V, lighting, built-in displays); coin and currency counting and sorting machines; spare sensors; currency shredding equipment; fork lift trucks; electric Car Stations; internal currency and coin transport systems; phone Charging Stations; TV surveillance cameras and monitors; etc.
+1
+Building Maintenance Equipment:
+Vacuum cleaners, waxing machines, sanding machines, portable trash compactors, plumbing snake, etc.
+Shop Equipment:
+Drill presses, lathes, electric saws, etc.
+Kitchen and Dining Facilities Equipment:
+Refrigerators (other than built-in, walk-in refrigerators and freezers), cash registers, microwaves, vending machines, etc.
+Medical Services Equipment:
+Sterilizers, sunlamps, scales, hospital beds, stretchers, etc.
+Audio-Visual Equipment:
+Video equipment, cameras, projectors and screens, sound systems, speakers, portable and integrated videoconferencing equipment, computerized system for shooting range, etc.
+Protection Equipment:
+Biometric devices, access control devices, MAG locks, magnetometers, x-ray machines, bomb detectors, K-9 dogs, etc.
+Fitness Center Equipment:
+Treadmills, ellipticals, exercise bikes, etc.
+Artwork
+Moveable original works of art created by professional artists, including paintings, outdoor artwork, and graphics. Does not include framed poster art.
+Kitchen and Dining Room Equipment
+Built-in dishwashers
+Built-in hoods and vents
+Built-in stoves and ovens
+Built-in grilles
+Built-in walk-in freezers and refrigerators
+Steam tables and serving line equipment
+Built-in dispensing equipment
+Built-in ice makers
+Built-in pizza ovens
+Other Equipment:
+Cash residue equipment
+Parking equipment
+Retractable bollards and moveable gates
+Surveillance and protection equipment (security Portal, Speed Lanes)
+1
+Equipment designated with a maximum 15-year useful life: incinerators, high-density filing systems, high-speed equipment. See
+30.78
+.
+2
+Initial installation costs of equipment may be recorded as a building cost if not readily identifiable in construction contracts or invoices. Costs incurred to replace ducts, conduits, cables, wiring, and power points that support specific building, machinery, and equipment should be recorded as installation costs.
+30.47 Methods of Capitalization—Furniture and Equipment
+Prior to 2021, two accounting methods were followed in capitalizing and depreciating these assets—the "individual asset" method (as is used for all other asset categories) and the "pooled asset" method.
+Assets classified as furniture, furnishings, and fixtures were previously capitalized and depreciated using the pooled asset method, as described in
+paragraph 30.55
+below. Beginning in 2021, furniture, furnishings, and fixtures will have a capitalization threshold applied to the individual asset level rather than a pooled method. In addition to purchased furniture, a Reserve Bank may, at its option, capitalize and depreciate salaries and the outside cost of materials that are consumed in the construction of furniture and equipment by Reserve Bank personnel. These costs are capitalized and depreciated using the individual asset method.
+Equipment with a cost of $10,000 or more must be capitalized using the individual asset method. Equipment with a purchase cost below $10,000 should be expensed. If equipment costs less than $10,000 for an individual item but significant quantities are acquired, and the total purchase exceeds $100,000, then the purchase may be capitalized and recorded with notification to the RBOPS Financial Accounting Policy and Reporting Section, which has 10 business days to object to the accounting treatment.
+The pooled asset method of capitalizing, depreciating, and handling improvements is discussed in
+paragraphs 30.55–30.58
+. All other paragraphs in this chapter relate to the individual asset accounting method. Maximum useful lives for furniture and equipment asset groupings under both the individual asset and pooled asset method are found in
+table 30.78
+.
+30.50 Equipment
+Equipment (with the exception of those items that are pooled as a bulk purchase) should be capitalized on an individual item basis and recorded within the appropriate asset account. This account should be charged for the full acquisition cost as described in
+paragraph 30.01
+and care should be taken to ensure asset and liability accounts are properly reflected at the time the asset is received.
+30.51 Artwork
+Artwork should be capitalized on an individual item basis and under the threshold set forth for equipment. Artwork should be recorded based on the full acquisition cost as described in
+paragraph 30.01
+. Non-capitalizable artwork should be expensed and recorded to operating expense (330-050).
+30.55 Pooled Asset Method
+Prior to 2021, the pooled asset method was used to account for furniture, furnishings, and fixtures. Pooling allowed small dollar/large quantity assets to be appropriately reflected on the financial statements without imposing the unnecessary tracking of each asset individually as a practical expedient. Under the pooled asset accounting concept, no individual item had a recorded and separately identifiable book value. Rather, it was the group (pool) account that carries a book value. Accordingly, as was noted from the following instructions, once a pool account had been established, the amount in the pool account remains unchanged for as long as the pool account remains in existence (until it is fully depreciated). Any furniture, furnishings, and fixtures purchased in 2021 will use the individual asset method of capitalization.
+All purchases handled under the pooled asset method were to be capitalized into pooled accounts at full acquisition cost, including, where applicable, such items as outside installation costs, furniture assembly, freight charges, warehousing, insurance, and taxes. Each calendar year was considered as a separate pool and all purchases made within a given calendar year were considered a part of that pool account. The change from pooled accounting will be applied prospectively, only.
+If a Reserve Bank capitalizes a particular bulk purchase of low-cost equipment based on
+paragraph 30.01
+, that purchase will still be handled similarly to previously pooled assets, in that the items will not be individually tracked or have separately identifiable book values but depreciation should begin once the assets are put into service.
+30.56 Pooled Asset Depreciation
+For 2020 and prior-year pooled assets, depreciation will be calculated monthly on the gross amount of each pool account, using the "straight-line method." Depreciation on each furniture pool account will begin in the first month following the end of the pool year (calendar year). Guidelines on useful lives of pooled assets are found in
+table 30.78
+. Depreciation will continue until the allowance for depreciation equals the amount of the pool account, at which time the pool account will be credited and the related allowance for depreciation will be debited for the amount of the pool account (effectively removing these accounts from the balance sheet).
+30.57 Pooled Improvements (or Betterments)
+For 2020 and prior-year pooled improvements, the costs paid to an outside vendor for significant improvements or betterments made to furniture, furnishings, and fixtures was capitalized. When such expenditures were made, the amount was added or capitalized in the appropriate pooled asset account for the year in which the expenditures were made. Such capitalized improvement or betterment costs was treated as a purchase made during the year and were depreciated, along with the other purchased assets in the pool, over the life of that particular pool account.
+30.58 Disposals and Trade-ins of Pooled Asset Items
+The following is the treatment to be used when any item carried in a legacy pooled asset account: (a) is sold—the salvage received from the sale should be credited against the appropriate pool; (b) is traded in—the new item (for which the pooled item was traded) should be expensed at the net purchase price, unless the asset meets the capitalization thresholds for fixed assets; (c) is lost, stolen, or disposed, with no salvage or trade-in value received—no entries are necessary for accounting and reporting purposes.
+30.70 Expenditures for Existing Buildings and Equipment
+Expenditures for existing buildings and equipment consist of the cost of additions, improvements, and major replacements to an asset (see descriptions below). These expenditures should be analyzed to determine if they should be capitalized or charged to expense in the current accounting period. Generally, expenditures for existing assets that meet the capitalization threshold of the Reserve Bank for similar assets are considered capitalizable if at least one of the following criteria is met:
+The useful life of the existing asset is increased by more than one year.
+The quantity of output or operating efficiency of the asset is significantly increased.
+The quality of output is significantly increased.
+The cost incurred for any asset that does not meet the criteria described above or the capitalization threshold for similar assets should be expensed in the period incurred. Repairs and maintenance costs incurred to maintain an asset at its current level of operation are not capitalizable and should be charged to expense.
+Additions:
+Additions are the increases to, or extensions of an existing building or equipment. Additions that meet one or more of the criteria described above should be recorded in a separate subsidiary account of the Buildings or Equipment account and generally depreciated over the remaining life of the principal asset. If the addition is considered to have an independent service life of its own, depreciation is recognized over the service life of the addition.
+Improvements:
+Improvements (or betterments) represent major modifications of an existing asset such as major renovations to an existing building or overhaul to equipment that will significantly increase its efficiency, its useful life, or the quality of the asset. Demolition costs resulting from the improvements of internal structures such as walls or flooring are also considered part of the improvement.
+Improvements made to buildings or equipment that meet one or more of the criteria described above should be recorded separately in the appropriate subsidiary account. The depreciation rate for the improved asset should be recalculated based on the new useful life, net book value, and salvage value of the improved asset. If the improvement is made to a building and is considered to have an independent useful life, depreciation is recognized over the service life of the improvement. The revised depreciation charges should begin in the first month following final payment or when the asset is placed in service, whichever occurs first.
+Specialized improvements are separately identifiable building improvements or renovations that usually have a distinct useful life and may not meet the improvement criteria above, but are significant changes to the original asset.
+4
+For specialized improvements, any remaining costs of the original improved or replaced asset cannot be separately identified from the cost of the original building asset; therefore, it cannot be written-off or the useful life cannot be accelerated. Any loss associated with the impairment of a specialized improvement is charged to expense.
+When conducting floor renovations, Reserve Banks should look to their historical renovation trends to determine if the renovation should be capitalized and given a distinct useful life. For example, if the Reserve Bank has a history of renovating floors every ten years, a useful life of ten years would most likely be assigned to a current renovation. However, if floor renovations are rare, or no particular trend emerges in the frequency of the renovation, a Reserve Bank may consider assigning the remaining useful life of the building as the useful life of its current renovation. Improvements that replace assets with a separately distinguishable book value should be treated as a replacement (see replacement requirements below). See
+paragraphs 30.85–30.87
+for the appropriate treatment of leasehold and tenant improvements.
+The accounting for costs associated with improvements made to computer equipment should be capitalized if the improvement meets the $10,000 capitalization threshold of individual assets and the improvements are tangible. To illustrate, assume that a two-year old computer is initially purchased for $l,000,000 and the expected useful life is set at six years. At the end of four years, an improvement is made for $300,000 which is considered tangible and is expected to extend the useful life two years beyond the original useful life period (four years from the time of the improvement) and increase the salvage value $30,000. Initially, the computer was being depreciated at $150,000 per year to a salvage value of $100,000. After the improvement, it would be depreciated at $142,500 per year to a salvage value of $130,000. An equipment improvement that can function independent of the underlying asset (for example, a storage array added to a server that can be moved to another server if needed) should be capitalized as a separate asset with a unique useful life. If the improvement cannot function independent of the underlying asset, the costs associated with the improvement should be depreciated over the remaining useful life of the original underlying asset.
+Replacements:
+A replacement is a substitution of an existing asset by a new asset. Replacements should be capitalized if they meet one of the criteria discussed above. Replacements should be accounted for under the substitution approach which requires removing the cost of the existing asset and its accumulated depreciation from the books and charging current expense for the difference. The new asset should be depreciated over its own useful life.
+30.71 Capitalization Thresholds
+For an outlay to be capitalized, it should be material in value. For purposes of recognizing long-term physical assets, materiality is defined as equal to or greater than established capitalization thresholds.
+Table 30.72
+provides the capitalization thresholds for the types of assets described in this chapter. The thresholds stated in the table represent the lower limit above which these transactions must be capitalized. A Reserve Bank has the option to implement more stringent (lower) thresholds if it deems such a policy preferable. If a more stringent threshold is used, the Reserve Bank must consistently apply the threshold throughout the District (i.e., the head office and Branches must all use the same capitalization thresholds for all asset classes.) Such policy must be documented and provided as information to the RBOPS Financial Accounting Policy and Reporting Section.
+30.72 Capitalization Thresholds Table
+Capitalization Thresholds
+Asset Classification
+Capitalization Thresholds (Individual Assets)
+Land
+All acquisitions
+Land Improvements
+$100,000
+Building and Improvements
+$100,000
+Equipment, Artwork, and Improvements
+$10,000
+Furniture, Furnishings, and Fixtures
+$10,000
+Externally Purchased Software
+$25,000
+Internally Developed or Significantly Modified Software
+$100,000
+Implementation Costs for Cloud Computing Arrangement that does not contain a software license
+$100,000
+Leasehold Improvements
+$25,000
+Tenant Improvements
+$25,000
+30.75 Depreciation
+Depreciation is defined as the accounting process of allocating the cost of tangible assets to current expense in a systematic and rational manner in those periods expected to benefit from the use of the asset. Depreciation is an occupancy or usage cost and therefore, should begin the month following the date equipment is placed into production. When constructing a building, if it is occupied prior to closing the Construction account, depreciation should be estimated as closely as possible and applied to current expense effective in the month following when at least 50 percent of the Reserve Bank's staff is operating from the new quarters. Any adjustments for over or under estimates of depreciation, as may be determined when the Construction account is closed and final figures for Building and Equipment are capitalized, should be adjusted to current expense in the current month.
+For all fixed assets (except software) reported on the balance sheet, depreciation starts the month following when the fixed asset is placed into service. Depreciation is recorded by debiting current expense and crediting the related allowance for depreciation on the balance sheet. Thus, the amount of accumulated depreciation reported on the balance sheet represents the sum of the individual depreciation charges for each asset that have been recorded in the subsidiary accounts of the Bank.
+Assets are depreciated on a straight-line basis. The depreciable basis of an asset is its acquisition cost less its estimated salvage value. The formula for calculating the straight-line method of depreciation is as follows:
+Cost less Salvage Value/Estimated Useful Life (in months) = Monthly Depreciation Charge
+Depreciation should continue until the asset is fully depreciated or disposed. At the end of an asset's estimated useful life, the asset's net book value should equal its salvage value and depreciation should be discontinued. Depreciation on impaired assets should continue until the Reserve Bank ceases the operations for which the asset is used. Assets that are held for sale are reclassified to other real estate and depreciation ceases. The asset and related allowance for depreciation should not be removed from the balance sheet until the asset is retired or disposed, even if the net book value of the asset is zero. (See
+paragraph 30.95
+.)
+Appropriate subsidiary records, reflecting the original acquisition cost, the cost of any improvements, and allowance for depreciation balance should be maintained in all cases. Land, artwork, and assets held for sale or future use are not depreciated.
+30.76 Depreciation Rate and Salvage Value
+Table 30.78
+provides information for establishing useful lives and salvage values for the types of assets described within this chapter. Similar assets, within an asset category, that have the same useful lives may be grouped for depreciation purposes, as long as memorandum records are maintained detailing the original charges to the account by piece of equipment. It should be noted that Table 30.78 provides parameters within which the Reserve Bank may determine the appropriate depreciation schedule for assets. It should not be viewed as an indication of rates that are automatically to be assigned to new or used equipment. If a Reserve Bank has a special case where the documented useful life or salvage value of an asset exceeds the guidelines set forth, a request, with substantiating documentation, should be sent to the Manager of the RBOPS Financial Accounting Policy and Reporting Section for review and approval. A Reserve Bank may utilize a lesser useful life or salvage value than the guidelines listed without Board notification with the exception of the bank building (excluding improvements).
+The depreciation rate should be based on the expected unique useful life to the Reserve Bank, taking into account such factors as probable technological obsolescence and projected capacity limitations consistent with the Bank's long-range procurement plans, industry information, and improvements. The salvage value assigned to an asset should reflect the Reserve Bank's expected recovery upon sale or trade-in of the asset. Assessments of the useful life and salvage value of all assets, excluding building but including Building Improvements and Equipment should be reviewed annually, at a minimum. Should the Reserve Bank note a change in the expected remaining useful life or salvage value of the asset, the depreciation rate should be adjusted prospectively such that the remaining net book value is depreciated to the estimated salvage value over the expected remaining useful life of the asset.
+30.78 Maximum Useful Lives and Salvage Values Table
+Maximum Useful Lives and Salvage Values
+Asset Classification
+Maximum Estimated Useful Life
+1
+Maximum Estimated Salvage Value
+Land Improvements
+20 years
+0
+Building
+50 years
+0
+Improvements
+Unique life or remaining life of building
+Equipment:
+Computing equipment (other than PCs)
+As determined by Reserve Bank (see
+30.76
+)
+(See
+paragraph 30.76
+)
+Operating equipment
+6 years
+10 percent
+PCs
+3 years for standard technology; 4 years for state-of-the-art technology
+0
+Automotive Equipment (including vans & minivans)
+5 years
+20 percent
+Furniture, Furnishings, and Fixtures
+10 years
+0
+Software
+5 years
+0
+Implementation Costs for Cloud Computing Arrangement that does not contain a software license
+Non-cancellable term of the hosting arrangement and any optional renewal periods reasonably certain to be exercised
+0
+Leasehold and Tenant Improvements
+Shorter of the non-cancelable lease term or unique useful life of the asset
+0
+1. The Division of Reserve Bank Operations and Payment Systems has assigned specific maximum estimated useful lives to the following assets:
+Ten (10) year useful life, zero salvage value (1) Unisys check processing equipment and (2) currency storage containers.
+Fifteen (15) year useful life: (1) High speed currency equipment, currency disintegrators and incinerators, and high density filing systems. (2) Offset printing presses, and (3) automated guided vehicles.
+Twenty (20) year estimated useful life: (1) Uninterruptable power systems. (2) Materials handling systems. (3) Building Machinery and Equipment type assets.
+Twenty five (25) year estimated useful life: Solar water heat.
+Forty (40) year estimated useful life: Solar vent preheat.
+Note: Peripheral equipment that is expected to have the same useful life as a mainframe computer should be depreciated over the life of the mainframe. However, if the useful life of such equipment is projected to be different from that of the computer, the equipment may be depreciated over a different period provided the equipment is not dedicated to, or an integral part of, the mainframe.
+Return to table
+30.80 Leases
+A lease is defined as an agreement conveying the right to use property, plant, or equipment (land and/or depreciable assets) usually for a stated period of time. A contract is or contains a lease if the contract conveys the right to control the use of identified property, plant, or equipment ("identified asset") for a period of time in exchange for consideration. To determine whether a contract conveys the right to control the use of an identified asset for a period of time, the Reserve Bank needs to assess whether, throughout the period of use, the Reserve Bank has both the right to obtain substantially all of the economic benefits from use of the identified asset and the right to direct the use of the identified asset.
+Leases will be classified at the commencement date of the lease (i.e., the date on which a lessor makes an underlying asset available for use by a lessee).
+Classification:
+A Reserve Bank lessee classifies a lease as a finance lease and a Reserve Bank lessor classifies a lease as a sales-type lease if the lease meets any one of the following criteria:
+The lease transfers ownership of the underlying asset to the lessee by the end of the lease term.
+The lease grants the lessee an option to purchase the underlying asset that the lessee is reasonably certain to exercise.
+The lease term is 75 percent or more of the remaining economic life of the underlying asset.
+This criterion is not applicable for leases that commence within 25 percent or less of the underlying asset's economic life
+.
+The present value of the sum of the lease payments and any residual value guaranteed by the lessee that is not already included in the lease payments equal or exceed 90 percent of the fair value of the underlying asset.
+5
+The underlying asset is of such a specialized nature that it is expected to have no alternative use to the lessor at the end of the lease term.
+When none of the criteria noted above are met:
+A Reserve Bank lessee shall classify the lease as an operating lease.
+A Reserve Bank lessor shall classify the lease as either a direct financing lease or an operating lease.
+A Reserve Bank lessor shall classify a lease as an operating lease unless both of the following criteria are met, in which case the Reserve Bank lessor shall classify the lease as a direct financing lease:
+The present value of the sum of the lease payments and any residual value guaranteed by the lessee and/or by any other third party unrelated to the Reserve Bank lessor that is not already reflected in the lease payments equals or exceeds substantially all of the fair value of the underlying asset.
+6
+It is probable that the Reserve Bank lessor will collect the lease payments plus any amount necessary to satisfy a residual value guarantee.
+Lease Term
+A Reserve Bank shall determine the lease term for any lease classification as the non-cancellable period of the lease including optional periods to extend the lease if the lessee is reasonably certain to exercise; termination options that the lessee is reasonably certain not to exercise; and extension or termination options controlled by the lessor.
+At the commencement date, a Reserve Bank shall include the periods listed above in the lease term having considered all relevant factors that create an economic incentive for the lessee (that is, contract-based, asset-based, entity-based, and market-based factors).
+7
+Lease Payments
+A Reserve Bank shall determine lease payments for any lease classification as consisting of the following payments relating to the use of the underlying asset during the lease term determined as noted above:
+Fixed payments, including in substance fixed payments, less any lease incentives paid or payable to the lessee.
+Variable lease payments that depend on an index or a rate (such as the consumer price index or a market interest rate), initially measured using the index or rate at the commencement date.
+The exercise price of an option to purchase the underlying asset if the lessee is reasonably certain to exercise that option.
+Payments for penalties for terminating the lease if the lease term reflects the lessee exercising an option to terminate the lease.
+Fees paid by the lessee to the owners of a special-purpose entity for structuring the transaction.
+For a Reserve Bank lessee only, amounts probable of being owed under residual value guarantees.
+Lease payments do not include variable lease payments other than those noted above, any guarantee by the lessee of the lessor's debt, and amounts allocated to nonlease components.
+Reserve Bank Lessee Accounting
+Initial Measurement of All Leases
+At the commencement date of a lease, a Reserve Bank lessee shall measure for any lease classification both a lease liability computed as the present value of the lease payments not yet paid, discounted using the discount rate for the lease at lease commencement and a right-of-use asset. The Reserve Bank lessees shall use a risk-free discount rate (i.e., Treasury borrowing rate) determined using a period comparable with that of the lease term. However, if the interest rate implicit in the lease, as computed by the lessor, is readily determinable, such interest rate should be used as the risk-free discount rate.
+The measurement cost of the right-of-use asset shall consist of the amount of the initial measurement of the lease liability, any lease payments made to the lessor at or before the commencement date, and any initial direct costs incurred by the Reserve Bank lessee minus any lease incentives received.
+8
+A materiality threshold has been established for the balance sheet recognition of lessee leases: the materiality test for a finance lease is that each identified leased asset value equals or exceeds $100,000; the materiality test for an operating lease is that lease payments over the lease term for each operating lease item equals or exceeds $100,000. Potential finance leases with lease payments over the lease term in excess of $500,000 along with the proposed accounting treatment should be sent to the RBOPS Financial Accounting Policy and Reporting Section for review.
+Remeasurement of the Lease Liability
+Any changes to lease payments after the commencement date including incentive payments for tenant allowances shall be reflected by the Reserve Bank lessee as a remeasurement of the lease liability through an adjustment to the right-of-use asset. However, if the carrying amount of the right-of-use asset is reduced to zero, any remaining amount of the remeasurement is recognized in the Statement of Operations. The Reserve Bank lessee shall update the discount rate for the lease at the date of remeasurement on the basis of the remaining lease term and the remaining lease payments.
+The discount rate will not be required to be updated unless the remeasurement of the lease liability is the result of one of the following:
+A change in the lease term or the assessment of whether the Reserve Bank lessee will exercise an option to purchase the underlying asset and the discount rate for the lease already reflects that the Reserve Bank lessee has an option to extend or terminate the lease or to purchase the underlying asset.
+A change in amounts probable of being owed by the Reserve Bank lessee under a residual value guarantee.
+A change in the lease payments resulting from the resolution of a contingency upon which some or all of the variable lease payments that will be paid over the remainder of the lease term are based.
+Short-Term Leases
+A short-term lease is defined as "
+A lease that, at the commencement date, has a lease term of 12 months or less and does not include an option to purchase the underlying asset that the lessee is reasonably certain to exercise.
+" A Reserve Bank lessee will not apply the balance sheet recognition requirements to short-term leases meeting this definition. Instead, a Reserve Bank lessee will recognize the lease payments in the Statement of Operations on a straight-line basis over the lease term and variable lease payments in the period in which the obligation for those payments is incurred. If the lease term or the assessment of a Reserve Bank lessee option to purchase the underlying asset changes such that, after the change, the remaining lease term extends more than 12 months from the end of the previously determined lease term or the Reserve Bank lessee is reasonably certain to exercise its option to purchase the underlying asset, the lease no longer meets the definition of a short-term lease and the Reserve Bank lessee shall apply the lease accounting guidance in this section of FAM as if the date of the change in circumstances is the commencement date.
+Subsequent Measurement and Recognition for Finance Leases
+After the commencement date for a finance lease, the Reserve Bank lessee shall measure the lease liability by increasing the carrying amount to reflect interest on the lease liability and reducing the carrying amount to reflect the lease payments made during the period. The Reserve Bank lessee shall determine the interest on the lease liability in each period during the lease term as the amount that produces a constant periodic discount rate on the remaining balance of the liability, taking into consideration any reassessment requirements. The Reserve Bank lessee shall measure the right-of-use asset at cost less any accumulated amortization and any accumulated impairment losses, taking into consideration any reassessment requirements.
+After the commencement date, the Reserve Bank lessee shall recognize in the Statement of Operations the amortization of the right-of-use asset and interest on the lease liability, variable lease payments not included in the lease liability in the period in which the obligation for those payments is incurred, and any impairment of the right-of-use asset.
+Subsequent Measurement and Recognition for Operating Leases
+After the commencement date, for an operating lease, a Reserve Bank lessee shall measure the lease liability at the present value of the lease payments not yet paid discounted using the discount rate for the lease established at the commencement date (unless the rate has been updated due to a required remeasurement after the commencement date in which case that updated rate shall be used). The Reserve Bank lessee shall measure the right-of-use asset at the amount of the lease liability, adjusted for prepaid or accrued lease payments, remaining balance of any lease incentives received, which is the amount of the gross lease incentives received net of amounts recognized previously as part of the single lease cost, unamortized initial direct costs, and impairment of the right-of-use asset.
+After the commencement date, the Reserve Bank lessee shall recognize in the Statement of Operations a single lease cost, calculated so that the remaining cost of the lease is amortized over the remaining lease term on a straight-line basis, variable lease payments not included in the lease liability in the period in which the obligation for those payments is incurred, and any impairment of the right-of-use asset.
+Amortization and Impairment of the Right-of-Use Asset
+A Reserve Bank lessee shall amortize the right-of-use asset from the commencement date to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term on a straight-line basis. If the lease transfers ownership of the underlying asset to the Reserve Bank lessee or the Reserve Bank lessee is reasonably certain to exercise an option to purchase the underlying asset, the Reserve Bank lessee shall amortize the right-of-use asset to the end of the useful life of the underlying asset. When the lease liability is remeasured and the right-of-use asset is adjusted, amortization of the right-of-use asset shall be adjusted prospectively from the date of remeasurement.
+If a right-of-use asset is impaired, it shall be measured at its carrying amount immediately after the impairment less any accumulated amortization. A Reserve Bank lessee shall amortize the right-of-use asset from the date of the impairment to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term. Due to the complexity of this impairment, Reserve Banks should contact RBOPS Financial Accounting Policy and Reporting Section for guidance.
+Lease Termination
+A termination of a lease before the expiration of the lease term shall be accounted for by the Reserve Bank lessee by removing the right-of-use asset and the lease liability, with net result recognized in the Statement of Operations for the difference.
+Reserve Bank Lessor Accounting
+Operating Lease
+At the commencement date, a Reserve Bank lessor shall defer initial direct costs and recognize those as an expense over the non-cancelable lease term.
+9
+After the commencement date, a Reserve Bank lessor shall recognize (unless collectability is not probable) lease payments as rental income over the non-cancelable lease term on a straight-line basis. Lease incentives, including tenant allowances granted to the lessee in cash or rent credits, that are reasonably estimable through contractual terms and probable for future payment or credit should be recorded in a deferred charge account on the lease commencement date and recognized ratably over the remaining lease term as a reduction of rental income. Variable lease payments shall be recognized as rental income in the period in which the changes in facts and circumstances on which the variable lease payments are based occur.
+30.85 Leasehold Improvements
+Major expenditures made in connection with the renovation or alteration of a space rented for Bank use should be capitalized in Deferred Charges (see
+paragraph 4.20
+). A leasehold improvement must be capitalized if the cost is $25,000 or more. The cost of minor repairs and maintenance involved in the upkeep of leased quarters should be charged to current expense. The term "renovations and alterations" as used here is intended to include the construction of any new building for Bank use on leased property where the title to the building passes to the owner of the land either upon completion of construction or termination of the lease agreement.
+30.86 Amortization of Leasehold Improvements
+Leasehold improvements should be amortized to current expense as rent over the shorter of the non-cancelable lease term as noted in
+paragraph 30.80
+or the unique useful life of the asset, unless the lease transfers ownership of the underlying asset to the Reserve Bank lessee or the Reserve Bank lessee is reasonably certain to exercise an option to purchase the underlying asset, in which case, the Reserve Bank lessee shall amortize the leasehold improvements to the end of their useful life.
+30.87 Tenant Improvements
+For payments made to tenants for them to build out improvements in leased Bank premises, Reserve Banks should carefully evaluate the terms and conditions of the lease contract to assess which entity has control over the improvements i.e. the ability to direct the use of and obtain substantially all the remaining benefits from the improvements during the term of the lease agreement. Reserve Banks should also evaluate if a modification to lease agreements was required in order for the tenant to build out the improvement. A modification could indicate that the asset is owned by the Reserve Bank. All factors including full ownership (i.e. no partially owned assets unless there is an agreement for joint ownership) of the improvements during the lease term should be evaluated. If determined that the Reserve Bank does not have control over the improvements over the term of the lease agreement, associated payments to tenants would be recorded as a lease incentive.
+Payments for improvements considered to be owned by the Reserve Bank over the term of the lease agreement should be capitalized as tenant improvements. These should be accumulated in a subsidiary construction account until completion of the project and capitalized in one or more subsidiary accounts under the appropriate Bank premises asset. A tenant improvement must be capitalized if the cost is $25,000 or more and amortized to current expense as depreciation over the shorter of the non-cancelable lease term or the unique useful life of the asset. In the event that a tenant leaves before the expiration of the lease, any remaining unamortized amount should be charged to current expense as a loss on disposal of fixed assets. Should a Reserve Bank need further accounting guidance in evaluating payment to tenants for improvements, Reserve Banks should contact the RBOPS Financial Accounting Policy and Reporting Section.
+30.90 Disposals and Trade-ins
+When disposing of assets (either voluntarily or involuntarily) the gross asset value and the related accumulated depreciation should be deducted from the appropriate asset account and from the allowance for depreciation account. Any difference between the net book value (gross asset value less accumulated depreciation) and the proceeds from a sale should be debited or credited to current expense. When an asset is traded in, if the net book value exceeds the trade-in allowance, that difference should be debited to current expense (i.e., the amount capitalized when an asset is traded in for a new asset should equal the cash outlay for the new asset plus the lesser of (1) the net book value of the asset traded-in, or (2) the allowance provided for the trade in). In the event equipment is sold by one Reserve Bank to another, any net difference between book value and selling price should be recorded as an increase or decrease to current expense on the books of the selling office. Any transfer of assets between offices of the same District should be made at book value. The receiving office should record the asset on a cost basis equal to the net book value. Disposals are not necessarily write-downs or impairments, which must be approved by the RBOPS Financial Accounting Policy and Reporting Section, as detailed in
+paragraph 30.95
+. In contrast, disposals do not require RBOPS approval as they are typically undertaken during the ordinary course of business. Asset disposal requires that the asset be removed from the balance sheet. Disposal indicates that the asset will yield no further benefits. Depending on the value of the asset, a gain or loss may need to be recorded for the reporting period during which the asset is disposed. Please consult with RBOPS Financial Accounting Policy and Reporting Section if you have any questions determining the nature of a disposal.
+30.95 Asset Impairment
+ASC 360 defines impairment as the condition that exists when the carrying amount of a long-lived asset (asset group) exceeds its fair value. Contrary to disposals or trade-ins of assets that are typically undertaken in the normal course of business, impairments may arise whenever events or changes in circumstances indicate that the carrying amount of the long-lived asset (group) might not be recoverable. At the time an asset is judged to be materially and permanently impaired (whether partial or total), a loss should be recognized in accordance with FASB ASC Topic 360-10. As a general rule, the loss associated with the impairment of land and building (in-service date ending 1995) should be charged to Profit & Loss. The loss associated with impairments of land improvements, building improvements (in-service date beginning 1996), and furniture and equipment should be charged to Current Expense.
+10
+The offset should be recognized by reducing the book value of the asset through a credit to the asset account if the asset is held for use. The reduction in book value for impaired assets held for disposal should be credited to the corresponding asset account. The asset account may be adjusted for subsequent revisions in estimates of fair value less costs to sell, provided that the carrying amount of the asset does not exceed its original carrying value (prior to any impairment recognition). Regardless of the outcome of the impairment analysis, the useful life and salvage value of the asset should be evaluated and adjusted in accordance with FAM
+30.75
+and
+30.76
+.
+In contrast to asset disposals, all assets that have been determined to be impaired, whether in-service or work-in-process, must be approved by the RBOPS Financial Accounting Policy and Reporting Section. Information such as the description of the asset, whether the asset will be written down or written-off, the reason for the impairment, and the proposed entries to account for the asset impairment should be provided along with the request for approval. The fair value of assets considered for impairment should be determined in accordance with FASB ASC Topic 820-10, Fair Value Measurements.
+11
+A fair value measurement assumes that an asset is exchanged in an orderly transaction between market participants, and assumes the highest and best use of the asset. In determining the amount of an impairment, the fair value is not to be reduced for transaction costs such as incremental direct costs to sell the asset.
+Asset Grouping
+For purposes of evaluating and recognizing impairment losses, assets should be grouped with other assets at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets.
+12
+For example, a check only facility to be closed would group all of its equipment into one group. Other likely groupings include: buildings including general improvements, land, specialized improvements (those related to a unique function), and leasehold improvements.
+13
+In the case of assets (groups) that do not have cash flows that are identifiable as largely independent of the other assets of the Bank, such as head office buildings, those assets should be grouped with all the assets of the Bank.
+Is this asset (group) available for sale?
+If an asset is held for sale, then it is recorded at its fair value less selling costs and not depreciated (even if it is held and used). There are six conditions that must be met in order to classify an asset as held for sale.
+Management commits to a plan to sell the asset (group).
+The asset (group) is available for immediate sale in its current condition.
+An active program to find a buyer has been initiated.
+The sale is expected to be completed within one year.
+The asking price is reasonable in relation to fair value.
+Actions taken indicate that it is unlikely that the plan to sell will be withdrawn or significantly changed.
+Evaluating for Impairments
+Whenever major events or changes in operating circumstances indicate that the carrying amount of an asset may not be recoverable, perform an evaluation of the recorded carrying value of the associated asset to determine if a write-down due to impairment is needed.
+14
+The following tests should be applied when such events or changes in circumstances occur or on an annual basis in the absence of such events or changes to determine if asset impairment is appropriate:
+A significant decrease in the fair value of an asset held for disposal.
+15
+A significant change in the extent or manner in which an asset is used or a significant physical change in an asset.
+A significant adverse change in legal factors or in the business climate that could affect the value of an asset or an adverse action or assessment by a regulator.
+An accumulation of costs significantly in excess of the amount originally expected to acquire or construct an asset where these costs are not anticipated to be recoverable in the future.
+A current period operating or cash flow loss combined with a history of operating or cash flow losses or a projection or forecast that demonstrates continuing losses associated with an asset used for the purpose of producing revenue.
+A current expectation that it is "more likely than not" that the asset will be sold or otherwise disposed of significantly before the end of its previously estimated useful life.
+Does the carrying value (book value) exceed the amount that can be recovered (undiscounted net cash flows)?
+This step is focused on whether the current value is recoverable not whether it is impaired. It is possible, for example, that an asset could have a carrying value well in excess of current market prices that still produces enough cash flows to cover its costs. Loss impairments are not recognized in these cases. The undiscounted cash flows include the cash flows throughout the life of the asset (group) including disposal. If, for example, the useful life of the asset is shorter because of changes in the extent of how it will be used, the cash flows should be measured over the shorter life. In the absence of a better source for cash flow information, Reserve Banks should consider the current depreciation costs as a proxy for undiscounted cash flows on assets that will continue to be used at "pre-impairment" production levels.
+16
+If the assets will be used in a reduced capacity, a reasonable pro-ration of the current depreciation should be made. In order to balance the costs associated with estimating and evaluating an impairment loss with the benefits, impairments should only be pursued if the carrying value exceeds recovery amount by the following thresholds.
+17
+For those assets that are grouped, the thresholds apply to the group. These measurements, and those in the remaining steps, should be made as of the date the impairment was probable and estimable.
+Land: $500,000
+Buildings: Larger of $500,000 or $50,000 x the remaining useful life of the building
+Specialized Improvements: $100,000
+Equipment: $50,000
+Software: $50,000
+Asset Fair Value and Impairment Loss Based on the Difference between Carrying Value and Fair Value
+The fair value of the asset (group) is the amount at which the asset could be bought or sold in a current arms-length transaction. The ideal method for determining fair value is to use the price for the asset if it is traded in an active market. The next best method is to base fair value on the prices for similar assets (appraisal). The remaining method is to use the discounted present value of the expected cash flows for the asset. In general, assumptions and techniques used to determine fair value should be the same that marketplace participants would use if the information is available without undue cost and effort. Otherwise, the Reserve Bank should use its own assumptions. In general, absent reasonable appraisals of market, the undiscounted amount calculated in step three will be used for those assets that will be disposed of within five years. If applied to an asset that will be held for longer than five years such as a building, use the applicable Treasury rate for a security of that duration as of the impairment date. The impairment loss should be recorded as an adjustment to the asset account (proportionately to assets in a group) and a charge to the same account that would have been charged if the asset was sold.
+Fair Value
+After adjusting the carrying value for an impairment loss, consider adjusting the remaining useful life and salvage value assumptions from the impairment date. Once the adjustment is recorded, subsequent restoration is not permitted. Depreciation should be based on the adjusted values at the impairment date.
+Other Costs Associated with Exit Activities
+All other exit costs, such as relocating employees and equipment, and costs associated with closing facilities should be recognized in the period the goods or services are received (see FAM
+11.56
+).
+30.96 Sale or Transfer of Assets to Another Office
+If an asset will be transferred to another office in same District, the depreciation continues and the cost to relocate and reinstall the equipment is charged to expense.
+18
+If an asset will be sold to another Reserve Bank, the deprecation will cease when production ceases and the sale should be recorded at book-value (no gain or loss).
+19
+The receiving Reserve Bank should record the asset at the transferring Reserve Bank's book-value, capitalize the installation and transportation costs and begin depreciation when the equipment is placed into production and continue over the asset's remaining useful life.
+30.97 Other Real Estate
+This account should be debited upon acquisition of real estate to be held for future Bank use or when Bank property is classified as held for sale. All costs associated with the purchase of real estate should be capitalized. Generally, buildings carried in this account should not be depreciated. When the site is approved for construction, Other real estate should be transferred to the appropriate Bank premises accounts (in most cases, Land).
+In some cases, other real estate will include buildings with tenants. Income and expenses involved in operating buildings purchased after 1976 should be functioned through current expenses. If the real estate contains a building that will eventually be razed, depreciation should be discontinued upon acquisition.
+The carrying amount of other real estate that is held for sale should not exceed its fair value. The carrying value of other real estate held for sale should be evaluated by the end of the calendar year, at a minimum, to determine if adjustments are necessary (see
+paragraph 30.95
+). This does not necessarily require an annual formal appraisal; however, valuation methodologies should be consistent.
+31.00 Real Estate Reporting Requirements
+Paragraph 60.39
+provides instructions for the preparation and submission of required accounting reports FR 612 and FR 892.
+Footnotes
+1. The Annual Report may be found at
+www.federalreserve.gov/publications/annual-report/default.htm
+.
+Return to text
+2. Refer to
+paragraph 30.05
+for accounting guidance on environmental remediation costs, which must be approved by the RBOPS Financial Accounting Policy and Reporting Section.
+Return to text
+3. Refer to
+paragraph 30.05
+for accounting for any environmental remediation costs, such as asbestos abatement, because they should be approved by the RBOPS Financial Accounting Policy and Reporting Section.
+Return to text
+4. FAM was revised in 1996 to allow for specialized improvements.
+Return to text
+5. For lessees, the discount rate used to evaluate the "substantially all" criterion is a risk-free discount rate (i.e., Treasury borrowing rate) determined using a period comparable with that of the lease term.
+Return to text
+6. A guarantee made to a lessor that the value of an underlying asset returned to the lessor at the end of a lease will be at least a specified amount.
+Return to text
+7. Those factors shall be considered together, and the existence of any one factor does not necessarily signify that a lessee is reasonably certain to exercise or not to exercise an option.
+Return to text
+8. Initial direct costs are the incremental costs of a lease that would not have been incurred if the lease had not been obtained. These include broker commissions and payments made to an existing tenant to incentivize that tenant to terminate its lease.
+Return to text
+9. Initial direct costs are the incremental costs of a lease that would not have been incurred if the lease had not been obtained. These include broker commissions and payments made to an existing tenant to incentivize that tenant to terminate its lease.
+Return to text
+10. See
+paragraph 30.70
+for specialized improvement additions.
+Return to text
+11. See
+paragraph 30.05
+.
+Return to text
+12. To the extent these assets have an associated liability, such as with a capitalized lease, the liability should also be included.
+Return to text
+13. Software should be included with the applicable equipment. When it is no longer probable that computer software being developed will be completed and placed in service, the asset shall be reported at the lower of the carrying amount or fair value, if any, less costs to sell. The rebuttable presumption is that such uncompleted software has a fair value of zero consistent with FASB ASC Topic 350-40-35-3.
+Return to text
+14. Refer to
+appendix D
+for evaluating for software impairments.
+Return to text
+15. This does not include assets that have been in production (and depreciated accordingly) and that will continue to be used for their intended purpose throughout their useful life.
+Return to text
+16. Estimating cash flows for assets, especially those that support non-priced services areas is problematic. The basis for this proxy is the idea that the result of the pricing process is to match cash flows with costs and that the historical depreciation during full cost recovery is a reasonable proxy for the cash flows. If, a Reserve Bank has another, more accurate method, for computing true cash flows from an asset class, that may be used.
+Return to text
+17. By applying the thresholds at this point rather than after calculating the impairment loss that would be recognized, some administrative costs associated with valuing the asset (group) may be avoided.
+Return to text
+18. Although relocation costs benefit future periods, the accounting principles require such costs to be charged to expense causing a lack of symmetry in treatment between assets transferred inter- and intra-district.
+Return to text
+19. An impairment loss is unlikely in this case as the "undiscounted cash flow" will include the transfer at book value to the other Reserve Bank.
+Return to text
+Back to Top
+Last Update:
+                    June 13, 2025

@@ -1,0 +1,337 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-6-reporting-requirements.htm#xsubsection-185-fc193de9 -->
+<!-- title: The Fed - Chapter 6. Reporting Requirements -->
+<!-- date_fetched: 2025-07-09T02:18:55.417433Z -->
+
+Home
+About the Fed
+Fed Financial Statements
+Federal Reserve System Audited Annual Financial Statements
+Financial Accounting Manual for Federal Reserve Banks
+Financial Accounting Manual for Federal Reserve Banks, May 2025
+PDF
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+About This Manual
+Abbreviations
+Summary of Revisions
+Chapter 1. Balance Sheet
+Chapter 2. Collateral and Custodies
+Chapter 3. Property and Equipment
+Chapter 4. System Open Market Account
+Chapter 5. Federal Reserve Notes
+Chapter 6. Reporting Requirements
+Chapter 7. Funding, Credit, Liquidity, and Loan Facilities
+Chapter 8. Special Topics
+Appendixes
+Appendix A. Currency
+Appendix B. Dividends
+Appendix C. FR 34 Accounts
+Appendix D. Software
+Appendix E. Reserved
+Appendix F. Pension
+Chapter 6. Reporting Requirements
+60.01 General
+This chapter contains reporting instructions arranged according to the frequency of each report. A summary of all reporting requirements is contained in
+Table 60.99
+.
+60.10 Daily Reporting
+60.11 Daily Preparation
+A balance sheet, form FR 34, for each Federal Reserve Bank should be prepared for each day. (See
+paragraph 60.52
+for the standard holiday schedule.) Balance sheet data for each District should be transmitted to the Board daily. Technical procedures for the transmission of FR 34 data may be found in Technical Memorandum No. 15. Preliminary FR 34s are transmitted daily after completing the end-of-day closing process. Final FR 34 data should be transmitted to reach the Board no later than 1:30 p.m. eastern time on standard business days and 5:00 p.m. eastern time on non-standard business days. Standard business days are defined as Monday through Friday, excluding the Federal Reserve System holidays outlined in paragraph 60.52. Non-standard business days are defined as Saturday through Sunday, including Federal Reserve System holidays.
+Adjustments to prior day balances may be made before final balance sheets are submitted; however, adjustments to prior day Treasury and depository institution account balances require special procedures and should be rare. Notify the RBOPS Financial Accounting Policy and Reporting Section Manager of all prior day adjustments to Treasury and depository institution accounts.
+Special procedures are required for Wednesday, month-end, and year-end balance sheets.
+When Wednesday is not the first day of the month and is a holiday, or when the last day of the month is a holiday, the balance sheet for the preceding business day should reflect accruals of earnings, expenses, and dividends through the Wednesday holiday or the last day of the month. (See accrual instructions beginning with
+paragraph 11.56
+.)
+At the end of each day, no amount should be reported in the undistributed net income account on the balance sheet. (See
+paragraph 60.55
+for additional discussion.)
+60.12 Confidential Daily Summary (L.6.1)
+The balance sheet data are consolidated daily and, together with figures from other sources, are used in preparing a confidential daily statement, which is furnished to the Board and various members of its staff, certain Treasury officials, and the Federal Reserve Banks.
+60.15 Weekly Reporting
+60.16 Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks (H.4.1)
+Section 11(a) of the
+Federal Reserve Act
+provides that the Board of Governors shall publish once each week a statement showing the condition of each Federal Reserve Bank and a consolidated statement for all Federal Reserve Banks. This section of the Act further provides that "such statements should show in detail the assets and liabilities of the Banks, single and combined, and shall furnish full information regarding the character of the money held as reserve and the amount, nature, and maturities of the paper and other investments owned or held by Federal Reserve Banks."
+The Board's weekly statement is published each Thursday and is compiled from the previous Wednesday's data.
+60.20 Monthly Reporting
+60.21 Monthly Report
+The reverse side of the District balance sheet, FR 34 (FR 34-Back), should be made available in the EASy application and balances that are recorded in Collateral Management System and Fedwire Securities Service applications should be retained and provided to RBOPS Financial Accounting Policy and Reporting Section upon request.
+60.22 Currency Held by Federal Reserve Banks
+Form FR 415 shows each type of paper money and coin held by the Reserve Bank at the end of the month. The report combined for the District is due at the Board no later than the 6th business day of the following month. The data is used for calculating currency in circulation and must agree with the appropriate FR 34 accounts and figures reported to Treasury on form TFS 4133–Paper Currency On-Hand Report.
+60.25 Quarterly Reporting
+60.26 Quarterly Report
+The Board publishes the
+Federal Reserve Banks Combined Quarterly Financial Report
+, which presents the Federal Reserve Banks' combined financial statements and is prepared using data that the Reserve Banks make available.
+60.27 Income Report—General
+Reference
+paragraph 12.20
+for the detailed listing of current income items reported as interest income or total other items of income or loss in the Combined Statements of Operations in both the
+Federal Reserve Banks Combined Quarterly Financial Report
+and
+Federal Reserve System Audited Annual Financial Statements
+. The data should be made available to the RBOPS Financial Accounting Policy and Reporting Section through submission of the working trial balance (WTB) for the period. The WTB must be submitted by the date indicated in instructions issued by the RBOPS Financial Accounting Policy and Reporting Section for each period.
+1
+If an error is found in the amount of income reported for the current year, the necessary correcting entries should be made to the accounts in which the error occurred.
+In any calculation of average rates of earnings on assets, use holdings as of the close of business for each day included in the period under consideration in computing average daily holdings.
+60.28 Profit and Loss Statement
+Reference
+paragraph 12.40
+for the detailed listing of profit and loss items reported as interest expenses, operating expenses, or other items of income or loss in the quarterly and annual Combined Statements of Operations. The data should be made available to the RBOPS Financial Accounting Policy and Reporting Section through the WTB for the period, which must be submitted by the date indicated in instructions issued by the RBOPS Financial Accounting Policy and Reporting Section for each period.
+2
+Amounts reported on the detailed listing of profit and loss items should reflect the net for each category except that recoveries of losses on shipments of money and losses on shipments of money should be reported in "Other Items of Income or Loss."
+A brief description of the profit and loss account is given in connection with the discussion of the Balance Sheet in
+chapter 1
+. The profit and loss account is intended primarily to cover items for which no provision is made in current income or expenses. These include realized gains and losses on sales of securities and on foreign currencies, profit or loss on the sale of real estate (originally acquired for potential Bank use), the write-off of stale officers' and certified checks (
+paragraph 10.80
+), losses that are sustained in the handling or transportation of currency, recoveries and unrealized losses on the value of other real estate (originally acquired for potential Bank use) held for sale, and gains or losses on works of art. The account should not normally be used to adjust prior year income or expenses except for the correction of prior year accounting errors when the amount would seriously distort income or expenses of the current year. Entries to the account for prior year items may be made only with the prior approval of the RBOPS Financial Accounting Policy and Reporting Section.
+The profit and loss account should not include dividends and rebates on insurance policies or any additional premium payments on worker's compensation or other insurance regardless of the year for which the refunds or additional payments apply. Such amounts should be entered to current year income or expenses. Other items from the previous year, which should normally be applied to current year income or expenses rather than profit and loss, are receipts from vending machines, refunds from courier contracts, adjustments for the difference between accounts payable and the actual billings, and adjustments for the difference between accrued income from services and actual billings.
+The profit and loss account should also exclude losses arising from the ongoing operations of the Reserve Banks. Any such losses should be charged to current expense.
+60.35 Annual Reporting
+60.36 Annual Report
+The Board publishes the
+Annual Report of the Board of Governors of the Federal Reserve System,
+which provides the Board's financial statements, the Reserve Banks' combined financial statements, and pro forma financial statements for Federal Reserve priced services. The Annual Report is prepared using data that the Reserve Banks make available.
+60.37 Financial Results of Operations
+Preliminary financial results of operations for each annual period should be made available to the RBOPS Financial Accounting Policy and Reporting Section as follows:
+Profit and loss items reported in the annual Combined Statements of Operations–Reserve Banks should make data, which agree to the FR 34 as of November 30 of each year, available in the WTB for retrieval by the RBOPS Financial Accounting Policy and Reporting Section by the fifth business day subsequent to November 30. Each Reserve Bank should inform the RBOPS Financial Accounting Policy and Reporting Section of any large or unusual deductions that are anticipated during the last month of the calendar year.
+Estimated annual Combined Statements of Operations–Reserve Banks should make data that agrees to the FR 34 as of December 31 available in the WTB for retrieval by the RBOPS Financial Accounting Policy and Reporting Section by 1:00 p.m. eastern time on the third business day of the year.
+Financial Results of Operations
+INTEREST INCOME
+Loans
+Loans to depository institutions
+Other loans
+System Open Market Account:
+Securities purchased under agreements to resell
+Treasury securities, net
+Federal agency and government-sponsored enterprise mortgage-backed securities, net
+Government-sponsored enterprise debt securities, net
+Foreign currency denominated investments, net
+Central bank liquidity swaps
+Total interest income
+INTEREST EXPENSE
+System Open Market Account:
+Securities sold under agreements to repurchase
+Other
+Deposits:
+Depository institutions
+Term Deposit Facility
+Other
+Total interest expense
+Net interest income
+System Open Market Account:
+Treasury securities gains (losses), net
+Government-sponsored enterprise debt securities gains (losses), net
+Federal agency and government-sponsored enterprise mortgage-backed securities gains (losses), net
+Foreign currency translation gains (losses), net
+Other
+Provision for credit loss
+Income from services
+Reimbursable services to government agencies
+Other components of net benefit costs
+Other
+Total other items of income (loss)
+Financial Results of Operations—
+OTHER ITEMS OF INCOME (LOSS)
+OPERATING EXPENSES
+Salaries and benefits
+System pension service cost
+Occupancy
+Equipment
+Cost of unreimbursed Treasury services
+Other
+Assessments:
+Board of Governors operating expenses and currency costs
+Bureau of Consumer Financial Protection
+Total operating expenses
+RESERVE BANK AND CONSOLIDATED VARIABLE INTEREST ENTITIES
+Total Reserve Bank net income from operations
+Consolidated variable interest entities: income (loss), net
+Consolidated variable interest entities: non-controlling interest (income) loss, net
+Reserve Bank and consolidated variable interest entities net income before providing remittances to the Treasury
+EARNING REMITTANCES
+Earnings remittances to the Treasury, net
+Net income (loss) after providing for remittances to the Treasury
+COMPREHENSIVE INCOME
+Change in prior service costs related to benefit plans
+Change in actuarial gains (losses) related to benefit plans
+Total other comprehensive income (loss)
+Comprehensive income (loss)
+Changes in Capital
+RESERVE BANK CAPITAL AND NON-CONTROLLING INTEREST
+Dividends on capital stock
+Transfer to (from) surplus
+Consolidated variable interest entities: non-controlling interest – capital contribution (distribution)
+60.38 Expense Report
+Annual expense information is reported in the Combined Statements of Operations, classified by expense categories. This annual information should be made available in the WTB for retrieval by the RBOPS Financial Accounting Policy and Reporting Section by the designated January date as specified in special instructions from the Board. This report is used to prepare the statement of income and expenses of the Federal Reserve Banks in the Board's Annual Report. The amount reported for net expenses should agree with the same item reported in annual Profit and Loss information in the WTB.
+60.39 Real Estate Reporting Requirements—Annual and Special
+This section provides instructions for the preparation and submission of accounting reports FR 612 and FR 892.
+Book Value of Bank Premises or Other Real Estate
+Form FR 612 is a summary of changes in the book value of Bank premises and other real estate and should be submitted to the RBOPS Financial Accounting Policy and Reporting Section by the date specified within the RBOPS provided year-end instructions. The annual FR 612 is the primary source of data for completion of the Annual Report table, Acquisition Costs and Net Book Value of Premises (including vaults) of the Federal Reserve Banks and Branches. An FR 612 report should also be submitted whenever property is purchased or sold.
+Bank-Owned Property Leased to Outside Tenants and Non-Bank-Owned Property Leased for Bank Use
+Form FR 892 is dual purpose because it is used to report either the lease of Bank-owned property to outside tenants or the lease of non-Bank-owned property (outside space) for Bank use. Each office should submit an annual report, indicating lease or rental agreements in effect on December 31. A report should be submitted whether or not the office is leasing or renting space. In addition to operations and office space, the report should identify leases for functions such as warehouse, storage, screening, etc. If there are no leases in effect at the end of the calendar year, this should be indicated in the body of the report. Form FR 892 should reach the RBOPS Building Planning Section by January 20 or the next business day of the year following the reporting period. In addition, a report should be submitted whenever a change occurs in a lease or rental agreement including identifying new and/or terminated leases.
+The reporting form is designed to accommodate information concerning several leases or rental agreements. In submitting the data, each lease or agreement should be shown on a separate line of the report. If an office is both leasing Bank-owned property to outside tenants and leasing non-Bank-owned property for Bank use, separate reports should be submitted covering each type of transaction, rather than combining them on the same report.
+Financial accounting and facility management staff are encouraged to collaborate to provide the appropriate information to complete the reports. Following are specific instructions concerning the data to be reported as of December 31 under the various columns of this report.
+Bank-owned Property Leased to Outside Tenants
+Location of space
+—Identify the location of the leased space within the building (e.g., third floor).
+Effective date of lease
+—The contractual date the lease begins (may not correspond to the date the first lease payment is due such as if rent abatement is part of the lease terms). Indicate if the lease amount is on a month-to-month basis.
+Expiration date of lease
+—The contractual date the lease expires (typically the date the last lease payment covers).
+Annual rental income
+—The annual rent due from the tenant for the reporting period for the base rent amount. Exclude additional rent to recover items such as reimbursement of increased operating cost (utilities, real estate taxes, etc.) or rent derived from the use of Bank spaces (auditoriums, training or conference rooms, etc.). Exclude amortization of leasehold improvements in the rent figure.
+Rented square feet
+—The amount of space rented that serves as the basis for the base rent in the lease agreement (defined in terms of rentable square feet).
+Tenant name and use of space
+—The name of the tenant on the lease documents and the function(s) for which the tenant intends to use the space.
+Bank-owned space available for lease
+—The total amount of space defined in terms of rentable square feet that is either currently leased or currently on the market for lease.
+Bank-occupied space
+—The total amount of space the Bank occupies for its use defined in terms of rentable square feet.
+Bank-unoccupied space
+—The total amount of space held in reserve for Bank use defined in terms of rentable square feet, while currently unoccupied, is not available for lease to outside tenants.
+Shared conference space
+—The amount of general conference space including conference center and auditorium spaces (general conference spaces typically included in "building common" category). Exclude conference, meeting, or training space dedicated to a specific Bank department or functional area.
+Comments
+—Any supplemental information that might be useful to the Board such as additional amounts to be paid over and above rental charge, fit-out allowances provided to the tenant, and special conditions of lease agreements such as amendments or early termination provisions.
+Non-Bank-Owned Property Leased for Bank Use
+Location of space
+—Identify the property street address and the location of the leased space within the building (example: third floor).
+Effective date of lease
+—The contractual date the lease begins (may not correspond to the date the first lease payment is due such as if rent abatement is part of the lease terms). Indicate if the lease amount is on a month-to-month basis.
+Expiration date of lease
+—The contractual date the lease expires (typically the date the last lease payment covers).
+Annual rental cost
+—The annual rent due from the Bank for the reporting period for the base rent amount. Exclude additional rent to recover items such as reimbursement of increased operating cost (utilities, real estate taxes, etc.). Exclude amortization of leasehold improvements in the rent figure.
+Rented square feet
+—The amount of space rented that serves as the basis for the base rent in the lease agreement (defined in terms of rentable square feet).
+Use of space
+—The function(s) for which the Bank intends to use the space.
+Number of Bank employees
+—The number of Reserve Bank employees that occupy the leased space.
+Comments
+—Any supplemental information that might be useful to the Board such as additional amounts to be paid over and above rental charge, fit-out allowances provided to the Bank and special conditions of lease agreements such as amendments or early termination provisions.
+60.40 Small and Disadvantaged Business Procurement Information
+Until May 1999 when the Board issued S-letter 2593, which rescinded S-2492, each Federal Reserve Bank was required to submit an annual form FR 1425, a report of total contract dollars attributed to acquisitions from small and disadvantaged businesses and the proportion of contract dollars assigned to such businesses. The Reserve Banks are still required to maintain records suitable to provide ad hoc reports to the Board; however, the submission of an annual Form FR 1425 is no longer required.
+Summary Information should be captured as follows:
+Total Contract Awards
+—All contracts awarded and commitment dollars for the year, except for those awarded for personal services. The full liability of all purchase orders and contracts should be reported in the year in which they are executed, including the liability associated with all years of a multi-year contract. For any blanket or retainer type contracts that have an "open-ended" or "not-to-be-exceeded" dollar value, actual expenditures rather than commitment dollars should be reported.
+Small Business Awards
+—Contract awards, commitment dollars, and purchase orders to firms qualifying as a small business concern under the Small Business Act of 1953, as amended. Further, "small business" means a small business concern under Section 3 of the Small Business Act (15 U.S.C. Section 632) and the regulation promulgated thereto defining size standards for government procurement purposes, by SIC industry (13 CFR Section 121.601 et seq.).
+Disadvantaged Business Awards
+3
+—Contract awards to firms that qualify as economically disadvantaged (minority) business concerns eligible for assistance under Section 8(a) of the Small Business Act. "Small Disadvantaged Business" is small as defined above, and in addition meets the criteria stated in section 8(A) of the Small Business Act; that is a business that is: (1) at least 51 percent owned, and (2) managed and operated on a daily basis, by one or more socially and economically disadvantaged individuals. Such individuals are defined as those who have been subjected to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities. African Americans, Hispanic Americans, Native Americans, and Asian Pacific Americans are among those considered socially disadvantaged. Women-owned businesses should not be reported in this category unless they are a small disadvantaged business as defined above.
+Supplemental Information should be captured as follows, if applicable.
+Set Asides
+—All contracts under $10,000 and any contracts over $10,000 for which proposals or bids were restricted to small and disadvantaged businesses. For proposals or bids to be restricted to small and disadvantaged businesses means that the list of vendors to which the proposal or bid is sent must be comprised of small and disadvantaged businesses only. If large businesses competitively bid on an item under or over $10,000 that is subsequently awarded to a small and disadvantaged business, the dollar value of this award should be reported as either a small business award or a disadvantaged business award.
+60.50 Other Topics
+60.52 Effect of Holiday on Clearings
+The Federal Reserve System observes the following holidays:
+New Year's Day–January 1
+Birthday of Martin Luther King, Jr.–Third Monday in January
+Washington's Birthday–Third Monday in February
+Memorial Day–Last Monday in May
+Juneteenth National Independence Day–June 19
+Independence Day–July 4
+Labor Day–First Monday in September
+Columbus Day–Second Monday in October
+Veterans' Day–November 11
+Thanksgiving Day–Fourth Thursday in November
+Christmas Day–December 25
+Transactional activity related to Fedwire Funds, Fedwire Securities, National Settlement Service, ACH, Check and Cash Service only takes place on standard business days, and as a result, any related clearings for those services will not be processed on the above holidays. For holidays falling on Saturday, Federal Reserve Bank offices will be open the preceding Friday. For holidays falling on Sunday, Federal Reserve Bank offices will be closed the following Monday. When a Federal Reserve Bank closes for a non-standard holiday or unexpectedly, such as in the event of a local disaster, and is unable to participate in the clearing, the debits/credits for that office should be included with the debits/credits for the following business day and reported on the balance sheet in the line item "Due to Other FR Banks—Collected Funds" (220-075).
+60.55 Earnings Remittances to Treasury Calculations
+Since 1947, the Board of Governors has required that the Reserve Banks remit to Treasury, as interest on Federal Reserve notes, all net earnings after providing for dividends and the amount necessary to equate surplus with capital paid-in. Effectively, this policy sets Reserve Banks surplus levels and requires, as a nondiscretionary expense, each Reserve Bank to remit all residual net earnings to the Treasury. Effective January 1, 2021, the Federal Reserve Act limits the Reserve Banks' aggregate surplus funds to $6.785 billion (see
+paragraph 12.60
+).
+The amount of the remittances to the Treasury that were required under the Board of Governor's policy is reported as "Earnings remittances to the Treasury, net" in the Combined Statements of Operations. The amount of remittances to the Treasury that are required by the Federal Reserve Act is reported as "Earnings remittances to the Treasury, net" in the Combined Statements of Operations.
+Before the implementation of the FAST Act, the Board of Governors, under authority of Section 16 of the Federal Reserve Act, had established the following described rate of interest on the outstanding Federal Reserve notes of each Bank less the amount of gold certificates pledged with the Federal Reserve Agent:
+The interest rate on Federal Reserve notes not covered by gold certificates pledged with the Federal Reserve Agent as collateral security for such notes shall be the result of the division of (a) the net earnings of the Federal Reserve Bank after provision for dividends on its outstanding Capital Paid In and for adjustments necessary to equate the amount of its Surplus with the amount of its Capital Paid In, by (b) the daily average amount of Outstanding Federal Reserve Notes of the Bank after deducting the daily average amount of gold certificates pledged with the Federal Reserve Agent as collateral security for such notes.
+Daily Accrual
+Earnings remittances to Treasury are accrued each day at an amount equal to the end-of-day balance in the Retained Earnings – Current Year account 330-275. Additionally, the Reserve Bank's surplus balance must be adjusted to ensure it does not exceed the Bank's portion of the aggregate surplus limitation. After recording this daily accrual and the surplus adjustment, if needed, the balance in the Retained Earnings – Current Year account 330-275 should be zero.
+Weekly Remittances
+The remittance to Treasury should be made each Wednesday. The amount of the remittance should be equal to the lower of the liability (credit) balance in the Accrued Remittances to Treasury / Deferred Asset account 240-925:
+For the previous Wednesday, or
+For the day preceding the remittance
+If, however, either of the two balances described above is zero or if the balance is a debit, no remittance should be made. In such cases, remittances to Treasury should not resume until sufficient net earnings have been realized to return the balance in the Accrued Remittances to Treasury / Deferred Asset account 240-925 to a liability (credit).
+A Reserve Bank should consult the RBOPS Financial Accounting Policy and Reporting Section if it is aware of a significant entry on the remittance day that would have affected the remittance amount had it been recorded on the previous day.
+Each Wednesday, Reserve Banks will transfer to the FRB Richmond the amount owed to the Treasury. If the Wednesday is a holiday, the FRB Richmond will remit the amounts owed to the Treasury on the next business day.
+Special procedures exist for the first remittance of each calendar year.
+Year-End Procedures
+The income, expense, and other capital accounts on the year-end FR 34 should include all amounts applicable to the year up to and including December 31, based on the best data available to the Reserve Bank on December 31. The net income on the FR 34 on December 31 should be fully distributed; the surplus should be adjusted to the level of the Bank's portion of the aggregate surplus limit. The necessary entries to adjust surplus are described in
+paragraph 12.10
+.
+A credit balance in the Accrued Remittances to Treasury / Deferred Asset account 240-925 represents the amount of the first remittance to Treasury in January, which will be made on the first Wednesday in January or on the next business day if Wednesday is a holiday. Similar to the weekly procedures described above, losses or other circumstances that occur in the intervening week may require adjustment to the remittance amount. RBOPS Financial Accounting Policy and Reporting Section should be contacted if the Bank determines that this remittance will be different than the amount recorded in FR 34 account 240-925 as of December 31.
+A debit balance in the Accrued Remittances to Treasury / Deferred Asset account 240-925 represents the amount of net earnings that a Reserve Bank will need to realize before remittances to Treasury resume. In this case, the Bank will not make a remittance to Treasury on the first Wednesday in January.
+On the January year-end closing date designated by the Board, the previous year's income, expense, and other capital account balances except for capital paid in and surplus are removed from the balance sheet. The amounts removed should be final data for the year as determined by the Reserve Bank and should agree dollar for dollar with the results for the year, which are reported elsewhere, such as in the annual CASPR reports and the reports on income from services.
+In some instances, due to the availability of additional information, adjustments to year-end balances may be identified subsequent to December 31 but prior to removing the previous year's income and expenses and other capital accounts data from the balance sheet. Such adjusting entries should be functioned to December 31 balances during the closing process when they serve to more accurately and completely reflect the financial condition of the Reserve Bank. Communication of these adjustments should be made to RBOPS Financial Accounting Policy and Reporting Section through submission of the WTB. As a practical matter, the annual year-end accounting instructions (that include the financial statement shell including footnotes) are sent to the Banks during the year-end process to provide additional detailed reporting instructions.
+60.95 RBOPS Financial Accounting Reports System (RFARS)
+Reserve Banks are required to submit certain financial accounting reports to the Board electronically using RFARS, the WTB, or email.
+4
+The reports in RFARS include the following:
+FR 415
+—Currency Held by Federal Reserve Banks (monthly)
+FR 612
+—Book Value of Bank Premises and Other Real Estate (annually, and as property is purchased/sold). Note: RFARS was modified in 2007 to include construction in progress balances as part of the FR 612.
+A link to RFARS is located on RBOPS webpage on the Board's website under "Reserve Bank Oversight" and "Financial Management." It can be accessed by clicking on "Financial Accounting Reporting System."
+60.99 Reporting Requirements
+Daily
+Monthly
+Quarterly
+Semi-Annually
+Annually
+Special
+All Districts
+FR 34-Front
+FR 34-Back
+1
+FR 415
+2
+Current income and profit and loss items reported in the Combined Statements of Operations
+3
+Large Notes
+Redeemed (FR5)
+Annual expense information and profit and loss items reported in the Combined Statements of Operations
+1
+Estimated annual Combined Statements of Operations
+1
+WTB
+1
+All Offices
+FR 5
+Monthly Notes
+Redeemed
+(FR5)
+FR 34-Front
+FR 34-Back
+1
+FR 612
+1
+Report on either the lease of Bank-owned property to outside tenants or the lease of non-Bank-owned property (outside space) for Bank use
+4
+FR 612-When property is purchased or sold
+1
+FR 892-Upon changes to lease/rental agreements
+1
+All reports are to be filed electronically unless otherwise indicated.
+1. Reference paragraph 60.20 to satisfy the reporting requirements.
+Return to table
+2. Submitted via RFARS.
+Return to table
+3. Reserve Banks should make current income items data available in the WTB for retrieval by the RBOPS Financial Accounting Policy and Reporting Section to satisfy the reporting requirements.
+Return to table
+4. Submit report, whether or not space is leased or rented, to RBOPS Building Planning Section.
+Return to table
+Footnotes
+1. Reserve Banks should ensure that current income items reported as interest income or total other items of income or loss in quarterly and annual Combined Statements of Operations agree with the FR 34 balance of account 330-025. If, however, reconciliation to the FR 34 balance is necessary, the reconciliation should be provided to the RBOPS Financial Accounting Policy and Reporting Section.
+Return to text
+2. Reserve Banks should ensure that the profit and loss items reported as interest expenses, operating expenses, or other items of income or loss in the quarterly and annual Combined Statements of Operations, as appropriate, agree with the FR 34 balance of profit and loss account 330-100. If, however, reconciliation to the FR 34 balance is necessary, the reconciliation should be provided to the RBOPS Financial Accounting Policy and Reporting Section.
+Return to text
+3. The Reserve Banks may, in appropriate circumstances and with advice from its General Counsel, institute a disadvantaged business program, so long as that program does not include provisions that would be unlawful if included in a disadvantaged business program of a federal agency.
+Return to text
+4. The earnings credits program was eliminated in July 2012. All earnings credits expired by July 2013; therefore, the FR 1217 was discontinued after the second quarter of 2013.
+Return to text
+Back to Top
+Last Update:
+                    June 13, 2025

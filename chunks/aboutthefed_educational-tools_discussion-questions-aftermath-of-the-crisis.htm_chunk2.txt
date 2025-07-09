@@ -1,0 +1,1 @@
+toggles play/pause; [Right/Left Arrows] seeks the video forwards and back (5 sec ); [Up/Down Arrows] increase/decrease volume; [M] toggles mute on/off; [F] toggles fullscreen on/off (Except IE 11); The [Tab] key may be used in combination with the [Enter/Return] key to navigate and activate control buttons, such as caption on/off. Back to Top Last Update: November 17, 2016

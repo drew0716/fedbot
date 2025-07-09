@@ -1,0 +1,87 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/IT-org-chart-accessible.htm -->
+<!-- title: The Fed - Division of Information Technology -->
+<!-- date_fetched: 2025-07-09T02:18:27.786595Z -->
+
+Home
+About the Fed
+Board Organization Charts
+Board Organization Charts
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+Division of Information Technology
+Board of Governors of the Federal Reserve System
+June 29, 2025
+Director & CIO, Jeff Riedel
+442
+Senior Associate Director, Chip Young
+Information Security & Privacy Program
+Zero Trust Program
+Deputy Assistant Director, Tannaz Haddadi
+Information Security Operations
+Identity, Credential & Access Mgt
+Deputy Director, Vacant
+Senior Associate Director, Vacant
+Deputy Associate Director, Brian Lester
+Applications Infrastructure
+Compute & Storage Infrastructure
+Deputy Associate Director, Fred Vu
+Data Center & Help Desk
+Messaging Services
+End Point Computing Services
+Deputy Associate Director, Bill Dennison
+Enterprise Hosting
+Network Infrastructure
+AV/Voice
+Senior Associate Director, Raj Yelisetty
+Associate Director, Jonathan Shrier
+FOMC Systems
+OSEC Systems
+PubWeb
+Executive Support Systems
+Deputy Associate Director, Muazzam Ali
+Cloud Adoption & Maturity
+Cloud Architecture & Administration
+DevSecOps Platform Support
+Assistant Director, Arsema Dejene
+Middleware and Business Analytics Services
+User Experience Services
+Associate Director, Virginia Wall
+Statistical Support Systems
+Financial Systems
+FFIEC & IT Systems
+Board Systems
+Deputy Associate Director, Scott Meyerle
+CALL/BHC Systems
+Supervisory Systems
+C&CA Systems
+Consumer Affairs Systems
+Deputy Associate Director, Tom Nguyen
+NIC Production Support
+Data Modeling Systems
+NIC Systems
+Enterprise Data Support Systems
+Senior Associate Director, Sherrie Warren
+Admin & Budget
+Workforce Development & Communications
+Deputy Associate Director, Amy Kelley
+TOC Secretariat
+Deputy Director, Stephen Olden
+Assistant Director, Herman Ip
+Applications Architecture
+IT Transformation Office
+Deputy Associate Director, Nischala Nimmakayala
+IT Operating Model
+Strategy & Business Partnerhsip
+Senior Associate Director, Deborah Prespare
+Assistant Director, Michelle Bagg
+Statistics Function Management Office
+Statistics Function PMO
+Deputy Associate Director, Langston Shaw
+Monetary & Research Reports
+Supervisory Capital Reports
+Associate Director, Edgar Wang
+FFIEC & Structure Reports
+Financial Statements
+Official Format
+Back to Top
+Last Update:
+                July 01, 2025

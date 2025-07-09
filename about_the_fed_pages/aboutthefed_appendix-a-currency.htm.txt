@@ -1,0 +1,86 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/appendix-a-currency.htm -->
+<!-- title: The Fed - Appendix A. Currency -->
+<!-- date_fetched: 2025-07-09T02:18:54.200504Z -->
+
+Home
+About the Fed
+Fed Financial Statements
+Federal Reserve System Audited Annual Financial Statements
+Financial Accounting Manual for Federal Reserve Banks
+Financial Accounting Manual for Federal Reserve Banks, May 2025
+PDF
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+About This Manual
+Abbreviations
+Summary of Revisions
+Chapter 1. Balance Sheet
+Chapter 2. Collateral and Custodies
+Chapter 3. Property and Equipment
+Chapter 4. System Open Market Account
+Chapter 5. Federal Reserve Notes
+Chapter 6. Reporting Requirements
+Chapter 7. Funding, Credit, Liquidity, and Loan Facilities
+Chapter 8. Special Topics
+Appendixes
+Appendix A. Currency
+Appendix B. Dividends
+Appendix C. FR 34 Accounts
+Appendix D. Software
+Appendix E. Reserved
+Appendix F. Pension
+Appendix A. Currency
+A.1 Currency Shipments
+1
+A.2 BPS 3000 Machine Useful Lives
+On September 17, 2012, the Board of Governors' RBOPS Division approved the recommendation of the Cash Product Office to extend the estimated useful life of the BPS 3000 currency processors (CP) and reconciling stations (RS) from December 31, 2017, to December 31, 2022. This change in the estimated useful life is supported by both the BPS 3000 upgrade that was completed in 2010 and by the added functionality to the system. The upgrade introduced technology that will support the currency authentication and verification process over the next 10 years. Further support for the change to the estimated useful life is based on the enhancements to the machine via new and upgraded sensors in 2012 and 2013 and from the extended maintenance terms with Giesecke & Devrient America, Inc. through 2022. The estimated useful life change is effective January 1, 2013.
+Useful life history of the BPS 3000 machines:
+In 1992, the BPS 3000 machines were installed with a 10-year useful life.
+In 1997, the useful life was extended 5 years, until 2007.
+In 2004, the useful life was extended an additional 10 years, until 2017.
+In 2012, the useful life was extended an additional 5 years, until 2022.
+The machines were originally thought to have a 30-year useful life, but the original 10-year life was based on the collective anticipated life of the System's information technology, data architecture, and computer components. Over time, the machines have continued to operate with new sensors and extended maintenance agreements. The current sensors have useful lives through 2022. Sensors have the capability to authenticate the current currency's design, and up to one additional currency design. The CTO extended the maintenance agreements through 2022 with the maintenance provider, which is confident of the viability of the technology over the extended period.
+Per FAM
+paragraph 30.76
+, the change in estimate shall be accounted for prospectively such that the remaining net book value is depreciated over the expected remaining useful life of the asset. This extension applies to the BPS 3000 CP and RS and all production sensors. This change in estimate, however, does not affect the accounting for spare sensors because spare sensors are recorded as hardware assets, as of January 1, 2021, and depreciated over the life of the maintenance agreement.
+2
+A.3 Accounting for Currency Costs
+The costs incurred by the Bureau of Engraving and Printing (BEP) for printing Federal Reserve notes are invoiced to the Board. The amount charged is based on the number and denomination of notes that are moved to dedicated storage vaults at BEP facilities ("Fed vault") during that month. When the BEP invoice is received by the Board, it assesses each Reserve Bank a pro rata share of the BEP's printing costs based on each Bank's share of the number of FR notes outstanding at December 31st of the previous year. The Board assesses the Banks for the printing cost, settles the assessment with the Banks, and remits payment to the BEP within the same accounting period. As a result, the Board has no residual asset or liability at any month- or year-end. The Reserve Banks record the scheduled assessment received from the Board directly to expense, in accordance with FAM (see
+paragraph 12.45
+).
+The following examines from a Reserve Bank perspective whether the inventory of Federal Reserve notes in the BEP vault, the cost of which has been paid by the Board, creates an asset of either the Board or the Reserve Banks. The analysis concludes that the current Reserve Bank accounting for these costs is appropriate.
+Federal Reserve Act Provisions
+The current accounting treatment by both the Board and the Reserve Banks is based on the relevant provisions of the Federal Reserve Act (the Act). Relevant excerpts are as follows:
+Section 16 (¶1)—Federal reserve notes, to be issued at the discretion of the Board of Governors of the Federal Reserve System for the purpose of making advances to Federal reserve banks through the Federal reserve agents as hereinafter set forth and for no other purpose, are hereby authorized.
+Section 16 (¶2)—Any Federal Reserve bank may make application to the local Federal Reserve agent for such amount of the Federal Reserve notes hereinbefore provided for as it may require. Such application shall be accompanied with a tender to the local Federal Reserve agent of collateral in amount equal to the sum of the Federal Reserve notes thus applied for and issued pursuant to such application.
+Section 16 (¶4)—The Board of Governors of the Federal Reserve System shall have the right, acting through the Federal Reserve agent, to grant in whole or in part, or to reject entirely the application of any Federal Reserve bank for Federal Reserve notes; but to the extent that such application may be granted the Board of Governors of the Federal Reserve System shall, through its local Federal Reserve agent, supply Federal Reserve notes to the banks so applying, and such bank shall be charged with the amount of the notes issued to it.
+Section 16 (¶9)—When such notes have been prepared, the notes shall be delivered to the Board of Governors of the Federal Reserve System subject to the order of the Secretary of the Treasury for the delivery of such notes in accordance with this Act.
+Section 16 (¶10)—The expenses necessarily incurred in executing the laws relating to the procuring of such notes, and all other expenses incidental to their issue and retirement, shall be paid by the Federal reserve banks, and the Board of Governors of the Federal Reserve System shall include in its estimate of expenses levied against the Federal reserve banks a sufficient amount to cover the expenses herein provided for.
+Section 10 (¶3)—The Board of Governors of the Federal Reserve System shall have power to levy semiannually upon the Federal reserve banks, in proportion to their capital stock and surplus, an assessment sufficient to pay its estimated expenses and the salaries of its members and employees for the half year succeeding the levying of such assessments, together with any deficit carried forward from the preceding half year.
+These provisions establish that the Board is responsible for approving issuance of notes to the Reserve Banks, supplying notes to the Reserve Banks, and assessing the Reserve Banks for the expenses incurred in procuring notes. Section 10 of the Act addresses the general approach to the Board's assessment of expenses.
+Discussion
+The BEP's practice of invoicing costs on a per-unit basis is not specified in the Federal Reserve Act. Presumably, this convention was developed as a mechanism for systematically charging to the Board its costs related to producing notes. The Federal Reserve Act requires that the Reserve Banks bear the ultimate costs incurred to procure Federal Reserve notes through the Board's assessment mechanism. (Federal Reserve Act Section 16 ¶10). The Board's assessment on the Banks provides the Board with sufficient resources to fund its operations, including the expenses related to procuring notes. The assessment is similar to a tax because it is a statutory obligation, and it is not based on a contractual relationship between the Reserve Banks and the Board. The assessments levied on individual Reserve Banks are not based on which District's notes were produced in that period.
+Neither the Board nor the Reserve Banks have regarded the printing costs of notes held at the Fed vault to be assets, such as inventory or prepaid expenses. This is because the Act describes the costs of procuring notes as expenses (Federal Reserve Act Section 16 ¶10). The Board does not regard the notes delivered to the Fed vault to be assets because it does not believe the costs represent a future economic benefit as defined in Statement of Financial Accounting Concept No. 6.
+3
+While the Board may control the Reserve Banks' access to the notes, the costs incurred to produce the notes do not result in net cash inflows to the Board. The Reserve Banks do not control access to the Federal Reserve notes until such time as they are shipped from the BEP.
+Another reason that the Reserve Banks do not consider the assessments to be assets is because the costs do not result in future net cash inflows but, rather are an expense related to carrying out activities that constitute the Banks' ongoing major or central operations, as described in Statement of Financial Accounting Concept No. 6.
+4
+Statement of Financial Accounting Concept No. 6 recognizes that the character of expenses depends on the nature of the operations involved. Because the Reserve Banks' payment of currency printing costs is an assessment, it is most accurately treated as an expense item similar to other Board assessments, which is also consistent with the provisions of the Federal Reserve Act. The assessments are similar to a tax levied on the Banks by the Board.
+Based on the Federal Reserve Act provisions and the discussion of assets and expenses in Statement of Financial Accounting Concept No. 6, treatment of the assessment for the costs to procure Federal Reserve notes as a period expense is appropriate.
+Other Considerations
+Consideration might be given to treating the costs to procure notes as debt issuance cost. Statement of Financial Accounting Concept No. 6 discusses debt issue cost as follows:
+"Debt issue cost…is either an expense or a reduction of the related debt liability. Debt issue cost is not an asset for the same reason that debt discount is not—it provides no future economic benefit. Debt issue cost in effect reduces the proceeds of borrowing and increases the effective interest rate and thus may be accounted for the same as debt discount. However, debt issue cost may also be considered an expense of the period of borrowing."
+We do not believe that the note printing costs are debt issuance costs. Federal Reserve notes differ from typical debt instruments because they are non-interest bearing in a traditional sense and have no stated term. The printing costs do not reduce the proceeds of the Bank's liability related to outstanding Federal Reserve notes and, therefore, are not similar to a debt discount. The issuance of Federal Reserve notes is fundamentally different than the debt issuances described in this section of Concept Statement No. 6 and treating the costs as assessment expense is a more appropriate accounting approach. Further, Concept Statement No. 6 allows for treatment of the costs as a period expense.
+Conclusion
+The accounting treatment of BEP printing costs that has been followed by the Board and the Reserve Banks remains appropriate. This accounting treatment is based on the requirements of the Federal Reserve Act, and is consistent with the accounting guidance in Statement of Financial Accounting Concept No. 6.
+Footnotes
+1. This section was revised in April 2013 and the revision is in Reserve Banks Note Accountability System.
+Return to text
+2. Prior to January 1, 2021, spare sensors were recorded as deferred assets and amortization schedule was tied to the maintenance agreement.
+Return to text
+3. Statement of Financial Accounting Concepts No. 6 states that an asset has three essential characteristics: (a) it embodies a probable future benefit that involves a capacity, singly or in combination with other assets, to contribute directly or indirectly to future net cash inflows, (b) a particular entity can obtain the benefit and control others access to it, and (c) the transaction or other event giving rise to the entity's right to or control of the benefit has already occurred.
+Return to text
+4. Statement of Financial Accounting Concepts No. 6 states that expenses represent actual or expected cash outlays that have occurred or will eventuate as a result of the entity's ongoing major or central operations. The transactions and events from which expenses arise and the expenses themselves are in many forms—for example, cost of goods sold, cost of services provided, depreciation, interest, rent and salaries and wages—depending on the kinds of operations involved and the way expenses are recognized.
+Return to text
+Back to Top
+Last Update:
+                    June 03, 2025

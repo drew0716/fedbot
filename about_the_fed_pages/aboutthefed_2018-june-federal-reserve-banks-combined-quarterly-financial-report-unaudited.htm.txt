@@ -1,0 +1,1210 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/2018-june-federal-reserve-banks-combined-quarterly-financial-report-unaudited.htm -->
+<!-- title: The Fed - Federal Reserve Banks Combined Quarterly Financial Report Unaudited - June 30, 2018 -->
+<!-- date_fetched: 2025-07-09T02:18:48.482741Z -->
+
+Home
+About the Fed
+Fed Financial Statements
+Federal Reserve Banks Combined Quarterly Financial Reports (Unaudited)
+Fed Financial Statements
+PDF
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+Federal Reserve Banks Combined Quarterly Financial Report Unaudited - June 30, 2018
+Errata
+The Federal Reserve revised this report on August 14, 2019, to reflect corrected data. The revision is listed below.
+On p. 14, under "Loans," the average interest rate for the three months ended June 30, 2018 has been revised from 0.97 percent to 1.95 percent.
+Abbreviations
+BAC
+Committee on Federal Reserve Bank Affairs
+FRA
+Federal Reserve Act
+FOMC
+Federal Open Market Committee
+FRBNY
+Federal Reserve Bank of New York
+GSE
+Government-sponsored enterprise
+MBS
+Mortgage-backed securities
+ML
+Maiden Lane LLC
+LLC
+Limited liability company
+SOMA
+System Open Market Account
+TBA
+To be announced
+VIE
+Variable interest entity
+Combined Quarterly Financial Statements
+Combined statements of condition
+(in millions)
+June 30, 2018
+December 31, 2017
+Assets
+Gold certificates
+$ 11,037
+$ 11,037
+Special drawing rights certificates
+5,200
+5,200
+Coin
+1,776
+1,892
+Loans
+Note 1
+239
+134
+System Open Market Account:
+Note 2
+Treasury securities, net (of which $23,349 and $28,053 is lent as of June 30, 2018, and December 31, 2017, respectively)
+2,463,721
+2,545,733
+Government-sponsored enterprise debt securities, net (of which $0 is lent as of June 30, 2018, and December 31, 2017)
+2,752
+4,752
+Federal agency and government-sponsored enterprise mortgage-backed securities, net
+1,771,221
+1,817,700
+Foreign currency denominated investments, net
+21,094
+21,316
+Central bank liquidity swaps
+1,091
+12,067
+Accrued interest receivable
+24,049
+24,744
+Other assets
+11
+13
+Investments held by consolidated variable interest entity (of which $1,715 and $1,720 is measured at fair value as of June 30, 2018, and December 31, 2017, respectively)
+Note 3
+1,715
+1,722
+Prepaid pension benefit costs
+39
+14
+Bank premises and equipment, net
+2,528
+2,571
+Items in process of collection
+220
+81
+Other assets
+966
+1,001
+Total assets
+$ 4,307,659
+$ 4,449,977
+Liabilities and capital
+Federal Reserve notes outstanding, net
+Note 4
+$ 1,619,233
+$ 1,570,727
+System Open Market Account:
+Securities sold under agreements to repurchase
+Note 2
+341,633
+563,958
+Other liabilities
+332
+558
+Liabilities of consolidated variable interest entity (of which $0 and $8 is measured at fair value as of June 30, 2018 and December 31, 2017, respectively)
+--
+9
+Deposits:
+Depository institutions
+Note 5
+1,886,919
+1,954,431
+Treasury, general account
+Note 6
+332,805
+228,933
+Other deposits
+81,525
+83,018
+Interest payable to depository institutions and others
+1,083
+1,006
+Accrued benefit costs
+2,420
+2,332
+Deferred credit items
+763
+1,001
+Accrued remittances to the Treasury
+1,704
+2,337
+Other liabilities
+341
+278
+Total liabilities
+4,268,758
+4,408,588
+Capital paid-in
+Note 7
+32,076
+31,389
+Surplus (including accumulated other comprehensive loss of $3,242 and $3,334 at June 30, 2018 and December 31, 2017, respectively)
+Note 7
+6,825
+10,000
+Total capital
+38,901
+41,389
+Total liabilities and capital
+$ 4,307,659
+$ 4,449,977
+Combined statements of operations
+(in millions)
+Three months ended
+Six months ended
+June 30, 2018
+June 30, 2017
+June 30, 2018
+June 30, 2017
+Interest income
+Loans
+Note 8(A)
+$ 1
+$ --
+$ 1
+$ --
+System Open Market Account:
+Note 8(B)
+Treasury securities, net
+16,491
+16,404
+32,107
+32,409
+Government-sponsored enterprise debt securities, net
+51
+112
+105
+264
+Federal agency and government-sponsored enterprise mortgage-backed securities, net
+12,404
+12,478
+24,942
+24,634
+Foreign currency denominated investments, net
+(8)
+(4)
+(14)
+(6)
+Central bank liquidity swaps
+2
+2
+10
+5
+Investments held by consolidated variable interest entity
+Note 3
+7
+3
+13
+6
+Total interest income
+28,948
+28,995
+57,164
+57,312
+Interest expense
+System Open Market Account:
+Note 8(B)
+Securities sold under agreements to repurchase
+1,105
+848
+2,019
+1,437
+Other
+2
+2
+3
+3
+Deposits:
+Depository institutions and others
+Note 8(C)
+9,486
+6,084
+18,173
+10,565
+Term Deposit Facility
+1
+4
+1
+6
+Total interest expense
+10,594
+6,938
+20,196
+12,011
+Net interest income
+18,354
+22,057
+36,968
+45,301
+Non-interest income
+System Open Market Account:
+Treasury securities gains, net
+6
+7
+6
+7
+Federal agency and government-sponsored enterprise mortgage-backed securities gains, net
+--
+12
+--
+10
+Foreign currency translation (losses) gains, net
+(1,059)
+704
+(227)
+1,249
+Other
+4
+8
+14
+12
+Investments held by consolidated variable interest entity losses, net
+Note 3
+(9)
+--
+(11)
+(5)
+Income from services
+111
+112
+223
+223
+Reimbursable services to government agencies
+168
+166
+335
+335
+Other
+17
+16
+33
+33
+Total non-interest (loss) income
+(762)
+1,025
+373
+1,864
+Operating expenses
+Note 8(D)
+Salaries and benefits
+802
+766
+1,607
+1,553
+Occupancy
+83
+73
+162
+152
+Equipment
+48
+44
+92
+86
+Net periodic pension expense
+112
+146
+246
+279
+Other
+180
+166
+340
+322
+Assessments:
+Board of Governors operating expenses and currency costs
+376
+367
+733
+685
+Bureau of Consumer Financial Protection
+99
+125
+99
+271
+Total operating expenses
+1,700
+1,687
+3,279
+3,348
+Net income before providing for remittances to the Treasury
+15,892
+21,395
+34,062
+43,817
+Earnings remittances to the Treasury
+16,321
+21,300
+36,830
+43,587
+Net (loss) income after providing for remittances to the Treasury
+(429)
+95
+(2,768)
+230
+Change in prior service costs related to benefit plans
+8
+13
+15
+28
+Change in actuarial gains related to benefit plans
+38
+59
+77
+117
+Total other comprehensive income
+46
+72
+92
+145
+Comprehensive (loss) income
+$ (383)
+$ 167
+$ (2,676)
+$ 375
+Combined statements of changes in capital
+(in millions, except share data)
+Capital paid-in
+Surplus
+Total capital
+Net income retained
+Accumulated other comprehensive
+(loss)
+Total surplus
+Balance at December 31, 2016 (608,848,261 shares)
+$ 30,442
+$ 13,985
+$ (3,985)
+$ 10,000
+$ 40,442
+Net change in capital stock issued (18,923,950 shares)
+947
+--
+--
+--
+947
+Comprehensive income:
+Net income
+--
+133
+--
+133
+133
+Other comprehensive loss
+--
+--
+651
+651
+651
+Dividends on capital stock
+--
+(784)
+--
+(784)
+(784)
+Net change in capital
+947
+(651)
+651
+--
+947
+Balance at December 31, 2017 (627,772,211 shares)
+$ 31,389
+$ 13,334
+$ (3,334)
+$ 10,000
+$ 41,389
+Net change in capital stock issued (13,745,823 shares)
+687
+--
+--
+--
+687
+Comprehensive income:
+Net loss
+--
+(2,768)
+--
+(2,768)
+(2,768)
+Other comprehensive income
+--
+--
+92
+92
+92
+Dividends on capital stock
+--
+(499)
+--
+(499)
+(499)
+Net change in capital
+687
+(3,267)
+92
+(3,175)
+(2,488)
+Balance at June 30, 2018 (641,518,034 shares)
+$ 32,076
+$ 10,067
+$ (3,242)
+$ 6,825
+$ 38,901
+Supplemental Financial Information
+(1) Loans
+Loans to Depository Institutions
+The Reserve Banks offer primary, secondary, and seasonal loans to eligible borrowers (depository institutions that maintain reservable transaction accounts or nonpersonal time deposits and have established discount window borrowing privileges). The remaining maturity distribution of loans to depository institutions outstanding as of June 30, 2018, and December 31, 2017, was as follows:
+Table 1. Loans to depository institutions
+(in millions)
+Within 15 days
+16 days to 90 days
+Total
+June 30, 2018
+$ 196
+$ 43
+$ 239
+December 31, 2017
+133
+1
+134
+At June 30, 2018, and December 31, 2017, the Reserve Banks did not have any loans that were impaired, restructured, past due, or on non-accrual status, and no allowance for loan losses was required. There were no impaired loans during the period ended June 30, 2018, and year ended December 31, 2017.
+(2) System Open Market Account (SOMA) Holdings
+Treasury securities, government-sponsored enterprise (GSE) debt securities, and federal agency and GSE mortgage-backed securities (MBS) are reported at amortized cost in the Combined statements of condition. SOMA portfolio holdings at June 30, 2018, and December 31, 2017, were as follows:
+Table 2. Domestic SOMA portfolio holdings
+(in millions)
+June 30, 2018
+December 31, 2017
+Amortized
+cost
+Fair value
+Cumulative unrealized gains (losses), net
+Amortized
+cost
+Fair value
+Cumulative unrealized gains (losses), net
+Treasury Securities
+Notes
+$ 1,544,587
+$ 1,522,472
+$ (22,115)
+$ 1,629,571
+$ 1,624,540
+$ (5,031)
+Bonds
+919,134
+972,568
+53,434
+916,162
+1,008,468
+92,306
+Total Treasury securities
+$ 2,463,721
+$ 2,495,040
+$ 31,319
+$ 2,545,733
+$ 2,633,008
+$ 87,275
+GSE debt securities
+2,752
+3,228
+476
+4,752
+5,383
+631
+Federal agency and GSE MBS
+1,771,221
+1,719,873
+(51,348)
+1,817,700
+1,809,918
+(7,782)
+Total domestic SOMA portfolio securities holdings
+$ 4,237,694
+$ 4,218,141
+$ (19,553)
+$ 4,368,185
+$ 4,448,309
+$ 80,124
+Memorandum--Commitments for:
+Purchases of Treasury securities
+$ 12,417
+$ 12,414
+$ (3)
+$ 11,447
+$ 11,467
+$ 20
+Purchases of federal agency and GSE MBS
+11,260
+11,286
+26
+19,257
+19,285
+28
+Sales of federal agency and GSE MBS
+--
+--
+--
+--
+--
+--
+The following table provides additional information on the amortized cost and fair values of the federal agency and GSE MBS portfolio at June 30, 2018, and December 31, 2017:
+Table 3. Detail of federal agency and GSE MBS holdings
+(in millions)
+Distribution of MBS holdings by coupon rate
+June 30, 2018
+December 31, 2017
+Amortized cost
+Fair value
+Amortized cost
+Fair value
+2.0%
+$ 8,228
+$ 7,834
+$ 8,968
+$ 8,739
+2.5%
+101,785
+97,396
+110,452
+108,371
+3.0%
+641,093
+611,520
+674,138
+660,939
+3.5%
+622,227
+605,094
+630,590
+630,245
+4.0%
+298,922
+295,048
+289,819
+291,868
+4.5%
+66,902
+69,488
+68,069
+71,896
+5.0%
+25,551
+26,677
+28,352
+30,048
+5.5%
+5,633
+5,887
+6,318
+6,739
+6.0%
+769
+811
+870
+939
+6.5%
+111
+118
+124
+134
+Total
+$ 1,771,221
+$ 1,719,873
+$ 1,817,700
+$ 1,809,918
+The Federal Reserve Bank of New York (FRBNY) may engage in sales of securities under agreements to repurchase (reverse repurchase agreements) with primary dealers and with a set of expanded counterparties that includes banks, savings associations, GSEs, and domestic money market funds (primary dealer and expanded counterparties reverse repurchase agreements). Reverse repurchase agreements may also be executed with foreign official and international account holders as part of a service offering. Financial information related to reverse repurchase agreements at June 30, 2018, and December 31, 2017, was as follows:
+Table 4. Reverse Repurchase Agreements
+(in millions)
+June 30, 2018
+December 31, 2017
+Primary dealers and expanded counterparties:
+Contract amount outstanding, end of period
+$ 96,970
+$ 319,595
+Securities pledged (par value), end of period
+96,887
+302,690
+Securities pledged (fair value), end of period
+96,964
+320,048
+Foreign official and international accounts:
+Contract amount outstanding, end of period
+$ 244,663
+$ 244,363
+Securities pledged (par value), end of period
+241,914
+240,660
+Securities pledged (fair value), end of period
+244,701
+244,417
+Total contract amount outstanding, end of period
+$ 341,633
+$ 563,958
+The remaining maturity distribution of Treasury securities, GSE debt securities, federal agency and GSE MBS bought outright, and reverse repurchase agreements at June 30, 2018, and December 31, 2017, was as follows:
+Table 5. Maturity distribution of domestic SOMA portfolio securities and securities sold under agreements to repurchase
+(in millions)
+Within 15 days
+16 days to 90 days
+91 days to 1 year
+Over 1 year to 5 years
+Over 5 years to 10 years
+Over 10 years
+Total
+June 30, 2018:
+Treasury securities (par value)
+$ 31,585
+$ 74,303
+$ 326,884
+$ 1,033,811
+$ 292,230
+$ 619,490
+$ 2,378,303
+GSE debt securities (par value)
+--
+--
+62
+--
+--
+2,347
+2,409
+Federal agency and GSE MBS (par value)
+1
+--
+--
+--
+143
+39,174
+1,681,955
+1,721,272
+Securities sold under agreements to repurchase (contract amount)
+341,633
+--
+--
+--
+--
+--
+341,633
+December 31, 2017:
+Treasury securities (par value)
+$ 20,601
+$ 107,658
+$ 315,420
+$ 1,077,270
+$ 310,375
+$ 622,884
+$ 2,454,208
+GSE debt securities (par value)
+--
+--
+1,982
+62
+--
+2,347
+4,391
+Federal agency and GSE MBS (par value)
+1
+--
+--
+1
+173
+20,013
+1,744,742
+1,764,929
+Securities sold under agreements to repurchase (contract amount)
+563,958
+--
+--
+--
+--
+--
+563,958
+1. The par amount shown for federal agency and GSE MBS is the remaining principal balance of the securities.
+Return to table
+Federal agency and GSE MBS are reported at stated maturity in table 5 above. The estimated weighted-average life of these securities, which differs from the stated maturity in table 5 primarily because it factors in scheduled payments and prepayment assumptions, was approximately 8.1 years and 6.9 years as of June 30, 2018, and December 31, 2017, respectively.
+Information about transactions related to Treasury securities, GSE debt securities, and federal agency and GSE MBS held in the SOMA during the six months ended June 30, 2018, and during the year ended December 31, 2017, is summarized as follows:
+Table 6. Domestic portfolio transactions of SOMA securities
+(in millions)
+Notes
+Bonds
+Total Treasury securities
+GSE debt securities
+Federal agency and GSE MBS
+Balance December 31, 2016
+$ 1,647,339
+$ 920,083
+$ 2,567,422
+$ 16,648
+$ 1,795,003
+Purchases
+1
+161,378
+15,849
+177,227
+--
+324,524
+Sales
+1
+(124)
+(326)
+(450)
+--
+(331)
+Realized gains (losses), net
+2
+(2)
+30
+28
+--
+2
+Principal payments and maturities
+(175,933)
+(13,402)
+(189,335)
+(11,789)
+(290,939)
+Amortization of premiums and accretion of discounts, net
+(3,796)
+(7,917)
+(11,713)
+(107)
+(10,559)
+Inflation adjustment on inflation-indexed securities
+709
+1,845
+2,554
+--
+--
+Subtotal of activity
+(17,768)
+(3,921)
+(21,689)
+(11,896)
+22,697
+Balance December 31, 2017
+$ 1,629,571
+$ 916,162
+$ 2,545,733
+$ 4,752
+$ 1,817,700
+Purchases
+1
+129,780
+9,282
+139,062
+--
+85,708
+Sales
+1
+(49)
+(65)
+(114)
+--
+(119)
+Realized gains (losses), net
+2
+(1)
+6
+5
+--
+(1)
+Principal payments and maturities
+(213,652)
+(3,889)
+(217,541)
+(1,982)
+(127,462)
+Amortization of premiums and accretion of discounts, net
+(1,647)
+(3,849)
+(5,496)
+(18)
+(4,605)
+Inflation adjustment on inflation-indexed securities
+585
+1,487
+2,072
+--
+--
+Subtotal of activity
+(84,984)
+2,972
+(82,012)
+(2,000)
+(46,479)
+Balance June 30, 2018
+$ 1,544,587
+$ 919,134
+$ 2,463,721
+$ 2,752
+$ 1,771,221
+Year ended December 31, 2017
+Supplemental information--par value of transactions
+Purchases
+3
+$ 161,796
+$ 15,976
+$ 177,772
+$ --
+$ 314,797
+Sales
+(125)
+(275)
+(400)
+--
+(320)
+Six months ended June 30, 2018
+Supplemental information--par value of transactions
+Purchases
+3
+$ 130,310
+$ 9,364
+$ 139,674
+$ --
+$ 83,924
+Sales
+(51)
+(59)
+(110)
+--
+(119)
+1. Purchases and sales may include payments and receipts related to principal, premiums, discounts, and inflation compensation adjustments to the basis of inflation-indexed securities. The amount reported as sales includes the realized gains and losses on such transactions. Purchases and sales of Treasury securities and federal agency and GSE MBS are recorded on a settlement date basis; unsettled commitments related to those securities are excluded from the reported purchases and sales.
+Return to table
+2. Realized gains (losses), net offset the amount of realized gains and losses included in the reported sales amount.
+Return to table
+3. Includes inflation compensation.
+Return to table
+Information about foreign currency denominated investments recorded at amortized cost and valued at foreign currency market exchange rates held in the SOMA at June 30, 2018, and December 31, 2017, was as follows:
+Table 7. Foreign currency denominated investments
+(in millions)
+June 30, 2018
+December 31, 2017
+Euro:
+Foreign currency deposits
+$ 6,894
+$ 6,070
+French government debt instruments
+2,658
+3,089
+German government debt instruments
+1,541
+2,239
+Dutch government debt instruments
+1,560
+1,626
+Japanese yen:
+Foreign currency deposits
+7,059
+6,765
+Japanese government debt instruments
+1,382
+1,527
+Total
+$ 21,094
+$ 21,316
+The remaining maturity distribution of foreign currency denominated investments at June 30, 2018, and December 31, 2017, was as follows:
+Table 8. Maturity distribution of foreign currency denominated investments
+(in millions)
+Within 15 days
+16 days to 90 days
+91 days to 1 year
+Over 1 year to 5 years
+Over 5 years to 10 years
+Total
+June 30, 2018:
+Euro
+$ 6,894
+$ --
+$ 765
+$ 2,921
+$ 2,073
+$ 12,653
+Japanese yen
+7,059
+86
+270
+1,026
+--
+8,441
+Total
+$ 13,953
+$ 86
+$ 1,035
+$ 3,947
+$ 2,073
+$ 21,094
+December 31, 2017:
+Euro
+$ 6,162
+$ 102
+$ 1,228
+$ 3,134
+$ 2,398
+$ 13,024
+Japanese yen
+6,765
+62
+263
+1,202
+--
+8,292
+Total
+$ 12,927
+$ 164
+$ 1,491
+$ 4,336
+$ 2,398
+$ 21,316
+At June 30, 2018, and December 31, 2017, the fair value of foreign currency denominated investments held in the SOMA was $21,149 million and $21,348 million, respectively.
+Because of the global character of bank funding markets, the Federal Reserve has at times coordinated with other central banks to provide liquidity. The Federal Open Market Committee (FOMC) authorized and directed the FRBNY to maintain standing U.S. dollar liquidity swap arrangements and standing foreign currency liquidity swap arrangements with the Bank of Canada, the Bank of England, the Bank of Japan, the European Central Bank, and the Swiss National Bank. The FRBNY holds amounts outstanding under these swap lines in the SOMA. These swap lines, which were originally established as temporary arrangements, were converted to standing arrangements on October 31, 2013, and will remain in place until further notice.
+The remaining maturity distribution of U.S. dollar liquidity swaps that were allocated to the Reserve Banks at June 30, 2018, and December 31, 2017, was as follows:
+Table 9. Maturity distribution of liquidity swaps
+(in millions)
+June 30, 2018
+Within 15 days
+December 31, 2017
+Within 15 days
+Euro
+$ 1,090
+$ 11,907
+Japanese yen
+1
+160
+Total
+$ 1,091
+$ 12,067
+The following table presents the realized gains and the change in the cumulative unrealized gains (losses) related to SOMA domestic securities holdings during the periods ended June 30, 2018, and June 30, 2017:
+Table 10. Realized gains and change in unrealized gain (loss) position
+(in millions)
+Six months ended
+June 30, 2018
+Six months ended
+June 30, 2017
+Realized gains,
+net
+Change in cumulative unrealized gains (losses)
+1
+Realized gains,
+net
+Change in cumulative unrealized gains (losses)
+1
+Treasury securities
+2
+$ 6
+$ (55,956)
+$ 7
+$ 21,247
+GSE debt securities
+--
+(155)
+--
+(67)
+Federal agency and GSE MBS
+3
+--
+(43,566)
+10
+3,148
+Total
+$ 6
+$ (99,677)
+$ 17
+$ 24,328
+1. Because SOMA securities are recorded at amortized cost, the change in the cumulative unrealized gains (losses), net is not reported in the Combined statements of operations.
+Return to table
+2. Realized gains for Treasury securities are reported in "Non-interest income: System Open Market Account: Treasury securities gains, net" in the Combined statements of operations.
+Return to table
+3. Realized gains for federal agency and GSE MBS are reported in "Non-interest income: System Open Market Account: Federal agency and government-sponsored enterprise mortgage-backed securities gains, net" in the Combined statements of operations.
+Return to table
+(3) Consolidated Variable Interest Entity (VIE)
+The combined financial statements include the accounts and results of operations of a limited liability company (LLC), Maiden Lane LLC (ML), which is consolidated by the FRBNY. Intercompany balances and transactions are eliminated in consolidation.
+The classification of significant assets and liabilities of ML at June 30, 2018, and December 31, 2017, is summarized in the following table:
+Table 11. Assets and liabilities of consolidated VIE
+(in millions)
+June 30, 2018
+December 31, 2017
+Assets
+Short-term investments
+$ 524
+$ 998
+Swap contracts
+--
+5
+Other investments
+1
+1
+Subtotal
+$ 525
+$ 1,004
+Cash, cash equivalents, accrued interest receivable, and other receivables
+1,190
+716
+Cash collateral on swap contracts
+--
+2
+Total investments held by consolidated VIE
+$ 1,715
+$ 1,722
+Liabilities
+Swap contracts
+$ --
+$ 8
+Cash collateral on swap contracts
+--
+--
+Other liabilities
+--
+1
+Total liabilities held by consolidated VIE
+$ --
+$ 9
+ML had net income of $2 million and less than $1 million for the six months ended June 30, 2018, and June 30, 2017, respectively.
+The FRBNY will continue to sell the remaining assets from the ML portfolio as market conditions warrant and if the sales represent good value for the public. In accordance with the ML agreements, proceeds from future asset sales will be distributed to the FRBNY as contingent interest after all derivative instruments in ML have been terminated and paid or sold from the portfolio.
+(4) Federal Reserve Notes
+Federal Reserve notes are the circulating currency of the United States. These notes, which are identified as issued to a specific Reserve Bank, must be fully collateralized. All of the Reserve Banks' assets are eligible to be pledged as collateral. At June 30, 2018, and December 31, 2017, all Federal Reserve notes, net, were fully collateralized.
+(5) Depository Institution Deposits
+Depository institution deposits primarily represent required reserve balances and excess reserve balances. Required reserve balances are those that a depository institution must hold to satisfy its reserve requirement. Reserve requirements are the amount of funds that a depository institution must hold in reserve against specified deposit liabilities. Excess reserves are those held by the depository institutions in excess of their required reserve balances.
+(6) Treasury Deposits
+The Treasury holds deposits at the Reserve Banks in a general account pursuant the Reserve Banks' role as fiscal agent and depositary of the United States.
+(7) Capital and Surplus
+The Federal Reserve Act (FRA) requires that each member bank subscribe to the capital stock of the Reserve Bank in an amount equal to 6 percent of the capital and surplus of the member bank. These shares are nonvoting, with a par value of $100, and may not be transferred or hypothecated. As a member bank's capital and surplus changes, its holdings of Reserve Bank stock must be adjusted. Currently, only one-half of the subscription is paid in, and the remainder is subject to call. A member bank is liable for Reserve Bank liabilities up to twice the par value of stock subscribed by it.
+The FRA requires each Reserve Bank to pay each member bank an annual dividend on paid in capital stock. By law member banks with more than $10 billion of total consolidated assets, adjusted annually for inflation, receive a dividend on paid in capital stock equal to the smaller of 6 percent or the rate equal to the high yield of the 10-year Treasury note auctioned at the last auction held prior to the payment of the dividend. Member banks with $10 billion or less of total consolidated assets, adjusted annually for inflation, receive a dividend on paid in capital stock equal to 6 percent. The dividend is paid semiannually and is cumulative.
+The Bipartisan Budget Act of 2018 (Budget Act), which was enacted on February 9, 2018, amended section 7 of the Federal Reserve Act related to Reserve Bank surplus. The Budget Act reduced the statutory limit on aggregate Reserve Bank surplus from $10.0 billion to $7.5 billion, which required the Reserve Banks to make a lump sum payment to the Treasury in the amount of $2.5 billion. This lump sum payment is reported as a component of "Earnings remittances to the Treasury" in the Combined statements of operations.
+The Economic Growth, Regulatory Relief, and Consumer Protection Act (Economic Growth Act), which was enacted on May 24, 2018, amended section 7 of the Federal Reserve Act related to Reserve Bank surplus. The Economic Growth Act reduced the statutory limit on aggregate Reserve Bank surplus from $7.5 billion to $6.825 billion, which required the Reserve Banks to make a lump sum payment to the Treasury in the amount of $675 million. This lump sum payment is reported as a component of "Earnings remittances to the Treasury" in the Combined statements of operations.
+(8) Income and Expense
+(A) Loans
+Interest income on primary, secondary, and seasonal credit is accrued using the applicable rate established at least every 14 days by the Reserve Banks' boards of directors, subject to review and determination by the Board of Governors. For the six months ended June 30, 2018 and 2017, primary, secondary, and seasonal credit average daily balances were $64 million and $41 million, respectively, and average interest rates were 1.95 percent and 1.13 percent, respectively.
+(B) SOMA Holdings
+The amount reported as interest income on SOMA portfolio holdings includes the amortization of premiums and discounts. Supplemental information on interest income on SOMA portfolio holdings is as follows:
+Table 12. Interest income on SOMA portfolio
+(in millions)
+Six months ended June 30, 2018
+Six months ended June 30, 2017
+Interest income:
+Treasury securities, net
+$ 32,107
+$ 32,409
+GSE debt securities, net
+105
+264
+Federal agency and GSE MBS, net
+24,942
+24,634
+Foreign currency denominated investments, net
+1
+(14)
+(6)
+Central bank liquidity swaps
+10
+5
+Total interest income
+$ 57,150
+$ 57,306
+Average daily balance:
+Treasury securities, net
+2
+$ 2,502,969
+$ 2,555,495
+GSE debt securities, net
+3
+4,546
+12,973
+Federal agency and GSE MBS, net
+3
+1,805,110
+1,819,152
+Foreign currency denominated investments, net
+4
+21,796
+20,146
+Central bank liquidity swaps
+5
+971
+736
+Average interest rate:
+Treasury securities, net
+2.57%
+2.54%
+GSE debt securities, net
+4.63%
+4.07%
+Federal agency and GSE MBS, net
+2.76%
+2.71%
+Foreign currency denominated investments, net
+-0.13%
+-0.06%
+Central bank liquidity swaps
+1.98%
+1.27%
+1. As a result of negative interest rates on certain foreign currency denominated investments held in the SOMA, interest income on foreign currency denominated investments, net contains negative interest of $21 million and $16 million for the six months ended June 30, 2018 and 2017, respectively.
+Return to table
+2. Face value, net of unamortized premiums and discounts.
+Return to table
+3. Guaranteed by Fannie Mae, Freddie Mac, and Ginnie Mae. Current face value of the securities, which is the remaining principal balance of the securities, net of premiums and discounts.
+Return to table
+4. Foreign currency denominated investments are revalued daily at market exchange rates.
+Return to table
+5. Dollar value of foreign currency held under these agreements valued at the exchange rate to be used when the foreign currency is returned to the foreign central bank. This exchange rate equals the market exchange rate used when the foreign currency was acquired from the foreign central bank.
+Return to table
+Supplemental information on interest expense on securities sold under agreement to repurchase (reverse repurchase agreements) is as follows:
+Table 13. Interest expense on securities sold under agreement to repurchase
+(in millions)
+Six months ended June 30, 2018
+Six months ended June 30, 2017
+Interest expense:
+Primary dealers and expanded counterparties
+1
+$ 133
+$ 582
+Foreign official and international accounts
+2
+1,886
+855
+Total interest expense
+$ 2,019
+$ 1,437
+Average daily balance:
+Primary dealers and expanded counterparties
+1
+$ 19,815
+$ 170,502
+Foreign official and international accounts
+2
+239,088
+246,632
+Average interest rate:
+Primary dealers and expanded counterparties
+1
+1.34%
+0.68%
+Foreign official and international accounts
+2
+1.58%
+0.69%
+1. Overnight and term reverse repurchase agreements arranged as open market operations are settled through a set of expanded counterparties that includes banks, savings associations, GSEs, and domestic money market funds.
+Return to table
+2. Reverse repurchase agreements are entered into as part of a service offering to foreign official and international account holders.
+Return to table
+(C) Depository Institution Deposits
+The Reserve Banks pay interest to depository institutions on qualifying balances held at the Reserve Banks. The interest rates paid on required reserve balances and excess balances are determined by the Board of Governors, based on a FOMC-established target range for the federal funds rate.
+In May 2010, the Reserve Banks commenced the auction of term deposits to be offered through its Term Deposit Facility. The interest rate paid on these deposits is determined by auction.
+(D) Operating Expenses
+The Federal Reserve Banks have established procedures for budgetary control and monitoring of operating expenses as part of their efforts to ensure appropriate stewardship and accountability. Reserve Bank and Board governance bodies provide budget guidance for major functional areas for the upcoming budget year. The Board's Committee on Federal Reserve Bank Affairs (BAC) reviews the Banks' budgets and the BAC chair submits the budgets to Board members for review and final action. Throughout the year, Reserve Bank and Board staffs monitor actual performance and compare it with approved budgets and forecasts.
+Additional information regarding Reserve Bank operating expenses is available each year in the Annual Report of the Board of Governors of the Federal Reserve System at
+www.federalreserve.gov/publications/annual-report.htm
+, and on the Audit webpage of the Board's public website at
+www.federalreserve.gov/regreform/audit.htm
+.
+Back to Top
+Last Update:
+                    August 14, 2019

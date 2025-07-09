@@ -1,0 +1,44 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/summary-of-revisions.htm -->
+<!-- title: The Fed - Summary of Revisions -->
+<!-- date_fetched: 2025-07-09T02:18:54.098014Z -->
+
+Home
+About the Fed
+Fed Financial Statements
+Federal Reserve System Audited Annual Financial Statements
+Financial Accounting Manual for Federal Reserve Banks
+Financial Accounting Manual for Federal Reserve Banks, May 2025
+PDF
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+About This Manual
+Abbreviations
+Summary of Revisions
+Chapter 1. Balance Sheet
+Chapter 2. Collateral and Custodies
+Chapter 3. Property and Equipment
+Chapter 4. System Open Market Account
+Chapter 5. Federal Reserve Notes
+Chapter 6. Reporting Requirements
+Chapter 7. Funding, Credit, Liquidity, and Loan Facilities
+Chapter 8. Special Topics
+Appendixes
+Appendix A. Currency
+Appendix B. Dividends
+Appendix C. FR 34 Accounts
+Appendix D. Software
+Appendix E. Reserved
+Appendix F. Pension
+Summary of Revisions
+Effective January 1, 2025, the revisions of the Financial Accounting Manual for Federal Reserve Banks (FAM) clarify policy guidance around credit losses and update the description of the discount window lending programs.
+Summary of Revisions
+Chapter 8: Special Topics
+The descriptions of the Reserve Bank's lending programs were updated, and the language was better aligned with the accounting standard for credit losses.
+Paragraph 81.02
+—Recognizing an Allowance for Credit Losses
+Paragraph 81.07
+—Program Specific Analysis
+Paragraph 81.09
+—Modifications to Debtors Experiencing Financial Difficulty
+Back to Top
+Last Update:
+                    June 13, 2025

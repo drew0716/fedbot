@@ -1,0 +1,102 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/appendix-f-pension.htm#xemployeraccountingfortheretirementp-bfe222bb -->
+<!-- title: The Fed - Appendix F. Pension -->
+<!-- date_fetched: 2025-07-09T02:18:57.615061Z -->
+
+Home
+About the Fed
+Fed Financial Statements
+Federal Reserve System Audited Annual Financial Statements
+Financial Accounting Manual for Federal Reserve Banks
+Financial Accounting Manual for Federal Reserve Banks, May 2025
+PDF
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+About This Manual
+Abbreviations
+Summary of Revisions
+Chapter 1. Balance Sheet
+Chapter 2. Collateral and Custodies
+Chapter 3. Property and Equipment
+Chapter 4. System Open Market Account
+Chapter 5. Federal Reserve Notes
+Chapter 6. Reporting Requirements
+Chapter 7. Funding, Credit, Liquidity, and Loan Facilities
+Chapter 8. Special Topics
+Appendixes
+Appendix A. Currency
+Appendix B. Dividends
+Appendix C. FR 34 Accounts
+Appendix D. Software
+Appendix E. Reserved
+Appendix F. Pension
+Appendix F. Pension
+F.1 Employer Accounting for the Retirement Plan for the Employees of the Federal Reserve System and the Consumer Financial Protection Bureau
+The purpose of this memorandum is to document the considerations and conclusions relevant to determining how the Federal Reserve's financial statements should reflect the employer accounting for the Retirement Plan for Employees of the Federal Reserve System (System Plan). The System Plan is a defined benefit pension plan that covers employees of the 12 Federal Reserve Banks (Banks), the Board of Governors (BOG), and the Consumer Financial Protection Bureau (CFPB). The Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) allows CFPB employees to participate in the System Plan.
+1
+The System employers account for their pension obligations in a manner consistent with GAAP. In accordance with FASB ASC Topic 715-30, employer accounting for pension benefits reflects the employer's financial interest for providing pension benefits net of assets held in separate pension entities. Because the System Plan provides for the payment of benefits to retirees from the assets of the plan without regard to the source of the funding, each employer's interest in the plan could not be computed and accounted for as separate financial positions. Instead, each employer's position is computed at a System level and reported on the financial statements of one Reserve Bank. We believe this treatment is the most appropriate and consistent with the intent of GAAP. This interpretation, however, is not clearly contemplated by the applicable accounting standards in that it arises from the unique structure of the Federal Reserve System. That is, the System employers are legally independent and not commonly owned and controlled, yet cooperate financially in the provision of pension benefits in a manner that would not normally exist among independent entities.
+The following explains the treatment of the System Plan as a
+single
+employer plan that was historically reflected on the FRBNY's financial statements, and, effective August 1, 2023, transferred to the Federal Reserve Bank of Atlanta (FRBA) financial statements following the integration of the Office of Employee Benefits of the Federal Reserve System (OEB) into the operations of the FRBA.
+Single/Multi-employer Accounting
+Much of the authoritative accounting literature on employer pension plan accounting focuses on whether the plan is characterized as a single-employer or a multi-employer plan. Essentially, the resources of single employer plans are incorporated into the employer's net pension asset/liability, the resources of multi-employer plans are not. The System Plan has many characteristics of a multi-employer plan, yet the related nature of its employers leads to the System's conclusion that it should be treated as a single employer plan. The citations/definitions discussed below present definitions of each term from key sources.
+FASB ASC Topic 715-30:
+Single-employer plan—A pension plan that is maintained by one employer. The term may also be used to describe a plan that is maintained by related parties such as a parent and its subsidiaries.
+Multiemployer plan—A pension plan to which two or more unrelated employers contribute, usually pursuant to one or more collective bargaining agreements. A characteristic of multiemployer plans is that assets contributed by one participating employer may be used to provide benefits to employees of other participating employers since assets contributed by an employer are not segregated in a separate account or restricted to provide benefits only to employees of that employer.
+Multiple employer plan—A pension plan where two or more unrelated employers contribute or pool their assets for investment purposes and to reduce plan administration costs. The assets contributed by an employer to a multiple-employer plan may not be used to provide benefits to participants of another sponsoring employer in the multiple-employer plan.
+FASB ASC Topic 960-10 specifies that administration is the most distinguishing characteristic between single employer plans and multiemployer plans. In a single employer plan, the employer is the plan sponsor. Multiemployer plans are normally negotiated and established pursuant to collective bargaining agreements between an associated group of employers, such as those whose employees are represented by a specific union, and the plan sponsor of a multiemployer plan is a joint employer, union committee, or board.
+FASB ASC Topic 960-10 addresses the reporting-entity question for affiliated not-for-profit entities. The conclusion of this discussion is that "parent" entity within the group may account for a plan as a single employer plan in its financial statement, while all other entities in the group account for the plan as a multiemployer plan.
+A distinguishing characteristic of multiemployer plans is that assets contributed by one employer are not segregated in a separate account or restricted to provide benefits only to employees of that employer. In this respect, the System Plan is similar to a multiemployer plan, as the assets are not divisible among the Banks, BOG, and CFPB, and all assets are available for benefits to employees of each entity. Another distinguishing characteristic, however, is the nature of the relationship among the entities whose employees participate in a plan. The multiemployer definitions frequently refer to collective bargaining relationships, implying that the employers are unrelated parties. If the employers are related parties (for example, through equity interest, management control, or financial control), then the plan would generally be considered a single employer plan. When the entities are unrelated parties, the plan would typically be considered a multiemployer plan.
+ASC 715-30 defines a multiple-employer plan as one that is maintained by more than one unrelated employer with plan assets that are severable and maintained in separate accounts for each employer even though the assets are pooled together for investment purposes and to reduce administration costs. Separating the assets allows for the participating employers to have different benefit formulas and to reserve each employer's assets to provide benefits to only its respective employee benefits. Under a multiple-employer plan, therefore, each employer accounts for its respective interest in the plan as a single-employer plan, and the net pension asset/liability of all participating employers is not reported. The System plan is not a multiple-employer plan because the invested assets are not maintained in separate accounts.
+Although the Banks, BOG, and CFPB are not related through equity or other beneficial ownership, there is strong evidence that they are related parties for plan aggregation purposes. For example,
+the BOG appoints three members of each Bank's board of directors,
+effective August 1, 2023, the OEB became an operating unit of the FRBA under its supervision and control with the OEB retaining its oversight committees that are composed of Bank and BOG representatives,
+the Banks are the sole funding source for the BOG,
+the BOG and five Bank presidents compose the Federal Open Market Committee, which directs the investments that provide substantially all of the Banks' income,
+the Banks rely on each other for the provision of various operational and administrative functions,
+the legal definition of the CFPB in the Dodd-Frank Act designates it as an independent agency established in the Federal Reserve System,
+2
+the provisions of the Dodd-Frank Act that designates the CFPB as the "same employer as the Federal Reserve System,"
+3
+and
+the requirement that the Board fund the operations of the CFPB.
+Based on the discussions above, the System Plan most closely resembles a single employer plan with characteristics of a multiemployer plan. Accordingly, the most appropriate treatment would be single plan accounting on the financial statements of the most appropriate employer. In addition, the governance and administration of the System plan is not changed with CFPB employee participation. In addition, the governance and administration of the System plan is not changed with CFPB employee participation. The Dodd-Frank Act specifically states that the CFPB does not have responsibility or authority to make any plan amendments, administer an existing plan, or ensure the System plan complies with applicable laws.
+4
+Determining the Reporting Employer
+The assets, liabilities, and costs related to the System Plan are recorded by the FRBA effective August 1, 2023. This decision was based on (1) the conclusion that it was appropriate for one entity among the participating employers to report the System Plan, (2) that the System Plan should be reported by a Reserve Bank so that the income/costs associated with the pension benefits would be incorporated into the Reserve Banks' distribution of excess earnings to the U.S. Treasury, and (3) no one individual Reserve Bank exercises control or undue influence over the System Pension plan as the oversight committees govern the plan. In light of these considerations, it is most appropriate for the FRBA to record the System Plan as subsequent to the transition, the FRBA will have ultimate responsibility for the OEB's operational performance in meeting its assigned responsibilities consistent with direction from the oversight committees.
+Accounting and Disclosure
+FASB ASC Topic 715-30 provides guidance on which employer should account for the plan's funded status. A subsidiary that issues separate financial statements may participate in a defined benefit pension or postretirement plan of a parent company. If the parent's plan covers employees of the subsidiary, the subsidiary should account for its participation in its standalone financial statements as a participation in a multi-employer plan if all criteria are met:
+Each subsidiary is required to contribute to the plan based on a predetermined formula.
+5
+Plan assets are not segregated or restricted on a subsidiary-by-subsidiary basis.
+If a subsidiary withdraws from the plan, the benefit obligations for its employees are retained by the parent's plan (as opposed to being allocated to the withdrawing subsidiary).
+The participating subsidiary would not recognize an allocation of the plan's funded status (only the plan sponsor should recognize the plan's funded status on its balance sheet). If a subsidiary doesn't meet the above criteria, it should not follow multi-employer plan accounting. The parent (or the ultimate plan sponsor) should account for the plan as a single-employer defined benefit plan in its consolidated financial statements per ASC 715-30-55-64. In applying this guidance, the subsidiaries would be the 11 Reserve Banks who are not reporting the funded status, while the Reserve Bank who does report the funded status would be considered the parent or the ultimate plan sponsor.
+While there is no ‘parent' or ‘subsidiary' entity within the Federal Reserve System, as noted earlier, the FRBA will now be primarily responsible for development of the OEB's operational strategies, operational performance and delivery, provider of shared services, leadership support, and coordination of benefits governance. These may be thought of as parent responsibilities when it comes to pension accounting. Based on the discussion above, the System Plan should be held with the ‘ultimate plan sponsor,' which in this instance, most resembles the FRBA.
+Funding
+System plan employer contributions are currently determined annually at an aggregate level and the employer funding may be allocated among the participating entities on other than a pro rata basis. FRBA makes employer contributions to the System plan on behalf of all Reserve Banks and the Board. Dodd-Frank Act requires that the CFPB contribute funds to the System plan for each CFPB employee participating in the System plan.
+6
+The contribution formula for CFPB employees electing to participate is based on the Federal Employee Retirement System contribution formula (not on the cost of benefits to be provided to CFPB beneficiaries at retirement).
+7
+The addition of CFPB employer contributions to the System plan funding will not change the approach to determine overall employer contributions; they will continue to be determined at an aggregate level based on aggregate plan assets and plan obligations. In addition, because the CFPB contribution formula is specifically required by the Dodd-Frank Act and not based on a benefit formula or linked to the participating employee benefits, the amount funded by each employer does not indicate that the assets are severable. The System plan's funded status for each participating employer is not determinable because the plan assets are not severable, and they will not be tracked separately.
+8
+Conclusion
+Previously, the FRBNY and effective August 1, 2023, the FRBA accounts for the System Plan in a manner that is consistent with the accounting for a single employer plan. System Plan assets, liabilities, costs and all required footnote disclosures are reflected in its financial statements, and net periodic pension costs are presented as a component of its net income from operations. Each of the other participating employers account for the System Plan in a manner similar to a multiple employer plan; no disclosure of plan assets, liabilities, and costs would be made in the financial statements of the other eleven Banks, and BOG as discussed earlier.
+Limited disclosure regarding the reporting entity of the System Plan is required. Though the characterization as a single or multiemployer plan affects the accounting and disclosure, there is no requirement to state specifically that a plan is being accounted for as either a single or multiemployer plan. Financial statement disclosures provide users information about the participating employers and the FRBA's role, on behalf of the System, in recognizing the net asset/liability and costs and that the other participating employers do not reimburse the FRBA for the Plan costs. In addition, when they are made, the FRBA discloses the amount of contributions.
+Footnotes
+1. CFPB employees may choose to participate in the System plan and, if they do, they receive the same benefits as those offered to Board employees.
+Return to text
+2. U.S.C. § 5491(a).
+Return to text
+3. U.S.C. § 5584(i)(1)(C)(v). This statement was included in the act for purposes of subsections (b), (c), (m), and (o) of section 414 of the Internal Revenue Code of 1986 (26 U.S.C. § 414).
+Return to text
+4. U.S.C. § 5584(i)(1)(C)(ii).
+Return to text
+5. The Retirement Plan Document Section 27. Contributions by the Employers, the Board and the Bureau states that, "Each Employer…shall contribute to the Trust monthly…, such amounts as are necessary to maintain the Plan…on a sound actuarial basis…"
+Return to text
+6. U.S.C. § 5584(i)(1)(A)(iv).
+Return to text
+7. U.S.C. § 5584(i)(1)(A)(iv). The Dodd-Frank Act also requires that the CFPB contribute funds for employees that have transferred from the Federal Reserve System to the CFPB (12 U.S.C. § 5584(i)(1)(C)(iv)). Also, the Dodd-Frank Act states that the Board can require the CFPB to supplement the contributions that it provides with additional funding.
+Return to text
+8. Any internal estimation of the funded status or funding requirement by participating employer is not considered relevant to the treatment as a single-employer plan.
+Return to text
+Back to Top
+Last Update:
+                    June 03, 2025

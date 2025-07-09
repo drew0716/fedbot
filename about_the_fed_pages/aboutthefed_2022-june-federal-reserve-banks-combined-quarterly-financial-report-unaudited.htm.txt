@@ -1,0 +1,2260 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/2022-june-federal-reserve-banks-combined-quarterly-financial-report-unaudited.htm -->
+<!-- title: Federal Reserve Board - Federal Reserve Banks Combined Quarterly Financial Report Unaudited - June 30, 2022 -->
+<!-- date_fetched: 2025-07-09T02:18:46.372301Z -->
+
+Home
+About the Fed
+Fed Financial Statements
+Federal Reserve Banks Combined Quarterly Financial Reports (Unaudited)
+Fed Financial Statements
+PDF
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+Federal Reserve Banks Combined Quarterly Financial Report Unaudited - June 30, 2022
+Overview
+The Federal Reserve supplements the release of its annual financial statements with three quarterly financial reports to summarize the unaudited combined financial position and results of operations of the 12 Reserve Banks. The combined financial information reported includes the accounts and results of operations of each Reserve Bank and some consolidated variable interest entities.
+The report contains
+the
+combined statements
+of condition, operations, and changes in capital; and
+eight explanatory notes that provide
+supplemental financial information
+for line items in the combined quarterly statements.
+For more information about Federal Reserve Board financial statements and reporting, visit our website at
+https://www.federalreserve.gov/aboutthefed/fed-financial-statements.htm
+. For more information about how the Federal Reserve Board supervises Federal Reserve Bank operations, see the "Payment System and Reserve Bank Oversight" section of our latest Annual Report (
+https://www.federalreserve.gov/publications/annual-report.htm
+).
+Combined Quarterly Financial Statements
+The following unaudited financial statements—for the quarter-ended June 30, 2022—summarize the combined financial position and results of operations of the 12 Federal Reserve Banks. The notes cited in the financial statements provide
+supplemental financial information
+for specific line items.
+Combined statements of condition
+(in millions)
+June 30, 2022
+December 31, 2021
+Assets
+Gold certificates
+$ 11,037
+$ 11,037
+Special drawing rights certificates
+5,200
+5,200
+Coin
+1,261
+1,232
+Loans:
+Note1
+Loans to depository institutions
+2,436
+555
+Other loans
+17,906
+33,853
+System Open Market Account:
+Note2
+Treasury securities, net (of which $49,888 and $40,737 is lent as of June 30, 2022, and December 31, 2021, respectively)
+5,990,600
+5,917,426
+Federal agency and government-sponsored enterprise mortgage-backed securities, net
+2,770,162
+2,685,268
+Government-sponsored enterprise debt securities, net (of which $0 is lent as of June 30, 2022, and December 30, 2021)
+2,597
+2,610
+Foreign currency denominated investments, net
+18,118
+20,330
+Central bank liquidity swaps
+347
+3,340
+Accrued interest receivable
+31,577
+30,976
+Other assets
+4
+1
+Consolidated variable interest entities: Investments, net (including $541 and $612 measured at fair value as of June 30, 2022, and December 30, 2021, respectively)
+Note3
+34,180
+40,171
+Prepaid pension benefit costs
+422
+472
+Other accrued interest receivable
+78
+89
+Bank premises and equipment, net
+2,616
+2,610
+Items in process of collection
+59
+76
+Other assets
+1,203
+1,153
+Total assets
+$ 8,889,803
+$ 8,756,399
+Liabilities and capital
+Federal Reserve notes outstanding, net
+Note4
+$ 2,231,995
+$ 2,187,139
+System Open Market Account:
+Securities sold under agreements to repurchase
+Note2
+2,601,226
+2,183,041
+Other liabilities
+1,059
+2,374
+Deposits:
+Depository institutions
+Note5
+2,955,412
+3,644,277
+Treasury, general account
+Note6
+782,406
+406,108
+Other deposits
+253,739
+264,593
+Interest payable to depository institutions and others
+146
+34
+Consolidated variable interest entities: Other liabilities
+Note3
+120
+156
+Accrued benefit costs
+2,899
+2,831
+Deferred credit items
+845
+659
+Accrued remittances to the Treasury
+825
+4,384
+Other liabilities
+456
+340
+Total liabilities
+$8,831,128
+$8,695,936
+Reserve Bank capital
+Note7
+Capital paid-in
+$ 34,919
+$ 33,877
+Surplus (including accumulated other comprehensive loss of $2,780 and $2,779 at June 30, 2022, and December 31, 2021)
+6,785
+6,785
+Total Reserve Bank capital
+41,704
+40,662
+Consolidated variable interest entities formed to administer credit and liquidity facilities: Non-controlling interest
+Note3
+16,971
+19,801
+Total Reserve Bank capital and consolidated variable interest entities non-controlling interest
+58,675
+60,463
+Total liabilities and capital
+$ 8,889,803
+$ 8,756,399
+Combined statements of operations
+(in millions)
+Three months ended
+Six months ended
+June 30, 2022
+June 30, 2021
+June 30, 2022
+June 30, 2021
+Interest income
+Loans:
+Note8(A)
+Loans to depository institutions
+$ 4
+$ —
+$ 5
+$ 1
+Other loans
+18
+68
+42
+117
+System Open Market Account:
+Note8(B)
+Securities purchased under agreements to resell
+—
+—
+—
+1
+Treasury securities, net
+32,909
+25,025
+58,485
+42,735
+Federal agency and government-sponsored enterprise mortgage-backed securities, net
+13,109
+6,507
+24,839
+11,981
+Government-sponsored enterprise debt securities, net
+34
+34
+67
+67
+Foreign currency denominated investments, net
+(10)
+(11)
+(21)
+(22)
+Central bank liquidity swaps
+1
+—
+1
+6
+Total interest income
+$ 46,065
+$ 31,623
+$ 83,418
+$ 54,886
+Interest expense
+System Open Market Account:
+Note8(B)
+Securities sold under agreements to repurchase
+$ 4,290
+$21
+$ 4,734
+$21
+Other
+2
+—
+2
+1
+Depository institutions and others
+Note8(D)
+7,485
+1,106
+9,440
+2,000
+Total interest expense
+11,777
+1,127
+14,176
+2,022
+Net interest income
+34,288
+30,496
+69,242
+52,864
+Other items of income (loss)
+System Open Market Account:
+Treasury securities (losses), net
+$ (5)
+$ —
+$ (5)
+$ —
+Federal agency and government-sponsored enterprise mortgage-backed securities (losses) income, net
+(180)
+75
+(215)
+(15)
+Foreign currency translation (losses) income, net
+(1,479)
+80
+(2,211)
+(1,054)
+Other
+19
+9
+34
+25
+Income from services
+118
+113
+234
+228
+Reimbursable services to government agencies
+202
+193
+388
+377
+Other components of net benefit costs
+118
+86
+238
+174
+Other
+8
+15
+18
+27
+Total other items of (loss) income
+(1,199)
+571
+(1,519)
+(238)
+Operating expenses
+Note8(E)
+Salaries and benefits
+$ 911
+$ 940
+$ 1,824
+$ 1,885
+System pension service cost
+235
+233
+469
+466
+Occupancy
+77
+80
+151
+159
+Equipment
+63
+56
+118
+110
+Other
+265
+192
+514
+371
+Assessments:
+Board of Governors operating expenses and currency costs
+520
+514
+960
+932
+Bureau of Consumer Financial Protection
+67
+166
+343
+285
+Total operating expenses
+2,138
+2,181
+4,379
+4,208
+Total Reserve Bank net income from operations
+30,951
+28,886
+63,344
+48,418
+Consolidated variable interest entities: Income, net
+Note8(C)
+232
+475
+503
+176
+Consolidated variable interest entities: Non-controlling interest (income), net
+Note8(C)
+(224)
+(441)
+(488)
+(149)
+Reserve Bank and consolidated variable interest entities net income before providing for remittances to the Treasury
+30,959
+28,920
+63,359
+48,445
+Earnings remittances to the Treasury
+30,560
+28,767
+62,809
+48,263
+Net income after providing for remittances to the Treasury
+399
+153
+550
+182
+Change in prior service costs related to benefit plans
+(8)
+(14)
+(15)
+(28)
+Change in actuarial gains related to benefit plans
+7
+47
+14
+94
+Total other comprehensive (loss) income
+(1)
+33
+(1)
+66
+Comprehensive income
+$ 398
+$ 186
+$ 549
+$ 248
+Combined statements of changes in capital
+(in millions, except share data)
+Reserve Bank capital
+Consolidated variable interest entities: Non-controlling interest
+Total Reserve Bank capital and consolidated variable interest entities non-controlling interest
+Capital paid-in
+Surplus
+Total Reserve Bank capital
+Net income retained
+Accumulated other comprehensive income (loss)
+Total surplus
+Balance at December 31, 2020 (647,525,381 shares of Reserve Bank capital stock)
+$ 32,376
+$ 11,244
+$ (4,419)
+$ 6,825
+$ 39,201
+$ 110,646
+$ 149,847
+Net change in capital stock issued (30,008,722 shares)
+1,501
+—
+—
+—
+1,501
+—
+1,501
+Comprehensive income:
+Reserve Bank net income after providing remittances to the Treasury
+—
+(1,145)
+—
+(1,145)
+(1,145)
+—
+(1,145)
+Consolidated variable interest entities: income, net
+—
+48
+—
+48
+48
+927
+975
+Other comprehensive income (loss)
+—
+—
+1,640
+1,640
+1,640
+—
+1,640
+Dividends on capital stock
+—
+(583)
+—
+(583)
+(583)
+—
+(583)
+Consolidated variable interest entities: Non-controlling interest—capital contribution (distribution)
+—
+—
+—
+—
+—
+(91,243)
+(91,243)
+Consolidated variable interest entities: Non-controlling interest—(earnings distribution)
+—
+—
+—
+—
+—
+(529)
+(529)
+Net change in Reserve Bank capital and non-controlling interest
+1,501
+(1,680)
+1,640
+(40)
+1,461
+(90,845)
+(89,384)
+Balance at December 31, 2021 (677,534,103 shares of Reserve Bank capital stock)
+$ 33,877
+$ 9,564
+$ (2,779)
+$ 6,785
+$ 40,662
+$ 19,801
+$ 60,463
+Net change in capital stock issued (20,845,333 shares)
+1,042
+—
+—
+—
+1,042
+—
+1,042
+Comprehensive income:
+Reserve Bank net income after providing for remittances to the Treasury
+—
+535
+—
+535
+535
+—
+535
+Consolidated variable interest entities: income (loss), net
+—
+15
+—
+15
+15
+488
+503
+Other comprehensive income (loss)
+—
+—
+(1)
+(1)
+(1)
+—
+(1)
+Dividends on capital stock
+—
+(549)
+—
+(549)
+(549)
+—
+(549)
+Consolidated variable interest entities: Non-controlling interest—capital contribution (distribution)
+—
+—
+—
+—
+—
+(3,318)
+(3,318)
+Consolidated variable interest entities: Non-controlling interest—(earnings distribution)
+—
+—
+—
+—
+—
+—
+—
+Net change in Reserve Bank capital and non-controlling interest
+1,042
+1
+(1)
+—
+1,042
+(2,830)
+(1,788)
+Balance at June 30, 2022 (698,379,436 shares of Reserve Bank capital stock)
+$ 34,919
+$ 9,565
+$ (2,780)
+$ 6,785
+$ 41,704
+$ 16,971
+$ 58,675
+Supplemental Financial Information
+(1) Loans
+Loans to Depository Institutions
+The Reserve Banks offer primary, secondary, and seasonal loans to eligible borrowers (depository institutions that maintain reservable transaction accounts or nonpersonal time deposits and have established discount window borrowing privileges). Primary and secondary loans are extended on a short-term basis, typically overnight, whereas seasonal loans may be extended for a period of up to nine months.
+Other Loans
+The Board of Governors authorized the Paycheck Protection Program Liquidity Facility (PPPLF) under section 13(3) of the Federal Reserve Act (FRA) to support the flow of credit to households and businesses. The PPPLF program extended credit to eligible financial institutions that participate in the Small Business Administration's (SBA) Paycheck Protection Program, taking the loans as collateral at face value. The PPPLF ceased extending credit on July 30, 2021.
+The amounts outstanding at June 30, 2022, and December 31, 2021, for loans to depository institutions and other loans were as follows:
+Table 1. Loans to depository institutions and other loans
+(in millions)
+June 30, 2022
+December 31, 2021
+Loans to depository institutions
+Primary, secondary, and seasonal credit
+$ 2,436
+$ 555
+Other loans
+PPPLF
+17,906
+33,853
+Total loans
+$ 20,342
+$ 34,408
+The remaining maturity distribution of loans to depository institutions and other loans outstanding as of June 30, 2022, and December 31, 2021, was as follows:
+Table 2. Maturity distribution of Loans to depository institutions and other loans
+(in millions)
+Remaining maturity
+Total
+Within 15 days
+16 days to 90 days
+91 days to 1 year
+Over 1 year to 5 years
+June 30, 2022
+Loans to depository institutions
+Primary, secondary, and seasonal credit
+$ 1,480
+$ 956
+$ —
+$ —
+$ 2,436
+Other loans
+PPPLF
+1
+17
+—
+—
+17,889
+17,906
+Total loans
+$ 1,497
+$ 956
+$—
+$ 17,889
+$ 20,342
+December 31, 2021
+Loans to depository institutions
+Primary, secondary, and seasonal credit
+$ 252
+$ 303
+$ —
+$ —
+$ 555
+Other loans
+PPPLF
+—
+—
+1,445
+32,408
+33,853
+Total loans
+$ 252
+$ 303
+$ 1,445
+$ 32,408
+$ 34,408
+1. A component of PPPLF loans presented in the "Within 15 days" category has reached maturity and is recognized as performing loans based upon the underlying guarantee of the collateral by the SBA.
+Return to table
+At June 30, 2022, and December 31, 2021, the Reserve Banks did not have any loans that were impaired, restructured, past due and determined non-performing, or on non-accrual status, and no allowance for loan losses was required.
+(2) System Open Market Account (SOMA) Holdings
+Treasury securities, federal agency and government-sponsored enterprise (GSE) mortgage-backed securities (MBS), and GSE debt securities are reported at amortized cost in the Combined statements of condition. SOMA portfolio holdings at June 30, 2022, and December 31, 2021, were as follows:
+Table 3. Domestic SOMA portfolio holdings
+(in millions)
+June 30, 2022
+December 31, 2021
+Amortized cost
+Fair value
+Cumulative unrealized gains (losses), net
+Amortized cost
+Fair value
+Cumulative unrealized gains (losses), net
+Treasury securities
+Bills
+$ 324,978
+$ 324,467
+$ (511)
+$ 325,956
+$ 325,929
+$ (27)
+Notes
+3,805,649
+3,604,863
+(200,786)
+3,812,476
+3,802,434
+(10,042)
+Bonds
+1,859,973
+1,634,471
+(225,502)
+1,778,994
+1,923,692
+144,698
+Total Treasury securities
+$ 5,990,600
+$ 5,563,801
+$ (426,799)
+$ 5,917,426
+$ 6,052,055
+$ 134,629
+Federal agency and GSE MBS
+Residential
+$ 2,760,515
+$ 2,468,277
+$ (292,238)
+$ 2,675,057
+$ 2,667,752
+$ (7,305)
+Commercial
+9,647
+8,447
+(1,200)
+10,211
+10,068
+(143)
+Total federal agency and GSE MBS
+$ 2,770,162
+$ 2,476,724
+$ (293,438)
+$ 2,685,268
+$ 2,677,820
+$ (7,448)
+GSE debt securities
+2,597
+2,906
+309
+2,610
+3,298
+688
+Total domestic SOMA portfolio securities holdings
+$ 8,763,359
+$ 8,043,431
+$ (719,928)
+$ 8,605,304
+$ 8,733,173
+$ 127,869
+Memorandum—Commitments for purchases of:
+Treasury securities
+1
+$ 6,458
+$ 6,458
+$—
+$ 4,674
+$ 4,674
+$—
+Federal agency and GSE MBS
+1
+46,630
+46,571
+(59)
+98,724
+98,693
+(31)
+Memorandum—Commitments for sales of:
+Treasury securities
+2
+$—
+$—
+$—
+$—
+$—
+$—
+Federal agency and GSE MBS
+2
+—
+—
+—
+87
+87
+—
+1. The amortized cost column presents unsettled purchase costs.
+Return to table
+2. The amortized cost column presents unsettled sales proceeds.
+Return to table
+The following table provides additional information on the amortized cost and fair values of the federal agency and GSE MBS portfolio at June 30, 2022, and December 31, 2021:
+Table 4. Detail of Federal agency and GSE MBS holdings—distribution of MBS holdings by coupon rate
+(in millions)
+June 30, 2022
+December 31, 2021
+Amortized cost
+Fair value
+Amortized cost
+Fair value
+Residential
+1.50%
+$ 176,763
+$ 154,641
+$ 176,227
+$ 172,999
+2.00%
+1,079,645
+937,029
+1,053,493
+1,036,086
+2.50%
+792,150
+700,728
+736,648
+728,310
+3.00%
+342,402
+317,560
+334,788
+340,133
+3.50%
+216,163
+207,085
+216,456
+223,964
+4.00%
+111,797
+108,915
+114,300
+119,260
+4.50%
+30,173
+30,493
+29,973
+32,369
+5.00%
+8,870
+9,162
+10,238
+11,377
+5.50%
+2,192
+2,285
+2,521
+2,794
+6.00%
+315
+332
+361
+402
+6.50%
+45
+47
+52
+58
+Total
+$ 2,760,515
+$ 2,468,277
+$ 2,675,057
+$ 2,667,752
+Commercial
+1.00%–1.50%
+$ 92
+$ 75
+$ 92
+$ 87
+1.51%–2.00%
+469
+392
+503
+485
+2.01%–2.50%
+1,048
+909
+1,128
+1,104
+2.51%–3.00%
+1,498
+1,311
+1,593
+1,567
+3.01%–3.50%
+2,997
+2,623
+3,151
+3,119
+3.51%–4.00%
+3,259
+2,890
+3,448
+3,417
+4.01%–4.50%
+284
+247
+296
+289
+Total
+$ 9,647
+$ 8,447
+$ 10,211
+$ 10,068
+Total MBS
+$ 2,770,162
+$ 2,476,724
+$ 2,685,268
+$ 2,677,820
+The Federal Reserve Bank of New York (FRBNY) may engage in purchases of securities under agreements to resell (repurchase agreements) with primary dealers and eligible counterparties (repo operations), and foreign official account holders under the Foreign and International Monetary Authorities (FIMA) Repo Facility. The FRBNY may also engage in sales of securities under agreements to repurchase (reverse repurchase agreements) with primary dealers and with a set of expanded counterparties that includes banks, savings associations, GSEs, and domestic money market funds. Reverse repurchase agreements may also be executed with foreign official and international account holders as part of a service offering. Financial information related to repurchase agreements and reverse repurchase agreements at June 30, 2022, and December 31, 2021, was as follows:
+Table 5. Reverse Repurchase Agreements
+(in millions)
+June 30, 2022
+December 31, 2021
+Reverse repurchase agreements conducted with
+Primary dealers and expanded counterparties:
+Contract amount outstanding, end of period
+$ 2,329,743
+$ 1,904,582
+Securities pledged (par value), end of period
+2,502,960
+1,844,099
+Securities pledged (fair value), end of period
+2,339,559
+1,905,973
+Foreign official and international accounts:
+Contract amount outstanding, end of period
+271,483
+278,459
+Securities pledged (par value), end of period
+287,663
+274,442
+Securities pledged (fair value), end of period
+271,611
+278,472
+Total reverse repurchase agreement contract amount outstanding, end of period
+$ 2,601,226
+$ 2,183,041
+There were no outstanding repurchase agreement contracts that were transacted with primary dealers, eligible counterparties, and foreign official and international account holders as of June 30, 2022, and December 31, 2021, respectively.
+The remaining maturity distribution of Treasury securities, federal agency and GSE MBS bought outright, GSE debt securities, repurchase agreements, and reverse repurchase agreements at June 30, 2022, and December 31, 2021, was as follows:
+Table 6. Maturity distribution of SOMA domestic portfolio securities, securities purchased under agreements to resell, and securities sold under agreements to repurchase
+(in millions)
+Within 15 days
+16 days to 90 days
+91 days to 1 year
+Over 1 year to 5 years
+Over 5 years to 10 years
+Over 10 years
+Total
+June 30, 2022:
+Treasury securities (par value)
+$ 70,030
+$ 299,319
+$ 862,686
+$ 2,056,469
+$ 1,022,919
+$ 1,431,907
+$ 5,743,330
+Federal agency and GSE residential MBS (par value)
+1
+—
+1
+46
+1,815
+54,678
+2,644,024
+2,700,564
+Federal agency and GSE commercial MBS (par value)
+1
+—
+—
+—
+168
+4,859
+3,737
+8,764
+GSE debt securities (par value)
+—
+—
+—
+—
+2,134
+213
+2,347
+Securities sold under agreements to repurchase (contract amount)
+2,601,226
+—
+—
+—
+—
+—
+2,601,226
+December 31, 2021
+Treasury securities (par value)
+$ 54,973
+$ 351,418
+$ 727,400
+$ 2,146,103
+$ 1,019,239
+$ 1,353,409
+$ 5,652,542
+Federal agency and GSE residential MBS (par value)
+1
+—
+—
+26
+1,690
+55,311
+2,549,282
+2,606,309
+Federal agency and GSE commercial MBS (par value)
+1
+—
+—
+—
+113
+5,017
+4,107
+9,237
+GSE debt securities (par value)
+—
+—
+—
+—
+2,134
+213
+2,347
+Securities sold under agreements to repurchase (contract amount)
+2,183,041
+—
+—
+—
+—
+—
+2,183,041
+1. The par amount shown for federal agency and GSE residential MBS and commercial MBS is the remaining principal balance of the securities.
+Return to table
+Table 6a. Estimated weighted-average life of residential and commercial MBS
+(in years)
+June 30, 2022
+December 31, 2021
+RMBS
+8.8
+5.7
+CMBS
+7.9
+8.3
+Federal agency and GSE residential MBS (RMBS) and commercial MBS (CMBS) are reported at stated maturity in table 6. The estimated weighted-average lives of these securities differ from the stated maturity in table 6 primarily because these estimated weighted-average lives factor in scheduled payments and prepayment assumptions. The estimated weighted-average life of RMBS and CMBS as of June 30, 2022, and December 31, 2021, was as follows:
+Information about transactions related to Treasury securities, federal agency and GSE MBS, and GSE debt securities held in the SOMA during the six months ended June 30, 2022, and during the year ended December 31, 2021, is summarized as follows:
+Table 7a. Domestic portfolio transactions of SOMA securities—bills, notes, and bonds
+(in millions)
+Bills
+Notes
+Bonds
+Total Treasury securities
+Balance at December 31, 2020
+$ 325,937
+$ 3,133,576
+$ 1,496,358
+$ 4,955,871
+Purchases
+1
+996,069
+1,380,267
+324,921
+2,701,257
+Sales
+1
+—
+(50)
+—
+(50)
+Realized gains (losses), net
+2
+—
+—
+—
+—
+Principal payments and maturities
+(996,284)
+(691,911)
+(42,195)
+(1,730,390)
+Amortization of premiums and accretion of discounts, net
+234
+(23,435)
+(10,772)
+(33,973)
+Inflation adjustment on inflation-indexed securities
+—
+14,029
+10,682
+24,711
+Subtotal of activity
+19
+678,900
+282,636
+961,555
+Balance at December 31, 2021
+$ 325,956
+$ 3,812,476
+$ 1,778,994
+$ 5,917,426
+Purchases
+1
+508,953
+385,227
+77,020
+971,200
+Sales
+1
+—
+—
+(21)
+(21)
+Realized (losses), net
+2
+—
+—
+(5)
+(5)
+Principal payments and maturities
+(510,573)
+(393,846)
+—
+(904,419)
+Amortization of premiums and accretion of discounts, net
+642
+(9,956)
+(4,870)
+(14,184)
+Inflation adjustment on inflation-indexed securities
+—
+11,748
+8,855
+20,603
+Subtotal of activity
+(978)
+(6,827)
+80,979
+73,174
+Balance at June 30, 2022
+$ 324,978
+$ 3,805,649
+$ 1,859,973
+$ 5,990,600
+Year-ended December 31, 2021
+Supplemental information–par value of transactions
+Purchases
+3
+$ 996,284
+$ 1,363,886
+$ 309,172
+$ 2,669,342
+Sales
+—
+(50)
+—
+(50)
+Six months ended June 30, 2022
+Supplemental information—par value of transactions
+Purchases
+3
+$ 510,573
+$ 386,358
+$ 77,697
+$ 974,628
+Sales
+—
+—
+(25)
+(25)
+1. Purchases and sales may include payments and receipts related to principal, premiums, discounts, and inflation compensation adjustments to the basis of inflation-indexed securities. The amount reported as sales includes the realized gains and losses on such transactions.
+Return to table
+2. Realized gains (losses), net is the offset of the amount of realized gains and losses included in the reported sales amount.
+Return to table
+3. Includes inflation compensation.
+Return to table
+Table 7b. Domestic portfolio transactions of SOMA securities—residential and commercial MBS and GSE debt securities
+(in millions)
+Residential MBS
+Commercial MBS
+Total federal agency and GSE MBS
+GSE debt securities
+Balance December 31, 2020
+$ 2,098,753
+$ 10,962
+$ 2,109,715
+$ 2,634
+Purchases
+1
+1,444,058
+328
+1,444,386
+—
+Sales
+1
+(255)
+—
+(255)
+—
+Realized gains, net
+2
+1
+—
+1
+—
+Principal payments and maturities
+(836,672)
+(916)
+(837,588)
+—
+Amortization of premiums and accretion of discounts, net
+(30,828)
+(163)
+(30,991)
+(24)
+Subtotal of activity
+576,304
+(751)
+575,553
+(24)
+Balance December 31, 2021
+$ 2,675,057
+$ 10,211
+$ 2,685,268
+$ 2,610
+Purchases
+1
+330,587
+—
+330,587
+—
+Sales
+1
+(232)
+—
+(232)
+—
+Realized (losses), net
+2
+(16)
+—
+(16)
+—
+Principal payments and maturities
+(236,908)
+(473)
+(237,381)
+—
+Amortization of premiums and accretion of discounts, net
+(7,973)
+(91)
+(8,064)
+(13)
+Subtotal of activity
+85,458
+(564)
+84,894
+(13)
+Balance June 30, 2022
+$ 2,760,515
+$ 9,647
+$ 2,770,162
+$ 2,597
+Year-ended December 31, 2021
+Supplemental information—par value of transactions
+Purchases
+$ 1,413,602
+$ 313
+$ 1,413,915
+$—
+Sales
+(248)
+—
+(248)
+—
+Six months ended June 30, 2022
+Supplemental information—par value of transactions
+Purchases
+$ 331,405
+$—
+$ 331,405
+$—
+Sales
+(243)
+—
+(243)
+—
+1. Purchases and sales may include payments and receipts related to principal, premiums, and discounts. The amount reported as sales includes the realized gains and losses on such transactions. Purchases and sales exclude MBS TBA transactions that are settled on a net basis.
+Return to table
+2. Realized gains (losses), net is the offset of the amount of realized gains and losses included in the reported sales amount.
+Return to table
+Information about foreign currency denominated investments recorded at amortized cost and valued at foreign currency market exchange rates held in the SOMA at June 30, 2022, and December 31, 2021, was as follows:
+Table 8. Foreign currency denominated investments
+(in millions)
+June 30, 2022
+December 31, 2021
+Euro:
+Foreign currency deposits
+$ 6,641
+$ 6,576
+French government debt instruments
+2,642
+2,910
+Dutch government debt instruments
+1,223
+1,791
+German government debt instruments
+724
+932
+Japanese yen:
+Foreign currency deposits
+6,415
+7,564
+Japanese government debt instruments
+473
+557
+Total
+$ 18,118
+$ 20,330
+The remaining maturity distribution of foreign currency denominated investments at June 30, 2022, and December 31, 2021, was as follows:
+Table 9. Maturity distribution of foreign currency denominated investments
+(in millions)
+Within
+15 days
+16 days to
+90 days
+91 days to
+1 year
+Over 1 year to
+5 years
+Over 5 years to
+10 years
+Total
+June 30, 2022
+Euro
+$ 1,614
+$ 5,206
+$ 304
+$ 2,537
+$ 1,569
+$ 11,230
+Japanese yen
+6,415
+470
+—
+3
+—
+6,888
+Total
+$ 8,029
+$ 5,676
+$ 304
+$ 2,540
+$ 1,569
+$ 18,118
+December 31, 2021
+Euro
+$ 2,149
+$—
+$ 5,329
+$ 2,163
+$ 2,568
+$ 12,209
+Japanese yen
+7,564
+23
+531
+3
+—
+8,121
+Total
+$9,713
+$ 23
+$5,860
+$2,166
+$ 2,568
+$ 20,330
+At June 30, 2022, and December 31, 2021, the fair value of foreign currency denominated investments held in the SOMA was $17,872 million and $20,398 million, respectively.
+Because of the global character of bank funding markets, the Federal Reserve System has, at times, coordinated with other central banks to provide liquidity. The Federal Open Market Committee (FOMC) authorized and directed the FRBNY to maintain standing U.S. dollar liquidity swap arrangements with the Bank of Canada, the Bank of England, the Bank of Japan, the European Central Bank, and the Swiss National Bank in order to provide U.S. dollar liquidity to foreign markets. The FOMC established temporary swap U.S. dollar liquidity lines with the Reserve Bank of Australia, the Banco Central do Brasil, the Danmarks Nationalbank (Denmark), the Bank of Korea, the Banco de Mexico, the Norges Bank (Norway), the Reserve Bank of New Zealand, the Monetary Authority of Singapore, and the Sveriges Riksbank (Sweden). The temporary swap lines expired on December 31, 2021.
+The remaining maturity distribution of U.S. dollar liquidity swaps that were allocated to the Reserve Banks at June 30, 2022, and December 31, 2021, was as follows:
+Table 10. Maturity distribution of U.S. dollar liquidity swaps
+(in millions)
+Within 15 days
+16 days to 90 days
+Total
+June 30, 2022
+Euro
+$347
+$—
+$347
+December 31, 2021
+Euro
+$ 940
+$—
+$ 940
+Mexican peso
+—
+50
+50
+Swiss franc
+2,350
+—
+2,350
+Total
+$ 3,290
+$ 50
+$ 3,340
+The following table presents the realized gains (losses) and the change in the cumulative unrealized gains related to SOMA domestic securities holdings during the periods ended June 30, 2022, and June 30, 2021:
+Table 11. Realized gains (losses) and change in unrealized gain position
+(in millions)
+Six months ended June 30, 2022
+Six months ended June 30, 2021
+Realized gains
+(losses), net
+1
+,
+2
+Change in cumulative unrealized gains (losses)
+3
+Realized gains
+(losses), net
+2
+Change in cumulative unrealized gains (losses)
+3
+Treasury securities
+$ (5)
+$ (561,428)
+$ —
+$ (152,224)
+Federal agency and GSE MBS
+Residential
+(215)
+(284,933)
+(15)
+(33,096)
+Commercial
+—
+(1,057)
+—
+(171)
+Total federal agency and GSE MBS
+(215)
+(285,990)
+(15)
+(33,267)
+GSE debt securities
+—
+(379)
+—
+(149)
+Total
+$ (220)
+$ (847,797)
+$ (15)
+$ (185,640)
+1. Realized gains (losses) for Treasury securities are reported in "Other items of income (loss): System Open Market Account: Treasury securities gains (losses), net" in the Combined statements of operations.
+Return to table
+2. Realized gains (losses) for federal agency and GSE MBS are reported in "Other items of income (loss): System Open Market Account: Federal agency and government-sponsored enterprise mortgage-backed securities gains (losses), net" in the Combined statements of operations.
+Return to table
+3. Because SOMA securities are recorded at amortized cost, the change in the cumulative unrealized gains (losses) is not reported in the Combined statements of operations.
+Return to table
+(3) Consolidated Variable Interest Entities (VIEs)
+The Board of Governors authorized several lending facilities under section 13(3) of the Federal Reserve Act (FRA) to support the flow of credit to households and businesses. The combined financial statements include the accounts and result of operations of the consolidated VIEs formed to administer certain lending facilities. A Reserve Bank consolidates a VIE if it has a controlling financial interest. The Reserve Banks that are controlling members have extended loans to the VIEs under the authority of section 13(3) of the FRA. Intercompany balances and transactions are eliminated in consolidation. Pursuant to the Coronavirus Aid, Relief, and Economic Security Act (CARES Act), the Treasury provided credit protection to the limited liability companies (LLCs) and has a non-controlling interest in MS Facilities LLC (Main Street), Municipal Liquidity Facility LLC (MLF), Term Asset-Backed Securities Loan Facility II LLC (TALF II), and Corporate Credit Facilities LLC (CCF). The Treasury, using the Exchange Stabilization Fund, made an equity investment in CP Funding Facility II LLC (CPFF II). The assets of the VIE and the amounts provided by the Treasury as credit protection are used to secure the loan from the Reserve Banks.
+Main Street supported small and medium sized businesses, and nonprofit organizations in sound financial condition before the onset of the pandemic through the purchase of loan participations. MLF purchased municipal notes to support lending to state, city, and county governments, certain multistate entities, and other issuers of municipal securities. TALF II supported the flow of credit to consumers and businesses by enabling issuance of asset-backed securities which were backed by student loans, auto loans, credit card loans, loans guaranteed by the SBA, and certain other assets. CPFF II supported the flow of credit to households and business through US dollar-denominated commercial paper issuances which supplied credit and funding for auto loans, mortgages, and liquidity to meet operational needs of a range of companies. CCF provided liquidity to employers by purchasing original corporate bond and loans issuances, and outstanding corporate bonds and exchange traded funds.
+The authority for MLF and TALF II to purchase assets ended December 31, 2020, and Main Street's authority to purchase assets ended on January 8, 2021. During 2022 and 2021, Main Street, MLF, and TALF II returned portions of the Treasury's equity investment, as reported in table 14a and 14b, respectively. The authority for CPFF II and CCF to purchase assets ended December 31, 2020, and March 31, 2021, respectively. Prior to the termination of CCF and CPFF II, where all obligations of the facilities were repaid, the remaining assets were distributed to the FRBNY and Treasury, as reported in table 14b.
+The classification of assets and liabilities of the consolidated VIEs as of June 30, 2022, and December 31, 2021, respectively, are as follows:
+Table 12a. Net portfolio assets and liabilities of consolidated VIEs
+(in millions)
+Main Street
+MLF
+TALF II
+Total
+As of June 30, 2022:
+Assets
+Cash and cash equivalents
+1
+$ 2,510
+$ 100
+$ 39
+$ 2,649
+Short-term investments in non-marketable securities
+2
+11,851
+2,475
+987
+15,313
+Loan participations
+3
+12,099
+—
+—
+12,099
+Municipal notes
+4
+—
+2,907
+—
+2,907
+Loans
+5
+—
+—
+1,126
+1,126
+Other assets
+—
+59
+27
+86
+Total assets, net
+$ 26,460
+$ 5,541
+$ 2,179
+$ 34,180
+Liabilities
+118
+1
+1
+120
+Net assets and liabilities
+$ 26,342
+$ 5,540
+$ 2,178
+$ 34,060
+1. Includes $541 million of cash equivalents and $2,108 million cash at June 30, 2022.
+Return to table
+2. Represents the portion of the Treasury preferred equity contribution to the credit facilities, which are held as short-term investments in non-marketable securities at amortized cost and the related earnings on those investments.
+Return to table
+3. Reported at principal amount outstanding, net of allowance including interest.
+Return to table
+4. Reported at amortized cost.
+Return to table
+5. Reported at principal amount outstanding.
+Return to table
+Table 12b. Net portfolio assets and liabilities of consolidated VIEs
+(in millions)
+Main Street
+MLF
+TALF II
+Total
+As of December 30, 2021:
+Assets
+Cash and cash equivalents
+1
+$ 2,931
+$ 1
+$ 32
+$ 2,964
+Short-term investments in non-marketable securities
+2
+13,332
+3,594
+1,163
+18,089
+Short-term investments
+3
+—
+59
+—
+59
+Loan participations
+4
+13,444
+—
+—
+13,444
+Municipal notes
+5
+—
+4,131
+—
+4,131
+Loans
+6
+—
+—
+1,346
+1,346
+Other assets
+—
+79
+59
+138
+Total assets, net
+$ 29,707
+$ 7,864
+$ 2,600
+$ 40,171
+Liabilities
+152
+3
+1
+156
+Net assets and liabilities
+$ 29,555
+$ 7,861
+$ 2,599
+$ 40,015
+1. Includes $553 million of cash equivalents and $2,411 million of cash at December 31, 2021.
+Return to table
+2. Represents the portion of the Treasury preferred equity contribution to the credit facilities, which are held as short-term investments in non-marketable securities at amortized cost and the related earnings on those investments.
+Return to table
+3. Reported at fair value.
+Return to table
+4. Reported at principal amount outstanding, net of allowance including interest.
+Return to table
+5. Reported at amortized cost.
+Return to table
+6. Reported at principal amount outstanding.
+Return to table
+Investments held by MLF are subject to review each reporting period to identify indications of other-than-temporary impairment, and no impairments were indicated as of June 30, 2022. TALF II loans and Main Street loan participations are evaluated for impairment in accordance with Financial Accounting Standards Board Accounting Standards Codification Topic 310 and Topic 450. No impairments were indicated for loans, and there were no loans in non-accrual status extended by TALF II as of June 30, 2022. Main Street's allowance for loan losses consists of specific allowances for impaired loan participations and a general allowance for all other loan participations, collectively reflecting management's estimate of probable loan losses inherent in the loan portfolio at the reporting date. The principal exposure of loan participations in non-accrual status as of June 30, 2022, was $3,219 million. The evaluation of loan participations purchased by Main Street, including those in non-accrual status, resulted in a loan loss allowance of $1,799 million as of June 30, 2022. Main Street realized losses, net of subsequent recoveries, of $32 million and $4 million for charge-offs as of June 30, 2022, and June 30, 2021, respectively.
+The maturity distribution of major asset categories in the consolidated VIEs net portfolio holdings, which have set maturity terms is as follows:
+Table 13. Maturity distribution of major asset categories of consolidated VIEs
+(in millions)
+Remaining maturity
+Total
+Within 15 days
+16 days to
+90 days
+91 days to
+1 year
+Over 1 year to
+5 years
+June 30, 2022
+Cash equivalents
+$442
+$99
+$—
+$—
+$541
+Short-term investments in non-marketable securities
+15,313
+—
+—
+—
+15,313
+Loan participations
+—
+—
+—
+12,099
+12,099
+Municipal notes
+—
+—
+—
+2,907
+2,907
+Loans
+—
+—
+—
+1,126
+1,126
+Total
+$15,755
+$99
+$—
+$16,132
+$31,986
+December 31, 2021
+Cash equivalents
+$553
+$—
+$—
+$—
+$553
+Short-term investments in non-marketable securities
+18,089
+—
+—
+—
+18,089
+Short-term investments
+—
+—
+59
+—
+59
+Loan participations
+—
+—
+—
+13,444
+13,444
+Municipal notes
+—
+482
+—
+3,649
+4,131
+Loans
+—
+—
+—
+1,346
+1,346
+Total
+$ 18,642
+$ 482
+$ 59
+$ 18,439
+$ 37,622
+The following tables present information related to the portfolio holdings of the VIEs and the funding provided by the Reserve Bank and Treasury, as of June 30, 2022, and December 31, 2021, respectively.
+Table 14a. Analysis of Reserve Bank funding and Treasury non-controlling interests of VIEs
+(in millions)
+June 30, 2022
+Main Street
+MLF
+TALF II
+Total
+Outstanding amount of facility assets
+$ 12,099
+$ 2,907
+$ 1,126
+$ 16,132
+Treasury contribution, including deposits and non-marketable Treasury securities
+1
+13,940
+2,911
+1,161
+18,012
+Other assets and liabilities, net
+303
+158
+65
+526
+Unconsolidated variable interest entities: Assets available to pay Reserve Bank loans and Treasury non-controlling interests, net
+$ 26,342
+$ 5,976
+$ 2,352
+$ 34,670
+Reserve Bank funding:
+Loans outstanding
+$ 13,591
+$ 2,907
+$ 1,152
+$ 17,650
+Plus: Outstanding interest accrued
+21
+5
+4
+30
+Total controlling interests outstanding
+$ 13,612
+$ 2,912
+$ 1,156
+$ 17,680
+Non-controlling interest:
+Non-controlling interest—capital contribution
+$ 37,500
+$ 17,500
+$ 10,000
+$ 65,000
+Return of non-controlling interest—capital contribution
+(23,609)
+(14,606)
+(8,846)
+(47,061)
+Total controlling interests outstanding
+$ 13,891
+$ 2,894
+$ 1,154
+$ 17,939
+Excess of net unconsolidated VIE assets
+$ (1,161)
+$ 170
+$ 42
+$ (949)
+Allocated to non-controlling Treasury interest
+(1,161)
+155
+38
+(968)
+Allocated to Reserve Bank
+-
+15
+4
+19
+Consolidated variable interest entities: Non-controlling interest
+$ 12,730
+$ 3,049
+$ 1,192
+$ 16,971
+Memo: Earnings distribution
+2
+$—
+$—
+$—
+$—
+Non-controlling Treasury interest
+—
+—
+—
+—
+Reserve Bank
+—
+—
+—
+—
+1. Includes earnings on non-marketable Treasury securities and deposits from the Treasury. Treasury contributions held in deposit, which eliminate in consolidation, are $436 million for MLF, and $174 million for TALF II.
+Return to table
+2. Represents distribution of cumulative LLC earnings upon wind down in accordance with the LLC's legal agreements.
+Return to table
+Table 14b. Analysis of Reserve Bank funding and Treasury non-controlling interests of VIEs
+(in millions)
+December 31, 2021
+CPFF II
+CCF
+Main Street
+MLF
+TALF II
+Total
+Outstanding amount of facility assets
+$—
+$—
+$13,444
+$4,131
+$1,346
+$18,921
+Treasury contribution, including deposits and non-marketable Treasury securities
+1
+—
+—
+15,691
+4,228
+1,368
+21,287
+Other assets and liabilities, net
+—
+—
+420
+136
+90
+646
+Unconsolidated variable interest entities: Assets available to pay Reserve Bank loans and Treasury non-controlling interests, net
+$—
+$—
+$29,555
+$8,495
+$2,804
+$40,854
+Reserve Bank funding:
+Loans outstanding
+$—
+$—
+$15,478
+$4,131
+$1,405
+$21,014
+Plus: Outstanding interest accrued
+—
+—
+17
+5
+2
+24
+Total controlling interests outstanding
+$—
+$—
+$15,495
+$4,136
+$1,407
+$21,038
+Non-controlling interest:
+Non-controlling interest—capital contribution
+$10,000
+$37,500
+$37,500
+$17,500
+$10,000
+$112,500
+Return of non-controlling interest—capital contribution
+(10,000)
+(37,500)
+(21,826)
+(13,281)
+(8,636)
+(91,243)
+Total controlling interests outstanding
+$—
+$—
+$15,674
+$4,219
+$1,364
+$21,257
+Excess of net unconsolidated VIE assets
+$—
+$—
+$(1,614)
+$140
+$33
+$(1,441)
+Non-controlling Treasury interest
+—
+—
+(1,614)
+127
+31
+(1,456)
+Allocated to Reserve Bank
+—
+—
+—
+13
+2
+15
+Consolidated variable interest entities: Non-controlling interest
+$—
+$—
+$14,060
+$4,346
+$1,395
+$19,801
+Memo: Earnings distribution
+2
+$54
+$532
+$—
+$—
+$—
+$586
+Non-controlling Treasury interest
+49
+480
+—
+—
+—
+529
+Reserve Bank
+5
+52
+—
+—
+—
+57
+1. Includes earnings on non-marketable Treasury securities and deposits from the Treasury. Treasury contributions held in deposit, which eliminate in consolidation, are $634 million for MLF and $205 million for TALF II.
+Return to table
+2. Represents distribution of cumulative LLC earnings upon wind down in accordance with the LLC's legal agreements.
+Return to table
+The allocation of the excess of net unconsolidated VIE assets is determined in accordance with the limited liability company agreement for each entity. The hypothetical liquidation basis of valuation (HLBV) is applied in determining the allocation. Under the HLBV, the hypothetical liquidation of the VIE at book value forms the basis for allocating income or loss and net assets between its controlling and non-controlling interest holders.
+(4) Federal Reserve Notes
+Federal Reserve notes are the circulating currency of the United States. These notes, which are identified as issued to a specific Reserve Bank, must be fully collateralized. All of the Reserve Banks' assets are eligible to be pledged as collateral. At June 30, 2022, and December 31, 2021, all Federal Reserve notes, net, were fully collateralized.
+(5) Depository Institution Deposits
+Depository institutions' deposits primarily represent the balances in the master accounts and excess balance accounts that depository institutions hold at the Reserve Banks. Required reserve balances are those that a depository institution must hold to satisfy its reserve requirement. Reserve requirements are the amount of funds that a depository institution must hold in reserve against specified deposit liabilities. Excess reserves are those held by the depository institutions in excess of their required reserve balances. Effective March 26, 2020, reserve requirements were removed, and all balances held are excess balances.
+(6) Treasury Deposits
+The Treasury holds deposits at the Reserve Banks in a general account pursuant the Reserve Banks' role as fiscal agent and depositary of the United States.
+(7) Capital and Surplus
+The FRA requires that each member bank subscribe to the capital stock of the Reserve Bank in an amount equal to 6 percent of the capital and surplus of the member bank. These shares have a par value of $100 and may not be transferred or hypothecated. As a member bank's capital and surplus changes, its holdings of Reserve Bank stock must be adjusted. Currently, only one-half of the subscription is paid in, and the remainder is subject to call. A member bank is liable for Reserve Bank liabilities up to twice the par value of stock subscribed by it.
+The FRA requires each Reserve Bank to pay each member bank an annual dividend on paid in capital stock. By law member banks with more than $10 billion of total consolidated assets, adjusted annually for inflation, receive a dividend on paid in capital stock equal to the smaller of 6 percent or the rate equal to the high yield of the 10-year Treasury note auctioned at the last auction held prior to the payment of the dividend. Member banks with $10 billion or less of total consolidated assets, adjusted annually for inflation, receive a dividend on paid in capital stock equal to 6 percent. The dividend is paid semiannually and is cumulative.
+The FRA limits aggregate Reserve Bank surplus to $6.785 billion. On January 1, 2021, the National Defense Authorization Act for 2021 reduced the aggregate Reserve Bank surplus from $6.825 billion to $6.785 billion. On February 5, 2021, Reserve Banks made a $40 million lump sum payment to the Treasury and is reported as a component of "Earnings remittances to the Treasury" in the Combined statements of operations.
+The Treasury equity contribution to the consolidated VIEs is reported as an element of "Consolidated variable interest entities formed to administer credit and liquidity facilities: Non-controlling interest" in the Combined statements of condition. The reported amount also includes Treasury's allocated portion of undistributed net VIE assets as of June 30, 2022, determined in accordance with VIE agreements and accounting policies adopted by the VIEs.
+(8) Income and Expense
+(A) Loans to Depository Institutions and Other Loans
+Interest income on primary, secondary, and seasonal credit is accrued using the applicable rate established at least every 14 days by the Reserve Banks' boards of directors, subject to review and determination by the Board of Governors. The Money Market Mutual Fund Liquidity Facility (MMLF) program extended loans to eligible financial institutions secured by high-quality money market mutual funds. The Primary Dealer Credit Facility (PDCF) program supplied funding to primary dealers with maturities of up to 90 days. Interest income on advances made under the PPPLF, MMLF, and PDCF is accrued using the applicable rate as outlined by the term sheets of the respective programs.
+Supplemental information on interest income on loans and other loans is as follows:
+Table 15. Interest income on loans to depository institutions and other loans
+(in millions)
+Six months ended
+June 30, 2022
+1
+,
+2
+Six months ended
+June 30, 2021
+1
+Interest income:
+Primary, secondary, and seasonal credit
+$5
+$1
+PPPLF
+42
+5
+MMLF
+—
+112
+PDCF
+—
+*
+*
+Total interest income
+$47
+$118
+Average daily loan balance:
+Primary, secondary, and seasonal credit
+$ 1,325
+$ 1,112
+PPPLF
+24,360
+739
+MMLF
+—
+64,626
+PDCF
+—
+168
+Average interest rate:
+Primary, secondary, and seasonal credit
+0.76%
+0.25%
+PPPLF
+0.35%
+0.35%
+MMLF
+—
+1.24%
+PDCF
+—
+0.25%
+1. MMLF and PDCF ceased extending loans on March 31, 2021, and ceased carrying balances on April 6, 2021, and April 15, 2021, respectively.
+Return to table
+2. PPPLF ceased extending loans on July 30, 2021.
+Return to table
+* Less than $500 thousand.
+(B) SOMA Holdings
+The amount reported as interest income on SOMA portfolio holdings includes the amortization of premiums and discounts. Supplemental information on interest income on SOMA portfolio holdings is as follows:
+Table 16. Interest income on SOMA portfolio
+(in millions)
+Six months ended
+June 30, 2022
+Six months ended
+June 30, 2021
+Interest income:
+Securities purchased under agreements to resell
+$
+*
+$1
+Treasury securities, net
+58,485
+42,735
+Federal agency and GSE MBS, net
+24,839
+11,981
+GSE debt securities, net
+67
+67
+Foreign currency denominated investments, net
+1
+(21)
+(22)
+Central bank liquidity swaps
+1
+6
+Total interest income
+$ 83,370
+$ 54,768
+Average daily balance:
+Securities purchased under agreements to resell
+$ 1
+$ 326
+Treasury securities, net
+2
+6,002,595
+5,207,751
+Federal agency and GSE MBS, net
+3
+2,768,404
+2,261,481
+GSE debt securities, net
+2
+2,603
+2,628
+Foreign currency denominated investments, net
+4
+19,405
+21,708
+Central bank liquidity swaps
+5
+327
+3,877
+Average interest rate:
+Securities purchased under agreements to resell
+0.49%
+0.35%
+Treasury securities, net
+1.96%
+1.65%
+Federal agency and GSE MBS, net
+1.79%
+1.06%
+GSE debt securities, net
+5.11%
+5.11%
+Foreign currency denominated investments, net
+–0.21%
+–0.21%
+Central bank liquidity swaps
+0.58%
+0.33%
+1. As a result of negative interest rates on certain foreign currency denominated investments held in the SOMA, interest income on foreign currency denominated investments, net contains negative interest of $25 million and $27 million for the six months ended June 30, 2022 and 2021, respectively.
+Return to table
+2. Face value, net of unamortized premiums and discounts.
+Return to table
+3. Guaranteed by Fannie Mae, Freddie Mac, and Ginnie Mae. Current face value of the securities, which is the remaining principal balance of the securities, net of premiums and discounts.
+Return to table
+4. Foreign currency denominated investments are revalued daily at market exchange rates.
+Return to table
+5. Dollar value of foreign currency held under these agreements valued at the exchange rate to be used when the foreign currency is returned to the foreign central bank. This exchange rate equals the market exchange rate used when the foreign currency was acquired from the foreign central bank.
+Return to table
+* Less than $500 thousand.
+Supplemental information on interest expense on securities sold under agreement to repurchase (reverse repurchase agreements) is as follows:
+Table 17. Interest expense on securities sold under agreement to repurchase
+(in millions)
+Six months ended
+June 30, 2022
+Six months ended
+June 30, 2021
+Interest expense:
+Primary dealers and expanded counterparties
+1
+$4,179
+$16
+Foreign official and international accounts
+2
+555
+5
+Total interest expense
+$4,734
+$21
+Average daily balance:
+Primary dealers and expanded counterparties
+1
+$1,789,648
+$168,382
+Foreign official and international accounts
+2
+268,428
+217,630
+Average interest rate:
+Primary dealers and expanded counterparties
+1
+0.47%
+0.02%
+Foreign official and international accounts
+2
+0.41%
+0.00%
+1. Overnight and term reverse repurchase agreements arranged as open market operations are settled through a set of expanded counterparties that includes banks, savings associations, GSEs, and domestic money market funds.
+Return to table
+2. Reverse repurchase agreements are entered into as part of a service offering to foreign official and international account holders.
+Return to table
+(C) Consolidated Variable Interest Entities (VIEs)
+The combined financial statements include the accounts and results of operations of consolidated VIEs formed under the authority of section 13(3) of the FRA (note 3). Net income and losses from operations of the consolidated VIEs are reported as "Consolidated variable interest entities: Income, net" in the Combined statements of operations. The portion of consolidated VIE net income and loss that is allocated to the non-controlling interests is reported as "Consolidated variable entities: Non-controlling interest (income), net" in the Combined statements of operations.
+Supplemental information on consolidated VIE income is as follows:
+Table 18a. Net operating income (loss) of consolidated VIEs
+(in millions)
+Main Street
+MLF
+TALF II
+Total
+Six months ended June 30, 2022:
+Interest income
+1
+$247
+$30
+$11
+$288
+Other items of income (loss):
+Fees
+26
+1
+—
+27
+Provision for loan losses
+215
+—
+—
+215
+Total other items of income (loss)
+241
+1
+—
+242
+Less: Expenses
+2
+27
+—
+—
+27
+Net income (loss) attributable to consolidated VIEs
+$ 461
+$ 31
+$ 11
+$ 503
+Allocated to non-controlling Treasury interest
+$ 454
+$ 27
+$ 7
+$ 488
+Allocated to Reserve Bank
+$ 7
+$ 4
+$ 4
+$ 15
+1. Recorded when earned and includes amortization of premiums and accretion of discounts.
+Return to table
+2. Includes fees, participation loan servicing costs, and other expenses.
+Return to table
+Table 18b. Net operating income (loss) of consolidated VIEs
+(in millions)
+CPFF II
+CCF
+Main Street
+MLF
+TALF II
+Total
+Six months ended June 30, 2021:
+Interest income
+1
+$ 1
+$ 30
+$ 228
+$ 67
+$ 13
+$ 339
+Other items of income (loss):
+Dividends
+—
+84
+—
+—
+—
+84
+Fees
+11
+—
+21
+2
+2
+36
+Portfolio holdings gains (losses)
+2
+—
+(116)
+—
+—
+—
+(116)
+Provision for loan losses
+—
+—
+(126)
+—
+—
+(126)
+Total other items of income (loss)
+11
+(32)
+(105)
+2
+2
+(122)
+Less: Expenses
+3
+2
+1
+36
+—
+2
+41
+Net income (loss) attributable to consolidated VIEs
+$ 10
+$ (3)
+$ 87
+$ 69
+$ 13
+$ 176
+Allocated to non-controlling Treasury interest
+$ 9
+$ (9)
+$ 78
+$ 60
+$ 11
+$ 149
+Allocated to Reserve Banks
+$ 1
+$ 6
+$ 9
+$ 9
+$ 2
+$ 27
+1. Recorded when earned and includes amortization of premiums and accretion of discounts.
+Return to table
+2. Includes realized and unrealized gains and losses on portfolio holdings.
+Return to table
+3. Includes fees, participation loan servicing costs, and other expenses.
+Return to table
+(D) Depository Institution Deposits
+The Reserve Banks pay interest to depository institutions on qualifying balances held at the Reserve Banks. Effective March 26, 2020, the Board of Governors has reduced reserve requirements ratios to zero, and all balances held are excess balances, as reported in note 5. Effective July 29, 2021, the Board of Governors eliminated references to an interest on required reserves (IORR) rate and to an interest on excess reserves (IOER) rate and replaced them with a single interest on reserve balances (IORB) rate. This action eliminates reserve requirements for thousands of depository institutions and will help to support lending to households and businesses. The interest rate paid on excess balances is determined by the Board of Governors, based on a FOMC-established target range for the federal funds rate. Effective March 16, 2022, June 16, 2022, and July 28, 2022, the FOMC increased the established target range for the federal funds rate.
+The Reserve Banks also offer term deposits through the Term Deposit Facility, and all depository institutions that are eligible to receive interest on their balances at the Reserve Banks may participate in the term deposit program. The interest rate paid on these deposits is determined by auction.
+(E) Operating Expenses
+The Federal Reserve Banks have established procedures for budgetary control and monitoring of operating expenses as part of their efforts to ensure appropriate stewardship and accountability. Reserve Bank and Board governance bodies provide budget guidance for major functional areas for the upcoming budget year. The Board's Committee on Federal Reserve Bank Affairs (BAC) reviews the Banks' budgets, and the BAC chair submits the budgets to Board members for review and final action. Throughout the year, Reserve Bank and Board staffs monitor actual performance and compare it with approved budgets and forecasts.
+Additional information regarding Reserve Bank operating expenses is available each year in the Annual Report of the Board of Governors of the Federal Reserve System at
+https://www.federalreserve.gov/publications/annual-report.htm
+, and on the Audit webpage of the Board's website at
+https://www.federalreserve.gov/regreform/audit.htm
+.
+Back to Top
+Last Update:
+                    September 07, 2022

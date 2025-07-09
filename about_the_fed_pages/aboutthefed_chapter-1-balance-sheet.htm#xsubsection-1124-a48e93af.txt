@@ -1,0 +1,1308 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-1-balance-sheet.htm#xsubsection-1124-a48e93af -->
+<!-- title: The Fed - Chapter 1. Balance Sheet -->
+<!-- date_fetched: 2025-07-09T02:18:56.218014Z -->
+
+Home
+About the Fed
+Fed Financial Statements
+Federal Reserve System Audited Annual Financial Statements
+Financial Accounting Manual for Federal Reserve Banks
+Financial Accounting Manual for Federal Reserve Banks, May 2025
+PDF
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+About This Manual
+Abbreviations
+Summary of Revisions
+Chapter 1. Balance Sheet
+Chapter 2. Collateral and Custodies
+Chapter 3. Property and Equipment
+Chapter 4. System Open Market Account
+Chapter 5. Federal Reserve Notes
+Chapter 6. Reporting Requirements
+Chapter 7. Funding, Credit, Liquidity, and Loan Facilities
+Chapter 8. Special Topics
+Appendixes
+Appendix A. Currency
+Appendix B. Dividends
+Appendix C. FR 34 Accounts
+Appendix D. Software
+Appendix E. Reserved
+Appendix F. Pension
+Chapter 1. Balance Sheet
+1.00 General
+The balance sheet, form
+FR 34
+, shows in detail the assets, liabilities, and capital accounts of the Federal Reserve Banks and certain additional information such as U.S. Government deposits with special depositaries, collateral and custodies held, classifications of "Other deposits—Miscellaneous," and certain memorandum accounts.
+The Federal Reserve Act (11(a)(1)) requires the Board to publish a weekly statement of the condition of each Reserve Bank and a consolidated statement for all Reserve Banks, reflecting assets and liabilities, money held as a reserve, and details of investments owned or held by the Reserve Banks. The Board publishes the
+Factors Affecting Reserve Balances of Depository Institutions and Condition Statement of Federal Reserve Banks (H.4.1),
+weekly pursuant to this requirement.
+1
+The H.4.1 also furnishes the Board of Governors with basic, original source material for statistical data, much of which is published, relating to the condition of Federal Reserve Banks. Additional periodic Federal Reserve Bank reporting is included in
+chapter 6
+.
+Each Reserve Bank should set up such general ledger and subsidiary accounts as it requires for its own purposes to prepare the balance sheet and to maintain satisfactory internal controls. This chapter provides general descriptions of the scope of the balance sheet accounts to promote uniformity of accounting treatment. It is not the intent of this manual to redefine basic accounting principles. In those cases where the accounting treatment is unclear, Reserve Banks should contact the RBOPS Financial Accounting Policy and Reporting Section for a FAM interpretation. Transactions of the Reserve Bank must be recorded in the general ledger and reflected on the Balance Sheet; none of the principles or possible lack of specific instructions for any given transaction in this manual should be interpreted as allowing otherwise. Proper accounting practice requires consistent application of accounting principles throughout the District (i.e., head office and Branches) from year to year. If this manual permits Reserve Banks to choose optional treatment for transactions, Reserve Banks should consistently apply the chosen option to all similar transactions. In general, the provisions of this manual address Reserve Bank accounting issues and should be applied from a District perspective (for example, the process for accruals required by
+paragraph 11.56
+should be applied on a Districtwide basis rather than department or Branch basis).
+Balance Sheet
+ASSETS
+GOLD CERTIFICATE ACCOUNT
+110-025
+SPECIAL DRAWING RIGHTS certificate account
+120-025
+COIN
+130-025
+LOANS AND SECURITIES:
+Loans to depository institutions
+140-025
+Loans to others
+140-050
+Loans to others—PPPLF
+140-055
+Loans to others—BTFP
+140-057
+Acceptances
+Bought outright
+140-070*
+*
+Securities held under repurchase agreement
+140-075
+Federal agency obligations:
+Bought outright
+140-100
+Held under repurchase agreement
+140-125
+U.S. Govt. securities bought outright:
+Bills
+140-150
+Notes
+140-175
+Bonds
+140-200
+U.S. Govt. sec. held under repurchase agreement
+140-225
+Total U.S. Government securities
+140-275
+Total loans and securities
+140-800
+Principal - floating rate notes
+142-125
+FIMA Repo
+142-150
+Loan fees deferred
+145-040
+Loans payable to FRBNY/FRBB
+145-050
+Expansion account
+145-075
+Expansion account
+145-175
+Other assets—Markets
+145-260
+Other assets—SOMA
+145-275
+Fed agency MBS
+145-300
+Fed agency MBS—fail to deliver
+145-315
+Fed agency MBS—temporary investments
+145-330
+Allowance for credit losses
+145-360
+TALF—loans extended to borrowers
+145-400*
+TALF—ABS held by FRBNY at FV
+145-415*
+TALF—assets, discounts
+145-430*
+TALF—other investments
+145-445*
+TALF—assets, face
+145-460*
+TALF—FV adjustment to ABS held by LLC
+145-515*
+TALF—interest receivable
+145-530*
+TALF—FV adjustment of loans
+145-575*
+Investment in LLC
+145-600*
+Expansion account
+145-615
+Loan Participation—MSNLF
+145-660**
+**
+Investments—MSNLF
+145-662**
+Loan Participation—MSELF
+145-675**
+Investments—MSELF
+145-677**
+Loan Participation—MSPLF
+145-678**
+Investments—MSPLF
+145-680**
+Loan Participation—NONLF
+145-681**
+Investments—NONLF
+145-683**
+Loan Participation—NOELF
+145-684**
+Investments—NOELF
+145-686**
+Investments at Par—MLF
+145-700*
+Investments Discounts & Premiums—MLF
+145-701*
+Other investments—MLF
+145-702*
+Expansion account
+145-715
+Expansion account
+145-730
+Expansion account
+145-745
+Expansion account
+145-760
+Expansion account
+145-775
+Expansion account
+145-800
+Expansion account
+145-815
+ITEMS IN PROCESS OF COLLECTION:
+Transit items—
+Federal Reserve Banks
+150-025
+Depository institutions
+150-050
+Other items in process
+150-100
+Adjustments, net
+150-150
+Total items in process of collection
+150-900
+BANK PREMISES:
+Land
+160-025
+Buildings (including vaults)
+160-050
+Construction account
+160-100
+Total bank premises
+160-110
+Less depreciation
+160-125
+Bank premises, net
+160-150
+OTHER ASSETS:
+Furniture and equipment
+170-025
+Claims account closed banks
+170-075
+Foreign currencies
+170-100
+(gross $ )
+170-110*
+Reimbursable exp. and other items receivable
+170-125
+Less allowance for doubtful reimbursement
+170-130
+Reimbursable expenses, net
+170-135
+FDIC assumed indebtedness
+170-140
+Interest accrued
+170-150
+Premium on securities
+170-175
+Overdrafts
+170-200
+Deferred charges
+170-225
+Prepaid expenses:
+Materials and supplies
+170-250
+Pension costs
+170-260
+Other
+170-275
+Difference account, net
+170-300
+Suspense account—general
+170-325
+Other real estate, net
+170-350
+Currency and coin exhibits
+170-375
+Old currency series
+170-400
+Miscellaneous cash items
+170-425
+Suspense account—pricing
+170-450
+Accrued service income
+170-475
+Foreign currency liquidity swap arrangements
+170-525
+Foreign currency swap arrangements
+170-530
+Treasury Credit Protection—Main Street
+170-540**
+Expansion account
+170-550
+Expansion account
+170-560
+Expansion account
+170-570
+Expansion account
+170-580
+Expansion account
+170-590
+Total other assets
+170-800
+Interdistrict settlement account
+180-025
+TOTAL ASSETS
+190-050
+* Reported by New York only
+** Reported by Boston only
+LIABILITIES
+FEDERAL RESERVE NOTES:
+Outstanding (Received from Agent, net)
+210-025
+Less—
+Held by Bank and branches
+210-050
+In transit
+210-075
+Federal Reserve notes, net
+210-100
+DEPOSITS:
+Depository institutions
+220-025
+Due to Other F.R. Banks—Collected Funds
+220-075
+U.S. Treasury—general account
+220-100
+Foreign
+220-125
+Foreign (gross $ )
+220-130*
+Other deposits:
+U.S. Treasury—special account
+220-140*
+Officers' and certified checks
+220-150
+International organizations
+220-175
+Secy. of Treasury special account
+220-200*
+Govt.-sponsored enterprise accounts
+220-225
+Less unclassified charges
+220-250
+Net
+220-275
+FRB as Fiscal Agent
+220-325*
+Joint Accounts
+220-330
+Miscellaneous
+220-400
+Total other deposits
+220-450
+Total deposits
+220-500
+DEFERRED CREDIT ITEMS:
+Other Federal Reserve Banks
+230-050
+U.S. Treasury—general account
+230-075
+Depository institutions
+230-100
+Other items in process
+230-125
+Adjustments, net
+230-150
+Total deferred credit items
+230-500
+OTHER LIABILITIES:
+Accrued dividends unpaid
+240-025
+Unearned discount
+240-050
+Discount on securities
+240-075
+Sundry items payable
+240-125
+Suspense account—general
+240-150
+Exchange translation liability—central bank liquidity swaps
+240-190
+Accrued expenses unpaid—estimated
+240-200
+Accumulated Benefit Obligation
+240-300
+Interest on reserves due to depository institutions
+240-430
+Expansion account
+240-445
+Treasury equity contribution
+240-475
+Expansion account
+240-480
+Expansion account
+240-485
+Total other liabilities
+240-800
+Term Deposit Facility
+240-850
+Federal Agency MBS Related Liabilities
+240-875
+Designated Financial Market Utilities Deposits
+240-900
+Accrued Remittances to Treasury/Deferred Asset
+240-925
+Other Liabilities—Markets
+240-950
+Central bank liquidity swap accounts
+242-100
+Reverse repurchase agreements—foreign official and international accounts
+242-120
+Reverse repurchase agreements—primary dealers and expanded counterparties
+242-140
+Expansion account
+242-160
+Expansion account
+242-180
+Expansion account
+242-200
+Expansion account
+242-220
+Expansion account
+242-240
+TOTAL LIABILITIES
+250-025
+CAPITAL ACCOUNTS
+CAPITAL PAID IN
+310-025
+SURPLUS
+320-025
+INCOME, EXPENSES, AND DIVIDENDS:
+Current income
+330-025
+Operating expenses (deduct)
+330-050
+Other Components of Net Benefit Costs
+330-060
+Interest on reserves and term deposits
+330-078
+Provision for credit loss expense
+330-080
+Expansion account
+330-082
+Expansion account
+330-085
+Current net income
+330-090
+Profit and loss, net
+330-100
+Cost of unreimbursed Treasury services
+330-110
+Assessment by Board of Governors (deduct)
+Board expenditures
+330-125
+Expansion account
+330-130
+Assessments by Board of Governors—Bureau of Consumer Financial Protection
+330-135
+Assessments by Board of Governors—F.R. currency costs
+330-150
+Net income available for distribution
+330-160
+Deduct:
+Dividends accrued since January 1
+330-175
+Earning Remittances to Treasury
+330-200
+Transferred to or from surplus
+330-225
+Retained Earnings—Current Year
+330-275
+TOTAL CAPITAL ACCOUNTS
+340-025
+TOTAL LIABILITIES & CAPITAL ACCTS:
+350-025
+(Monthly)
+Special depositaries, Treasury tax and loan accounts
+$
+Definitive
+Book Entry
+Collateral for Treasury tax and loan accounts:
+$
+$
+Held in own vaults
+Held by other offices in own district
+Held by other F.R. Banks
+Held by depository institutions
+Collateral for loans:
+Held in own vaults
+Held by other offices in own district
+Held by other F.R. Banks
+Held by depository institutions
+Accountability to Treasury for U.S. Government securities:
+Marketable securities—
+Retired
+Canceled redeemed
+Non-marketable securities—
+On hand
+On consignment with—
+Issuing agents
+Branches
+Savings bonds issued—book entry
+Accountability for other securities:
+U.S. Government agencies—
+*Unissued
+Retired
+Canceled redeemed
+International Organizations—
+*Unissued
+Retired
+Canceled redeemed
+Other custodies held as fiscal agent of the Treasury:
+Gold—
+Held in own vaults
+Held by other F.R. Banks
+Other
+Custodies held for:
+Commodity Credit Corporation
+U.S. Treasury—
+Special gold custody account:
+For display purposes
+Other
+Other Government departments, agencies, and officials—
+Held in own vaults
+Held by other offices in own district
+Held by other F.R. Banks
+Held by depository institutions
+Other offices in own district—
+Unissued U.S. Government securities on consignment—
+On hand
+With issuing agents
+Other
+System Open Market Account
+Other F.R. Banks
+Depository Institutions—
+Securities, etc.—
+Held in own vaults
+Held by other offices in own district
+Held by other F.R. Banks
+Held by depository institutions
+Foreign correspondents—
+Acceptances
+Securities—
+Held in own vaults
+Held by others
+Earmarked gold—Held in own vaults
+Foreign Debt Collateral
+Held in own vaults
+Held by others
+International Bank for Reconstruction & Dev.—securities
+International Finance Corporation—securities
+International Monetary Fund—
+securities
+gold
+International Development Association—securities
+Inter-American Development Bank—securities
+Asian Development Bank—securities
+Miscellaneous custody items
+Collateral and custody items in process
+TOTAL
+OTHER DEPOSITS—MISCELLANEOUS
+Name of Account
+Amount
+$
+Memorandum Accounts
+Food coupons pending—
+verification
+destruction
+Noncash collection items:
+Securities and coupons on hand
+U.S. Government and agency coupons:
+Unclassified (or redeemed)
+Suspense or holdover
+Miscellaneous cash items
+International coupons:
+Redeemed
+Suspense or holdover
+Coupons detached from safekeeping holding awaiting shipment to paying agents
+Coupons clipped from unissued Treasury and agency stock
+MATURITY DISTRIBUTION
+Maturity distribution of loans:
+15 days or less
+615-020
+16–90 days
+615-025
+91 days–1 year
+615-030
+1–5 years
+615-031
+5–10 years
+615-032
+Loans over 10 years
+615-033
+Total loans
+615-035
+Maturity distribution of acceptances:
+15 days or less
+615-040*
+16–90 days
+615-045*
+Over 90 days
+615-050*
+Total Acceptances
+615-055*
+Supplemental #1
+615-110
+Supplemental #2
+615-115
+Supplemental #3
+615-120
+Supplemental #4
+615-125
+Supplemental #5
+615-130
+Supplemental #6
+615-135
+Supplemental #7
+615-140
+Supplemental #8
+615-145
+Supplemental #9
+615-150
+2.10 Gold Certificate Account (110-025)
+The Secretary of the Treasury is authorized to issue gold certificates to the Reserve Banks to monetize gold held by the U.S. Department of the Treasury (Treasury). At any time, Treasury may reacquire the gold certificates by demonetizing the gold.
+Treasury maintains an account with the Board of Governors entitled "Gold certificate fund—Board of Governors of the FR System." When the Treasury monetizes gold, it credits this account in return for deposit credit at the Federal Reserve Bank of New York (FRBNY). When demonetizing gold, Treasury decreases the account and authorizes the FRBNY to charge its deposit account. The offsetting entry in each case on the FRBNY's books is made to the Gold Certificate account and the U.S. Treasury—general account. The FRBNY accounting staff sends an advice of these entries to the Board. Also, whenever the official price of gold is changed, Treasury adjusts the account and, simultaneously, the deposit account.
+The Board maintains the account in the exact amount as shown on Treasury's books at all times. The entries are made pursuant to advice from the FRBNY and Treasury. The amount of gold certificates on each Bank's balance sheet must agree with the total in the Board's records. Monthly statements of the account are received from Treasury and confirmed by the RBOPS Financial Accounting Policy and Reporting Section.
+The Board participates substantially all of the total gold among Reserve Banks based on Federal Reserve notes outstanding (see
+paragraph 40.70
+) with an additional amount allocated to the FRBNY as a cushion to accommodate Treasury sales during the year. By law, each Bank may pledge all or any part of its account with the Federal Reserve Agent as security for Federal Reserve notes. Prior to 1978, each Bank pledged a specific amount which was then earmarked in the Board's records on a separate ledger sheet, and thereafter was subject to and reduced only with prior approval from the Assistant Federal Reserve Agent. Beginning in 1978, each Bank's holdings were pledged automatically pursuant to a continuing agreement. The amount of gold certificates pledged with the Agent—currently the same as the balance sheet total at each Bank—is reported on the Daily Statement of the Federal Reserve Agent, Form FR 5 and is also confirmed periodically.
+The gold certificate account serves as the medium for affecting an annual settlement among the Reserve Banks for amounts accumulated in the Interdistrict Settlement Account (ISA) (
+paragraph 5.00
+). Following the annual settlement, each Bank's gold certificate account is restored relative to the average Federal Reserve notes outstanding through a reallocation of securities in the System Open Market Account. (See
+paragraph 40.70
+.)
+2.20 Special Drawing Rights Certificate Account (120-025)
+Special Drawing Rights (SDRs) are issued by the International Monetary Fund (IMF) to its members in proportion to each member's quota in the IMF at the time of issuance. SDRs serve as a supplement to international monetary reserves and may be transferred from one national monetary authority to another. Under the law providing for U.S. participation in the SDR system, the Secretary of the Treasury is authorized to issue SDR certificates (broadly comparable with gold certificates) to the Federal Reserve Banks. The Banks are required to purchase them for the purpose of financing SDR acquisitions or for financing exchange stabilization operations.
+The Treasury, when it wishes to monetize a specific amount of SDRs, authorizes and requests the FRBNY to credit a special account of the Secretary of the Treasury with the total amount of such monetization and to debit the Bank's SDR certificate account by a corresponding amount. The Board participates the SDR certificate transactions among all 12 Federal Reserve Banks in proportion to Federal Reserve notes outstanding in each District at the end of the preceding year. Each of the other Federal Reserve Banks pays for its share of the SDR certificates through its Interdistrict Settlement account. Each of the eleven Banks, therefore, has an increase in one asset (SDR certificates) offset by a decline in another balance sheet asset. The FRBNY has an increase in its deposit liabilities (special account of the Secretary of the Treasury) matched by increases in two assets (SDR certificates—to the extent of its share in overall distribution effected by the Board—and Interdistrict Settlement account). In addition, pursuant to an agreement between the Federal Reserve and Treasury made in the 1960s, whenever the SDR account reaches a level of surplus, Treasury authorizes and requests the demonetization of SDRs. When this occurs, the FRBNY debits the special account of the Secretary of the Treasury with the total amount of such demonetization and credits the Bank's SDR account by a corresponding amount. As in a monetization, the Board participates these balances among all 12 Federal Reserve Banks.
+The FRBNY maintains an account for each Reserve Bank entitled "Special Drawing Rights certificate account." Amounts deposited with the FRBNY are distributed on the day of deposit rounded to the nearest million, and payment is made by direct entry to each Bank's Interdistrict Settlement account; i.e., the FRBNY's account is increased and accounts of other Reserve Banks are decreased. Entries in the opposite direction are made when Treasury reduces the total.
+Each Bank pledges the full amount in the SDR certificate account as collateral for Federal Reserve notes under a continuing pledge agreement.
+2.30 Coin (130-025)
+This account represents all United States coin held by the Reserve Banks except gold coin and coin in exhibits.
+For shipments of coin between Districts in which the shipment is not received on the same day the coin is shipped, the receiving District should establish a sub-account, defined as an in transit coin account, and follow the same accounting explained in
+paragraph 50.40
+for shipments of notes between Districts.
+2.40 Loans (140-025, 140-050, 140-055, and 140-057)
+Extensions of credit by Federal Reserve Banks are governed by Regulation A and Operating Circular 10 of each Bank. Loans to depository institutions are carried at face amount in a single account on the balance sheet. The interest is accrued on a daily basis and collected at maturity. Loans to depository institutions are pledged by each Reserve Bank as collateral for Federal Reserve notes. Loans should be evaluated for collectability on a quarterly basis and the results of the evaluation should be provided to the RBOPS Financial Accounting Policy and Reporting Section. (See
+paragraph 81.07
+for further details.)
+Accounts 140-050 and 140-055 are used for recording loans to others, the authority for which is covered in paragraphs 3 and 13 of Section 13 of the
+Federal Reserve Act
+. Account 140-050 includes activity from TALF II LLC (TALF II), the Main Street Lending Program facilities, Municipal Liquidity Facility (MLF), and Bank Term Funding Program (BTFP). Specifically, account 140-055 includes amounts extended to borrowers under the Paycheck Protection Program Lending Facility (PPPLF). See
+Chapter 7
+for more details on these facilities.
+140-025
+Loans to depository institutions
+140-050
+Loans to others
+140-055
+Loans to others—PPPLF
+140-057
+Loans to others—BTFP
+2.70 Acceptances: Bought Outright (140-070)
+The FRBNY, in carrying out the domestic policy directive adopted by the Federal Open Market Committee (FOMC), may be authorized to hold acceptances. Acceptances arise out of the shipment of goods between countries or within the United States or from the storage of goods within the United States pending marketing. All holdings of acceptances are retained on the FRBNY's balance sheet and are not participated to other Reserve Banks. When acceptances are purchased or sold, the net amount of the transaction is paid to or collected by the FRBNY from the dealer. Only the par value of this transaction is entered to this account. Other accounts that may be affected are interest accrued, premium on securities, discount on securities and, in the case of sales, profit and loss. The FRBNY has not engaged in transactions involving acceptances for several years.
+2.75 Securities Held Under Repurchase Agreements (140-075)
+The FRBNY is authorized by the FOMC to acquire Treasury, federal agency and government-sponsored enterprise (GSE) debt securities, and federal agency and GSE residential mortgage-backed securities (RMBS) as well as commercial mortgage-backed securities (CMBS) under agreement with a dealer to repurchase the securities at an established point in time (securities purchased under agreements to resell). (See
+paragraph 40.15
+.) The amounts recorded to this account represent the contractual amount of the securities held under repurchase agreements, but does not include related amounts, such as accrued interest.
+On the day of settlement, the FRBNY participates a share of the transaction to each Reserve Bank. Related interest income and gains and losses are participated to each Bank at the current domestic allocation rate. (See
+paragraph 40.70
+for the participation methodology.)
+2.80 Federal Agency Obligations: Bought Outright and Held Under Repurchase Agreement (140-100 and 140-125)
+The FRBNY is authorized by the FOMC to purchase and sell federal agency obligations for the System Open Market Account (SOMA). This account includes federal agency and GSE securities. The securities are bought from or sold to securities dealers and foreign and international accounts maintained at the FRBNY at market prices. By law, the securities must be either direct obligations of an agency of the United States, or fully guaranteed as to principal and interest by such agency.
+When these securities are purchased or sold, the net amount of the transaction is paid to or collected by the FRBNY from the dealer and only the par value is entered to this account. Other accounts that may be affected are interest accrued, premium on securities, discount on securities and, in the case of sales, profit and loss. The amortization or accretion of premiums and discounts is discussed in paragraphs
+4.00
+and
+11.52
+, respectively. The securities are accounted for at amortized cost rather than fair value; therefore, no unrealized gains or losses are recognized.
+On the day of settlement the FRBNY participates a share of the transaction to each Reserve Bank. Related interest income and gains and losses are participated to each Bank at the current domestic allocation rate. (See
+paragraph 40.70
+for the participation methodology.)
+2.90 U.S. Treasury Securities Bought Outright: Bills, Notes, and Bonds (140-150, 140-175, and 140-200)
+The FRBNY is authorized by the FOMC to purchase and sell U.S. Treasury securities for the SOMA. The securities are bought from or sold to securities dealers and foreign and international accounts maintained at the FRBNY at market prices. By law, the securities must be either direct obligations of the United States, or fully guaranteed as to principal and interest by the United States. Treasury Inflation-Protected Securities are also recorded in this account, the amounts of which are adjusted for inflation compensation.
+When securities are purchased or sold, the net amount of the transaction is paid to or collected by the FRBNY from the dealer and only the par value is entered to this account. Other accounts that may be affected are interest accrued, premium on securities, discount on securities and, in the case of sales, profit and loss. The amortization or accretion of premiums and discounts is discussed in paragraphs
+4.00
+and
+11.52
+, respectively. The securities are accounted for at amortized cost rather than fair value; therefore, no unrealized gains or losses are recognized.
+On the day of settlement the FRBNY participates a share of the transaction to each Reserve Bank. Related interest income and gains and losses are participated to each Bank according to its current domestic allocation rate. (See
+paragraph 40.70
+for the participation methodology.)
+2.95 Federal Agency Obligations, U.S. Treasury Securities, and Federal Agency and GSE Mortgage-Backed Securities: Held Under Repurchase Agreement (140-225)
+The FRBNY is authorized by the FOMC to acquire Treasury, federal agency, and GSE debt securities, and federal agency and GSE RMBS as well as CMBS under agreement with a dealer to repurchase the securities at an established point in time (securities purchased under agreements to resell). (See
+paragraph 40.15
+.)
+On the day of settlement, the FRBNY participates a share of the transaction to each Reserve Bank. Related interest income and gains and losses are participated to each Bank according to its current domestic allocation rate. (See
+paragraph 40.70
+for the participation methodology.) The repurchase agreements generally consist entirely of agreements through third-party custodial arrangements. The amounts recorded to this account represent the contractual amount of the securities held under repurchase agreements, but does not include related amounts, such as accrued interest.
+3.00 U.S. Treasury Securities: Floating Rate Notes (142-125)
+The FRBNY is authorized by the FOMC to purchase or sell Treasury floating rate notes.
+On the day of settlement, the FRBNY participates a share of the transaction to each Reserve Bank. Related interest income and gains and losses are participated to each Bank according to its current domestic allocation rate. (See
+paragraph 40.70
+for the participation methodology.) The value of these notes are recorded at amortized cost rather than fair value.
+3.01 Foreign and International Monetary Authorities Repurchase (142-150)
+The Federal Reserve established a temporary repurchase agreement facility for foreign and international monetary authorities (FIMA Repo Facility) to help support the smooth functioning of financial markets, including the U.S. Treasury market, and thus maintain the supply of credit to U.S. households and businesses. Outstanding balances under the FIMA Repo program are recorded in this account.
+3.03 Loan Fees Deferred (145-040)
+Nonrefundable fees, such as origination or commitment fees, paid to the Bank by borrowers, based on the terms of the agreement, are recorded in this account. As described in Financial Accounting Standards Board (FASB) Accounting Standards Codification (ASC) Topic 310-20, such fees are to be deferred and recognized as income over the life of the loan. The unamortized balance of deferred loan fees should be reported in the Bank's financial statements as an offset to the related loan balance. The periodic amortization of balances in this account should generally be recorded as an addition to interest income, but in some circumstances may be recorded as fees in the profit and loss accounts (330-100). Contact RBOPS Financial Accounting Policy and Reporting Section staff to discuss the proper accounting for deferred loan fees.
+3.04 Loans Payable (145-050)
+The Federal Reserve Board authorized the FRBNY and the Federal Reserve Bank of Boston (FRBB) to provide financing to their respective limited liability companies, which is booked to account 145-050. The FRBNY extended loans to the Corporate Credit Facilities LLC (closed December 17, 2021), pursuant to the Primary Market Corporate Credit Facility and Secondary Market Corporate Credit Facility. In addition, the FRBNY extended loans to the CPFF II (closed July 8, 2021), the TALF II, and the MLF.
+The FRBB extended loans to the MS Facilities LLC pursuant to the Main Street New Loan Facility (MSNLF), the Main Street Priority Loan Facility (MSPLF), the Main Street Expanded Loan Facility (MSELF), the Nonprofit Organization New Loan Facility (NONLF), and the Nonprofit Organization Expanded Loan Facility (NOELF). See
+Chapter 7
+for more details on these facilities.
+3.06 Other Assets—Markets (145-260)
+The balance in this account represents infrequent, low-value, non-SOMA Markets-related transactions conducted by the FRBNY and is not participated to other Reserve Banks. Dedicated accounts must be established prior to program start dates for transactions related to non-SOMA Markets programs that are expected to be high-value or recurring. This account may be used, however, to record transactions for newly established programs until a dedicated account is established, when the balances should be reclassified to the dedicated account. At the close of business each December 31, this account balance should include only the low-value and infrequent non-SOMA Markets-related transactions.
+3.07 Other Assets—SOMA (145-275)
+The balance in this account represents infrequent, low-value transactions for newly established low-value, SOMA programs conducted by the FRBNY and is participated to each Reserve Bank. Dedicated accounts must be established prior to program start dates for transactions related to SOMA programs that are expected to be high-value or recurring. This account may be used, however, to record transactions for newly established programs until a dedicated account is established, when these balances should be reclassified to the dedicated account. At the close of business each December 31, this account balance should include only the low-value and infrequent SOMA-related transactions.
+3.08 Federal Agency and GSE Mortgage-Backed Securities (145-300, 145-315, and 145-330)
+On January 5, 2009, the RMBS purchase program began to purchase RMBS guaranteed by Fannie Mae, Freddie Mac, and Ginnie Mae. On March 23, 2020, the CMBS purchase program began to purchase CMBS guaranteed by Fannie Mae, Freddie Mac, and Ginnie Mae. The securities are bought from or sold to securities dealers at market prices. By law, the securities must be fully guaranteed as to principal and interest by an agency of the United States. Outright transactions in RMBS and CMBS are recorded on the scheduled settlement date. (See
+paragraph 40.13
+.) If a seller fails to provide a security to the FRBNY on the contractual settlement date, a fail liability is recorded.
+When securities are purchased or sold, the net amount of the transaction is paid to or collected by the FRBNY from the dealer and only the current face amount of the RMBS and CMBS is entered to this account. Other accounts that may be affected are interest accrued, premium on securities, discount on securities and, in the case of sales, profit and loss. The amortization or accretion of premiums and discounts is discussed in paragraphs
+4.00
+and
+11.52
+, respectively. The securities are accounted for at amortized cost rather than fair value; therefore, no unrealized gains or losses are recognized.
+On the day of settlement the FRBNY participates a share of the transaction to each Reserve Bank. Related interest income and gains and losses are participated to each Bank according to its current domestic allocation rate. (See
+paragraph 11.94
+and
+paragraph 40.70
+for the participation methodology.) The following accounts are participated to each Reserve Bank:
+145-300
+Fed Agency MBS
+(includes GSE RMBS and CMBS)
+145-315
+Fed Agency MBS—fail to deliver
+(includes the receivable for GSE RMBS and CMBS fails and related fees for failing to deliver)
+145-330
+Fed Agency MBS—temporary investments
+(includes temporary investments resulting from GSE RMBS and CMBS transactions)
+3.10 Allowance for Credit Losses (145-360)
+Reserve Banks are required to recognize lifetime expected credit losses on a loan measured at amortized cost, regardless of whether the risk of credit loss is determined to be remote.
+2
+Detailed instructions on how to recognize, measure, and record an allowance for credit loss are provided in
+paragraph 81.01
+, Allowance for Credit Losses. The Reserve Banks should use account 145-360 to record allowances for credit losses. Allowances recorded in this account must be approved by the RBOPS Financial Accounting Policy and Reporting Section.
+3.13 Investment in LLC (145-600)
+In February 2012, the FRBNY acquired a building and transferred title to a newly formed and wholly owned subsidiary, Maiden & Nassau LLC, a limited liability company (LLC) organized under Delaware law. This account is used to record the investment in the LLC and is eliminated upon consolidation of the subsidiary.
+3.30 Items in Process of Collection (150-025, 150-050, 150-100, and 150-150)
+Consists of items, including but not limited to cash letters, return items, and automated clearinghouse files, deposited with the Federal Reserve for collection and, on the balance sheet date, have not yet been presented to the paying bank. The items are segregated on the FR 34 according to the accounts described in the following paragraphs. Sufficient detail or subsidiary accounts should be maintained to identify the general nature of the transactions for float reporting purposes (see
+paragraph 11.40
+), including transportation delays and midweek/holiday closings.
+Transit Items—Federal Reserve Banks (150-025)
+Represents amounts due from other Federal Reserve Banks. The balance reported on the FR 34 represents the total of items forwarded to and still in process of collection with other Districts, including cash letters, and automated clearinghouse (ACH) activity.
+Transit Items—Depository Institutions (150-050)
+Represents the amount of items including cash letters, return items, etc., which have been dispatched for collection and will be settled with depository institutions located in their own office territory. This account is charged when items are forwarded for payment. This account also includes: ACH credit transactions when the originating depository institution cannot be debited on the transaction date because of a holiday or mid-week closing; and deferred debit entries for depository institutions settled in another Reserve Bank. Cash letters reported not received by the cut-off hour by paying banks because of transportation delays should be reported in this account. Work that has been identified as lost (i.e., has remained in Transit Items for 3 business days) should not be included in this account, but should be transferred to an Adjustments, net account.
+Other Items in Process (150-100)
+Represents the aggregate amount of items held overnight for processing or dispatch on the following day, exchanges for clearinghouses, and return items held over for look-up. Only items for which credit has been passed or deferred to depositors are included. Also includes the redemption value of future due securities or coupons held pending maturity and for which the Reserve Bank has elected to credit the deferred credit account and credit has been passed or will be passed to customer accounts on a pre-determined availability schedule, securities transfers where a depository institution has been credited but the Reserve Bank is unable to complete the transaction and debit ACH return items that have been held over.
+Adjustments, Net (150-150)
+The balance in this account represents the net amount (+ or -) of check related adjustments and any other adjustments relating to items that are debited to items in process of collection including differences that are temporarily held in abeyance pending final resolution. The account contains the net of both debit and credit adjustments to items originally recorded in an items in process of collection account such as un-located differences in settlement, unlocated departmental differences, loose items, cash letters determined to be lost (see
+Transit Items—Depository Institutions (paragraph 150-050)
+, missing bundles reported by drawee banks, items believed to be listed but not enclosed in outgoing cash letters, adjustment requests received from Banks containing insufficient information, errors on clearinghouse statements discovered too late to correct, and cash letter changes discovered too late for adjustments to be made to accounting charges. Also included are check truncation adjustment items where the adjustment arises from a difference occurring between a depository institution and a Reserve Bank. Treasury check truncation adjustment items and other government related adjustment items where the adjustment arises from a difference between a Reserve Bank and Treasury or another government agency, which do not affect float should be held in Suspense Account—General pending resolution. Transactions involving items in process of collection that have been dispatched by the Federal Reserve office for which the office is unable to determine the destination distinction between other Federal Reserve Banks and depository institutions should also be included in this account. Immaterial items below a certain threshold amount are entered to a difference account in Other assets or a current expense account (as described in
+paragraph 4.40
+), as are all other differences where it is probable that the difference will not be resolved or where it is decided that it is not feasible to conduct further research.
+3.40 Bank Premises—Land (160-025)
+The balance in this account represents the original cost of land (less any charge-offs); incidental expenses in connection with the purchase; cost of wrecking old buildings (less salvage); and paving, grading, or landscaping.
+3.45 Bank Premises—Buildings (Including Vaults) (160-050)
+Includes the total cost of buildings, improvements, and additions that are owned by the Reserve Bank.
+3.55 Bank Premises—Construction Account (160-100)
+Includes any material construction or renovation. During construction, all costs of a new building, the purchase price of a building to be renovated, and all improvement and renovation costs are reported in this account. When the construction is completed, amounts to be capitalized should be transferred to the appropriate accounts under "Bank Premises." For detailed accounting procedures, see
+paragraph 30.30
+.
+3.60 Bank Premises and Furniture and Equipment—Depreciation (160-125)
+Depreciation is recorded monthly on each building. A more detailed description of capitalization and depreciation of Bank premise assets together with reporting requirements is contained in
+paragraph 30.40
+and
+30.70
+–
+30.78
+. Depreciation is recorded monthly on furniture and equipment in accordance with the provisions contained in
+paragraph 30.47
+.
+3.65 Furniture and Equipment (170-025)
+This account contains furniture, furnishings, fixtures, office equipment, automotive equipment, operating equipment such as computers and shredding machines required for specific operations, and machinery and equipment associated with building structures that are considered part of the building and will convey with the building when it is sold. Examples include air conditioning units, boilers, elevators, and heating or lighting equipment. Refer to
+paragraph 30.46
+, for a listing of capitalizable furniture and equipment examples.
+3.70 Claims Account Closed Banks (170-075)
+Direct costs incurred in connection with the collection of paper of failed banks or other obligations, such as court costs of filing suits, collection fees paid attorneys, cost of recording mortgages, premiums paid on fire, and other insurance policies covering property held under mortgage, etc., should be charged to this account. The amount of any overdraft not offset should be included.
+3.85 Foreign Currencies (170-100 and 170-110)
+Account 170-100 represents each Bank's participated share in investments denominated in foreign currencies and includes premiums, discounts, and accrued interest. The investments and the related accrued interest are reflected as "Foreign currency denominated investments, net" and "Accrued interest receivable" in the financial statements, respectively. The cost basis of foreign government debt instruments are adjusted for amortization of premiums or accretion of discounts. For further discussion, see
+paragraph 40.30
+.
+Account 170-110 is a unit account included for presentation purposes and is not presented on the FR 34. It is the sum of the foreign currency accounts across all of the Reserve Banks and is used by the FR5 system for calculating collateral for Federal Reserve notes.
+3.90 Reimbursable Expenses and Other Items Receivable (170-125)
+This account includes expenses that are reimbursable to the Bank and miscellaneous amounts that the Bank has advanced or paid on behalf of others. Individual ledger accounts are maintained as necessary to facilitate control. Each is based on actual or estimated amounts that will be reimbursed in the future.
+For the most part, the accounts will represent claims for fiscal agency work performed for Treasury (e.g., public debt operations) and for government departments and agencies. Other accounts consist of receivables due from employees such as loans or dining room charges and amounts due from others such as security deposits with airlines for the use of credit cards, losses incurred in the handling or transportation of currency that are expected to be recovered, amounts due from Treasury for mutilated currency, or tenant rent receivables. Accounts may also be maintained for miscellaneous services rendered others and purchases of goods and services for other Reserve Banks.
+Under ordinary circumstances, the amounts that are included in claims for expenses reimbursable or recoverable will represent a calculated part of items such as salaries, retirement contributions, furniture and equipment rentals, etc., that are paid initially by the Bank and included in gross expenses. In some cases, however, expenditures by the Bank are earmarked at the outset for reimbursement or recovery. Such expenditures are not included in the Bank's expenses and are debited directly to one of the receivable ledger accounts herein pending receipt of payment. This account should not be used for disbursements related to items defined as recoveries in
+paragraph 12.30
+.
+An account covering estimated fiscal agency reimbursable expenses is carried for the purpose of reflecting a more accurate current expense figure. The reimbursable expenses for the month are estimated at the end of the month and debited to this account and credited to the current expenses account. The following month, the estimated receivable is credited and the actual reimbursables are backdated and debited to this account in the applicable month. When funds are received from Treasury, generally quarterly, the balance is closed out.
+3.93 Allowance for Doubtful Reimbursement (170-130)
+This account is a contra-asset account to the Reimbursable Expenses and Other Items Receivable Account (170-125). At the time entries are made to the reimbursable account, an estimate is made of the amount of the reimbursable that will not be reimbursed. The original offset to this account is a debit to the Capital account—Cost of Unreimbursed Treasury Services (330-110). When actual amounts are determined that will not be reimbursed, the Allowance account should be debited and the Reimbursable account should be credited. This account should also be used to record allowance for the non-Treasury agencies and receivable from others. As a general rule, there will be little to no activity in this account as full costs of providing services will be passed to the Treasury. The account, however, will be maintained for contingency purposes.
+3.94 FDIC assumed indebtedness; PPPLF Collateral; Asset Backed Commercial Paper Collateral (170-140)
+This account represents depository institution discount window loans that have been subsequently assumed by the Federal Deposit Insurance Corporation (FDIC). Payment and maturity schedules are worked out with the FDIC on a case-by-case basis. In addition, the account is also used to record the assumed PPPLF and Asset Backed Commercial Paper collateral of the LLCs.
+3.95 Interest Accrued (170-150)
+This account represents interest accrued, but not yet collected, on earning assets. Earnings of nominal amounts may be credited when received except that all earnings, regardless of amount, should be accrued on the last day of the year. Record a debit to this account and a credit to earnings based on the asset type as follows:
+Interest accrued on securities, liquidity swaps, repurchase agreements, and securities lending fees in the System Open Market Account
+—the FRBNY posts these debit entries directly to each Federal Reserve Bank's accounts. Interest accruals are recognized beginning on the day that securities purchases, swap transactions, or repurchase agreements settle and ending the day before securities, swap transactions, or repurchase agreements mature or sales settle. Daily accruals are computed according to the interest calculation terms of the individual securities, swaps, and repurchase agreements. Securities lending fees are accrued based on the terms of the individual securities lending transaction. Interest accrued on foreign denominated investments is discussed at
+section 3.85
+.
+Interest accrued on investments of consolidated LLCs
+—Entries are made to the accounts of the LLCs and, as a result of consolidation, are reported by the FRBNY and the FRBB as a component of accrued interest. Interest accruals are booked at least weekly and are computed on individual issues by dividing the amount of interest to be earned by the number of days to the payment date.
+Interest accrued on loans to depository institutions
+—The daily accrual is based on the rate in effect on the previous day divided by 365 days. Accrual on a one-day loan is unnecessary.
+Record the above accruals either daily or as of each Wednesday, and on the last day of the month with the following exceptions:
+If Wednesday is a holiday, entries made for Tuesday shall include accruals for one day's earnings on Tuesday's opening balance and one day's earnings on Tuesday's closing balance, except when January 1 falls on a Wednesday.
+If the last day of the month is a non-business day, entries made for the last business day shall include accruals for any day or days thereafter during the calendar month on which the Federal Reserve Bank will be closed. For example, should the 29th day of the month fall on a Friday, entries for accrual of earnings on Friday the 29th would include one day's earnings on the opening balance on that day, and two days' earnings on the closing balance of the 29th, assuming a 31-day month.
+If the first day of the month is not a business day, entries of accruals on the first business day shall include accruals for the day or days prior thereto within the calendar month on which the Federal Reserve Bank was closed. If entry of accruals is not made daily, the entry made on the first Wednesday of the month should include accruals for any prior day or days within that calendar month.
+4.00 Premium on Securities (170-175)
+Premium on securities represents the unamortized amount paid in excess of the face value of securities in the SOMA, excluding foreign denominated investments. On the date of purchase, such excess is debited to this account. The cost bases of Treasury securities and GSE debt securities are adjusted for amortization of premiums on an effective interest method. Floating rate notes, however, continue to be adjusted using the straight-line basis. When securities are sold, any applicable premium is credited to the account. The FRBNY posts these entries to each Federal Reserve Bank's account.
+4.10 Overdrafts (170-200)
+This account is used to record depository institution overnight overdrafts with the Reserve Bank, and is debited by the amount necessary to restore the depository institution's deposit account to a zero balance.
+4.20 Deferred Charges and Prepaids (170-225 and 170-275)
+Payments made in advance for services to be rendered over future periods should be recorded as prepaid expenses and amortized as appropriate.
+3
+Prepayments under $25,000 should be charged directly to expense. Among the types of prepayments normally recorded as prepaid expenses are rent, taxes on real estate, and the cost of printing and supplies. Special accounts are provided on the balance sheet for recording the prepayments of services as well as recording general use type items such as materials and supplies. In particular, the $25,000 limitation is designed only to eliminate the need to amortize small amounts over many periods. Items purchased for future use should be recorded as a prepaid expense upon receipt. Also, prepayments for equipment purchases should be recorded as a prepaid expense until the associated equipment is received.
+Deferred charges arise through the balance sheet recognition of software and certain lease transactions. Deferred charges $25,000 or greater should be recorded in this account and amortized over the current and prospective periods that benefit from the expenditure. Deferred charges should include items such as finance lease right-of-use assets and operating lease right-of-use assets costs of major improvements to leased space and lease incentives paid to tenants that should be amortized over the life of the contract or lease respectively. (See
+paragraph 30.85
+for further discussion of leasehold improvements.)
+The deferred charges account should also be used to record charges for internal use software, including software licenses under cloud computing arrangements (CCAs), which is defined as software acquired, internally developed, or significantly modified for use by the Reserve Banks in performing their operations. Additionally, the deferred charges account should be used to record implementation costs associated with CCAs that do not contain a software license. Internally developed software and implementation costs associated with CCAs that do not contain a software license should be capitalized if the cost exceeds $100,000. Externally purchased software should be capitalized if the costs exceed $25,000 per license.
+4
+Desktop utility software and maintenance should be charged to current expense regardless of amount.
+5
+Expenditures for bulk purchases of a number of identical software licenses that are individually below the capitalization threshold can be capitalized as a single asset if the total cost is $100,000 or more and the license agreement is for a period longer than a year with notification to the RBOPS Financial Accounting Policy and Reporting Section.
+Costs incurred during software development, as well as implementation costs incurred in a cloud computing arrangement, are capitalized or expensed depending on the project stage (preliminary stage, development stage, and post-implementation stage). See "Accounting Guidance for Internal Use Software Costs" at
+Appendix D.1
+for additional information related to the appropriate accounting for these costs.
+Costs incurred during the preliminary stage, such as evaluation of alternatives and prototype development, are expensed. Costs incurred in the development stage that are capitalized include
+external costs of materials and services (e.g., consulting fees and salary, retirement, and other benefit costs of employees directly associated with the product);
+costs associated with time spent specifically to oversee developers (programmers), if determinable;
+expenditures related to system integration, which includes consultant fees and salary, retirement, and other benefit costs of employees directly associated with the integration effort; integration costs must be analyzed to determine the allocation between hardware and software;
+implementation costs associated with activities to integrate, configure and/or customize a hosted cloud computing arrangement service;
+travel costs for staff, consultants, or vendors should be capitalized if they are directly related to the software development; and
+capitalizable costs paid to another Reserve Bank for software development efforts.
+Costs incurred during the development stage related to general and administrative expense and end-user testing and training should be expensed. Post-implementation stage costs generally should be expensed, except the cost of prepaid maintenance contracts, provided that the costs meet the FAM thresholds for prepaid assets or deferred charges. Other non-capitalizable costs include process re-engineering costs, data conversion costs, and training costs.
+When internal use software is purchased and the purchase price includes non-capitalizable items (e.g., training), the price must be allocated among capitalizable and non-capitalizable items based on fair value. The costs for website development are accounted for in the same manner as costs of internal use software.
+Expenditures made to change existing software assets are considered either improvements or maintenance. Expenditures to existing software assets that meet the capitalization thresholds discussed above should be capitalized if the improvement provides additional capabilities and meets one of the following criteria:
+The quantity of output or operating efficiency of the asset is significantly increased.
+The quality of output is significantly increased.
+Improvements should be recorded as separate assets with unique useful lives determined in accordance with the discussion of useful lives below. When the results of efforts to rewrite or improve the software are significant enough to be considered a replacement to the existing software and the expenditures meet the capitalization criteria, the costs should be capitalized. Because the former software asset is significantly altered, the net book value of the former software asset is expensed.
+The costs of shared capitalized software projects (i.e., software developed by more than one Reserve Bank) should be transferred to the books of the Reserve Bank that owns the software. The Bank that owns the software should account for the entire software asset, including related amortization and disposal costs. Absent contracts or agreements that delineate ownership, the Reserve Bank that exercises control over the software is the Bank that owns the software.
+The estimated useful life over which the costs will be amortized should reflect the circumstances for that specific asset. The maximum useful life that should be assigned to a software asset is generally five years. For perpetual license agreements, the deferred charge should be amortized over a reasonable period generally, not to exceed five years, based on the type and use of the software. In unusual situations, a request to establish a longer useful life must be submitted for RBOPS Financial Accounting Policy and Reporting Section staff approval. At a minimum, each Bank should assess the useful lives of software assets annually.
+Capitalized implementation costs for a cloud computing arrangement that does not contain a software license should be amortized over the non-cancellable term of the hosting arrangement and any optional renewal periods reasonably certain to be exercised.
+Categorization of some software development or capitalization of implementation costs in cloud computing arrangements may not be as easily determined from the above guidance and may require more analysis with the product or support office, business area, and review by RBOPS Financial Accounting Policy and Reporting Section staff to determine whether the software costs should be capitalized or expensed.
+(Note: The accounting treatment for software developed internally for external use [sale] should be determined in consultation with the RBOPS Financial Accounting Policy and Reporting Section.)
+This account reflects all prepaid expenses, such as rent and real estate taxes, not specifically covered by
+paragraph 4.22
+. The cost of all prepayments of $25,000 or more is debited to this account. (See
+paragraph 4.20
+.) Also include prepayments for equipment purchases until the associated equipment is received. Additionally, some items other than materials and supplies should also be debited to this account as they are received with an offsetting credit to Sundry Items Payable (240-125). At the Reserve Bank's option, items that will be consumed within the month may be expensed and not entered to this account. This account may also be used for various control purposes, such as recording travel advances to employees and salary advances prior to the date of regular salary payment. Individual ledger accounts should be maintained as necessary to permit effective control. Advance payments held in this account for purchases pending delivery should not be amortized.
+4.22 Prepaid Expenses—Materials and Supplies (170-250)
+Payments made in advance for goods and services to be rendered over future periods should be recorded as prepaid expenses. This account is used to record the cost of materials, forms, and supplies, which are carried in the Bank's general stock for release over future periods. Items that are purchased for immediate delivery to the requesting department, such as food for the cafeteria and PCs, should not be included unless the purchases are clearly for the purpose of being carried in the Bank's general stock. Items purchased for direct usage, however, may be posted to this account when such posting and simultaneous withdrawal facilitates inventory control. Freight charges should be reflected in the cost of supplies purchased, whether to be held in stock or direct usage. When impracticable to distribute freight charges over a number of items, the cost may be applied to the largest item(s) of purchase. Freight charges billed separately, and that relate to items already in stock, may be charged to expense. The treatment of freight charges billed separately must be consistent throughout the District (i.e., either all such charges must be charged to expense, or all such charges must continue to be capitalized). The salaries and related expenses that are incurred within the Bank on duplicating and printing forms, etc., or on making parts or other items of supply, may also be debited to the account and deferred to the month of actual usage, provided senior management has approved a policy for capitalizing such costs.
+Appropriate records should be maintained to assure that the cost of materials and supplies in stock, along with materials and supplies that have been delivered to operating departments during a month, may be verified against the balance sheet. Separate subsidiary accounts should be maintained to record supplies issued during the month and the appropriate expense entries should be made by month-end. A physical inventory of materials and supplies should be conducted at least annually and any necessary adjusting entries made to expense. Items which become obsolete or which have only limited use over future periods, such as an unused supply of a monthly bulletin issued two months earlier, should be expensed unless the Reserve Bank feels that the demand for the item is likely to recur at a pace that justifies the continued recordkeeping. In the case of supplies that are sold out of inventory, the offsetting entry should be made to cash, items in process of collection, or other designated payment medium.
+Purchases for future consumption should be uniformly debited to this account and expensed by the last business day of the month based on the supplies actually used during the month, and the average cost of such supplies should always be used in calculating the expense charge.
+4.23 Prepaid Expense—Pension Costs (170-260)
+This account is used by the FRBA to record the funded status of the Retirement Plan for Employees of the Federal Reserve System (System Plan) when the fair value of plan assets exceed the projected benefit obligation, as defined by FASB ASC Topic 715-20, and required by FASB ASC Topic 715-20.
+The FRBA recognizes the costs and associated net asset or liability of the System Plan on behalf of all the System's employers. Although the System Plan has characteristics of a multi-employer plan in that the plan's assets are not severable among the participating employers, the FRBA accounts for and discloses the System Plan in a manner similar to a single-employer plan given its close administrative relationship with the Office of Employee Benefits and practice of providing funding to the plan on behalf of the System when needed; refer to appendix
+F.1
+for additional information.
+4.40 Difference Account, Net (170-300)
+Differences are reported in the account to permit settlement between incoming and outgoing work processed in various areas. A difference is an out-of-balance condition resulting from the normal operation of a department where it is probable that the difference will not be resolved or where it is decided that it is not economically feasible to conduct further research. The account thus contains amounts that the Bank has determined to be either uncollectible or else not worth the effort of doing so. While their disposition is considered final, entries to this account are subject to reversal. The account contains both overages and shortages and is shown net on the asset side of FR 34. The balance in this account should be removed and applied to current expense monthly and at year-end regardless of the year in which the differences originated. At the option of any Reserve Bank, unresolved items in the Adjustments, net or Suspense accounts for which research is complete may be written off directly to Current expense, bypassing the Difference account, providing that sufficient control and documentation exist to ensure a clear audit trail absent the Difference account entries. An expensed item that is resolved subsequently should be applied directly to expenses of the current period. General ledger accounts are maintained as necessary to permit effective control. The sources of differences are generally as follows:
+Currency and Coin
+. Tellers verifying incoming deposits are sometimes unable to locate differences in the work. Also, depository institutions will report back any differences that they find in shipments from the Reserve Bank. Any difference identifiable as to depositing institution is applied back to the depositor and is not entered in this account. Differences that result from counterfeits identified during currency processing should be charged to this account.
+Other.
+Internal differences may occur in a variety of Reserve Bank settlement operations such as the balancing of paid savings bonds, cafeteria receipts, and postmaster's deposits. Any difference that will be resolved and reversed should be posted to a suspense account.
+4.50 Suspense Account—General (170-325)
+This account represents miscellaneous debit items that are temporarily held in abeyance pending disposition. In the case of differences, the suspense account contains amounts whose disposition has yet to be decided and which the Bank has reason to believe are collectable or payable. The suspense account is used to record other items about which there are questions or which for other reasons are being held pending functioning to the appropriate account. Examples are (1) adjustments for savings bond redemptions, (2) expense items that arrive too late in the day to be vouchered or that are being held for additional information, (3) other transactions that require additional information or verification before the charge can be made to the proper account, and (4) checks cashed for employees that have been returned due to non-sufficient funds, etc. The only check-related items to be held in this account are Treasury check truncation adjustment items, and other government related adjustment items, where an un-located difference arises between a Reserve Bank and Treasury, or another government agency, and a depository institution has been credited pending resolution of the difference. Treasury check truncation adjustment items where an un-located difference occurs between a depository institution and a Reserve Bank that is float related should be held in the adjustments, net account under items in process of collection or deferred credit items as appropriate. Items that cannot be resolved should be cleared from this account by a credit and offset by a Difference account debit or may be debited directly to current expense as described in
+paragraph 4.40
+.
+4.60 Other Real Estate, Net (170-350)
+Property purchased for future Bank use is reported in this account pending final approval of the site for construction. Upon final approval of the site, the property is transferred to the Bank premises accounts. The net book value of Bank-owned property that has been classified as held for sale (see asset impairment in
+paragraph 30.95
+) should be transferred to this account and carried at net realizable value. (See
+paragraph 30.97
+.)
+4.70 Currency and Coin Exhibits (170-375)
+Represents the cost of currency and coin contained in exhibits or acquired for display purposes. (Exhibits borrowed from other Reserve Banks or from Treasury are reported as a custody item.) The exhibits are acquired pursuant to the following guidelines:
+There is no objection to the maintenance of currency and coin exhibits by the Reserve Banks, or to their retaining individual silver dollars or other pieces of coin and currency for actual use in such exhibits.
+Duplicate pieces of currency and coin that are in excess of exhibit needs should not be held for "trading" purposes, but instead should be returned to Treasury.
+There is no objection to the Reserve Banks' using the currency and coin received in the ordinary course of business to fill out their exhibits, or to their purchasing individual items from dealers or others for this purpose.
+It is inappropriate for the Reserve Banks to bid on miscellaneous collections of currency and coin offered for sale by executors of estates or others, and also inappropriate for them to trade or sell currency and coin to collectors and dealers.
+In those instances where Reserve Banks receive permanent donations of exhibits, this account should reflect an estimate of the fair market value of the exhibit at the time of the donation. The offset should go to the profit and loss account.
+4.80 Old Currency Series (170-400)
+This account contains old currency issues held pending forwarding to Treasury for redemption as mutilated currency as follows:
+Treasury notes of 1890 Silver certificates, large size
+Federal Reserve notes, large size
+United States notes, large and small size
+National Bank notes, large and small size
+Federal Reserve Bank notes, large and small size
+Gold certificates large and small issued prior to January 30, 1934
+4.90 Miscellaneous Cash Items (170-425)
+The account consists of petty cash funds, Canadian and foreign currency and coin that are held pending shipment or exchange. The FRBNY also uses this account for transactions related to the Maiden & Nassau LLC building referenced in
+paragraph 3.13
+. The OEB also uses this account to hold deposits with the trustee.
+4.91 Suspense Account—Pricing (170-450)
+This account includes the net of debit and credit items that have been reversed out of a financial institution's account because of error or other questions. The items are held in this account pending resolution. Those that cannot be resolved and charged back to a financial institution should be removed from this account and from the earnings account to which they were originally entered. Except where there are indications of unreasonable or repetitive exceptions to the billings by the Reserve Bank, some questioned items may not be worth the effort of searching. When such items are credited to the financial institution's account, they should be debited to the earnings account.
+4.92 Accrued Service Income (170-475)
+The purpose of this account is to allow for the recognition of income from services in the month in which it is earned. Accruals may be made daily but should not be less than weekly, on Wednesday or the preceding business day before Wednesday if Wednesday is a holiday, and at the end of the month. The accruals may be on any suitable basis including projections made from the previous month's experience. Accruals within the month are a means for achieving an orderly recognition of earnings. The month-end accrual should be used to adjust the month's earnings to an amount reasonably close to what will actually be realized from the services rendered during the month, unless, of course, the daily or weekly accruals are designed to automatically achieve such results. To avoid duplications in the combined earnings of all Banks, the amounts owed or due from other Reserve Banks should be taken into account in the accrual process.
+Prior to April 2018, accrued service income (the estimated receivable) was recognized at the Reserve Bank (New York, Atlanta, and Chicago), which recognizes the service income. From April 2018, accrued service income is recorded at the host Bank for billing (Minneapolis) and the off-set is recognized as service income (revenue) at Boston, New York, Atlanta, and Chicago. Transactions related to the accrued service income (an asset) and recognized service income (revenue) are passed among the Reserve Banks using the Interdistrict Settlement account (
+paragraph 5.00
+).
+4.94 Central Bank Liquidity Swap Accounts (170-525 and 170-530)
+Central bank liquidity swap facilities include U.S. dollar liquidity and foreign currency liquidity swap arrangements between the FRBNY, acting at the direction of the FOMC, and an FOMC authorized foreign central bank. The parties mutually agree to exchange their currencies up to a prearranged maximum amount, for an agreed-upon period of time. These arrangements give the authorized foreign central bank temporary access to U.S. dollars and give the Federal Reserve temporary access to the foreign currencies to deliver to U.S. institutions if conditions warrant. For further discussion, see
+paragraph 40.50
+. The recorded amount of central bank liquidity swaps is held in the SOMA and is participated to each Reserve Bank.
+U.S. Dollar Liquidity Swaps
+When a foreign central bank initiates a swap agreement with the FRBNY for the purpose of obtaining U.S. dollar liquidity, the resulting asset is recorded by the FRBNY in account
+foreign currency held under liquidity swap arrangements
+(170-525). The foreign central bank compensates the FRBNY, based on the foreign currency amounts it holds. The FRBNY records the compensation received as interest income.
+Foreign Currency Liquidity Swaps
+When the FRBNY initiates a swap agreement with a foreign central bank for the purpose of obtaining foreign currency liquidity, any resulting asset is recorded in account
+foreign currency held under swap arrangements
+(170-530). For example, the FRBNY may enter into foreign currency liquidity arrangements whereby the Bank would obtain foreign currency from a foreign central bank; in a second and related transaction, the FRBNY may enter an agreement with a U.S. depository institution under which it would provide an equivalent amount of foreign currency liquidity to that depository institution. In this example, the foreign currency provided to the depository institution would be recorded as an asset in this account; see
+paragraph 11.99
+for recording of the related liability.
+4.95 Treasury Credit Protection (170-540)
+Per operation of the Facility Lending Programs, the FRBB received a Treasury credit protection and Treasury Investments for the Main Street Lending Program. They are held at the FRBNY. Account 170-540 includes receivable and payable activity from/to the FRBB for the Main Street Lending Program facilities. See
+Chapter 7
+for more details on these facilities.
+5.00 Interdistrict Settlement Account (180-025)
+The cumulative net amount owed or due from other Federal Reserve Banks as a consequence of the InterFRB transaction settlement procedure is reported in this account. The settlement between Districts is conducted by the centralized accounting system, which captures the data needed to conduct settlement. Once settlement has been effected, the appropriate entries are posted directly to each Reserve Bank's accounts.
+Included in this process are the monthly Federal Reserve note clearings and the annual settlement through the gold certificate account of the cumulative interdistrict settlement position. (See
+paragraph 40.70
+.)
+Priced Service Transactions between Reserve Banks
+Principal Reserve Banks reimburse costs incurred for check, automated clearinghouse, funds, securities, FedNow Service, and electronic access services provided by processing (Agent) Reserve Banks. Principal Reserve Banks estimate monthly reimbursements at the end of each month and through the Interdistrict Settlement account record interbank transfers for the services provided by the Agent Reserve Banks by debiting their service costs incurred expense account and crediting the Agent Reserve Banks' services provided expense account. The following month, the estimates are trued up through the same process based on actual monthly costs incurred.
+10.01 Federal Reserve Notes Outstanding (210-025)
+Represents the net amount of Federal Reserve notes that are outstanding from the Federal Reserve Agent to the Bank. The account consists of the cumulative net issues of the present size currency minus the amount that has been returned for destruction and credit. Currency of the present size (approximately 2.61 inches by 6.14 inches) was issued beginning in July 1929; the outstanding large-size Federal Reserve notes, which were issued from 1914-1929, were removed from Reserve Bank liabilities in 1961 pursuant to the Old Series Currency Adjustment Act and absorbed into the Public Debt.
+Eleven denominations of Federal Reserve notes make up the outstanding amount. Seven denominations—$1, $2, $5, $10, $20, $50, and $100—are currently being issued to the Banks. Issuance of larger denominations of $500, $1,000, $5,000, and $10,000 was discontinued in July 1969 and the notes are returned to Treasury for destruction whenever they are received by Reserve Banks from circulation.
+Federal Reserve notes are a first and paramount lien on all of the assets of the issuing Reserve Bank. Certain of these assets are also set aside as a specific pledge with the Federal Reserve Agent in order to meet a requirement in Section 16 of the
+Federal Reserve Act
+that the notes that are in circulation outside Reserve Banks be fully collateralized. The collateral must consist of legally specified assets, alone or in any combination: (1) gold certificates, (2) U.S. Government and agency obligations, (3) special drawing rights certificates, (4) certain other assets, chiefly loans under Section 13 and foreign currencies acquired under Section 14, and (5) any other asset of a Federal Reserve Bank. The notes are also obligations of the U. S. Government, but the liability of the Government would arise only in the event of the liquidation of the Reserve Banks and then only to the extent that collateral and remaining assets of the Banks were less than the full amount of notes in circulation.
+Federal Reserve notes are printed by the Bureau of Engraving and Printing (BEP) as ordered by the Board of Governors. They are held in the vaults of the BEP until the Board directs that they be shipped to (1) a Federal Reserve Agent, the Board's representative at the Reserve Bank, or (2) upon authorization from the Agent, to the Reserve Bank cash department. Notes held by the Agent are not monetized—i.e., they are not reported on the balance sheet. They are kept in separate vaults and their status is no different in this respect than if they were still in BEP vaults. There is no advantage in keeping stocks of agent cash at Reserve Banks and in practice all notes are shipped from BEP facilities in Washington, D.C., or Ft. Worth, Texas, to the cash departments. They are issued to the Reserve Bank on the day of shipment, at which time Federal Reserve Notes Outstanding account is credited and Federal Reserve Notes Held by Bank and Branches account is debited. The reverse occurs when notes are canceled and destroyed, as explained in
+paragraph 50.50
+.
+10.25 Federal Reserve Notes—Held by Bank and Branches (210-050)
+This account consists of all present size currency held by the Bank, including currency held in off-site locations, regardless of the Bank of issue. All present size currency is handled and processed for balance sheet reporting purposes as Federal Reserve notes even though small amounts of silver certificates or United States notes may be present. The latter are determined by formula when credit is being taken for unfit currency that is destroyed, and appropriate adjustment is made to Treasury general account. Also included is canceled currency held pending destruction and currency destroyed in "late shift" work on the balance sheet date.
+10.26 Federal Reserve Notes—In Transit (210-075)
+This account is used to record issued notes in transit to or from the Bank, such as new notes that have left the BEP facilities in Washington D.C. or Ft. Worth, Texas, but have not been received by the Reserve Bank, or for notes that have been shipped from one Reserve Bank to another (Fed-to-Fed shipment), but have not been received. This account also includes notes held at a depot site.
+10.30 Deposits—Depository Institutions (220-025)
+Depository institutions' deposits represent balances maintained by depository institutions in accounts at Federal Reserve Banks. Depository institutions may hold balances in master accounts, excess balance accounts, and temporary transitional accounts. Depository institution balances in all of these accounts are captured in this line item. The Reserve Banks pay interest to depository institutions on balances held in these accounts with Reserve Banks. The interest rate paid on balances is determined by the Board of Governors.
+10.40 Due to Other FR Banks—Collected Funds (220-075)
+Amounts that are owed to another Federal Reserve Bank and which, in ordinary circumstances, would have been settled during the day are reported in this account. One of the most common examples is related to transactions where one Reserve Bank owes funds to another Reserve Bank that is closed and cannot accept InterFRB transactions. A separate subsidiary account should be maintained for these transactions.
+10.50 U.S. Treasury—General Account (220-100)
+As part of its function as fiscal agent for Treasury, and as provided by Section 15 of the
+Federal Reserve Act
+, the FRBNY maintains a deposit account for Treasury. Deposits in this account include funds realized on the sale of government securities or savings bonds, Federal tax receipts, payments for goods or services rendered by the Government, and payments of Reserve Bank earnings. The account is used by Treasury to make interest payments and redemption payments on government obligations and to pay government checks and other items drawn on the account.
+10.60 Foreign Deposits (220-125, 220-130)
+Account 220-125 includes uninvested cash balances maintained by foreign central banks, foreign governments, and other foreign official entities with Reserve Banks to facilitate the clearing of official U.S. dollar payments and securities transactions. The accounts are generally opened with the FRBNY. A fixed portion of the balances, estimated to represent a floor for these balance levels, is annually participated among the Reserve Banks on the basis of each Bank's capital and surplus ratio.
+Account 220-130 is a units account included for presentation purposes and is not presented on the FR 34. It is the sum of the foreign currency accounts across all of the Reserve Banks and is used by the FR5 system for calculating collateral for Federal Reserve notes.
+10.70 U.S. Treasury—Special Account (220-140)
+This account is used by the FRBNY at the direction of Treasury for certain Treasury deposits that require segregation from both the general account and the account used for exchange stabilization transactions. (See
+paragraph 11.10
+.) Balances related to the Treasury Supplementary Financing Program, which was initiated September 17, 2008, were also recorded in this account.
+10.80 Officers' and Certified Checks (220-150)
+The balance in this account represents the total of all unpaid checks issued by the Federal Reserve Bank, with exception of noncurrent checks which are periodically written off and charged to the Profit and Loss account.
+11.01 International Organizations (220-175)
+This account consists of balances of international organizations, such as the International Monetary Fund, International Bank for Reconstruction and Development, Inter-American Development Bank, Asian Development Bank, International Development Bank and International Finance Corporation. The law provides that any Reserve Bank which is requested to do so by such organizations should act as its depository or as its fiscal agent, and requires the Board of Governors to supervise and direct the carrying out of these functions. Accounts may be opened under other authority as well.
+11.10 Secretary of Treasury Special Account (220-200)
+This account is carried on the books of the FRBNY and is used by Treasury for exchange stabilization transactions.
+11.20 Government-Sponsored Enterprise Accounts (220-225); Less Unclassified Charges (220-250); Net (220-275)
+GSEs, such as the Federal National Mortgage Association, maintain redemption accounts with the FRBNY to cover maturing coupons and securities that are received by Reserve Banks for payment. Balances are maintained by the GSEs to cover the amounts that are due on any given payment date. Payments on definitive obligations by Reserve Banks other than the FRBNY are carried in the miscellaneous cash items account pending charge to the FRBNY. Payments by the FRBNY are entered directly to the unclassified account. When the paid coupons and securities are verified according to the respective GSE, the FRBNY credits the unclassified account and charges the appropriate GSE account.
+11.25 FRB as Fiscal Agent (220-325)
+This account is used by the FRBNY to accommodate rare situations in which the Federal Reserve, at the direction of the Treasury under Section 15 of the Federal Reserve Act, must hold funds for certain non-Treasury entities in a "non-Treasury" deposit account. These balances are not aggregated with the U.S. Treasury—general account.
+11.26 Joint Accounts (220-330)
+This account represents the balances maintained by depository institutions in a joint account at a Reserve Bank. A joint account is an account at a Reserve Bank where the rights and liabilities are shared among multiple account-holders—that is, depository institutions that are eligible to open an account with a Reserve Bank. Joint accounts at Federal Reserve Banks are intended to facilitate settlement between depository institutions participating in private-sector payment arrangements.
+11.30 Miscellaneous Deposits (220-400)
+A wide range of miscellaneous deposit accounts are carried on the books of the Reserve Banks. The deposits arise from depositary responsibilities assigned to the Reserve Banks by law—such as accounts opened by the Federal Deposit Insurance Corporation to cover closed banks and checking accounts opened by government agencies. Deposits also arise from work in process at the Reserve Banks, such as payments received from new depository institutions which have not opened for business, Term Deposit Facility maturities, collateral for payment system risk and credit accounts, and interest paid on securities held pending redemption in federal estate tax cases.
+Deposit accounts are also carried for purposes that are specific to only one or a few Reserve Banks. The Board of Governors, for example, maintains a general fund account at the Richmond Reserve Bank to cover general disbursements and another to cover payroll charges. The individual account descriptions should be adequate to identify the different types of accounts maintained under this heading. For example, "Term Deposit Facility maturities" is a sufficient description, rather than Miscellaneous Deposit account 1, etc.
+11.40 Deferred Credit Items (230-050, 230-075, 230-100, 230-125, and 230-150)
+These accounts are the counterpart of items in process of collection and arise from the fact that Reserve Banks do not give immediate credit for all checks or other items deposited with them for collection or, in some cases, are unable to pass credit on the due date for items that the Reserve Bank has already collected. Where possible, credit is deferred according to a schedule that allows time for the items to be collected. The difference between the asset accounts and these accounts represents the net of checks or other items that, although not yet collected, have already been credited in accordance with a specified time schedule to the accounts of the institutions that deposited them. This difference, called "float," measures on a System basis the net amount of Federal Reserve credit generated by the collection process by providing credit on items deposited with the Federal Reserve for collection prior to actual collection. Sufficient detail or subsidiary accounts should be maintained, as in items in process of collection (see
+paragraph 3.30
+), to identify the general nature of the transactions for float reporting purposes (e.g., cash letters, ACH, noncash).
+The amounts are carried in the following accounts:
+Other Federal Reserve Banks (230-050)
+Represents cash letters or other items which are received from other Districts or their depository institutions for which the other District will process the credit to the depository institution based on notification from the depository institution. Those items received directly from depository institutions in other Districts for which the other District would have no notice should be recorded in the Depository Institutions account below.
+U.S. Treasury—General Account (230-075)
+Consists of items received for deposit to Treasury's account on which credit is deferred, such as items in payment for federal taxes, marketable securities, savings bonds, and checks deposited by various federal agencies to Treasury's account.
+Depository Institutions (230-100)
+Represents cash letters and other items received from institutions and ACH items which cannot be credited because the depository institution is closed. Deferred credit entries for depository institutions located and/or settled in another Reserve office using InterFRB transactions should be included in this account.
+Other Items in Process (230-125)
+Represents credit items held over by the Federal Reserve Bank. This account includes, but is not limited to, electronic transfers where one depository institution has been charged but the Federal Reserve Bank cannot complete the transaction by passing credit to a depository institution, credit ACH return items which have been held over, and any prefunded credit ACH items.
+Adjustments, Net (230-150)
+Includes the net amount of adjustments (+ or -) that are made to items originally credited to any deferred credit items account prior to the date that the original entries are removed and credited on an immediate basis. Adjustments to deferred Treasury items should be reflected in the Deferred Credit Items: Treasury General Account (see
+230-075
+).
+11.50 Accrued Dividends Unpaid (240-025)
+This account represents the liability for dividends accrued to date on Reserve Bank capital paid-in from member banks that have not been paid.
+As required by the
+Federal Reserve Act
+, a bank becoming a member of the System must subscribe to stock in the Federal Reserve Bank in whose territory it is located. All stock issued to banks within a District is issued by and reflected upon the books of the Reserve Bank. After all necessary expenses of a Federal Reserve Bank have been paid or provided for, the stockholders of the Bank shall be entitled to receive an annual dividend on paid-in capital stock.
+Semiannual dividends on the paid-in stock are paid by the issuing Reserve Bank on the last business day of June and December. These dividends are accrued daily (based on a 30-day month and 360-day year) and accumulate in this account from one payment date until the next. The total amount of the daily accrual is debited to Dividends Accrued (330-175), representing a deduction from current net earnings, and credited to Accrued Dividends Unpaid as the liability for dividends due but unpaid.
+Effective January 1, 2016, Section 7(a) of the Federal Reserve Act was amended by the
+Fixing America's Surface Transportation Act
+(FAST Act), which revised the per annum dividend rate for member banks with consolidated total assets of more than $10 billion (large member banks) to the lesser of the rate equal to the high yield of the 10-year Treasury note auctioned at the last auction held prior to the payment of such dividend, and 6 percent.
+6
+The per annum dividend rate for member banks with $10 billion or less of total consolidated assets (small member banks) remains at 6 percent.
+The accrual of dividends is based on the following rates:
+For large member banks, the per annum dividend rate paid to large member banks at the last semiannual dividend payment date.
+For small member banks, a per annum dividend rate of 6 percent.
+The amount to be accrued daily should be obtained by multiplying the applicable per annum dividend rate by the Reserve Bank's paid-in capital stock from member banks, and dividing the result by 360 days (representing the standard number of days in each annual period). Dividend accruals are computed on the total of such capital paid-in as of the opening of business that day (close of business previous day). No accrual should be made on the last day of months with 31 days, and extra accruals will be required on the last day of February. Accruals for a non-business day should be made on the succeeding business day except when a non-business day is a month-end or a Wednesday. In these cases, the accruals should be included in the previous business day provided the non-business day(s) are of the same month. When the non-business days are in different months, the accrual for the non-business days should be split appropriately between the previous and subsequent days. In lieu of accruing dividends daily, accruals may be made as of each Wednesday and the last business day of the month (excluding the 31st day of any month).
+Because the dividend rate paid to large member banks at the semiannual dividend payment date will differ from the rate used for daily accruals, an adjustment to the accrual account will be required, equal to the difference between dividends accrued and the amount actually paid.
+Banks become members of and withdraw from the System at various times during an accrual period and others may subscribe to additional capital or reduce their holdings of capital between semiannual dividend payment dates. Regulation I,
+Issuance and Cancellation of Federal Reserve Bank Capital Stock,
+describes the calculation for dividend payments when a member bank increases or decreases its capital paid-in.
+7
+The accounting for dividend accruals resulting from changes in capital paid-in that occur between semiannual dividend payment dates are described as follows:
+Banks becoming members and increases in stock subscriptions
+—In these instances the stock is issued, and the member bank's account at the Reserve Bank (or its correspondent's account at the Reserve Bank) is charged for the amount of the accrued stock dividends from the last dividend payment date through the issuance date. Small member banks continue to accrue stock dividends on a per annum rate of 6 percent. The amount charged for accrued stock dividends for large member banks, as defined in section 7(a) of the Federal Reserve Act, shall be based on the dividend rate paid to large member banks at the last semiannual dividend payment date. The corresponding credit is recorded to the accrued Dividends Unpaid account. At the end of the period, the member bank is paid dividends based on the holding period of the stock. Because the rates used to compute accrued dividends on interim transactions and the amount of the dividend to be paid on the semiannual dividend date will generally differ, the accrued dividend account requires adjustment at the semiannual dividend payment date.
+Banks withdrawing from membership and decreases in stock subscriptions
+—A bank withdrawing from membership is paid accrued dividends upon actual cancellation of stock or at the effective date of stock cancellation (as explained in Regulation I) rather than at the regular dividend payment date. When a small member bank withdraws from membership or decreases its stock subscription, the Reserve Bank must pay accrued dividends at a per annum rate of 6 percent. When a large member bank withdraws from membership or decreases its stock subscription, the Reserve Bank must pay accrued dividends at a per annum rate equal to the high yield of most recent 10-year Treasury note auctioned at the last auction held prior to the payment of such dividend. On the day dividends are credited to the member bank's account at the Reserve Bank (or its correspondent's account at the Reserve Bank), a corresponding summary debit is made to Accrued Dividends Unpaid that will eliminate the previously accrued account balance. Because the dividend rate paid to large member banks at the effective date of the withdrawal or decrease in stock subscriptions will differ from the rate used for daily accruals, an adjustment to the accrual account (240-025) and dividend account (330-175) will be required, equal to the difference between dividends accrued and the amount actually paid.
+11.51 Unearned Discount (240-050)
+This account includes unearned discount on acceptances and, although rare, the discount on any loans under paragraph 3 of Section 13 of the
+Federal Reserve Act
+.
+11.52 Discount on Securities (240-075)
+Discount on securities represents the amount paid under the face value for securities in the System Open Market Account, excluding foreign denominated investments. The face value is recorded in the asset account for securities. On the date of purchase, the amount of the discount is credited to this account. The cost bases of Treasury securities and GSE debt securities are adjusted for accretion of discounts on an effective interest method. The cost basis of floating rate notes are adjusted for accretion on discounts using the straight-line basis. When securities are sold, any remaining unaccreted discount is debited to this account. The FRBNY posts these entries to each Federal Reserve Bank's account.
+11.53 Discounts and Rebates
+In the course of procuring goods or services, vendors may offer discounts or rebates of varying amounts to the Reserve Banks based on volume of purchases, timing of payments, etc. Where practical, discounts and rebates associated with a particular capital acquisition or expense, should reduce the acquisition cost recognized by the amount; otherwise, discounts and rebates are recognized as a reduction to current expense as a recovery when they are received.
+11.55 Sundry Items Payable (240-125)
+This account covers numerous items to be disbursed at a later date, such as amounts deducted from salaries for federal and state income taxes, United Way Fund, insurance, etc. The account also includes specific items that are due but have not yet been paid, staff salaries accrued at month-end, taxes on real estate, transportation charges, equipment purchases, lease payment obligations under lessee finance and operating leases, tenant security deposits and rent payments, active employee medical liabilities, and interest payable accrued for reverse repurchase agreements. Amounts charged to this account for equipment purchases or services must be for items received or services rendered and for which the Reserve Bank has a firm obligation outstanding. (See
+paragraph 11.56
+.) Obligations under lessee finance and operating leases are recorded at the commencement of the lease. Separate subsidiary accounts should be established to record obligations under lessee finance and operating leases. The account is also used to record the liabilities of the LLCs, consolidated by the FRBNY and the FRBB.
+11.56 Accruals of Expenses
+Under accrual accounting, the financial effects of transactions and other economic events are recorded in the periods in which they have their primary economic effect. Accordingly, accrual accounting recognizes revenues and expenses as they are earned or incurred, not as cash is received or paid.
+Accruals should be made weekly at a minimum unless otherwise specified. Prior to the end of the reporting period, Reserve Banks should ensure that all accruals are properly reflected in the underlying accounts. Accruals for standard timing lags may be made by using a standard accrual made in the beginning of the year, and then reversed at year-end ("standing accrual").
+Accrual of Expenses within the Month—Accrued Expenses Unpaid—Estimated (240-200)
+Expenses should be accrued weekly for H.4.1. statutory reporting purposes. On each Wednesday, if accruals are made weekly, or on each day, the difference between total estimated net operating expenses and total net operating expenses recorded for the week or day should be debited (or credited) to the Expenses accrued—estimated subaccount included in an operating expense account (330-050) and credited (or debited) to accrued expenses unpaid—estimated (240-200) included in other liabilities. After these entries are made, the balances in these two accounts will represent the difference between estimated net operating expenses for the month-to-date and total net operating expenses for the month-to-date as recorded.
+On the Form FR 34, the
+debit
+balance in the "Expenses accrued-estimated" account should be included in the "Operating expenses" account (330-050) and the
+credit
+balance in the "Accrued expenses unpaid—estimated" account (240-200) should be reported under the caption "Other liabilities." If month-to-date net operating expenses recorded exceeds total estimated net operating expenses, resulting in a
+credit
+balance in "Expenses accrued-estimated" and a
+debit
+balance in "Accrued expenses unpaid-estimated," these two accounts should be adjusted to zero. On the last day of the month, these accounts should be closed against each other.
+Accrual of Expense/Expenditure at Month-End and Year-End
+Expenses incurred should be accrued as of the last day of the month and the year. To ensure the proper recognition of expenses and liabilities at month-end and year-end, Reserve Banks are expected to maintain robust accrual processes to identify expenses timely and record them in the proper period. These processes may differ depending on the nature of the transaction as long as they effectively accrue significant expenses. For example, some transactions may be more efficiently accrued on a comprehensive basis than on a transaction basis. Examples of these may include automated accruals associated with purchase orders, purchasing cards, and personnel-related expenses. Other transactions, such as recurring monthly payments for utilities, may be more efficiently recorded on a cash basis if the monthly differences are minor and they are handled consistently month-to-month.
+Although some transactions, particularly those acquisitions of goods and services outside the purchase order/purchasing card processes, may be difficult to identify, Reserve Banks must maintain an accrual process to consistently identify and accrue significant transactions in the appropriate period. Because of the importance of producing accurate year-end financial statements, additional procedures, such as subsequent payments testing, should be used to identify and accrue expenses incurred but not paid at year-end.
+Amounts accrued should be debited to operating expenses and distributed to the appropriate subsidiary accounts or to the appropriate asset account, and credited to sundry items payable or prepaid accounts. (See
+paragraph 4.20
+.) For monthly accruals made for purchasing card transactions, the Bank may choose to offset the accrual for expenses to the current expense undistributed account rather than individual expense accounts. If the Bank makes significant capital purchases with purchasing cards, however, accruals for capital items should be debited to the relevant capital asset account. Generally, each month the previous month-end accruals, except for standing accruals, should be reversed and payments should be debited to current expense. If payment is not expected to be made until a future period, the Bank can elect to not automatically reverse the accrual.
+11.61 Accruals for Compensated Absences
+Reserve Banks must accrue a liability for employees' compensation for future absences if (1) the obligation is attributable to services already rendered, (2) the obligation relates to rights that vest or accumulate, and (3) payment of the compensation is probable and estimable. This requirement does not extend to sick-pay benefits unless they vest (i.e., an employee is paid for unused sick days upon termination).
+The purpose of this accrual is to recognize the liability for vested or accumulated compensated absences.
+Vested rights are those for which the District has an obligation to make payment even if an employee terminates.
+Accumulated rights are earned, but unused, rights to receive payment for compensated absences that may be carried forward to one or more periods. Accumulated rights may be vested, in whole or in part.
+The requirement to accrue a liability for compensated absences depends on whether the unused rights expire at the end of the year in which they are earned or accumulated and are carried forward to succeeding years. The cost of accumulated compensated absences should be accrued to the extent that it is probable that employees will use or be paid in future years for the increased benefits attributable to the accumulated rights and that the amount can be reasonably estimated. The accrual for the cost of sick pay benefits, however, should be limited to the vested amount.
+Example 1: Assume an employee accumulates vacation time throughout the year and, at the end of the year, has accumulated four weeks of vacation time. The District's policy allows employees to carry over a maximum of three weeks of vacation to the following year. The District should accrue a liability for the cost of three weeks of accumulated vacation time (accumulated portion), even if the District's policy is to pay only a maximum of two weeks of vacation in the event of termination (vested portion).
+Example 2: Assume that an employee earns sick-pay benefits throughout the year and the District's policy allows employees to accumulate sick-pay benefits, but limits the amount that can be paid to the employee at termination to two weeks (vested portion). In this case, the accrual should be limited to the vested portion only, or two weeks.
+This accrual should be calculated by multiplying total hours of qualifying compensated absences by actual salary rates. Average salary rates may be used if actual rates are unavailable or as a practical expedient. To ensure the recognition of this liability while avoiding the burdensome requirements of distinguishing between salary and compensated absence expense on a weekly basis, this liability need not be continually adjusted to reflect individual accrual/usage of qualifying benefits. Rather, this liability and related expense should be adjusted at year-end, to reflect overall changes in the level of the liability. This liability should also be adjusted periodically for significant changes in the liability that result from events such as merit increases, significant staff level changes, or policy changes. For example, when merit increases are granted to employees, an adjustment will be required to increase the liability. Districts that grant merit increases on an employee's anniversary date should accrue the annual projected merit increase weekly ratably over the year in which the increases are granted.
+11.62 Accruals for Contingent Liabilities
+A loss contingency arises when an uncertain existing condition will be resolved by a future event that may result in the impairment of an asset or the incurrence of a liability. Consistent with FASB ASC Topic 450-20, Accounting for Contingencies, a loss contingency should be accrued if (1) it is probable that a future event will confirm the impairment of an asset or the incurrence of a liability, and (2) the amount is reasonably estimable. Examples of contingent liabilities are pending or threatened litigation and conditional asset retirement obligations (refer to
+paragraph 30.05
+). Districts should periodically conduct a review to determine if contingent liabilities exist that may require accrual. At a minimum, these accruals should be made at the end of every calendar quarter. Approval to accrue contingent liabilities must be obtained from the RBOPS Financial Accounting Policy and Reporting Section. Note: Information should be maintained on contingent liabilities that do not meet both tests required for establishing an accrual. This information may be required to be included in year-end footnote disclosures.
+11.64 Accruals of Expenses for Employee Termination Programs (Involuntary/Voluntary)
+Reserve Bank's employee termination plans are accounted for based on FASB ASC Topic 712-10, which is more applicable to Federal Reserve System severance and termination benefit programs than either FASB ASC Topic 420-10 or FASB ASC Topic 712-10. FASB ASC Topic 712-10 essentially defines whether payments should be accrued over the benefiting period under FASB ASC Topic 710-10 or recognized in total when it is probable and estimable in accordance with FASB ASC Topic 450-20. Reserve Banks generally provide separation payments to employees based on years of service and employees have a general understanding that they will be provided with a severance benefit if they are terminated as part of a general downsizing. As a result, the separation payments are considered a standard post-employment benefit rather than a program solely limited to a particular event. Benefits also ‘accumulate' in that the amount of the payment increases based on years of service. Such a design is consistent with the FASB ASC Topic 710-10 concept that the payment is more related to past service rather than future service (as contemplated by FASB ASC Topic 420-10). Although these benefits do not vest, FASB ASC Topic 710-10 does allow for the accrual of nonvesting benefits when payment of that benefit is probable. Severance and termination benefits, including salary, Federal Insurance Contributions Act (FICA) taxes, and other related expenses should be accrued when the criteria for accrual are met and not limited to when they are provided as part of a termination program.
+Involuntary program:
+If a Reserve Bank initiates an involuntary employee termination program, it must recognize the associated liability if the termination program is probable and the amounts are estimable. According to ASC 420-10-25-4, the probability test has been met when all four of the following conditions exist and have been communicated to the affected employees (communication date):
+"Management, having the authority to approve the action, commits to a plan of termination.
+The plan identifies the number of employees to be terminated, their job classifications or functions and their locations, and the expected completion date.
+The plan establishes the terms of the benefit arrangement, including the benefits that employees will receive upon termination (including but not limited to cash payments), in sufficient detail to enable employees to determine the type and amount of benefits they will receive if they are involuntarily terminated.
+Actions required to complete the plan indicate that it is unlikely that significant changes to the plan will be made or that the plan will be withdrawn."
+The incremental cost associated with employees who add a year of service (1/2 month additional severance) between the communication date and the termination date should be recognized ratably over the period between the communication date and the service date rather than on the communication date. If the program requires an employee to work more than sixty days beyond notification in order to receive benefits, it may be necessary to accrue the liability over several periods.
+Voluntary plan:
+If a Reserve Bank initiates a voluntary (early retirement program) termination program, it must estimate and recognize the liability for the termination benefits when the following conditions exist: (1) the appropriate level of management has approved and committed to a program that allows employees to terminate employment, (2) employees have accepted the program and it is unlikely that the election will be changed, and (3) the period to complete the termination is not likely to change. Any incremental costs such as retention incentives associated with voluntary retirement programs, unlike the involuntary termination program, should be accrued in total when the employee accepts the offer. If the election window for the program falls within a calendar year, the accrual may be made at the end of the window period; however, if the window crosses year-end, Reserve Banks should accrue only costs that are associated with employees who have indicated acceptance of the program.
+Retention Benefits
+Incremental additional termination benefits provided to employees as a retention incentive should be accrued evenly over the period from the communication date to the termination date. For retention with multiple payouts, each payout should be accrued from communication date to the end of each retention period (i.e., payout date).
+Subsequent Adjustments to Accruals
+In periods after initial measurement (communication date), changes in the accrued liability due to revisions in either the timing or amount of the estimated benefit payments should be recognized as an increase or decrease to the same expense line items as when the liability was initially recognized. For example, if employees to be involuntarily terminated leave prior to the payment date (either within or outside the Bank), the liability recognized by the Bank for termination benefits should be reduced, this reduction would result in a credit to expense for that period. Consistent with the current practice of adjusting accruals for compensated absences, Reserve Banks should adjust these accounts whenever there is a significant event, such as the close of a window period.
+If current interest rates are low and the time period is relatively short, the difference between present value calculations and the nominal value should be immaterial. Therefore, in order to minimize complexity, cost, and opportunity for error, nominal values should be used for estimates of cash flows less than or equal to five years.
+Retirement Related Benefits (Pension and Medical)
+In general, the enhanced pension benefits will be treated as an amendment to the retirement plan and accounted for in accordance with FASB Topic ASC Topic 715-30 on the FRBNY's financial statements based on the actuarial valuation. RBOPS Financial Accounting Policy and Reporting Section and OEB staff within the FRBA should coordinate an evaluation of whether the magnitude of the terminations and retirements System-wide is large enough to require curtailment accounting near year-end.
+The effect of employee terminations on the accounting for retiree medical plans will differ depending on the number and tenure of employees terminated. If the number and tenure of terminated employees is sufficient to significantly reduce the expected years of future service of the active participants (terminated employees are considered active participants for this test), then a curtailment exists. In general, the System has viewed reductions of less than five percent as not significant for curtailment purposes and reductions of ten percent or greater as significant.
+The impact of curtailments varies depending on the nature of each Reserve Bank's retiree medical program. In general, reductions in staff result in curtailment gains. If, however, a Reserve Bank had a substantial amount of unrecognized prior service costs or unrecognized actuarial loss, a curtailment could result in a curtailment loss. Curtailment losses are recognized when probable and estimable (communication date), curtailment gains are recognized when employees terminate.
+Given the complexity involved with these programs related to the timing of expense accruals, Reserve Banks should contact RBOPS Financial Accounting Policy and Reporting Section for guidance when considering such plans.
+11.66 Accruals for Self-Insured Medical and Dental Expenses
+A liability must be recognized for the amount of medical and dental claims that have been incurred but not paid. A claim has been incurred when the event (e.g., medical treatment) that precipitates future payouts has occurred. The amount of this liability should reflect an estimate of the amount that will be paid, ultimately, by the Bank (net of stop-loss insurance, if the Bank maintains such coverage). It is not appropriate to maintain a "reserve" for claims that may be incurred in the future. Any funds related to the provision of self-insured medical and dental expenses that are held on deposit by claims administrators should be reflected separately as an asset of the Bank, rather than as an offset to the accrued self-insured medical and dental liability. A District is considered to be self-insured unless the insurance carrier bears 100 percent of the risk of loss due to shortfalls between claims and premiums.
+The liability reflected should be an estimate of the actual amounts of claims incurred but not paid. In order to maintain consistency among Reserve Bank estimates, a standard approach to this estimate has been adopted. The
+year-end
+liability should be based on the prior years' experience adjusted for current trends in claims. To establish a "subsequent claims ratio," determine the amount of claims paid in the current year that were incurred in the prior year (run-out claims) and divide this amount by the total claims paid in the prior year. This ratio should then be applied to the most recent 12 months of payments data available to obtain the amount of the liability. For the consolidated plans, OEB will make this estimate on a Systemwide basis and allocate differences based on each Bank's funding rate.
+Exceptional circumstances (e.g., a change in claims administrator or plan design changes) may exist that would lead to a material misstatement of this liability if additional adjustments were not made. In such situations, the RBOPS Financial Accounting Policy and Reporting Section should be contacted for approval of an appropriate alternative estimation methodology.
+Special Considerations:
+Remember that medical payments and accruals for retirees and individuals on long-term disability are covered under FASB ASC Topic 715-60 and FASB ASC Topic 712-10, respectively, and should be excluded from the aforementioned calculations.
+11.80 Suspense Account—General (240-150)
+This account represents (1) miscellaneous items for which credit has been received but processing or information is necessary before final disposition is affected or (2) general ledger interface errors that do not have relevant information to post a balanced journal entry. Items that cannot be resolved should be cleared from this account and credited to either the difference account or a current expense account. (See
+paragraph 4.40
+.) Items relating to items in process of collection and deferred credit items should not be included in this account.
+11.82 Exchange Translation Liability (240-190)
+This account is used to record unrealized gains or losses on unsettled foreign exchange trades, Euro denominated reverse repurchase agreements, and accrued interest payable on Euro denominated reverse repurchase agreements.
+11.84 Accumulated Benefit Obligation (240-300)
+This account is used to recognize the funded status of various benefit plans. When the projected pension benefit obligation exceeds the fair value of plan assets, the difference is recorded to this liability account, as defined by FASB ASC Topic 715-20. Included in this account are also balances related to (1) the nonqualified retirement Benefits Equalization Plan, (2) the Supplemental Retirement Plan for Selected Officers of the Federal Reserve Banks, and (3) the postretirement medical and life insurance benefit plan. Entries related to these plans are based on actuarial valuations and actual benefit payments made by the OEB on behalf of the Reserve Banks. The accruals for the pension plans are offset to the net periodic pension cost (330-050) (see
+paragraph 12.30
+) or Accumulated Other Comprehensive Income (AOCI) (a sub-account of 320-025, Surplus), as required.
+8
+The offset to the accruals for postretirement medical and life insurance are posted to the Operating Expense account (330-050) or AOCI, as required (see
+paragraph 12.10
+). Only service costs go to Operating Expenses (330-050) and all other cost components go to Other Components of Net Benefit Costs (330-060) (see
+paragraph 12.33
+).
+Post-employment:
+This account is also used to record the liabilities for the long-term disability, income, medical, life, and survivor's income or workers compensation plan obligations in accordance with FASB ASC Topic 712-10, Employers' Accounting for Post-employment Benefits. Entries for these plans are based on actuarial valuations and actual benefit payments made by the OEB on behalf of the Reserve Banks; the benefit payments should offset the recorded liability for these plans. At year-end, each Reserve Bank adjusts the recorded obligations for the post-employment benefit plans, and the offset is posted to the Operating Expense account (330-050).
+Thrift BEP:
+The liability associated with the Thrift Benefits Equalization Plan (Thrift BEP) is also recorded in this account. The Thrift BEP entries are made using information provided by the OEB at year-end based on the Plan account balance (not actuarially determined). Monthly payments made by the OEB on behalf of each Reserve Bank should offset the Thrift BEP liability. At year-end, each Reserve Bank may have to adjust the recorded obligation for the Thrift BEP, and the offset is posted to the Operating Expense account (330-050).
+Deferred Compensation Plan:
+Effective April 2009, the liability associated with the deferred compensation plan (DCP) is also recorded in this account. The monthly DCP entries are made using information provided by the payroll system, OEB, and the third-party administrator (not actuarially determined). Benefit payments made by the OEB on behalf of each Reserve Bank offset the DCP liability. The monthly report provided by the third-party administrator is used to verify each Bank's DCP liability account.
+Curtailments:
+Significant reductions in staff or changes in pension or medical plan benefits may require the recognition of additional gains or losses. As a practical matter, Reserve Banks should coordinate with RBOPS Financial Accounting Policy and Reporting Section and OEB staff when they anticipate substantial changes to staffing or the plan benefits. The provisions of FASB ASC Topic 712-10 are applied when determining if staff reductions or benefit changes result in a plan curtailment. A percentage reduction of greater than 10 percent indicates a curtailment. If a percentage reduction of expected future working lifetime is less than 5 percent, no curtailment is deemed to have occurred. A determination of the existence of a curtailment for a percentage reduction between 5 and 10 percent is based on individual facts and circumstances of the events. Reserve Banks should work with RBOPS Financial Accounting Policy and Reporting Section staff in evaluating whether a curtailment exists.
+11.86 Interest on Reserves Accounts—Interest Due to Depository Institutions (240-430)
+Section 19 of the Federal Reserve Act provides that the Board may prescribe regulations concerning the payment of earnings on balances held at a Reserve Bank. Regulation D implements this provision and specifies the interest rate payable on balances of eligible institutions maintained at Reserve Banks, or the interest on reserve balances (IORB) rate. The Board of Governors sets the IORB rate at a rate not to exceed the general level of short-term interest rates and has the discretion to change the IORB rate at any time. Interest on an eligible institution's balance is calculated daily at the specified rate. An aggregate interest payment for all days in a maintenance period is made one business day after the maintenance period ends. Accruals are recorded in this liability account each business day as interest is earned.
+Title II of the Financial Services Regulatory Relief Act of 2006 granted the Federal Reserve authority to pay interest to depository institutions for balances held at Reserve Banks effective in 2011. Section 128 of the Emergency Economic Stabilization Act of 2008 accelerated this authority to October 9, 2008. Accordingly, the Reserve Banks began paying explicit interest to depository institutions on balances held at Reserve Banks.
+11.93 Term Deposit Facility (240-850)
+This account is used to record term deposits of depository institutions held with the Reserve Banks. These term deposits are used by the Reserve Banks as a monetary policy tool to manage the aggregate quantity of depository institutions' reserve balances.
+11.94 Federal Agency MBS Related Liabilities (240-875)
+This account is used to record the fail liability for federal agency and GSE RMBS and CMBS purchases. A MBS fail liability results from a seller failing to provide a security to the FRBNY on the contractual settlement date. As a result, a liability is recorded for the obligation to fund the purchase. If the FRBNY fails to provide a security to a purchaser, a fail asset is recorded (
+paragraph 3.08
+). This account is also used by the FRBNY to record the obligation to return cash collateral posted by counterparties pursuant to commitments to purchase MBS within the SOMA. (See
+paragraph 40.13
+.)
+11.95 Designated Financial Market Utilities Deposits (240-900)
+This account is used to record the deposits for Designated Financial Market Utilities that have been designated as systemically important in accordance with Title VIII of the
+Dodd-Frank Wall Street Reform and Consumer Protection Act
+of 2010 (Dodd-Frank Act).
+11.96 Accrued Remittances to Treasury / Deferred Asset (240-925)
+This account is used to record the liability or deferred asset related to earnings remittances to Treasury.
+The Federal Reserve Act, as amended by the FAST Act effective December 4, 2015, requires that any amounts of the surplus funds of the Reserve Banks that exceed, or would exceed, the aggregate surplus limitation of $10 billion shall be transferred to the Board of Governors for transfer to the Treasury. Before the effective date of the FAST Act, the Board of Governors required the Reserve Banks to transfer excess earnings to the Treasury as interest on Federal Reserve notes after providing for the costs of operations, payment of dividends, and reservation of an amount necessary to equate surplus with capital paid-in.
+The Federal Reserve Act was subsequently further amended by the Bipartisan Budget Act (Budget Act), effective February 9, 2018, by the Economic Growth, Regulatory Relief, and Consumer Protection Act (Consumer Protection Act), effective May 24, 2018, and by the National Defense Authorization Act for 2021, effective January 1, 2021, which reduced the aggregate surplus limitation to $7.5 billion, $6.825 billion, and $6.785 billion, respectively. Therefore, the Federal Reserve Act now requires that any amounts of the surplus funds of the Reserve Banks that exceed, or would exceed, the aggregate limitation of $6.785 billion shall be transferred to the Board of Governors for transfer to the Treasury. Each Reserve Bank remits excess earnings to the Treasury after providing for the cost of operations, payment of dividends, and reservation of an amount necessary to maintain surplus at the Bank's allocated portion of the aggregate surplus limitation.
+A credit balance in this account represents the accrued remittances to be distributed to the Treasury. If a Reserve Bank's earnings are not sufficient to provide for the costs of operations, payment of dividends, and maintaining surplus at an amount equal to the Bank's allocated portion of the aggregate surplus limitation, remittances to the Treasury would be suspended. A deferred asset is recorded in this account, and this debit balance represents the amount of net earnings the Reserve Bank will need to realize before remittances to the Treasury resume.
+Deferred asset balances recorded in this account are periodically reviewed for impairment.
+See
+paragraph 60.55
+for further discussion.
+11.98 Other Liabilities—Markets (240-950)
+The balance in this account represents infrequent low-value Markets related transactions conducted by the FRBNY and is not participated to other Reserve Banks. Dedicated accounts must be established prior to program start dates for transactions related to Markets programs that are expected to be high-value or recurring. This account may be used, however, to record transactions for newly established programs until a dedicated account is established, when the balances should be reclassified to the dedicated account. At the close of business each December 31, this account balance should include only the low-value and infrequent Markets related transactions.
+11.99 Central Bank Liquidity Swap Accounts (242-100)
+When the FRBNY initiates a swap agreement with a foreign central bank for the purpose of obtaining foreign currency, the resulting liability is recorded in this account. For example, the FRBNY may enter into a foreign currency liquidity arrangement whereby the Bank would obtain a foreign currency from a foreign central bank; in this example the foreign currency obtained from the foreign central bank would be recorded as a liability in this account. (See
+paragraph 4.94
+.)
+12.00 Reverse Repurchase Agreements—Foreign Official and International Accounts (242-120)
+This account is used to record the contract amount of reverse repurchase agreements executed with foreign official and international account holders. The FRBNY is authorized by the FOMC to sell Treasury, federal agency, and GSE securities and federal agency and GSE RMBS and CMBS under agreement with foreign official and international account holders and to repurchase the securities at an established point in time (securities sold under agreements to repurchase). (See
+paragraph 40.20
+.) On the day of settlement, the FRBNY participates a share of the transaction to each Reserve Bank. Related interest income and gains and losses are participated to each Bank according to its current domestic allocation rate. (See
+paragraph 40.70
+for the participation methodology.)
+12.01 Reverse Repurchase Agreements—Primary Dealers and Expanded Counterparties (242-140)
+This account is used to record the contract amount of reverse repurchase agreements executed with primary dealers, selected money market funds, and others. The FRBNY is authorized by the FOMC to sell Treasury, federal agency, and GSE securities and federal agency and GSE RMBS and CMBS under agreement with primary dealers, selected money markets funds, and others and to repurchase the securities at an established point in time (securities sold under agreements to repurchase). (See
+paragraph 40.20
+.) On the day of settlement, the FRBNY participates a share of the transaction to each Reserve Bank. Related interest income and gains and losses are participated to each Bank according to its current allocation rate. (See
+paragraph 40.70
+for the participation methodology.)
+12.05 Capital Paid-In (310-025)
+The balance of this account represents the outstanding paid-in value of capital stock issued to member banks as required by law. The par value of shares is one hundred dollars and the paid-in value is $50. A member bank is required to subscribe to the capital stock of its Reserve Bank in an amount equal to 6 percent of its capital and surplus.
+9
+Half of the subscription is paid in and the other half is subject to call. (The shares do not carry the power through voting to control the management of the Reserve Bank as does ordinary stock in private banks and corporations.) Changes in a member bank's stock or surplus may require an adjustment in its holdings of the Reserve Bank's capital stock as outlined in Regulation I. The stock may not be transferred, nor may the owning member bank hypothecate its shares.
+12.10 Surplus (320-025)
+The balance of this account represents the portion of net income that is retained by the Bank. Before the December 4, 2015 amendments to the Federal Reserve Act, the Board of Governors required each Reserve Bank to maintain a surplus balance equal to its capital paid-in. On a daily basis, surplus was adjusted to equate the surplus balance to capital paid-in.
+10
+Effective January 1, 2021, the Federal Reserve Act limits aggregate Reserve Bank surplus to $6.785 billion. Reserve Bank surplus is allocated among the Reserve Banks based on the ratio of each Bank's capital paid-in to total Reserve Bank capital paid-in as of December 31 of each year. On a daily basis, the Board of Governors requires an adjustment to surplus to equate the surplus balance to the Reserve Bank's allocated portion of the $6.785 billion aggregate surplus limit. (See
+paragraph 12.60
+.)
+AOCI is a component of each Reserve Bank's surplus account, and a separate account has been established to record transactions related to AOCI. (See
+paragraph 11.84
+.) The balance of AOCI should be included with the Bank's surplus balance in computing the amount necessary to equate surplus to the Reserve Bank's allocated portion of the aggregate surplus limitation.
+Each Reserve Bank should ensure that all entries for transactions to the capital paid-in and AOCI accounts have been recorded before equating surplus to its allocated portion of the aggregate surplus limitation. The following adjustment should be recorded:
+Dr / Cr:
+Transferred to or from Surplus (330-225) $xxx
+Cr / Dr:
+Surplus (320-025) $xxx.
+12.20 Current Income (330-025)
+This account includes income from all sources for the year to date. The income is derived from assets as described below. Significant income items should be accrued as described in paragraphs
+3.95
+and
+4.92
+when earned. Other income is ordinarily credited when received.
+Income
+—Receipts representing interest on loans to depository institutions or others, penalties on reserve account deficiencies or overdrafts in reserve or clearing accounts, interest from System Open Market Account (SOMA) and foreign currency holdings, and other receipts specifically identified.
+Loans
+—Interest earnings on loans to depository institutions, and earnings from any other loans, which may include loans to Federal Intermediate Credit Banks, other Federal Reserve Banks, and participants in programs or facilities with broad-based eligibility in unusual and exigent circumstances.
+Acceptances
+—Discount earned on acceptances.
+U.S. Treasury, Federal Agency, and GSE Debt securities - System account
+—Interest earned plus discounts accreted less premiums amortized on Treasury, federal agency, and GSE debt securities held in SOMA. Discounts earned on Treasury bills held in SOMA. This line item includes interest income generated from tri-party repurchase agreements.
+Other securities
+—Interest earnings on bills, notes, revenue bonds, and warrants issued by any state, county, district, political subdivision or municipality in the continental United States, including irrigation, drainage, and reclamation districts, plus discounts accreted and less premiums amortized. Also includes interest earnings on federal agency and government sponsored enterprise mortgage-backed securities.
+Foreign currencies
+—Participation in interest received on deposit balances with foreign banks, discount earned on acceptances payable in foreign currencies, and other earnings from investments denominated in foreign currencies.
+Deficiencies in required balances
+—Charges assessed depository institutions on the amount of their deficiencies in required balances.
+Daylight and Overnight Overdraft charges
+—Charges assessed depository institutions for intra-day (daylight) and overnight overdrafts in accounts maintained with the Reserve Bank.
+Funds Settlement Fees
+—Earnings associated with the funds settlement component of the book-entry transfer of Treasury securities.
+All other
+—Other earnings that do not come within the above definitions should be included in this classification. Explanations for these amounts should be provided to RBOPS Financial Accounting Policy and Reporting Section.
+Services
+—Amounts collected under Section 11A of the
+Federal Reserve Act
+for services to depository institutions.
+Revenues
+—Based on FASB ASC Topic 606, Revenue From Customers, Reserve Banks should record revenues earned including amounts collected under Section 11A of the Federal Reserve Act for services to depository institutions for Check, ACH, Electronic Access, Funds, FedNow, Currency Fees, and Securities. Income from services is recorded as current income and should not be netted with the expenses incurred to provide the services or support costs paid to other Reserve Banks for costs that they incur in providing these services.
+Individual ledger accounts are maintained for control purposes and to facilitate verification of income according to source. In the case of income from services, the ledger should be supported by subsidiary accounts in the same detail as the schedule of priced services. These subsidiary accounts must be posted currently and, together with any accrual accounts that the Bank elects to maintain separately, added to the total in the ledger at the close of business each day.
+A subsidiary account may also be established for each priced service to record variances between accrued service income and the amount actually charged depository institutions due to absorption of differences. The use of this account should facilitate reconcilement of the general ledger with internal cost/revenue reports.
+12.30 Operating Expenses (330-050)
+The balance of this summary account represents the combined year-to-date actual and estimated net expenses that the Reserve Banks have incurred in performing business operations. The operating expenses subaccounts are as follows:
+Operating Expenses
+. The balance of this subaccount represents year-to-date operating expenses, net of expenses reimbursed. Operating expenses include the service cost component associated with the Reserve Bank's future obligation to provide medical and life insurance benefits to retirees in accordance with FASB ASC Topic 715-60.
+Reimbursements
+. Receipts representing recoupment of expenses incurred in performing prescribed activities as Fiscal Agent for the Treasury and other Federal agencies.
+Recoveries
+. All receipts other than those defined as Revenue, Income and Reimbursements, including receipts that are not material in amount received in connection with services incidentally related to priced services.
+Accrued Expenses Estimated.
+The balance of this subaccount and the liability account Accrued Expenses Unpaid—Estimated (240-200) provides for the accrual of net operating expenses on an estimated basis during the month. (See
+paragraph 11.56
+.)
+System Net Periodic Pension Cost.
+This account is used to record the service cost component of the net periodic pension cost related to the Federal Reserve System Plan, computed in accordance with the provisions of FASB ASC Subtopic 715-30. This account is also used to record at least monthly the net pension costs associated with the nonqualified retirement Benefit Equalization Plan and the Supplemental Retirement Plan for Selected Officers of the Federal Reserve Banks accruals (see
+paragraph 11.84
+). The OEB provides information necessary to process entries to this account.
+12.33 Other Components of Net Benefit Costs (330-060)
+This account is used to record at least monthly the components of net periodic pension cost for all retirement plans, exclusive of the service cost component, in accordance with the provisions of FASB ASC Topic 715. There is also a monthly recording of the other cost components, exclusive of the service cost component, associated with the Reserve Bank's future obligation to provide medical and life insurance benefits to retirees in accordance with FASB ASC Topic 715-60.
+12.36 Interest on Reserves and Term Deposits—Interest Expense (330-078)
+Interest is paid to depository institutions for balances held in their account at a Federal Reserve Bank. The interest on depository institutions' balances is calculated daily at the IORB rate. Payments are made a day after the maintenance period is finalized. Accruals are recorded in liability account Interest on Reserves Accounts—Interest Due to Depository Institutions (240-430) each business day as interest is earned. Interest is also paid for term deposits held by eligible depository institutions. The cost of interest on reserves balances and on term deposits is recorded to this account.
+12.37 Provision for Credit Loss Expense (330-080)
+Reserve Banks are required to recognize lifetime expected credit losses on a loan measured at amortized cost, regardless of whether the risk of credit loss is determined to be remote. In the event that it would be needed, detailed instructions on how to recognize, measure, and record an allowance for credit loss are provided in
+paragraph 81.01
+, Allowance for Credit Losses. The Reserve Banks should use account 330-080 to record the expense provision. The provision for credit loss expense recorded in this account must be approved by the RBOPS Financial Accounting Policy and Reporting Section.
+12.40 Profit and Loss (330-100)
+This account is used for recording income and losses which are not current in nature or are not applicable to current earnings or current expenses. These include realized gains and losses on sales of securities and on foreign currencies, profit or loss on the sale of real estate (originally acquired for potential Bank use), the write-off of stale officers' and certified checks (
+paragraph 10.80
+), losses that are sustained in the handling or transportation of currency, recoveries and unrealized losses on the value of other real estate (originally acquired for potential Bank use) held for sale, and gains or losses on works of art. The account should not normally be used to adjust prior year income or expenses except for the correction of prior year accounting errors when the amount would seriously distort income or expenses of the current year. Entries to the account for prior year items may be made only with the prior approval of the RBOPS Financial Accounting Policy and Reporting Section.
+The profit and loss account should not include dividends and rebates on insurance policies or any additional premium payments on worker's compensation or other insurance regardless of the year for which the refunds or additional payments apply. Such amounts should be entered to current year income or expenses. Other items from the previous year, which should normally be applied to current year income or expenses rather than profit and loss, are receipts from vending machines, refunds from courier contracts, adjustments for the difference between accounts payable and the actual billings, and adjustments for the difference between accrued income from services and actual billings.
+The profit and loss account should also exclude losses arising from the ongoing operations of the Reserve Banks. Any such losses should be charged to current expense. The balance represents the net total of miscellaneous entries, such as the following:
+Profit (loss) on sale of Bank premise assets or other real estate
+—The difference between net book value and the proceeds from the sale of Bank premises assets and other real estate (formerly used in bank operations).
+Recoveries and unrealized losses on the value of other real estate held for sale
+—The difference between net book value and net realizable value of other real estate (formerly used in Bank operations) held for sale. (See
+30.97
+.
+)
+Profit (loss) on sale of "Other assets—claims account closed banks"
+—Book profit or loss resulting from the sale (or other final disposal) of "Other assets—claims account closed banks." When an allowance for estimated losses on such property is carried, the entire difference between gross carrying value of the particular asset and the proceeds received, if disposition results in a loss, may be charged to the allowance unless such a charge would result in a debit balance therein, in which case the excess should be charged to Profit and loss. If disposition results in a profit, the excess should be credited to Profit and loss.
+Losses (not expected to be recovered) on shipments of money
+Recoveries of losses on shipments of money
+Other recoveries
+—Other recoveries of amounts previously charged to profit and loss, such as recoveries of unclaimed funds.
+Losses covered by loss sharing agreement
+—Rewards, advances, and expenses absorbed or prorated under the loss sharing agreement.
+Reimbursement from Treasury for purchases of uncut sheets of Federal Reserve notes
+Errors found in work of prior years
+—Errors involving significant amounts reported in income or expenses prior to the current year. Correction of errors of lesser amounts should be made in the appropriate income or expense account. (The correction of errors between years through Profit and loss should be limited to items involving significant amounts and must have prior approval from the RBOPS Financial Accounting Policy and Reporting Section.)
+Interest expense
+—Interest expense for reverse repurchase agreements undertaken by the System Open Market Desk.
+Profit or loss on foreign exchange transactions (net)
+—Participation in foreign exchange profits and losses, including revaluations of foreign currency holdings and outstanding swap commitments at current market exchange rates.
+Discount on foreign currency
+Loss on counterfeits
+—(Only with approval of RBOPS Financial Accounting Policy and Reporting Section.)
+Profit or loss on sales of Treasury, federal agency, and GSE securities held in SOMA (net)
+Profit or loss on works of art
+Profit or loss, including interest income and expenses, incurred by Reserve Banks and consolidated LLCs from lending authorized under section 13(3) of the
+Federal Reserve Act
+For further discussion of reporting profit and loss, see
+paragraph 60.28
+.
+12.43 Cost of Unreimbursed Treasury Services (330-110)
+This account is used to record the cost of services provided to Treasury for which recovery is not anticipated. At the time entries are made to the reimbursable account, an estimate is made of the amount of the claim that is not expected to be received. The offsetting account would be the contra-asset account, Allowance for Doubtful Reimbursement or Reimbursable expenses for direct write-offs. Near the end of each year, adjusting entries may be required in order for the balance in this account to equal the cost of services provided to Treasury during the year for which Treasury has informed the Federal Reserve reimbursement will not be made or which the Federal Reserve has determined is unlikely. This account should be closed out at the end of each year. Costs in this account should be generated primarily from District or special projects that have not been approved by the Bureau of Public Debt or the Financial Management Service of Treasury. This account should also be used to record allowance for the non-Treasury agencies and receivable from others.
+12.45 Assessments by Board of Governors (330-125 and 330-150)
+Board Expenditures (330-125)
+Section 10 of the
+Federal Reserve Act
+authorizes the Board to levy semi-annually upon the Reserve Banks, in proportion to their capital stock and surplus, an assessment sufficient to pay its estimated expenses for the half of the year succeeding the levying of such assessment, together with any deficit carried forward from the preceding half year. The Richmond Reserve Bank processes an InterFRB transaction for each Reserve Bank's portion of the assessment with a debit to this account and a credit to the Interdistrict Settlement account. The Board is also authorized to leave on deposit in the Reserve Banks the proceeds of such assessments. Pursuant to this authority, the Board maintains deposit accounts with the Richmond Reserve Bank and at the time of each assessment requests credit for one-half of the amount to its General Fund deposit account at Richmond. The remaining half is called on the first business day in April and October.
+F.R. Currency Costs (330-150)
+Section 16 of the
+Federal Reserve Act
+requires that all expenses in executing the laws relating to the procurement of Federal Reserve notes, including expenses incidental to their issue and retirement, be paid by the Reserve Banks and included in the Board's assessment against the Banks. The Board assesses the Reserve Banks, on a scheduled basis, for currency printing, shipping, issuance, retirement, educational services, research and development, and counterfeit deterrence costs. The costs are allocated based on each Bank's share of the total number of Federal Reserve notes outstanding at all Reserve Banks on December 31st of the previous year. Reserve Banks should debit this account upon payment of these costs.
+Separate accounts should be maintained for (l) cost of printing, (2) cost of shipping (including the periodic assessment for bags and seals), (3) retirement costs, and (4) research and development costs for F.R. currency, see
+appendix A.3
+.
+12.46 Assessments by Board of Governors—Bureau of Consumer Financial Protection (330-135)
+This account is used to record the Board of Governors' assessments to the Reserve Banks. In accordance with the Dodd-Frank Act the Board of Governors assesses the Reserve Banks to fund the operations of the Bureau of Consumer Financial Protection (CFPB). The funding cannot exceed a fixed percentage of the total operating expenses of the System, and annually it will be adjusted in accordance with the provisions of the Dodd-Frank Act.
+12.50 Dividends Accrued Since January 1 (330-175)
+The balance of this account represents the year-to-date accumulated dividends on outstanding capital stock paid-in from member banks during the year. The balance is increased daily based on accruals and adjustments; it is closed out as part of the distribution of net earnings (see
+paragraph 60.55
+). The amount added to the account each day is computed on the total Reserve Bank capital paid-in from member banks as of the opening of business that day (close of business previous day) as described in
+paragraph 11.50
+(Accrued Dividends Unpaid).
+12.60 Earnings Remittances to Treasury, Net (330-200)
+Before the enactment of the FAST Act, the Board of Governors, under authority of Section 16 of the Federal Reserve Act, required Reserve Banks to pay the U.S. Treasury, as interest on Federal Reserve notes, all net earnings after providing for dividends and the amount necessary to equate surplus with paid-in capital. This practice began in 1947. As a result of operations essential to Government financing during the war, and operations required by the needs of business and the public for credit and currency, earnings of the twelve Federal Reserve Banks were at relatively high levels. It was expected that net earnings of the Federal Reserve Banks for 1947, after payment of the statutory dividends to member banks, would aggregate more than $60 million. In view of these facts and the fact that at the end of 1946 the surplus of each Federal Reserve Bank was equal to its subscribed capital, the Board decided to invoke its authority, granted to it under Section 16 of the Federal Reserve Act, to levy an interest charge on Federal Reserve notes issued by the Federal Reserve Banks. The purpose of this interest charge was to pay into the Treasury approximately 90 percent of the net earnings of the Federal Reserve Banks for 1947.
+The authority to levy an interest charge on Federal Reserve notes not covered by gold certificates had not been used previously, chiefly because of the existence, prior to 1933, of so-called franchise tax provisions of the law that had a similar effect; that is, of transferring excess earnings of the Reserve Banks to Treasury. Under these provisions, which were repealed in 1933, each Federal Reserve Bank was required to pay a franchise tax to the government equal to 90 percent of its net earnings after it had accumulated a surplus equal to its subscribed capital. As of the end of 1932 the Federal Reserve Banks had paid franchise taxes to Treasury amounting to $149 million. At that time the Federal Reserve had accumulated surplus accounts of $278 million, as compared with subscribed capital aggregating $302 million. The Federal Reserve Act amendment, contained in the Banking Act of 1933, which established the Federal Deposit Insurance Corporation required each Reserve Bank to pay an amount equal to one-half of its surplus on January 1, 1933, as a subscription to the capital stock of the FDIC on which no dividends are paid. These stock subscriptions amounted to $139 million and reduced the surplus of the Federal Reserve Banks to an equivalent figure, or considerably less than one-half of their subscribed capital. Congress, therefore, eliminated the franchise tax in order to permit the Federal Reserve Banks to restore their surplus accounts from future earnings. Net earnings for the next ten years were relatively small, and at the end of 1944 the combined surplus accounts of the Federal Reserve Banks were less than 75 percent of their subscribed capital. During the next two years, however, net earnings increased substantially, due primarily to large holdings of Government securities accumulated through open market operations. This resulted in transfers to surplus accounts that increased the combined surplus of the Federal Reserve Banks to about $439.8 million at the end of 1946, as compared with subscribed capital of nearly $373.6 million.
+Under the circumstances, the Board concluded that it would be appropriate for the Federal Reserve Banks to pay to Treasury the bulk of their net earnings after providing for necessary expenses and the statutory dividend. In effect, this involved paying currently to Treasury funds which, under existing law, would otherwise come to it only in the event of liquidation of the Federal Reserve Banks. The
+Federal Reserve Act
+still provides that, in case of liquidation of the Federal Reserve Banks, any surplus remaining after the payment of all claims shall be paid to Treasury. By invoking its authority under Section 16 of the Federal Reserve Act, the Board was able to accomplish the same results as were accomplished by the payments of franchise tax, i.e., the transfer of excess earnings to the Government.
+Effective December 4, 2015, the Federal Reserve Act was amended to limit the Reserve Banks' aggregate surplus funds to $10 billion. Effective February 9, 2018, the Federal Reserve Act was amended to limit the Reserve Banks aggregate surplus funds to $7.5 billion. Effective May 24, 2018, the Federal Reserve Act was amended to limit the Reserve Banks aggregate surplus funds to $6.825 billion. Effective January 1, 2021, the Federal Reserve Act was amended to limit the Reserve Banks aggregate surplus funds to $6.785 billion. The Federal Reserve Act requires that any amounts of the aggregate surplus funds of the Reserve Banks that exceed, or would exceed, the aggregate limitation of $6.785 billion shall be transferred to the Board of Governors for transfer to the Treasury. Each Reserve Bank remits excess earnings to the Board of Governors for transfer to the Treasury after providing for the cost of operations, payment of dividends, and reservation of an amount necessary to maintain surplus at the Bank's allocated portion of the $6.785 billion aggregate surplus limitation. (See
+paragraph 60.55
+for computation and reporting of remittances.)
+Earnings remittances to Treasury, net, are accounted for as expense of the period in which they are accrued because the recurring payments are a nondiscretionary cost from the Reserve Banks' perspective.
+11
+The Reserve Banks remit accrued earnings to the Treasury on a weekly basis.
+The daily accrual is an automated entry processed by the general ledger application each night. If an adjustment to an income or expense account is made during the late general ledger process, the balance in the Undistributed Net Income account requires a manual adjustment to properly record a remittance accrual and the following entry to bring Undistributed Net Income to zero.
+Dr / Cr:
+Earnings Remittances to Treasury, net (330-200) $xxx
+Cr / Dr:
+Accrued Remittances to Treasury / Deferred Asset (240-925) $xxx
+12.65 Transferred to or from Surplus (330-225)
+The purpose of this account is to record the transactions necessary to equate surplus to the Reserve Bank's allocated portion of the $6.785 billion aggregate surplus limitation (see
+paragraph 12.10
+). The amount remains in this account until the closing of the books in January of each year. See paragraphs
+12.10
+and
+60.55
+for further discussion.
+Footnotes
+1. The H.4.1 is available at
+www.federalreserve.gov/releases/h41/current/h41.pdf
+.
+Return to text
+2. Change effective January 1, 2023, per the adoption of FASB ASC Topic 326, Financial Instruments—Credit Losses.
+Return to text
+3. Payments are defined as meeting the $25k threshold by expense account (inclusive of all products) and term (three months and greater) per purchase order/invoice.
+Return to text
+4. From 1992 until 1998, computer software purchased from vendors with an acquisition cost of $50,000 or greater was capitalized in this account and amortized over its estimated useful life, not to exceed three years. From 1999 to 2004, Reserve Banks capitalized the costs for internal use software whether purchased externally or developed internally if the costs exceeded $100,000 in this account. Beginning in 2005, to make the threshold consistent with other prepaid expenses, the capitalization threshold for externally-purchased software, such as license fees, was lowered from $100,000 to $25,000.
+Return to text
+5. Examples of desktop utility software include word processing, electronic mail, and anti-virus software.
+Return to text
+6. The Federal Reserve Act, as amended by the FAST Act, requires that the threshold amount of member bank total consolidated assets be adjusted annually to reflect the change in the Gross Domestic Product Price Index, published by the Bureau of Economic Analysis.
+Return to text
+7. The Board of Governors amended Regulation I, effective February 24, 2016, to implement the FAST Act provisions related to the payment of dividends to Reserve Banks.
+Return to text
+8. The accounting treatment should be determined annually and should be based on the materiality of the obligation to the overall balance sheet.
+Return to text
+9. The total subscription of a mutual savings bank shall equal six-tenths of 1 percent of its total deposit liabilities. (12 CFR 209.4(b))
+Return to text
+10. Prior to January 1, 2011, surplus was equated to the level of capital at December 31 of each year.
+Return to text
+11. Prior to the FAST Act, the Board levied an interest on Federal Reserve notes charge on the Reserve Banks. The FAST Act requires the transfer of excess earnings to Treasury. In both cases, the amount in Reserve Bank surplus is controlled by creating a non-discretionary obligation to transfer excess residual net earnings to Treasury.
+Return to text
+Back to Top
+Last Update:
+                    June 13, 2025

@@ -1,0 +1,241 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-2-collateral-and-custodies.htm -->
+<!-- title: The Fed - Chapter 2. Collateral and Custodies -->
+<!-- date_fetched: 2025-07-09T02:18:53.399137Z -->
+
+Home
+About the Fed
+Fed Financial Statements
+Federal Reserve System Audited Annual Financial Statements
+Financial Accounting Manual for Federal Reserve Banks
+Financial Accounting Manual for Federal Reserve Banks, May 2025
+PDF
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+About This Manual
+Abbreviations
+Summary of Revisions
+Chapter 1. Balance Sheet
+Chapter 2. Collateral and Custodies
+Chapter 3. Property and Equipment
+Chapter 4. System Open Market Account
+Chapter 5. Federal Reserve Notes
+Chapter 6. Reporting Requirements
+Chapter 7. Funding, Credit, Liquidity, and Loan Facilities
+Chapter 8. Special Topics
+Appendixes
+Appendix A. Currency
+Appendix B. Dividends
+Appendix C. FR 34 Accounts
+Appendix D. Software
+Appendix E. Reserved
+Appendix F. Pension
+Chapter 2. Collateral and Custodies
+20.01 General
+The preceding chapter discusses the periodic reporting of the assets and liabilities of Federal Reserve Banks. Chapter 2 is concerned with the accounts covering securities and other valuables, which are to be reported at the end of each month on the reverse of the FR 34. Federal Reserve Banks act as custodians for securities and other valuables pledged by depository institutions as collateral for borrowings from Reserve Banks and securities pledged as collateral to the Federal government. As fiscal agents, the Banks also act as custodians for securities pledged by nondepository institutions, including securities that are held for Government departments and officials in a fiduciary capacity. As the issuing and/or paying agents for the U.S. Government and certain Government-sponsored agencies, the Reserve Banks are accountable for unissued stock and for retired or paid securities, held pending shipment or destruction. The Reserve Banks also hold gold and other valuables, in accordance with safekeeping agreements with Treasury, foreign central banks, and other institutions. The objective in reporting the various collateral and custody items on the reverse of the FR 34 is to assure adequate disclosure for purposes of verification and control. For purposes of this chapter, "book entry" securities refer to Fedwire book entry securities only.
+20.02 Book Entry vs. Definitive Custodies
+Two amount columns are provided on the reverse of form FR 34: one titled "Definitive" and the other titled "Book Entry." All book entry securities should be reported in the Book Entry column and all definitive securities and other custodies, including custody receipts, should be reported in the Definitive column. Custodies in book entry form that are held for the reporting office by another Federal Reserve office should also be shown in the Book Entry column, and included on the line for "Held by other offices in own District" or "Held by other FR Banks," as the case may be.
+20.03 Special Depositaries, Treasury Tax, and Loan Accounts
+As fiscal agents the Reserve Banks maintain records for certain balances in Treasury's deposit accounts at commercial banks and thrift institutions. For example, when qualified depositaries that hold investments of Treasury balances receive payment for Federal taxes, the depositaries hold the funds until Treasury withdraws or calls the balances held at the depositaries. When investments mature or calls are made, the funds are remitted through the reserve accounts of depository institutions. The balance reported in this item should represent the aggregate of the individual demand deposit accounts, as well as open-ended note accounts.
+20.04 Classification/Valuation of Holdings
+Classification: To properly reflect the location, purpose and accountability for custodies recorded on the books of the Federal Reserve Banks, the various collateral and custody accounts are subdivided into four categories:
+Held in Own Vaults
+,
+Held by Other Offices in Own District
+,
+Held by Other Federal Reserve Banks
+, and
+Held by Depository Institutions
+. In general, all book-entry securities (except securities issued by international organizations) should be classified as
+"Held In Own Vaults."
+For book-entry securities issued by international organizations, all Federal Reserve Banks (except the FRBNY) should classify their holdings of these securities as
+"Held By Other FRBs."
+The FRBNY, however, should classify their holdings of these securities as
+"Held In Own Vaults."
+The FRBNY should then classify the roll-up of all the other Reserve Banks' holdings of these securities as
+"Custodies Held For Other F.R. Banks."
+(See
+paragraph 21.10
+.)
+The following characteristics should be considered to determine the proper classifications for custodies on both office and District level FR 34s. The descriptions below focus on definitive holdings; however, except for the reference to trust receipts, the same principles apply to book-entry securities. The classifications of
+"Held by DI's"
+and
+"Held by Other Offices in Own District"
+only apply to definitive securities and should never be used for book entry securities:
+Location of Physical Security
+All custodies held by an office must appear on that office's FR 34 Reverse as
+Held in Own Vaults
+. Trust receipts held by an office that represent custodies held outside the System are classified as
+Held by Depository Institutions
+.
+Collateral Function
+Custodies are recorded on the books of the Federal Reserve System for one of two purposes: collateral to protect the System or a government entity against certain risks; or as a safekeeping service. Custody items held as collateral should be reflected in the appropriate function (Loans, TT&L, etc.); if the same custody is used to collateralize differing transactions during the day, it should be reflected on the FR 34 Reverse under the function it serves at end-of-day and should be recorded and carefully monitored in departmental records to reflect the purpose served intraday. Other security holdings are reflected in the appropriate
+Custodies Held for...
+accounts.
+Location of Applicable Function
+The Federal Reserve System has a wide variety of both decentralized and consolidated processes at the District and office levels. In order to reflect proper accountability on the FR 34 Reverse, offices which have functional units that may require collateral must reflect all of this associated collateral on their FR 34 Reverse regardless of where that collateral is located. To distinguish between physical accountability and functional accountability, offices should reflect these custodies as
+Held by other offices in own District
+or
+Held by other Federal Reserve Banks
+. Trust receipts held by other offices or FRBs are treated the same as other custodies in these accounts; only the office which has physical possession of the trust receipts is required to distinguish on the FR 34 Reverse whether the security is physically held in a Federal Reserve vault or at a depository institution.
+The following are examples of proper classification on each office's FR 34 reverse and on the combined District's FR 34 reverse:
+Example #1: Loan Function is centralized at the head office; safekeeping functions are decentralized.
+Collateral for Loans:
+FR 34
+Head Office
+FR 34
+Branch 1
+FR 34
+Branch 2
+FR 34
+District
+Held in own vaults
+200
+100
+200
+500
+Held by other offices in own District
+380
+-
+-
+N/A
+Held by other FR Banks
+25
+-
+-
+25
+Held by depository institutions
+150
+50
+30
+230
+Example #2: Function is decentralized in all offices; Custody safekeeping is entirely centralized at Branch 1 except for trust receipts entirely held at Branch 2. (Each office has 200 TT&L collateral)
+Collateral for TT&L
+FR 34
+Head Office
+FR 34
+Branch 1
+FR 34
+Branch 2
+FR 34
+District
+Held in own vaults
+-
+500
+1
+-
+500
+Held by other offices in own District
+200
+30
+130
+N/A
+Held by other FR Banks
+-
+-
+-
+-
+Held by depository institutions
+-
+-
+100
+2
+100
+1. Head Office=200; Branch 1=170; Branch 2=130
+Return to table
+2. Branch 1=30 Branch 2=70
+Return to table
+Valuation
+Definitive collateral that will be redeemed at par at maturity and all book entry collateral should be reported at par value. Holdings of definitive collateral whose par value may increase (as in the case of certain collateralized mortgage obligations) or decrease (as in the case of mortgage-backed securities) should be reported at the current outstanding principal value.
+20.05 Collateral for Treasury Tax and Loan Accounts (Definitive and Book Entry)
+Pursuant to 31 CFR 203, the funds held in Treasury Tax and Loan accounts, except for amounts covered by FDIC insurance, are secured by the pledge of collateral. The collateral must be of a type deemed acceptable by Treasury as covered in the Code of Federal Regulations. Holdings of collateral should be subdivided and reported as described in
+paragraph 20.04
+.
+20.10 Collateral for Loans (Definitive and Book Entry)
+All loans made by the Reserve Banks are secured, usually by collateral. Where feasible to minimize unnecessary bookkeeping, a Reserve Bank should carry securities in this account even though the owning bank is not currently borrowing. Holdings should be subdivided and reported as described in
+paragraph 20.04
+.
+20.15 Collateral for Overdrafts (Definitive and Book Entry)
+Reserve Banks may, in certain situations, require a depository institution to pledge collateral in the event the institution's deposit account becomes overdrawn during the day or is overdrawn at the close of the business day. Any such collateral pledged for overdrafts is to be subdivided and reported as described in
+paragraph 20.04
+.
+20.20 Accountability to Treasury for U.S. Government Securities: Marketable Securities (Definitive Only)
+Reserve Banks no longer process these items. Items sent to Reserve Banks in error should be forwarded to Treasury's Bureau of Public Debt and reported as Collateral and Custody Items in Process (see
+paragraph 21.50
+) until shipped to the Bureau of Public Debt.
+20.40 Accountability to Treasury for U.S. Government Securities: Non-marketable Securities (Definitive Only)
+Savings Bonds Unissued On Hand
+—Report the face value of savings bonds (all series), retirement plan bonds, and individual retirement plan bonds that fall into the following categories: Unissued stock; spoiled bonds; issued bonds not reported to Treasury (for example, sales and issues on reissue such as bonds issued for claims to replace valid issued bonds that were lost, stolen, or destroyed); unissued stock claims (bonds lost, stolen, or destroyed before being issued); canceled sales for which the original bond is not in-house; in-transit shipments of unissued stock to the Federal Reserve Bank of Philadelphia; and bond shipments awaiting delivery to issuing agents. Only the Federal Reserve Bank of Minneapolis should report this account.
+20.45 Accountability to Treasury for U.S. Government Securities—On Consignment: Non-marketable Securities (Definitive Only)
+Savings Bonds on Consignment with Issuing Agents
+—Report the face value of savings bonds (all series), retirement plan bonds, and individual retirement plan bonds consigned to all issuing agents. Bonds that are lost, stolen, or destroyed should be included until Treasury has notified the Reserve Bank that credit is allowed. Only the Federal Reserve Bank of Minneapolis should report this account.
+20.50 Savings Bonds Issued—Book Entry
+This account includes book-entry savings bonds held in safekeeping for trustees of qualified employees' savings and thrift plans. Only the Federal Reserve Bank of Minneapolis should report this account.
+20.55 Accountability for Other Securities (Definitive Only)
+This account should be reported by the FRBNY only.
+U.S. Government Agencies
+—This account includes the total accountability for bearer and registered (designated and undesignated) securities of U.S. Government agencies.
+Unissued
+—Report the par value of the general and reserve stock of bearer and registered (designated and undesignated) U.S. Government agency securities, including spoiled and mutilated securities.
+Retired
+—Report the par value of all bearer and registered U.S. Government agency securities retired before maturity as a result of processing servicing transactions; such as, interdistrict transfers, conversions to book-entry, denominational exchanges, and registered exchanges for bearer.
+Canceled Redeemed
+—Report the par value of all matured bearer and registered U.S. Government agency securities for which the depositors have been paid.
+20.70 Accountability for Other Securities (Definitive Only)
+International Organizations
+—This account includes the total accountability for bearer and registered (designated and undesignated) securities issued by international organizations; such as, the International Bank for Reconstruction and Development. This account should be reported by the FRBNY only.
+Unissued
+—Report the par value of the general and reserve stock of bearer and registered (designated and undesignated) securities unissued by international organizations, including spoiled and mutilated securities.
+Retired
+—Report the par value of all bearer and registered securities issued by international organizations that have been retired before maturity as a result of processing servicing transactions; such as, denominational exchanges and transfers of ownership.
+Canceled Redeemed
+—Report the par value of all matured bearer and registered securities issued by international organizations for which the depositor has been paid and the issuer has been charged.
+20.80 Other Custodies Held as Fiscal Agent of the Treasury
+This account includes gold held for the Exchange Stabilization Fund and any other holdings of gold as agent of the Treasury, as shown below. Custodies besides gold include collateral acquired under the loan guarantee program pursuant to the Defense Production Act of 1950, as amended. "Special custody account: Other"
+ordinarily
+will be used only by the FRBNY under specific instructions.
+Gold–Held in own vaults
+Gold–Held by other Federal Reserve Banks
+Other
+Gold that a Reserve Bank owns should be reported in Currency and Coin Exhibits. (Account 170-375, see
+paragraph 4.70
+.)
+20.85 Custodies Held for Commodity Credit Corporation
+This includes all custodies held for the Corporation. Where Branches do not act as custodians for the Commodity Credit Corporation but hold such custodies for the account of the head office, the Branches should show them as "Custodies held for other offices in own District." The head office would report the custodies according to the proper classification.
+20.90 Custodies Held for Treasury
+Custodies held for the Treasury are subdivided according to the captions below. Under the special gold custody account for display purposes, there should be reported gold coins and gold certificates held as specimen under special authority from Treasury.
+Special gold custody account:
+For display purposes gold certificates
+Other gold bars
+20.95 Custodies Held for Other Government Departments, Agencies, and Officials (Definitive and Book Entry)
+This account includes custodies held for the Directors and Commissioner of Internal Revenue; Judges and Clerks, U.S. District Courts (includes CRIS holdings); Public Housing Administration; General Services Administration; Federal Deposit Insurance Corporation; U.S. Citizenship and Immigration Services; Secretary of the Treasury; Treasury (as security for Government deposits in other than Treasury Tax and Loan Account); State Treasuries; and others. Holdings should be subdivided and reported as described in
+paragraph 20.04
+.
+21.05 Custodies Held for Other Offices in Own District (Definitive Only)
+Custodies held by head office for Branches and by Branches for head office and other Branches are reported in this account. No amount will appear opposite this caption on the combined form FR 34, inasmuch as it would represent a duplication of amounts reported elsewhere under the appropriate classification by the office for whose account the custodies are held.
+21.06 Custodies Held for System Open Market Account
+Includes all securities held in custody for the SOMA. Securities loaned or undelivered should not be included. This account should be reported by the FRBNY only.
+21.10 Custodies Held for Other Federal Reserve Banks (Book Entry Only)
+Items included represent custodies held for other Federal Reserve Banks (but not for other offices in own District). The FRBNY should include in this account those securities issued by international organizations, which can officially be held only by the FRBNY but which may, de facto, be held in book entry safekeeping by other Reserve Banks. Thus, this category would include the roll-up of all the other Reserve Banks' holdings of international securities.
+21.15 Custodies Held for Depository Institutions (Book Entry Only)
+The account covers ordinary safekeeping of regular and "strippable" securities, including the corpus from any stripped security and pledges by depository institutions to various municipalities, county, state, and other officials (other than U.S.) generally referred to as "pledged" securities or "joint safekeeping." Also included are securities issued by international organizations that can officially be held only by the FRBNY but that are, de facto, held by other Reserve Banks. Holdings should be subdivided and reported as described in
+paragraph 20.04
+.
+21.25 Custodies Held for Foreign Correspondents (Definitive and Book Entry)
+All safekeeping items for foreign central banks, foreign governments, and other foreign official entities (including foreign entities whose accounts were established under Regulation N) are reported by the FRBNY only, according to the following captions:
+Acceptances
+Securities
+Earmarked gold–Held in own vaults
+21.28 Foreign Debt Collateral (Definitive and Book Entry)
+Includes collateral held by the Reserve Bank as collateral agent, as well as trust receipts representing collateral held by other custodians, in accordance with various Foreign Debt agreements. Collateral denominated in foreign currencies should be converted to dollars upon receipt; no further revaluation for fluctuations in exchange rates is necessary. Holdings should be subdivided as shown. This account should be reported by the FRBNY only.
+Held in own vaults
+Held by others
+21.30 Custodies Held for International Organizations (Definitive and Book Entry)
+All safekeeping items, including securities and gold, held for international organizations, such as Asian Development Bank, International Bank for Reconstruction and Development, International Finance Corporation, and International Monetary Fund are reported by the FRBNY only.
+21.40 Miscellaneous Custody Items (Definitive and Book Entry)
+This account includes ordinary safekeeping other than such safekeeping referenced earlier in this chapter. It also includes any collateral from dealers held by a Reserve Bank in connection with loans of securities from the SOMA and prepaid postage provided by others for use in the provision of services such as RDS postage provided by Treasury.
+21.50 Collateral and Custody Items in Process (Definitive and Book Entry)
+This account includes the total accountability for definitive and book-entry securities that are being held pending ultimate disposition. Report the par value of all securities for which processing or delivery has not been completed. For example: Treasury securities erroneously submitted to the Reserve Bank and awaiting return to the customer for forwarding to Treasury; book-entries held pending transfer to Treasury on original issue or release of registered securities; municipal or corporate securities held pending deposit to or delivery from safekeeping; unopened "said-to-contain" envelopes for noncash items; and outgoing security and coupon shipments held by registered mail personnel. Savings bonds received for redemption, exchange, or reissue and paid savings stamps should not be reported.
+21.55 Memorandum Accounts (Definitive Only)
+Typically, the Reserve Banks do not hold items in definitive form. Please notify the Board of Governors if there is any to report.
+Back to Top
+Last Update:
+                    June 13, 2025

@@ -1,0 +1,560 @@
+<!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-8-special-topics.htm#xsubsection-19-83294497 -->
+<!-- title: The Fed - Chapter 8. Special Topics -->
+<!-- date_fetched: 2025-07-09T02:18:56.663787Z -->
+
+Home
+About the Fed
+Fed Financial Statements
+Federal Reserve System Audited Annual Financial Statements
+Financial Accounting Manual for Federal Reserve Banks
+Financial Accounting Manual for Federal Reserve Banks, May 2025
+PDF
+Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+About This Manual
+Abbreviations
+Summary of Revisions
+Chapter 1. Balance Sheet
+Chapter 2. Collateral and Custodies
+Chapter 3. Property and Equipment
+Chapter 4. System Open Market Account
+Chapter 5. Federal Reserve Notes
+Chapter 6. Reporting Requirements
+Chapter 7. Funding, Credit, Liquidity, and Loan Facilities
+Chapter 8. Special Topics
+Appendixes
+Appendix A. Currency
+Appendix B. Dividends
+Appendix C. FR 34 Accounts
+Appendix D. Software
+Appendix E. Reserved
+Appendix F. Pension
+Chapter 8. Special Topics
+80.01 General
+This chapter addresses the accounting for financial assets and liabilities for which the accounting policies are not specified in other FAM chapters. This chapter provides general accounting guidance for the unique aspects of these assets and liabilities, including SOMA assets. Financial assets and liabilities that are not part of the SOMA should be accounted for in accordance with GAAP. Reserve Banks should work with RBOPS Financial Accounting Policy and Reporting Section to determine the appropriate accounting treatment for the transactions described in this chapter and to obtain approval for the accounting analysis and related conclusions.
+81.01 Allowance for Credit Losses
+The Federal Reserve offers lending facilities to help provide liquidity and funding to the financial markets. Under each facility, a Federal Reserve Bank (Bank) provides credit either to special purpose vehicles (SPVs) created to administer the provision of liquidity to third parties or directly to eligible borrowers. When credit is provided to SPVs, the Banks' lending is secured by the assets of the SPV and, in some cases, by credit protection provided by the Treasury. Loans made directly by the Banks to eligible borrowers and by SPVs to borrowers may be collateralized by pledged assets. These facilities include the following:
+Primary, secondary, seasonal, and other credit
+Main Street Expanded Loan Facility (MSELF)
+Main Street New Loan Facility (MSNLF)
+Main Street Priority Loan Facility (MSPLF)
+Municipal Liquidity Facility (MLF)
+Nonprofit Organization Expanded Loan Facility (NOELF)
+Nonprofit Organization New Loan Facility (NONLF)
+Paycheck Protection Program Lending Facility (PPPLF)
+Term Asset-Backed Securities Loan Facility (TALF)
+Bank Term Funding Program (BTFP)
+Loans extended by the Reserve Banks to consolidated limited liability companies (LLCs) are not considered in the following paragraphs because the loans are eliminated in consolidation. In addition, loans extended to consolidated LLCs that are recorded at fair value do not require an allowance for credit loss.
+FASB ASC Topic 326-20 establishes the general expectation of the recognition of lifetime expected allowance for credit losses on financial assets measured at amortized cost, commonly referred to as the Current Expected Credit Loss (CECL) model, regardless of whether the risk of credit loss is deemed to be remote. The following paragraphs discuss key considerations for accounting for credit losses: (1) recognition of an allowance for credit losses, (2) measuring credit losses, (3) recording credit losses, and (4) interest income recognition.
+If however, the measure of expected credit losses on a financial asset (or pool of financial assets) in which historical credit loss experience information, adjusted for current economic conditions and reasonable and supportable forecasts, results in a conclusion that the risk of non-payment is zero, an estimate for credit losses is not required to be recognized, so called the "zero loss expectation" exception. Significant judgment is required whether the exception can be applied to a specific class of financial assets with consideration provided to all reasonably available information when evaluating historical loss experience, whether the assets are issued or guaranteed by a government entity, and evaluation of assets secured by collateral. Further, for financial assets secured by collateral provided by the borrower and whose collateral coverage is being used to arrive at a "zero loss expectation" on the asset, FASB ASC Topic 326-20 requires the consideration of potential future changes in value and historical loss information for assets secured with similar collateral, rather than based solely on the assessment of the current coverage. Given the complexity and judgement required in concluding that the "zero loss expectation" exception is appropriate for a given asset class, Reserve Banks should contact RBOPS Financial Accounting Policy and Reporting Section for guidance when considering such plans.
+81.02 Recognizing an Allowance for Credit Losses
+The credit loss standard codified in FASB ASC Topic 326 requires recognizing lifetime expected credit losses immediately upon the purchase or origination of the loan, even if the likelihood of a loss is remote. The estimate of expected credit losses is based on historical loss information, adjusted to reflect current economic conditions and reasonable and supportable forecasts.
+FASB Topic ASC 326-20 requires that upon initial inception or purchase of the loan, and subsequently at each reporting date, the recognition of an allowance for credit losses generally in a consistent manner over the lifetime (in most cases the contractual maturity) of the loan. A comparison of the current estimate of expected credit losses with the previously recorded amount should be performed at each reporting date, with the amount necessary to adjust the allowance for credit losses reported in net income as a bad debt expense or reversal of bad debt expense.
+FASB ASC Topic 326-20-30 establishes the presumption of estimating credit losses on financial assets with similar risk characteristics on a collective (pool) basis when similar risk characteristics exist. FASB ASC Topic 326-20 provides guidance on evaluating credit losses for loans in homogenous pools with similar risk characteristics. Only in instances where financial assets are determined not to share risk characteristics with other financial assets in a pool should an evaluation for expected credit losses be performed on an individual basis. Judgement would be required in making this determination, but the estimation method used would need to be supportable qualitatively or quantitatively and consistently applied. Under the current expected credit loss methodology, assets evaluated on an individual basis should not also be included in the collective evaluation. A loan is defined under FASB ASC Topic ASC 326-20 as the contractual right to receive money on demand or on fixed or determinable dates that is recognized as an asset in the creditor's balance sheet.
+Under FASB ASC Topic 326-20, the estimation timeframe for credit losses is over the life of the financial asset. In practice, the estimate should cover the duration of the contractual term of the financial asset. Specific consideration should be given to estimated prepayments as a separate input in the overall credit loss estimate—both in the magnitude and timing of those prepayments. Consistent with FASB ASC Topic 326-20, expected extensions, renewals and modifications would not affect the estimation timeframe unless the extension/renewal options are included in the contract and are not unconditionally cancellable.
+81.03 Measuring Credit Losses
+Due to the subjective nature of the estimate, FASB ASC Topic 326-20 does not prescribe one method for measuring credit losses. Rather a discounted cash flow method, loss-rate method, roll-rate method, probability-of-default method, or methods that utilize an aging schedule are all appropriate methodologies. Judgment is required to develop an approach that captures expected credit losses for financial assets that can be consistently applied and should take into account the complexity of the asset portfolio under consideration and availability of information. It is acceptable to select different measurement methods for different loan programs, based on a documented rationale as to the choice of the measurement method, including the Bank's reasonable expectations for the recovery of the investment in the loan. Whereas legacy GAAP generally considered past loss experience and current conditions, FASB ASC Topic 326-20 also requires consideration over reasonable and supportable forecasts of future conditions over the lifetime of the asset. Note, while there is latitude provided by the new standard as to what model methodology may be best to estimate credit losses, given the oftentimes complex nature of the estimate, consultation with RBOPS Financial Accounting Policy and Reporting Section is required to ensure consistent application of accounting policy. Further, once the estimate approach has been determined, RBOPS Financial Accounting Policy and Reporting Section should be consulted if a change in measurement methodology is being considered by the Reserve Bank.
+Historical loss experience (both internal or external loss information) generally serves as a starting point for estimating expected credit losses under FASB ASC Topic 326-20. The standard details the need to consider adjustments to the historical loss information for differences in current asset specific risks, such as portfolio mix or asset term, and also both the current economic conditions and reasonable and supportable future forecasts of economic conditions. Adjusted loss information should be specific for each asset pool for which expected credit losses are being estimated.
+While FASB ASC Topic 326-20 does not prescribe one specific method of measuring credit losses, three of the more common methods are detailed below. The Reserve Bank should select and apply its method consistently and a change in method should be justified by a change in circumstances.
+The present value of expected cash flows discounted at the loan's effective interest rate
+The fair value of the collateral if the loan is nonrecourse
+Probability of default/loss given default
+1. Present Value of Expected Cash Flows Method
+The discounted cash flow method estimates an allowance for credit losses by calculating the difference between the carrying value of the loan and the present value of the principal and interest cash flows expected to be collected. Based on reasonable and supportable assumptions and projections, the Bank must exercise significant judgment to develop the best estimates of expected future cash flows. All available inputs, including estimated selling costs if those costs are expected to reduce the cash flows available to repay or otherwise satisfy the loan, should be considered in developing the estimate of expected future cash flows. The weight given to the inputs should be commensurate with the extent to which the factors can be verified objectively. If the Bank estimates a range for either the amount or timing of possible cash flows, the likelihood of the possible outcomes shall be considered in determining the best estimate of expected future cash flows.
+Other considerations may exist such as loan-specific credit protection in the form of a guarantee or credit insurance feature.
+1
+In the case of a non-derivative credit enhancement that is separable from the loan such that its benefits do not follow with or are extinguished with the loan, any expected recoveries from credit enhancements cannot be used to offset the recorded amount of the allowance for credit loss for the impaired loan.
+If the credit enhancement is attached to the loan, such that it always follows the loan upon its sale, the proceeds of such enhancements may be considered in the loss estimation. The Bank should consider potential recovery from third-party guarantors such as FDIC, other government agencies, or bond insurance. Additional recourse to consider is the ability to debit the borrower's account with the Federal Reserve. The Bank should consider all the cash flows associated with the loan and its specific credit protections when measuring the incurred loss in impaired loans and in determining the adequacy of the loss.
+In addition, the basis for the cash flow estimates must be documented and subject to appropriate review procedures.
+2. Collateral-Dependent Measurement Approach (as a practical expedient)
+The Bank can also measure the impairment of a loan by reference to the fair value of the collateral if the loan is nonrecourse, for example, if the repayment of the loan is expected to be provided solely by the underlying collateral.
+2
+In accordance with FASB ASC Topic 326-20, the collateral-dependent measurement approach must be applied when default is probable. Furthermore, this method may be elected as a practical expedient when default is not probable but (1) repayment is expected to be provided substantially through the operation or sale of the collateral, and (2) the borrower is experiencing financial difficulty based on the entity's assessment as of the reporting date. The estimated costs to sell, on a discounted basis, should be considered in the measure of impairment if those costs are expected to reduce the cash flows available to repay or otherwise satisfy the loan. Selling costs should be adequately documented and supported.
+3. Probability of Default Method
+For pool loans that exhibit similar risk characteristics and other loans not individually identified as impaired, a primary determination of the loss accrual under a lender's policy is often the historical loss experience ratio adjusted for current trends and conditions. The Bank can use available historical information adjusted for differences in current asset specific risks, such as portfolio mix or asset term, and also both the current economic conditions and reasonable and supportable future forecasts of economic conditions to develop a range of expected losses.
+Expected loss is the estimate of the current amount of loans for which the Bank will be unable to collect over the life of the loan given facts and circumstances as of the evaluation date. Based on historical experience and adjusted for asset specific risks, current economic conditions, and reasonable supportable future forecasts, evaluate the degree of likelihood that the borrowers will not pay, the amount of funds lost when the borrowers default, and the total amount the Bank may lose, or the Bank's financial exposure to at the time of default. Loss information should be applied to pools that are defined in a manner that is consistent with the pools for which the historical credit loss experience was observed. Note, if a reasonable and supportable forecast for future economic conditions is unable to be estimated, no economic adjustment should be made for those periods The calculation is based on a formula commonly used in practice to develop a credit loss allowance:
+$Expected Loss = PD% * LGD% * $EAD
+3
+PD—Probability of default
+4
+LGD—Loss given default
+EAD—Exposure at default
+5
+As a general practice, PD is based on the borrower's risk rating or credit rating and LGD/EAD is based on the underlying collateral and other recourse for each individual loan. The specific approach should be suitably developed for each program given the nature of underlying portfolio and data availability as discussed below.
+The loans extended by the Banks under each facility are collateralized. They differ, however, in that some loans are with recourse while others are extended on a nonrecourse basis to the borrowers. As a result, the loss calculation for each differs. For example,
+For nonrecourse loans, this calculation should be based on the underlying collateral of the individual loan rather than the loan counterparty, because the pledged collateral is the only source of recovery in the event of the borrower's default on the loan.
+For recourse loans, this calculation should be based on the credit quality of the loan counterparty as well as the underlying collateral, because the Bank can recover by liquidating the underlying collateral as well as from the borrower itself.
+For some loan programs, there may be insufficient historical loss experience to use to estimate the PD and LGD. Alternatives methods include
+default and recovery rates based on historical studies of similar loans, as applicable;
+and
+default and recovery rates based on structured finance rating or corporate default study (e.g., S&P, Moody's)
+The Bank should also consider factors that might cause the loss experience for the current loan portfolio to differ from historical experience or from a comparison to other default and recovery rates, such as current market conditions, credit concentration, extraordinary portfolio characteristics, other environmental factors, asset-specific risk characteristics, and expectations of future market conditions.
+Subsequent Measurement
+Subsequent to the initial measurement of an impairment, if there is a significant change in the amount or timing of the expected future cash flows of an impaired loan, the Bank should recalculate the impairment by applying the principles described above and adjust the valuation allowance.
+If using the pooling methodology for estimating credit losses, an evaluation of whether the loans in the collective pool continue to exhibit similar risk characteristics with others in the pool should be performed.
+If the Bank measures impairment based on the fair value of the collateral of an impaired nonrecourse loan, it should adjust the valuation allowance if there is a significant change in either the fair value of the collateral at measurement date or expectations of the future fair value of the collateral over the life of the loan. The net carrying amount of the loan should at no time exceed the recorded investment in the loan.
+Periodic evaluations should be performed, but no less than quarterly. When performing the review, the Bank should evaluate whether the actual amount and timing of cash flows received from the borrower are consistent with the Bank's previous expectations. The review should take into account any information, events, or other developments as of the reporting date that may affect the Bank's previous estimate of impairment.
+81.04 Recording Credit Losses and Charge-Offs
+Recording the Credit Loss
+If the estimated realizable amount of a pool of homogenous loans or a specific loan is less than the recorded investment in the loan(s), the Bank should recognize the credit loss by creating a valuation allowance with a corresponding charge to bad debt expense account or by adjusting an existing valuation allowance for the loans with a corresponding charge or credit to bad debt expense account. The valuation allowance should be recorded to FR 34 Account 145-360,
+Allowance for Credit Losses
+(credit); the expense provision should be recorded to Account 330-080,
+Provision for Credit Loss Expense
+(debit).
+The amount of the required valuation allowance is equal to the difference between the loan's
+impaired value
+(expected realizable value) and the
+recorded investment.
+The required charge or credit to bad debt expense is equal to the difference between the required valuation allowance and any existing valuation allowance related to that loan.
+The recorded investment in the loan includes the outstanding loan balance (net of any charge-offs), accrued interest, deferred loan fees or costs, and unamortized premium or discount.
+The net carrying amount of the loan is equal to the recorded investment in the loan less the valuation allowance, or the impaired value. When the Bank determines that a portion of the loan or the entire loan will be uncollectable, the recorded investment in the loan is written down by recording a charge-off against the loan and the valuation allowance. In no circumstances should the net carrying amount of the loan exceed the recorded investment in the loan.
+The allowance for credit losses on either a homogeneous pool of loans or individual loans, both evaluated under FASB ASC Topic 326-20, effectively adjusts the loan portfolio or individual loan to its realizable value. Recoveries on previously charged-off amounts will reduce this allowance account.
+Charge-Offs
+When the loans become uncollectible, a charge-off will be recorded by reducing both loan balance (credit) and allowance for credit losses (debit). If the previously recorded valuation allowance is not sufficient to cover the charge-off, the difference should be recognized as an adjustment to the bad debt expense (debit) and allowance for credit losses (credit) in the current period.
+81.05 Interest Income Recognition
+Accrual of Interest on Impaired Loans
+When the Bank does not have a reasonable expectation of collection of all or some of the amounts due, including both the contractual interest and principal payments under the loan agreement, the individual loan is considered to be impaired and the accrual of interest income on that loan should be suspended.
+The recognition of interest income based on the contractual terms of the loan agreement should be discontinued while the loan is considered impaired because any such interest will not be earned (i.e., the Bank does not expect to collect all of the interest and principal in accordance with the contractual terms of the loan agreement).
+Subsequent Payments on Impaired Loans
+Two accounting practices exist for recording cash payments that are periodically received on the impaired loans: the cash basis method and the modified cost recovery method. The Banks should apply the modified cost recovery method to recover the investment in the loan prior to recognizing interest income, unless contract terms specify treatment. This method is more conservative because it defers income recognition until the principal is recovered.
+Cash Basis Method
+Under the cash basis method, payments of interest received are recorded as interest income provided the amount does not exceed that which would have been earned at the historical effective interest rate.
+Modified Cost Recovery Method
+Under the modified cost recovery method, any interest or principal received is recorded as a direct reduction of the recorded investment in the loan. When the recorded investment has been fully collected, any additional amounts collected are recognized as interest income. This method may result in the recorded investment being less than the present value of the loan because the recorded investment excludes interest income and the present value includes interest.
+81.06 Valuation Allowance Adjustments
+For impairment models leveraging the present value of future cash flow approach, at the end of the reporting period, changes in the loan's impaired basis due to the passage of time (changes in discounted present value) are reflected in the income statement using either the interest method or the bad debt expense method. Because it is more consistent to apply across the spectrum of programs offered by Reserve Banks, the Banks should apply the bad debt expense method.
+Interest Method
+The change in the present value of a loan should be assessed to identify the changes because of the passage of time and the changes that are because of the amount or timing of expected future cash flows. The increase in present value attributable to the passage of time can be reported as interest income accrued on the net carrying amount of the loan. The change in present value, if any, attributable to changes in the amount or timing of expected future cash flows can be reported as bad debt expense or as a reduction in the amount of bad debt expense that otherwise would be reported.
+Bad-Debt Expense Method
+The entire change in present value can be reported as bad debt expense or as a reduction in the amount of bad debt expense that otherwise would be reported.
+81.07 Program Specific Analysis
+Loans and relevant financing receivables should be evaluated quarterly, in accordance with the process described below. Each Reserve Bank should establish appropriate oversight of the review process, including review by the Chief Financial Officer and other Reserve Bank senior management, as appropriate. Based on a Reserve Bank's daily monitoring, if a loan is deemed to be impaired, the RBOPS Financial Accounting Policy and Reporting Section should be notified immediately. The quarterly process includes the following:
+Identification of loans and relevant financing receivables that need to be evaluated under FASB ASC Topic 326, Financial Instruments—Credit Losses.
+For loans and relevant financing receivables for which an allowance for credit loss estimate was determined to be necessary under FASB Topic ASC 326 in previous periods, review key inputs, methodology, and assumptions into the allowance for credit loss to ensure that any requisite changes to the estimate are updated and properly reviewed. For loans and relevant financing receivables (for newly originated or purchased financial assets), determine the appropriate estimate methodology, and key inputs and assumptions to develop an allowance for credit loss for instances where the Bank has concluded that there is an expected credit loss (even when considered remote). See
+paragraph 81.03
+for guidance on developing an allowance for credit loss estimate.
+For loans and relevant financing receivables for which the "zero-loss expectation" exception has been elected, review previous facts and circumstances supporting that conclusion to ensure the "zero loss" assertion is still appropriate.
+On a quarterly basis, the Bank should submit its quarterly credit loss evaluation and the relevant supporting documentation to RBOPS Financial Accounting Policy and Reporting Section by the 20th of the month following quarter-end, or the next business day if the 20th is a weekend or holiday. The analysis should be prepared in a format acceptable to the RBOPS Financial Accounting Policy and Reporting Section.
+Primary, Secondary, and Seasonal Credit; and Emergency Credit
+The Federal Reserve Banks' lending serves as a backup source of liquidity for depository institutions. At times when the normal functioning of financial markets is disrupted, Federal Reserve Banks' lending can become a principal channel for supplying liquidity to depository institutions and other entities.
+Regulation A
+, Extensions of Credit by Federal Reserve Banks, governs borrowing by depository institutions and provides terms and conditions for several lending programs, detailed below. The terms under which a depository institution may obtain advances from, incur obligations to, or pledge collateral to a Federal Reserve Bank in borrowing are set forth in
+Operating Circular No. 10
+, which is issued by each Reserve Bank.
+Primary credit is only available to depository institutions in generally sound financial condition for periods as long as 90 days, prepayable and renewable by the borrower on a daily basis.
+6
+Primary credit is generally priced at a rate above the FOMC's target for the federal funds rate.
+Secondary credit is available to depository institutions not eligible for primary credit.
+7
+It is extended on a very short-term basis, typically overnight, at a rate that is above the primary credit rate. Secondary credit is available to meet backup liquidity needs when its use is consistent with a timely return by the borrower to a reliance on market sources of funding or the orderly resolution of a troubled institution. Secondary credit may not be used to fund an expansion of the borrower's assets. The secondary credit program entails a higher level of Reserve Bank administration and oversight than the primary credit program. A Reserve Bank must have sufficient information about a borrower's financial condition and reasons for borrowing to ensure that an extension of secondary credit would be consistent with the purpose of the facility.
+Seasonal credit is a lending program thatis available to assist small depository institutions with demonstrated liquidity pressures of a seasonal nature and will not normally be available to institutions with deposits of $500 million or more.
+8
+Depository institutions that experience fluctuations in deposits and loans—caused by seasonal types of business—frequently qualify for the seasonal lending program. The interest rate applied to seasonal credit is a floating rate based on market rates.
+Emergency credit is available only in unusual and exigent circumstances under section 13(3) of the Federal Reserve Act, as amended by the Dodd-Frank Act. In addition to being subject to other requirements, such extensions of emergency credit may be made only pursuant to a program or facility authorized by the Board of Governors and approved by the Secretary of the Treasury.
+Federal Reserve Banks extend credit on a secured basis. Satisfactory collateral generally includes United States government and federal-agency securities, foreign debt, municipal and corporate debt, commercial paper and bank-issued assets, and commercial and consumer obligations, including real estate related loans. Collateral must be of acceptable credit quality to the Reserve Bank and performing under its terms and conditions. In accordance with Operating Circular No. 10, the borrower assigns to the lending Reserve Bank a continuing security interest in and lien on the collateral as collateral security for the timely and complete payment and performance when due. Reserve Banks take additional steps to perfect their security interest under the provisions set forth in the Uniform Commercial Code.
+Assets accepted as collateral are assigned a lending value (market or face value reduced by a margin) deemed appropriate by the Reserve Bank.
+9
+The financial condition of an institution and the impairment of any collateral are considered when assigning value. The lending Reserve Bank may request the borrower to replace any item of collateral or pledge additional collateral at any time.
+Operating Circular No. 10 specifies that, in the event of a default, the Bank may pursue remedies including debiting (or causing to be debited if the borrower is acting through a correspondent) the borrower's account.
+Loans are accounted for on the books of the Reserve Bank with which the borrower has the agreement to borrow. The Reserve Bank is required to evaluate credit losses on loans extended through the primary, secondary, and seasonal credit and emergency credit lending programs.
+Allowance methodology
+Determine whether loans should be evaluated on a collective (pool) or individual basis
+Factors to consider in determining whether the loans can be evaluated collectively or individually to develop an estimate for expected credit losses are discussed below:
+Primary and seasonal credit:
+While generally overnight, the term for primary credit loans may be up to 90 days; under the seasonal credit program loans can be extended for up to 9 months during a calendar year;
+These loans are made to depository institutions deemed to be in generally sound financial condition; and
+The loans require similar types of collateralization and are recourse loans as specified in Operating Circular 10.
+Assessment: Although some loans may warrant individual assessments in consideration of the risk characteristics outlined under FASB ASC Topic 326-20, these loans are generally homogenous in nature and share similar risk characteristics and should be evaluated in aggregate.
+Secondary and emergency credit:
+The nature and terms of these loans are not homogenous.
+For both the secondary and emergency loan programs, the financial institutions involved are in some degree of financial distress.
+Assessment: These loans are not homogenous in nature and do not share similar risk characteristics to the extent that it would not be appropriate to evaluate them on a collective basis. These loans should be evaluated individually in accordance with FASB ASC Topic 326-20.
+Emergency credit offered through specifically defined targeted programs that are administered by a designated Reserve Bank likely will have a unique profile. Accordingly, specific evaluation and valuation criteria, while consistent with the methodology described herein, should be developed for each program.
+Determine allowance for credit loss
+The Reserve Bank should evaluate the fair value of the collateral to determine if an allowance for credit loss is appropriate.
+If the fair value of the collateral is greater than the recorded investment in the loan, there is no loss allowance to be recorded.
+If the fair value of the collateral is lower than the recorded investment in the loan and foreclosure is probable, or foreclosure is not probable but the debtor is experiencing financial difficulty and repayment is expected to be provided substantially through the sale or operation of the collateral (i.e., falling under the collateral-dependent practical expedient), calculate the allowance for credit losses under the collateral-dependent measurement approach outline under FASB ASC Topic 326-20 and FAM
+paragraph 81.03
+.
+If applicable to the specific loan, review any coverage provided by the indemnity agreement between the FDIC or National Credit Union Administration and the Reserve Bank. Refer to FASB Topic ASC 326-20-30 for further guidance on credit enhancements within the loss allowance estimate process.
+81.08 Unfunded Commitments
+Identify unfunded commitments that are to be evaluated for likelihood of occurrence
+For secured lending facilities, the Bank specifies the maximum amount of funding it will provide. The remaining amounts available to borrow under each facility are the "unfunded commitments." Unfunded commitments, such as loan commitments or financial guarantees, represent off-balance sheet credit exposures and should be evaluated for impairment. See
+paragraph 84.01
+Accounting for Guarantees
+for additional discussion. A liability for expected credit losses on unfunded commitments is recognized if (1) there is a currently a contractual obligation to extend the credit, and (2) the obligation is not unconditionally cancellable. Expected credit losses should be estimated over the contractual life of the unfunded commitment and should consider the probability that the funding will occur.
+81.09 Modifications to Debtors Experiencing Financial Difficulty
+When a Reserve Bank revises the terms of a loan, this may qualify as a loan modification. The following are types of typical loan modifications:
+Reduction of the stated interest rate
+Extension of the maturity date at a stated interest rate lower than the current market rate for new debt with similar risks
+Reduction of the principal amount of the debt
+Reduction of the accrued interest.
+The effect of most loan modifications provided to borrowers experiencing financial difficulties is already included in the allowance for credit losses under FASB Topics ASC 326-20. Therefore, though most modifications will not result in the measurement of the allowance for credit losses, incremental expected losses that are a result of a loan modification can be captured in the Bank's allowance estimate. The Bank should refer to the loan refinancing and restructuring guidance in FASB Topic ASC 310-20 to determine whether a modification represents a new loan (i.e., as the extinguishment of the original debt instrument and issuance of a new loan) or continuation of an existing loan through modification, as well as specific disclosures required. The loan refinancing or restricting should be accounted for as a new loan when
+both
+of the following occur:
+The new loan's effective yield is at least equal to the effective yield for similar loans.
+The modifications are more than minor.
+If these conditions are not met, the refinancing or restructuring should be accounted for as a modification of the original debt instrument, not as a new loan. The loan should be periodically evaluated and, if necessary, adjustments should be recorded to the allowance for loan restructuring and provision for credit loss.
+If the Bank expects that, after restructuring the loan, it will be able collect all amounts in accordance with the revised terms of the loan agreement, it should continue to record interest income. If, however, the Bank does not expect to collect all amounts in accordance with the revised terms of the loan agreement, it should discontinue recording interest income and follow the procedures described in
+paragraph 81.05
+.
+82.01 Consolidation
+The Federal Reserve offered funding markets access to liquidity by introducing a number of liquidity facilities that were authorized by the Board under Section 13(3) of the Federal Reserve Act. The facilities were structured such that a specific Federal Reserve Bank (Bank) provided funding to a legal entity, which in turn acquired certain targeted assets from third party entities.
+10
+FASB ASC Topic 810-10 requires consolidation of legal entities that are within the scope of the standard to meet the criteria specified in FASB ASC Topic 810-10 for Voting Interest Entity Model and the Variable Interest Entity Model. Two different assessments are provided because a controlling financial interest may be achieved other than by ownership of shares or voting interests.
+The voting interest entity model
+Under the voting interest entity model for legal entities other than limited partnerships, the usual condition for a controlling financial interest is ownership by one reporting entity, directly or indirectly, of more than 50 percent of the outstanding voting shares of another entity.
+The variable interest entity (VIE) model
+Under the VIE model, a controlling financial interest requires both of the following:
+The power to direct the activities that most significantly impact the VIE's economic performance; and
+The obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant to the VIE.
+A reporting entity with a controlling financial interest in a VIE is referred to as the primary beneficiary. The reporting entity could be, but is not limited to being, an equity investor and another capital provider such as a debt holder, or a party with another contractual arrangement such as a guarantor.
+82.02 Evaluating Consolidation Based on Variable Interests
+To determine if a Bank must consolidate a legal entity's assets, liabilities, and results of operations, it must first determine if the legal entity is a business within the scope of FASB ASC Topic 810-10.
+11
+If the legal entity in which the Bank has a financial interest is deemed to be a business, it is not subject to consolidation.
+Paragraph 82.06
+contains a framework that can be used in evaluating whether a VIE financial results must be consolidated in the financial statements of the Bank.
+Next, the Bank should determine if the legal entity is within the scope of FASB ASC Topic 810-10. The legal entity is within the scope of FASB ASC Topic 810-10 if one or more of the following conditions exist:
+The Bank, or its related parties, participated significantly in the design of the entity;
+The entity is designed so that all of its activities either involve or are conducted on behalf of the Bank and its related parties;
+The Bank and its related parties provide more than half of the total of the equity, subordinated debt, and other forms of subordinated financial support to the entity, based on the fair values of the interests in the entity;
+The activities of the entity are primarily related to securitizations or other forms of asset-backed financings; or
+The Bank is able to direct the economic performance of the legal entity, whether through voting rights or otherwise.
+If, based on the criteria in the paragraph above, the entity in which the Bank has a financial interest is determined to be within the scope of FASB ASC Topic 810-10, the Bank must then determine if the entity is a VIE. The entity will meet the definition of a VIE if any of the following conditions are met:
+The total
+equity
+investment at risk is not sufficient to finance its activities without additional subordinated financial support. Generally, an equity investment at risk of less than 10 percent of the entity's total assets shall not be considered to be sufficient to finance its activities;
+As a group, the holders of the
+equity
+investment at risk lack any one of the characteristics of a controlling financial interest, which are
+The power to direct the activities that most significantly impact the entity's economic performance;
+the obligation to absorb the expected losses of the entity;
+the right to receive the expected residual returns of the entity;
+The equity investors' voting rights are not proportional to the economics; for example, absorption of gains or losses is not proportional to voting rights.
+If the entity meets the definition of a VIE outlined above, then the Bank's financial interest represents a variable interest and the Bank must consider whether it has a controlling financial interest in the VIE and, therefore, should include the assets, liabilities, and results of operations of the VIE in its consolidated financial statements. The Bank has a controlling financial interest and should consolidate the variable interest entity if it meets both of the following conditions:
+The power to direct the activities of a variable interest entity that most significantly affect the entity's economic performance.
+The obligation to absorb losses or right to receive benefits of the entity that could potentially be significant to the variable interest entity.
+Only one enterprise, if any, is expected to be identified as the primary beneficiary of a variable interest entity. Although more than one entity could have either of the characteristics described above, only one entity, if any, will have the power to direct the activities of a variable interest entity that most significantly affect the entity's economic performance.
+In certain circumstances, the Bank may determine that there is no primary beneficiary associated with a VIE. In these, circumstances, while variable interests exist, because there is no primary beneficiary no reporting entity consolidates the VIE.
+Senior beneficial interests and senior debt instruments with fixed interest rates or other fixed returns normally would absorb little of the entity's expected variability and, therefore, a holder of the most senior interests of a VIE likely would not be the primary beneficiary of that entity unless the VIE's subordinated interests are not large enough to absorb the VIE's expected losses. Further, senior interests normally are not entitled to any of the expected residual returns. A Bank that holds a senior financial interest in a VIE, however, should perform an evaluation to determine if it is the primary beneficiary.
+To determine if it is the primary beneficiary, the Bank must treat the financial interests (i.e., variable interests) held by its related parties as its own interests. For purposes of FASB ASC Topic 810-10, related parties include those parties identified in FASB ASC Topic 850-10, as well other parties that are acting as de facto agents. The following are considered to be de facto agents of the Bank:
+A party with a financial interest in the VIE that cannot finance its own operations without subordinated financial support from the Bank, such as another VIE in which the Bank is the primary beneficiary;
+A party with a financial interest in the VIE that received its interests as a contribution or a loan from the Bank;
+An officer, employee, or member of the governing board of the Bank;
+A party that has a financial interest in the VIE and has an agreement that it cannot sell, transfer, or encumber its interests in the VIE without the prior approval of the Bank;
+A party that has a financial interest in the VIE and has a close business relationship with the VIE or other beneficiaries of the VIE, like the relationship between a professional service provider and one of its significant clients.
+If the Bank and another interest holder are considered to be related parties, and the combination of their interest would lead to a conclusion that the related party group is the primary beneficiary, then the party within the related group that is most closely associated with the VIE is the primary beneficiary for purposes of consolidation. Determining the primary beneficiary from among a related group requires judgment and consideration of qualitative factors, such as the following (no single factor is necessarily determinative):
+Existence of a principal-agency relationship between the parties (in this case the principal is the primary beneficiary);
+The relationship and significance of the activities of the VIE to the parties in the related group;
+The parties' exposure to the variability associated with the anticipated economic performance of the VIE;
+The design of the VIE, such as the capital structure and the intentions of the parties that created the entity.
+Other Considerations in Evaluating Consolidation of VIEs
+A VIE (VIE 1) itself can hold variable interest in another VIE (VIE 2). If, in evaluating the above criteria, the Bank determines that VIE 1 is the primary beneficiary of VIE 2, then VIE 1 must consolidate VIE 2 in its separate financial statements. The effect of this multi-level consolidation is that VIE 1 will report the assets and liabilities of VIE 2, rather than simply the net investment in that entity. If the Bank is the primary beneficiary of VIE 1, it will, in effect, consolidate both VIE 1 and VIE 2.
+If the Bank is the primary beneficiary of a VIE that qualifies as an investment company, FASB ASC Topic 810-10; specifies that a reporting entity shall not consolidate a legal entity that is required to comply with or operate in accordance with requirements that are similar to those included in Rule 2a-7 of the Investment Company Act of 1940 for registered money market funds. The following attributes of an investment company are specified in FASB ASC Topic 946:
+Investment activity. The investment company's primary business activity involves investing its assets, usually in the securities of other entities not under common management, for current income, appreciation, or both.
+Unit ownership. Ownership in the investment company is represented by units of investment, such as shares of stock or partnership interests, to which proportionate shares of net assets can be attributed.
+Pooling of funds. The funds of the investment company's owners are pooled to provide owners access to professional investment management.
+Reporting entity. The investment company is the primary reporting entity.
+FASB ASC Topic 946-10 provides additional insight.
+12
+See
+paragraph 82.07
+, definition matrix of investment company, for further discussion.
+82.03 Reconsideration of the Primary Beneficiary
+A Bank with an interest in a VIE shall reconsider whether it is the primary beneficiary throughout the reporting period or if one of the following events occurs:
+The legal entity's governing documents or contractual arrangements are changed in a manner that reallocates between the existing primary beneficiary and other unrelated parties (1) the obligation to absorb the expected losses of the VIE or (2) the right to receive the expected residual returns of the VIE.
+The primary beneficiary sells or otherwise disposes of all or part of its variable interests to unrelated parties.
+The legal entity undertakes additional activities, or acquires additional assets beyond those that were anticipated at the inception of the VIE formation, that increase the entity's expected losses.
+The legal entity issues new variable interests to parties other than the primary beneficiary or its related parties.
+The legal entity becomes subject to consolidation by financial interest holders because the equity investors, as a group, lose the power (typically represented by voting rights or similar rights) to direct the activities of the entity in a manner that most significantly impact the entity's economic performance.
+A variable interest holder does not subsequently become the primary beneficiary simply because the actual losses of the VIE exceed the expected losses.
+82.04 Accounting for the Legal Entities
+The assets, liabilities, and noncontrolling interests shall be accounted for in consolidated financial statements as if the VIE were consolidated based on voting interests. Any specialized accounting requirements applicable to the VIE's business, assets, and liabilities shall be applied. Intercompany balances and transactions should be eliminated.
+82.05 Disclosure
+The primary beneficiary of a VIE shall disclose the following:
+The carrying amounts and classification of the variable interest entity's assets and liabilities in the statement of financial position that are consolidated in accordance with FASB ASC Topic 810-10, including qualitative information about the relationship(s) between those assets and liabilities.
+Lack of recourse if creditors (or beneficial interest holders) of a consolidated variable interest entity have no recourse to the general credit of the primary beneficiary.
+Terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests that could require the Bank to provide financial support to the variable interest entity, including events or circumstances that could expose the Bank to a loss.
+If the Bank holds a significant variable interest, but is not the primary beneficiary, it should disclose the following:
+The carrying amounts and classification of the assets and liabilities in the Bank's statement of financial position that relate to the Bank's variable interest in the entity.
+The Bank's maximum exposure to loss as a result of its involvement with the variable interest entity, including how the maximum exposure is determined and the significant sources of the Bank's exposure to the variable interest entity. If the Bank's maximum exposure to loss as a result of its involvement with the variable interest entity cannot be quantified, that fact shall be disclosed.
+A tabular comparison of the carrying amounts of the assets and liabilities, as required by (a) above, and the Bank's maximum exposure to loss, as required by (b) above. A Bank shall provide qualitative and quantitative information to allow financial statement users to understand the differences between the two amounts. That discussion shall include, but is not limited to, the terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests, that could require the Bank to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the variable interest entity, including events or circumstances that could expose the Bank to a loss.
+Information about any liquidity arrangements, guarantees, and/or other commitments by third parties that may affect the fair value or risk of the Bank's variable interest in the variable interest entity.
+If applicable, significant factors considered and judgments made in determining that the power to direct the activities of the variable interest entity that most significantly impact the entity's economic performance is shared.
+Information about VIEs may be reported in the aggregate for similar VIEs if separate reporting would not add additional information. Any specialized disclosure requirements applicable to the VIE's business, assets, and liabilities shall be applied.
+82.06 Framework for Considering the Consolidation of Legal Entities
+Framework for considering the consolidation of legal entities
+Accessible Version
+|
+Return to text
+82.07 Definition Matrix of Investment Company FASB ASC Topic 946-10
+Guidance—definition matrix of investment company—FASB ASC Topic 946-10
+Legal entity
+The entity should be organized as a separate legal entity
+Corporation,
+Partnership,
+Limited liability company,
+Grantor trust,
+REIT, or
+Other trust.
+Business purpose
+For current income, capital appreciation, or both.
+Entity's activities limited to investment activities
+No substantive activities other than investing activities;
+No significant assets or liabilities other than those relating to investment activities.
+Multiple substantive investments
+Hold multiple substantive investments simultaneously, either directly or through another investment company.
+More than one investment concurrently.
+Exit strategies
+Identify exit strategies for its investments and the timing (or a range) of when it expects to exit the investments.
+Not for strategic operating purposes
+Not to obtain benefits as a result of the investments or through relationships with the investee or its affiliates that are unavailable to non-investor entities.
+FOLLOWING ARE OTHER FACTORS TO BE CONSIDERED WHEN ASSESSING WHETHER AN ENTITY IS INVESTING FOR STRATEGIC OPERATING PURPOSES
+Number of substantive investors in the entity (pooling of funds)
+The more extensive the pooling of funds (more investors and smaller ownership interests by the investors) to avail owners of professional investment management, the greater the evidence that the entity is investing for current income, capital appreciation, or both.
+Related parties as defined should be combined and treated as a single investor for purposes of considering this factor.
+Level of ownership interests in investees
+Significant levels of ownership interests in investees provide significant evidence that the entity is investing for strategic operating purposes. (Conversely, relatively minor levels of ownership interests in investees may provide significant evidence that the entity is investing for current income, capital appreciation, or both.)
+Consider the level of ownership interests in investees in relation to the total investment portfolio.
+Substantial ownership by passive investors
+Substantial ownership by passive investors (as opposed to substantial ownership by principal investors who determine the strategic direction or run the day-to-day operations of the entity) provides evidence of investing for current income, capital appreciation, or both.
+Substantial ownership by employee benefit plans
+Substantial ownership by employee benefit plans provides evidence that the entity is investing for current income, capital appreciation, or both.
+Involvement in the day-to-day management of investees, their affiliates, or other investment assets
+The more extensive the involvement in the day-to-day management of investees, their affiliates, or other investment assets, the greater the evidence that the entity is investing for strategic operating purposes.
+Significant administrative or support services provided to investees or their affiliates
+Significant administrative or support services provided to the investees or their affiliates provide evidence that the entity is investing for strategic operating purposes.
+Examples of such administrative or support services include legal advice, centralized cash management, or other administrative services that typically are provided by a parent to its subsidiaries or its operating divisions.
+Financing guarantees or assets to serve as collateral provided by investees for borrowing arrangements of the entity or its affiliates
+The more extensive such financing guarantees or assets serving as collateral for borrowing arrangements, the greater the evidence that the entity is investing for strategic operating purposes.
+Two exceptions:
+Arrangements in which the entity's ownership interest in an investee serves as collateral for borrowing arrangements of the entity, or
+Arrangements in which the entity guarantees debt of an investee or its affiliates.
+Provision of loans by noninvestment company affiliates of the entity to investees or their affiliates
+Depending on the terms of the loans and other factors, such arrangements may provide evidence that the entity is investing for strategic operating purposes.
+Exceptions: such loans are not inconsistent with the definition of an investment company if all of the following exist:
+The terms of the loans are at fair value.
+The loans are not required as a condition of the investment.
+The loans are not made to most of the investees or their affiliates.
+Making the loans is part of the usual business activity of the noninvestment company affiliate.
+Compensation of management or employees of investees or their affiliates is dependent on the financial results of the entity or the entity's affiliates
+The more extensive such compensation arrangements, the greater the evidence that the entity is investing for strategic operating purposes.
+Directing the integration of operations of investees or their affiliates or the establishment of business relationships between investees or their affiliates
+Directing the integration of operations of investees or their affiliates or establishing business relationships between investees or their affiliates provides evidence that the entity is investing for strategic operating purposes.
+Such relationships may include joint ventures or other arrangements between investees, significant purchases or sales of assets or other transactions between investees, investees' participation with other investees in administrative arrangements, investees providing financing to other investees, or investees providing guarantees or collateral for borrowing arrangements of other investees.
+In considering the above criteria and their effect on the conclusion about whether an entity is an investment company, some factors may be more or less significant than others, depending on the facts and circumstances, and therefore, more or less heavily weighted in determining whether an entity is an investment company. Criteria 1 through 6 may individually prevent an entity from being classified as an investment company, Criteria 7 through 16 (other factors) are to be evaluated both individually and on a combined basis. Any single criterion of 7 through 16 is not necessarily determinative of whether the entity is an investment company. All of the criteria, however, must be assessed qualitatively, and professional judgment will need to be exercised.
+83.01 Valuation of Non-SOMA Financial Assets and Liabilities
+This paragraph provides guidance on the valuation of financial assets and liabilities that are not held in the SOMA. The Reserve Banks, largely as a result of liquidity initiatives, have acquired financial assets and liabilities that are not part of SOMA. These financial assets and liabilities should be accounted for in accordance with GAAP applicable to commercial entities. Historically in some cases, the assets were reported by a Reserve Bank through the consolidation of legal entities under the terms of its organization and typically applied GAAP to these assets and liabilities. If appropriate, the Reserve Bank may accept the accounting applied by the VIE, but should review the accounting treatment in consultation with RBOPS Financial Accounting Policy and Reporting Section to ensure consistent accounting for similar Bank assets.
+83.02 Evaluating Assets and Liabilities under Relevant Accounting Standards
+Financial assets may include commercial paper, mortgage-backed securities, collateralized debt obligations, commercial and residential mortgages, derivative financial instruments, other asset-backed securities, preferred securities, and similar securities. Financial liabilities may include obligations arising under derivative financial instruments and obligations due third-party SPE financial interest holders.
+13
+The Bank must carefully consider the nature of the financial instrument and the intent of the Bank in holding the instrument to determine the appropriate valuation approach. There are three primary GAAP requirements under which these assets and liabilities should be valued:
+FASB ASC Topic 320-10 provides general guidance on the valuation of all debt securities and equity securities that have readily determinable fair values. Under FASB ASC Topic 320-10, the debt and equity securities are classified into three categories:
+Held-to-maturity securities are reported at
+amortized cost
+.
+Trading securities are reported at
+fair value
+, with unrealized gains and losses included in earnings.
+Available-for-sale securities are reported at
+fair value
+, with unrealized gains and losses reported in other comprehensive income as a separate component of shareholders' equity.
+Held-to-maturity classification is appropriate in those cases in which the Bank has both the intent and likelihood to hold the securities to maturity. For example, in the case of commercial paper which typically has a relatively short maturity, it may be most appropriate to account for the asset as held-to-maturity. The trading-securities classification is appropriate in cases in which the stated intent with respect to the asset portfolio is an orderly liquidation of assets, since there is no intent to hold the assets to maturity. Available-for-sale securities are generally a residuary category, meeting the definition of neither trading, nor held-to-maturity securities.
+Other real estate assets may be acquired as a result of defaults on the related collateralized asset. Such assets should be recorded at fair value at the date possession is taken of the asset and subsequently should be measured in accordance with
+paragraph 30.95
+. The facts and circumstances of each case may need to be evaluated in order to determine when possession occurs.
+FASB ASC Topic 825-10 allows entities to voluntarily and irrevocably choose, at specified election dates, to measure many financial assets and financial liabilities at fair value. The election is made on an instrument-by-instrument basis. If the fair value option is elected for an instrument, all subsequent changes in fair value for that instrument must be reported in earnings.
+Under FASB ASC Topic 825-10 measuring financial assets and liabilities at fair value is permissible for those assets and liabilities that would otherwise be classified as available-for-sale or held-to-maturity. Electing the fair value option might be appropriate to prevent valuing related assets and liabilities differently. For example, a financial asset and its related derivative, such as a hedging transaction, might be valued differently under FASB ASC Topic 320-10 whereas FASB ASC Topic 825-10 would permit valuing both using fair value. This might reduce volatility in reporting earnings and better reflect the overall economics of the transactions. Another example might be one in which a specific financial liability will be settled from the proceeds of a portfolio of assets; in this case it would be desirable to measure the related assets and liabilities on a similar basis.
+The fair value option can be elected for the following items:
+Loan and mortgage receivables
+Debt and equity investments (available-for-sale or held-to-maturity securities)
+Equity method investments including joint ventures
+Loans payable
+Debt payable
+Guarantees
+14
+Firm commitments that do not qualify as derivatives but involve only financial instruments (e.g., a forward purchase contract for a loan that is not readily convertible to cash. That commitment involves only financial instruments—a loan and cash—and would not otherwise be recognized because it is not a derivative instrument.)
+Written loan commitments that do not qualify as derivatives
+The rights and obligations under an insurance contract or a warranty to provide goods or services rather than a cash settlement but whose terms permit the insurer or warrantor to settle by paying a third party to provide those goods or services
+A host financial instrument resulting from the separation of an embedded non-financial derivative instrument from a non-financial hybrid instrument. An example of such a non-financial hybrid instrument is an instrument in which the value of the bifurcated embedded derivative is payable in cash, services, or merchandise but the debt host is payable only in cash.
+The fair value option cannot be elected for the following items:
+Deposit liabilities, withdrawable on demand
+An investment in a consolidated entity (a subsidiary or a Variable Interest Entity)
+Net funding position (liabilities or assets) for pension benefits and other post-employment benefits plans
+Obligations or assets for employee stock option and stock purchase plans and other forms of deferred compensation arrangements
+Lease assets or liabilities
+Financial instruments that are, in whole or in part, classified by the issuer as a component of shareholder's equity
+Investment Companies—For consolidated SPEs that qualify as investment companies under the criteria of the AICPA Audit and Accounting Guide
+Investment Companies,
+(Investment Companies Guide), fair value measurement of financial assets is required. If an SPE qualifies as an investment company, then the consolidated financial assets reported by the Bank do not need to be evaluated for classification under FASB ASC Topic 320-10, and no election under FASB ASC Topic 825-10 is necessary. An evaluation of financial liabilities, however, should still be performed to determine if an election under FASB ASC Topic 825-10 is appropriate.
+83.03 Fair Value Measurements
+For financial assets (or liabilities) to be reported at fair value, the methods for determining the value prescribed in FASB ASC Topic 820-10 should be used. FASB ASC Topic 820-10 defines fair value as "the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date." The best evidence of fair value is the quoted market price in an active market. In the absence of a quoted market price, the bank should estimate fair value using methods applied consistently and determined in good faith. For example, the fair value of a lease at commencement would be its cost, including any acquisition costs, such as sales taxes and delivery charges. However, if a significant lapse of time occurs between the acquisition of the underlying asset (the lease) and lease commencement, lessors would be required to determine fair value in accordance with ASC 820.
+FASB ASC Topic 810-10 establishes a three-level fair value hierarchy that distinguishes between (a) market participant assumptions developed based on market data obtained from sources independent of the reporting entity (observable inputs) and (b) the reporting entity's own assumptions about market participant assumptions developed based on the best information available in the circumstances (unobservable inputs). Valuation techniques used to measure fair value should maximize the use of observable inputs and minimize the use of unobservable inputs.
+Market participant assumptions should include assumptions about the effect of a restriction on the sale or use of an asset if market participants would consider the effect of the restriction in pricing the asset.
+83.04 Securities Impairments
+For securities classified as either available-for-sale or held-to-maturity under FASB ASC Topic 320-10, the Bank must evaluate the securities for impairment, as outlined in FASB ASC Topic 326. For trading securities or securities accounted for at fair value under FASB ASC Topic 825-10, unrealized holding losses are included in earnings and, therefore, it is not necessary to evaluate such securities for impairment.
+For held-to-maturity securities, an approach to testing impairment should follow guidance in FASB Topic ASC 326-20, an approach which is outlined within
+paragraph 81.03
+for financial assets measured at amortized cost.
+FASB ASC Topic 326-30 describes the process for recognizing impairment of securities classified as available-for-sale. The model for recognizing impairment is a departure from that outlined for held-to-maturity securities because an entity may realize the value of the securities either through (1) collection of the contractual cash flows by holding the securities, or (2) through the sale of the securities. When evaluating available-for-sale securities for possible impairment, the Reserve Bank should consider the following questions:
+Question 1: Is the fair value of the debt security less than its amortized cost basis?
+Yes
+—Generally, an investment is considered impaired if the fair value of the investment is less than its cost. The Bank should determine whether an investment is impaired at the individual security level in each reporting period. FASB ASC Topic 326-30 describes the "individual security level" as the level of aggregation used by the reporting entity to measure realized and unrealized gains and losses on its debt and equity securities. FASB ASC Topic 326-30 also discusses that an investor should not combine separate contracts, such as a debt security and separate guarantee or other credit enhancement, when performing the impairment analysis.
+Consider the subsequent question 2 in the available-for-sale decision tree for further consideration regarding recognizing the security's potential impairment.
+No
+—The security under consideration is not impaired. No further procedures are considered necessary.
+Question 2: Is there intent to sell the debt security, or is there a more likely than not possibility that the security will be required to be sold before the recovery of the amortized cost basis?
+Yes
+—As required within FASB Topic ASC 326-30, once there is an intent to sell the debt security, or there is a more likely than not possibility that the security will be required to be sold before the recovery of the amortized cost basis, any previously recognized allowance for credit losses should be written off and the amortized cost basis shall be written down to the security's fair value at the reporting date, with any incremental impairment subsequently reported in income. At subsequent reporting periods, the previous amortized cost basis less the amounts written off (inclusive of non-credit related impairment reported in earnings) is considered to be the new amortized cost basis of the investment and it should not be adjusted for subsequent recoveries in fair value.
+No
+—proceed to question 3 below to consider the underlying reason for the decline in fair value of the security under evaluation for impairment.
+Question 3: Is the decrease in fair value below the amortized cost noted in question 1 a result of credit loss, or is it driven by a factor other than credit losses, such as a change in market rates, not related to credit considerations of the underlying issuer of the security?
+Yes
+—A quantitative evaluation of whether a credit loss exists on the security should be performed by the Reserve Bank. As a part of this assessment, the present value of cash flows expected to be collectible from the security should be compared with the amortized cost basis. If the present value analysis results in a fair value that is less than the amortized cost basis, a credit loss exists and an allowance for credit losses should be recognized by the Reserve Bank. Note, as part of this evaluation, the amount of the credit loss recognized should be limited by the difference between the calculated fair value and the amortized cost basis because the Reserve Bank could theoretically sell the securities at fair value to offset the full realization of credit losses.
+In accordance with FASB Topic ASC 326-30, the following qualitative factors should be considered when determining whether a credit loss exists:
+The magnitude of the calculated difference between the fair value and the amortized cost
+Specific adverse condition factors related to the security, including certain considerations over the industry or geographic area of the issuer of the security
+The payment structure of the debt security
+Non-payment of contractually owed interest or principal by the issuer
+Changes to credit ratings of the security
+Note, factors such as length of time a security has been in an unrealized loss position (i.e., the fair value less than the amortized cost basis of the security), the security's historic price volatility, or post balance sheet date increases/decreases in fair value should not be used by themselves, or in combination with others, by the Reserve Bank to conclude that a credit loss does not exist.
+In estimating the future cash flows for the purpose of measuring impairment on the available-for-sale security, the amounts should be the Reserve Bank's best estimate based on the historic performance of the security, adjusted for current conditions and reasonable and supportable forecasts. Elements specific to the security, such as the remaining maturity of the security, potential prepayment activity, underlying financial health of the issuer, value/type of collateral, and expected future credit events (i.e., default or bankruptcy), should be used when estimating the amount and timing of collection of expected future cash flows. Available information directly related to the collectability of the security, including industry, economic, or regulatory factors, should also be considered when developing an estimate. Refer to FASB Topic ASC 326-30 for a full list of considerations that the Reserve Bank should review when estimating impairment on an available-for-sale security using expected future cash flows.
+Once the measurement of credit loss on the security has been determined by the Reserve Bank, the impairment should be recognized by recording an allowance for credit losses. As stated previously, this amount is limited by the difference between the calculated fair value of the security, less the amortized cost basis. Impairment determined to not be related to credit specific factors (i.e., a change in market rates) should be recorded in the Reserve Bank's other comprehensive income. Refer to the ‘No' response below for further details.
+An evaluation of impairment of the security should be performed by the Reserve Bank periodically at each reporting date. Any subsequent changes in the impairment of the security related to credit specific factors should be recorded as an adjustment to the allowance for credit losses (and related entry to record the credit loss expense or reversal of credit loss expense). The Reserve Bank should not reverse a previously recognized allowance for credit losses to an amount below zero.
+Note also, available-for-sale securities deemed to be uncollectible should be written off in the period of that determination.
+No
+—Impairment determined to be driven by a factor other than credit considerations of the underlying issuer of the security, such as a change in market rates, shall be recorded through other comprehensive income.
+84.01 Guarantees
+This paragraph provides guidance determine whether certain commitments fall within the scope of FASB ASC Topic 460-10 and how and when to account for a guarantee. While legally a loan commitment, for accounting purposes guarantees are defined in FASB ASC Topic 460-10. For those arrangements that qualify as guarantees under FASB ASC Topic 460-10 a Reserve Bank may be required to record a liability for the fair value of the obligation it assumes under the guarantee, when the guarantee obligation is established.
+15
+84.02 Definition of guarantees
+FASB ASC Topic 460-10 defines guarantees in terms of certain characteristics. Transactions with the following characteristics are considered to be guarantees and should be evaluated to determine if an obligation requires recognizing a liability at the time the guarantee is issued:
+Contracts that contingently require the guarantor to make payments (either in cash, financial instruments, other assets, or provision of services) to the guaranteed party
+based on changes in an underlying
+16
+that is related to an asset, liability, or equity security of the guaranteed party (e.g., financial and market value guarantees). Following are some examples to which this provision applies:
+A financial standby letter of credit, which is an irrevocable undertaking (typically by a financial institution) to guarantee payment of a specified financial obligation.
+A market value guarantee on either a financial asset (such as a security) or a nonfinancial asset owned by the guaranteed party.
+A guarantee of the market price of the common stock of the guaranteed party.
+A guarantee of the collection of the scheduled contractual cash flows from individual financial assets held by a special-purpose entity (SPE).
+17
+A guarantee granted to a business or its owner(s) that the revenue of the business (or a specific portion of the business) for a specified period of time will be at least a specified amount.
+Contracts that contingently require the guarantor to make payments to the guaranteed party based on another entity's failure to perform under an obligating agreement (performance guarantees).
+Indemnification agreements that contingently require the indemnifying party (guarantor) to make payments to the indemnified party (guaranteed party) based on changes in an underlying that is related to an asset, a liability, or an equity security of the indemnified party, such as an adverse judgment in a lawsuit or the imposition of additional taxes due to either a change in the tax law or an adverse interpretation of the tax law.
+Indirect guarantees of the indebtedness of others.
+Item 1 above includes most financial standby letters of credit, written put options or market value guarantees on securities (including the common stock of the guaranteed party), and many other financial guarantees. Item 1, however, would not include traditional commercial (non-standby) letters of credit and other loan commitments because they typically do not guarantee payment of an obligation and do not provide for payment in the event of default. Financial standby letters of credit are guarantees because they do not have material adverse change (MAC) clauses or similar provisions that enable the issuing institution (the guarantor) to avoid making a payment. In contrast, many loan commitments contain MAC clauses or other similar provisions that enable the issuing institution to avoid making a loan if the borrower encounters financial difficulties after the commitment is issued.
+As an example, if a Reserve Bank provided a guarantee to an entity whereby it would provide loans to that entity if certain asset fair values fell below a predetermined level, the arrangement would probably qualify as a guarantee under FASB ASC Topic 460-10. Because the arrangement may meet the characteristics described in Item 1 above, recognition of a liability at the issuance of the guarantee would be required. The contract contingently requires the Reserve Bank (guarantor) to make payments to the guaranteed party (in the form of loans) based on changes in the fair value of certain assets (the underlying). More specifically, the guarantee might qualify under Item 1(a), which refers to a standby letter of letter of credit, or Item 1(b), which refers to a market value guarantee.
+84.03 Exclusions from Guarantees
+The scope provisions of FASB ASC Topic 460-10 are complex because while certain contracts are fully excluded from its scope, others are excluded from the initial recognition and initial measurement provisions, but are subject to the disclosure provisions.
+The following guarantee contracts are fully excluded from the scope of FASB ASC Topic 460-10:
+A guarantee or an indemnification that is excluded from the scope of FASB ASC Topic 450-20, including vacation pay, pension costs, deferred compensation contracts, and stock issued to employees.
+A lessee's residual value guarantee in a capital lease under FASB ASC Topic 460-10.
+A guarantee (or an indemnification) whose existence prevents the guarantor from being able to either account for a transaction as the sale of an asset that is related to the guarantee's underlying or recognize in earnings the profit from that sale transaction.
+The following types of guarantees are not subject to FASB ASC Topic 460-10 for initial recognition and initial measurement, but are subject to its disclosure requirements:
+A guarantee that is accounted for as a derivative instrument at fair value under FASB ASC Topic 815-20.
+A guarantee for which the underlying is related to the performance (regarding function, not price) of
+nonfinancial
+assets that are owned by the guaranteed party (e.g., product warranties).
+A guarantee issued in a business combination that represents contingent consideration.
+A guarantee for which the guarantor's obligation would be reported as an equity item (rather than a liability).
+A guarantee issued either between parents and their subsidiaries or between corporations under common control.
+A parent's guarantee of its subsidiary's debt to a third party (whether the parent is a corporation or an individual).
+A subsidiary's guarantee of the debt owed to a third party by either its parent or another subsidiary of that parent.
+84.04 Determining When to Recognize a Guarantee
+FASB ASC Topic 460-10 requires a guarantor to recognize a liability at the inception of the guarantee. FASB ASC Topic 460-10 does not, however, clarify when the inception of a guarantee occurs. FASB ASC Topic 460-10 states that the provisions of the standard apply to guarantee contracts, implying the existence of an enforceable contract. FASB ASC Topic 460-10 states "…entering into a
+contract or agreement
+that imposes on the guarantor an ongoing obligation to stand ready to perform over the term of the guarantee warrants immediate recognition of a liability for the obligations under the guarantee, even if it is not probable that the specifying triggering events or conditions will occur." This provision includes the word
+agreement
+in the definition of a guarantee, whereas paragraph 3 refers only to contracts. In its entirety, FASB ASC Topic 460-10 anticipates that a contract or agreement is required to create a guarantee.
+Statement of Financial Accounting Concepts No. 6,
+Elements of Financial Statements
+(CON 6), paragraph 40 states, "…although most liabilities stem from legally enforceable obligations, some liabilities rest on equitable or constructive obligations. An equitable obligation stems from ethical or moral constraints rather than from rules of common or statute law. A constructive obligation is created, inferred, or construed from the facts in a particular situation rather than contracted by agreement with another entity. Concepts of equitable and constructive obligations must be applied with great care. To interpret them too narrowly will tend to exclude significant actual obligations of an entity, while to interpret them too broadly will effectively nullify the definition by including items that lack an essential characteristic of liabilities."
+While FASB ASC Topic 460-10 anticipates the existence of a contract or agreement, CON 6 argues that a constructive obligation under a guarantee might exist even without a legally enforceable obligation. The Reserve Banks should evaluate all of the facts and circumstances in evaluating when a guarantee exists. Consider the following in evaluating whether a constructive obligation exists:
+The party's expressed intent to seek a guarantee from a Reserve Bank is not sufficient evidence of the existence of an obligation because there is no indication of agreement among the parties.
+The party's actions that may appear to be in anticipation of Reserve Bank actions, absent any other evidence of agreement between the parties, is not sufficient evidence of the existence of an obligation.
+A statement by a Reserve Bank that it intends to enter into negotiations with the guaranteed party is not sufficient to indicate the existence of an obligation, since the terms would be indefinite at this point.
+A Reserve Bank's past practice of entering into similar transactions with other parties cannot be considered as evidence supporting the existence of a constructive obligation in a new arrangement. Each guarantee arrangement is a stand-alone transaction that should be separately evaluated on its merits by the Reserve Bank.
+Express actions or statements by authorized Reserve Bank representatives that would reasonable lead to an expectation on the part of the party such that the party acts on the expectations might provide evidence that a constructive obligation exists.
+A joint statement of the Reserve Bank and the guaranteed party that includes important terms of the guarantee might provide evidence that a constructive obligation exists.
+A term sheet that is agreed to by all parties provides evidence of a constructive and possibly a legal obligation.
+If an obligation under a guarantee existed at the balance sheet date, a liability should be recorded in accordance with FASB ASC Topic 460-10. If, subsequent to the balance sheet date but before the issuance of the financial statements, additional information becomes available that affects the obligation that existed at the balance sheet date, the obligation should be adjusted on the balance sheet. If an obligation under a guarantee is material and is issued after the balance sheet date but before the financial statements are issued, the Bank should disclose the guarantee as a subsequent event.
+84.05 Initial Measurement of a Guarantee
+When the guarantee obligation is established, the guarantors should recognize a liability equal to the fair value of the guarantee on their financial statements under FASB ASC Topic 460-10. If at the inception of the guarantee, it is not probable that a triggering event will occur, then no liability is necessary under FASB ASC Topic 450-20. In the unusual circumstance that it is probable that a liability will occur, a FASB ASC Topic 450-20 contingent liability should be recognized. In such a situation, the liability to be initially recognized for the guarantor's obligation under the guarantee shall be the greater of (a) FASB ASC Topic 460-10 guarantee liability at fair value or (b) FASB ASC Topic 450-20 contingent liability. There are two primary approaches for initially measuring the fair value of the guarantee obligation under FASB ASC Topic 460-10:
+When a guarantee is issued in a stand-alone arm's-length transaction with an unrelated party and explicit consideration is received, the liability recognized at the inception of the guarantee should be the
+premium received
+or receivable by the guarantor.
+When a guarantee is issued as part of a multiple element transaction with an unrelated party (such as in conjunction with selling an asset or entering into an operating lease), the liability recognized at the inception of the guarantee should be an
+estimate of the fair value of the guarantee
+. In that circumstance, guarantors should consider the premium that would be required by the guarantor to issue the same guarantee in a stand-alone arm's-length transaction with an unrelated party. In the absence of observable transactions for identical or similar guarantees, expected present value measurement techniques will likely provide the best estimate of fair value.
+Generally, because of the unique nature of most guarantees, few are valued based upon "observable transactions for identical or similar transactions." The valuation of most guarantees, therefore, will require the use of fair value estimates.
+With respect to estimating fair value, FASB emphasizes that the fair value of a guarantee at inception is not equal to the guarantor's single best estimate of what it will be required to pay under the guarantee. It has further clarified that the notion of fair value contemplates the range of probabilities and potential payments that could be required under the guarantee, not merely a point estimate of the most likely outcome.
+FASB ASC Topic 460-10 does not prescribe specific accounting for the guarantor's offsetting entry when it recognizes a guarantee liability. That offsetting entry depends on the circumstances in which the guarantee was issued, as illustrated in FASB ASC Topic 460-10:
+If the guarantee were issued in a stand-alone transaction for a premium, the offsetting entry would be the consideration received (such as cash or a receivable).
+If the guarantee were issued in conjunction with the sale of assets, a product, or a business, the overall proceeds (such as the cash received or receivable) would be allocated between the consideration being remitted to the guarantor for issuing the guarantee and the proceeds from the sale. That allocation would affect the calculation of the gain or loss on the sale transaction.
+If the guarantee were issued in conjunction with the formation of a partially owned business or a venture accounted for under the equity method, the recognition of the liability for the guarantee would result in an increase to the carrying amount of the investment.
+If a guarantee were issued to an unrelated party for no consideration on a stand-alone basis (that is, not in conjunction with any other transaction or ownership relationship), the offsetting entry would be to expense.
+In most cases, the Reserve Banks enter into agreements accounted for as guarantees for no consideration. In these cases, the fourth situation listed above would be applicable, and the Banks should charge the initial obligation to profit and loss (FR 34 Account 330-080).
+84.06 Subsequent Measurement of a Guarantee
+Subsequent to initial measurement, the accounting would depend on the nature of the guarantee and how the Reserve Bank (guarantor) is released from risk. FASB ASC Topic 460-10 provides three possible approaches to the subsequent accounting for the guarantee:
+18
+Marking the guarantee to fair value at each balance sheet date, so long as the guarantee remains outstanding;
+Leaving the guarantee at its original amount until either expiration or settlement of the guarantee;
+A systematic and rational amortization of the value of the guarantee to income over the period of the guarantee.
+If the guarantee issued by a Reserve Bank is based on a change in an underlying, such as a change in the fair value of certain assets of the guaranteed party (market value guarantee), then the subsequent measurement of the liability should be based on marking the guarantee to market at each balance sheet date. This approach is especially relevant if the obligation was initially measured using a fair value approach. If a fair value approach is not feasible, then the value of the guarantee may be amortized over the period of the guarantee in a systematic and rational manner.
+Any residual liability that remains at the termination of the guarantee should be recorded to profit and loss in the period of the termination. For a guarantee whereby the Reserve Bank agrees to make loans to the guaranteed party based on the occurrence of a future event, the period of the guarantee expires when the maximum amount of loans required under the guarantee have been extended.
+84.07 Disclosure
+The Reserve Bank must disclose the following information about each guarantee, or each group of similar guarantees in its annual financial statements, even if the likelihood of having to make any payments under the guarantee is remote:
+The nature of the guarantee, including the approximate term of the guarantee, how the guarantee arose, and the events or circumstances that would require the Reserve Bank to perform under the guarantee.
+The maximum potential amount of undiscounted future payments the Reserve Bank could be required to make under the guarantee. That maximum potential amount of future payments shall not be reduced by the effect of any amounts that may possibly be recovered under recourse or collateralization provisions in the guarantee. If the terms of the guarantee provide for no limitation to the maximum potential future payments under the guarantee, that fact shall be disclosed. If the Reserve Bank is unable to develop an estimate of the maximum potential amount of future payments under its guarantee, it shall disclose the reasons why it cannot estimate the maximum potential amount.
+The current carrying amount of the liability, if any, for the Reserve Bank's obligations under the guarantee (including FASB ASC Topic 450-20 contingency liability), regardless of whether the guarantee is freestanding or embedded in another contract.
+The nature of (1) any recourse provisions that would enable the Reserve Bank to recover from third parties any of the amounts paid under the guarantee and (2) any assets held either as collateral or by third parties that, upon the occurrence of any triggering event or condition under the guarantee, the Reserve Bank can obtain and liquidate to recover all or a portion of the amounts paid under the guarantee. The Reserve Bank shall indicate, if estimable, the approximate extent to which the proceeds from liquidation of those assets would be expected to cover the maximum potential amount of future payments under the guarantee.
+The method used for subsequent accounting for the guarantee and an explanation of why the method chosen is appropriate for the guarantee.
+Footnotes
+1. As defined for accounting purposes in accordance with FASB ASC Topic 460-10. This may differ from the legal definition of a guarantee. See
+paragraph 84.01
+for further discussion on Guarantees.
+Return to text
+2. Collateral value method does not apply to loans with recourse. Present value of expected cash flows or market price methods are more representative of the impairment since the lender has recourse to additional assets of the borrower.
+Return to text
+3. The percentage of loans (%) expected to default, multiplied by the loss per loan (%) applied to the dollar value ($) of the total loans outstanding.
+Return to text
+4. Default occurs when the debtor cannot pay all or some of the amounts due according to the contractual terms of the loan agreement, including contractual principal and contractual interest amounts.
+Return to text
+5. Exposure at default includes total investment including principal, interest, and unamortized fees.
+Return to text
+6. "Generally sound" referred to depository institutions assigned a composite CAMELS or CAMEL ratings of 1, 2, or 3 that are at least adequately capitalized. At the discretion of the Reserve Bank, however, depository institutions that otherwise meet these criteria may be deemed ineligible for primary credit because of supplementary information regarding their financial condition.
+Return to text
+7. Depository institutions assigned a composite CAMELS or CAMELS rating of 4 or 5 or depository institutions that are less than adequately capitalized are not eligible for primary credit. At the discretion of the Reserve Bank, other depository institutions may also be deemed ineligible for primary credit because of supplementary information regarding their financial condition.
+Return to text
+8. Seasonal credit may be extended to depository institutions that are assigned a CAMELS or CAMEL rating of 1, 2, 3, or 4 and are at least adequately capitalized. At the discretion of the Reserve Bank, however, depository institutions that otherwise meet these criteria may be deemed ineligible for seasonal credit because of supplementary information regarding their financial condition.
+Return to text
+9. To calculate the collateral (lendable) value, a margin is applied to either the market price of the securities or the theoretical price of assets that do not receive market values. Market prices are used as the basis for collateral valuation whenever active markets exist. Market prices are obtained from a vendor that prices CDOs and another vendor that prices all other types of securities and updates the prices frequently. If the Reserve Bank is unable to obtain a market price for pledged assets (e.g., consumer loans) from its vendor(s), a theoretical price is calculated for asset categories based on various characteristics of the asset type, including credit quality, interest rate, maturity, liquidity, and the current interest rate environment. A margin is then applied to the theoretical price.
+Return to text
+10. Legal entities are legal entities created to fulfill narrow, specific, or temporary objectives. An SPE typically limits the recourse of its creditors to the net assets of the SPE and as a result, the creditors do not have recourse to the general credit or assets of the SPE's beneficiaries.
+Return to text
+11. A business is defined as a self-sustaining integrated set of activities and assets conducted and managed for the purpose of providing a return to investors. A business consists of (a) inputs, (b) processes applied to those inputs, and (c) resulting outputs that are used to generate revenues. For a set of activities and assets to be a business, it must contain all of the inputs and processes necessary for it to conduct normal operations, which include the ability to sustain a revenue stream by providing its outputs to customers. All entities, except those defined in paragraph 4(a)-(h) of FASB ASC Topic 810-10 must be evaluated. Exceptions include not-for-profit organizations, employee benefit plans, health insurance entities, and governmental organizations; other GAAP literature should be used to determine if consolidation is required for these entities.
+Return to text
+12. Although use of the guidance in FASB ASC Topic 946-10 was not adopted by the American Institute of Certified Public Accountants (AICPA), it presents helpful additional guidance that is not included in the Audit Guide.
+Return to text
+13. Account for derivatives in accordance with FASB ASC Topic 815-20.
+Return to text
+14. As defined for accounting purposes in accordance with FASB ASC Topic 460-10. This may differ from the legal definition of a guarantee. See
+paragraph 84.01
+for further discussion on Guarantees.
+Return to text
+15. For constructive obligations, see
+paragraph 84.04
+Determining when to recognize a guarantee.
+Return to text
+16. An underlying is defined in FASB ASC Topic 815-20 as a specified interest rate, security price, commodity price, foreign exchange rate, index of prices, or other variable. The occurrence or nonoccurrence of a specified event is a variable that is considered an underlying under that definition.
+Return to text
+17. See
+paragraph 82.01
+Consolidation
+for additional discussion of SPE.
+Return to text
+18. The subsequent measurement of a guarantee liability under FASB ASC Topic 460-10 discussed here does not encompass (and therefore, is separate from) the recognition and subsequent adjustment of the contingent liability under FASB ASC Topic 450-20 relating to the contingent loss for the guarantee. FASB ASC Topic 460-10 in general requires the recognition of a guarantee liability in an earlier stage when it is not probable that the triggering events will occur (and therefore, a FASB ASC Topic 450-20 contingent liability will not be recognized). When it becomes probable that a liability will be incurred, a FASB ASC Topic 450-20 contingent liability needs to be assessed and the greater of (a) FASB ASC Topic 460-10 guarantee liability at fair value or (b) FASB ASC Topic 450-20 contingent liability should be recorded.
+Return to text
+Back to Top
+Last Update:
+                    June 13, 2025
