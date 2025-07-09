@@ -68,11 +68,17 @@ st.markdown("""
 
 st.title("FedBot: About the Fed Q&A")
 
-# Show last updated timestamp
+# 📅 Show last updated date
 if os.path.exists("last_updated.txt"):
     with open("last_updated.txt", "r") as f:
         last_updated = f.read().strip()
-    st.markdown(f"📅 Last updated: {last_updated}")
+    st.caption(f"📅 Last updated: {last_updated}")
+
+# 🔁 Show force redeploy timestamp (optional but useful)
+if os.path.exists("force_redeploy.txt"):
+    with open("force_redeploy.txt", "r") as f:
+        refreshed = f.read().strip()
+    st.caption(f"🔁 Refreshed: {refreshed}")
 
 # Load model, index, and metadata
 @st.cache_resource
