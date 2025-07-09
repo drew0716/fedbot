@@ -74,12 +74,6 @@ if os.path.exists("last_updated.txt"):
         last_updated = f.read().strip()
     st.caption(f"📅 Last updated: {last_updated}")
 
-# 🔁 Show force redeploy timestamp (optional but useful)
-if os.path.exists("force_redeploy.txt"):
-    with open("force_redeploy.txt", "r") as f:
-        refreshed = f.read().strip()
-    st.caption(f"🔁 Refreshed: {refreshed}")
-
 # Load model, index, and metadata
 @st.cache_resource
 def load_assets():
@@ -197,3 +191,9 @@ st.markdown("""
   <strong>Disclaimer:</strong> This tool is not affiliated with or endorsed by the Federal Reserve System.
 </footer>
 """, unsafe_allow_html=True)
+
+# 🔁 Show force redeploy timestamp (optional but useful)
+if os.path.exists("force_redeploy.txt"):
+    with open("force_redeploy.txt", "r") as f:
+        refreshed = f.read().strip()
+    st.caption(f"🔁 Refreshed: {refreshed}")
