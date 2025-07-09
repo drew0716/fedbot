@@ -10,15 +10,8 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Load FAISS index and metadata
 def load_faiss_index_and_metadata():
-    index_path = "vector_index/faiss.index"
-    meta_path = "vector_index/chunk_data.pkl"
-
-    if not os.path.exists(index_path) or not os.path.exists(meta_path):
-        st.error("❌ FAISS index or metadata not found. Please run `embed_and_store.py` to generate them.")
-        st.stop()
-
-    index = faiss.read_index(index_path)
-    with open(meta_path, "rb") as f:
+    index = faiss.read_index("faiss_index.index")
+    with open("metadata.pkl", "rb") as f:
         metadata = pickle.load(f)
     return index, metadata
 

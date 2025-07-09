@@ -9,8 +9,12 @@ from sentence_transformers import SentenceTransformer
 
 CHUNKS_DIR = "chunks"
 CHUNK_META_FILE = "chunk_data.pkl"
-INDEX_FILE = "faiss_index.index"
-METADATA_FILE = "metadata.pkl"
+OUTPUT_DIR = "output"
+INDEX_FILE = os.path.join(OUTPUT_DIR, "faiss_index.index")
+METADATA_FILE = os.path.join(OUTPUT_DIR, "metadata.pkl")
+
+# Ensure output directory exists
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Load Sentence Transformer model
 print("🧠 Loading embedding model...")
@@ -30,7 +34,7 @@ print("📦 Reading chunk files...")
 for chunk in tqdm(chunk_data):
     file_path = os.path.join(CHUNKS_DIR, chunk["filename"])
     if not os.path.exists(file_path):
-        print(f"⚠️ Missing: {chunk['filename']}")
+        print(f"⚠️ Missing chunk file: {chunk['filename']}")
         continue
 
     with open(file_path, "r", encoding="utf-8") as f:
@@ -46,7 +50,7 @@ for chunk in tqdm(chunk_data):
         })
 
 if not texts:
-    raise ValueError("No valid text chunks found to embed.")
+    raise ValueError("❌ No valid text chunks found to embed.")
 
 # Generate embeddings
 print("🔍 Generating embeddings...")
@@ -59,8 +63,11 @@ index = faiss.IndexFlatL2(embeddings.shape[1])
 index.add(embeddings)
 
 # Save index and metadata
+print(f"📁 Saving FAISS index to: {os.path.abspath(INDEX_FILE)}")
 faiss.write_index(index, INDEX_FILE)
+
+print(f"📁 Saving metadata to: {os.path.abspath(METADATA_FILE)}")
 with open(METADATA_FILE, "wb") as f:
     pickle.dump(metadata, f)
 
-print(f"✅ Indexed {len(texts)} chunks and saved index to: {INDEX_FILE}")
+print(f"✅ Successfully indexed {len(texts)} chunks.")
