@@ -20,6 +20,18 @@ def split_into_chunks(text, chunk_size, overlap):
             chunks.append(chunk)
     return chunks
 
+def extract_metadata(lines):
+    metadata = {}
+    for line in lines:
+        line = line.strip()
+        if line.startswith("<!--") and line.endswith("-->") and ":" in line:
+            key_value = line.replace("<!--", "").replace("-->", "").strip()
+            key, val = key_value.split(":", 1)
+            metadata[key.strip()] = val.strip()
+        elif not line.startswith("<!--"):
+            break  # Stop once actual content starts
+    return metadata
+
 files = [f for f in os.listdir(SOURCE_DIR) if f.endswith(".txt")]
 if not files:
     raise FileNotFoundError(f"No .txt files found in {SOURCE_DIR}")
@@ -35,14 +47,14 @@ for filename in files:
         print(f"⚠️ Skipping empty or malformed file: {filename}")
         continue
 
-    # Extract URL from the first line
-    url_line = lines[0].strip()
-    if not url_line.startswith("<!--") or not url_line.endswith("-->"):
-        print(f"⚠️ Skipping file without valid source URL comment: {filename}")
+    metadata = extract_metadata(lines)
+    source_url = metadata.get("source_url", "")
+    if not source_url:
+        print(f"⚠️ Skipping file without source_url: {filename}")
         continue
 
-    source_url = url_line.replace("<!--", "").replace("-->", "").strip()
-    content = "".join(lines[1:]).strip()
+    content_start_idx = next((i for i, line in enumerate(lines) if not line.strip().startswith("<!--")), len(lines))
+    content = "".join(lines[content_start_idx:]).strip()
 
     if len(content.split()) < 100:
         print(f"⚠️ Skipping short file: {filename}")
@@ -62,7 +74,9 @@ for filename in files:
             "filename": out_name,
             "source": base_name,
             "type": "aboutthefed",
-            "url": source_url
+            "url": source_url,
+            "title": metadata.get("title", "Untitled"),
+            "date_fetched": metadata.get("date_fetched", None)
         })
 
 print(f"✅ Created {len(all_chunks)} total chunks.")

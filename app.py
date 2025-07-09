@@ -1,185 +1,94 @@
+import streamlit as st
+import openai
 import os
-import pickle
+import json
+from dotenv import load_dotenv
+from typing import List
 import faiss
 import numpy as np
-import streamlit as st
-from sentence_transformers import SentenceTransformer
-import anthropic
-from datetime import datetime
 
-# Claude API key
-api_key = os.getenv("ANTHROPIC_API_KEY")
-if not api_key:
-    st.error("Anthropic API key not found. Set ANTHROPIC_API_KEY in your environment.")
-    st.stop()
+load_dotenv()
 
-client = anthropic.Anthropic(api_key=api_key)
+# Load OpenAI API key
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# App config and styles
-st.set_page_config(page_title="FedBot: About the Fed Q&A", layout="wide")
-st.markdown("""
-    <style>
-    body {
-        background-color: #ffffff;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        color: #1a1a1a;
-    }
-    .block-container {
-        padding-top: 2rem;
-    }
-    .stTextInput > div > div > input {
-        font-size: 1.1rem;
-        padding: 0.6rem;
-    }
-    .suggestion-button button {
-        width: 100%;
-        height: 100%;
-        padding: 0.75rem 1rem;
-        font-size: 1rem;
-        border-radius: 6px;
-        border: 1px solid #aebac6;
-        background-color: #f2f6f9;
-        color: #003366;
-        transition: background-color 0.2s ease;
-        text-align: center;
-        font-weight: 500;
-    }
-    .suggestion-button button:hover {
-        background-color: #e6eff6;
-    }
-    .sample-question-tile {
-        border: 1px solid #c5d0dd;
-        border-radius: 6px;
-        padding: 0.75rem;
-        background-color: #f8fafc;
-        font-size: 1rem;
-        font-weight: 500;
-        color: #003366;
-        margin-bottom: 0.5rem;
-        height: 100%;
-    }
-    footer {
-        font-size: 0.85rem;
-        color: #666;
-        text-align: center;
-        padding-top: 3rem;
-    }
-    </style>
-""", unsafe_allow_html=True)
+# Load FAISS index and document metadata
+def load_faiss_index_and_metadata():
+    index = faiss.read_index("vector_index/faiss.index")
+    with open("vector_index/metadata.json", "r") as f:
+        metadata = json.load(f)
+    return index, metadata
 
-st.title("FedBot: About the Fed Q&A")
+# Embed the query
+def embed_query(query: str) -> np.ndarray:
+    response = openai.Embedding.create(
+        input=query,
+        model="text-embedding-ada-002"
+    )
+    return np.array(response['data'][0]['embedding'], dtype=np.float32)
 
-# Load assets
-@st.cache_resource
-def load_assets():
-    model = SentenceTransformer("all-MiniLM-L6-v2")
-    index = faiss.read_index("faiss_index.index")
-    with open("metadata.pkl", "rb") as f:
-        metadata = pickle.load(f)
-    return model, index, metadata
+# Search the index
+def search_index(query_embedding: np.ndarray, index, metadata, k: int = 5):
+    D, I = index.search(np.array([query_embedding]), k)
+    return [metadata[i] for i in I[0] if i < len(metadata)]
 
-model, index, metadata = load_assets()
+# Display results with deduplicated sources
+def format_response(relevant_docs: List[dict], answer: str) -> str:
+    response_parts = [answer.strip(), "\n\n**Sources:**"]
 
-# Show last updated timestamp (if file exists)
-if os.path.exists("last_updated.txt"):
-    with open("last_updated.txt", "r") as f:
-        last_updated = f.read().strip()
-    st.markdown(f"**Data last updated:** {last_updated}")
+    # Deduplicate by source_url
+    seen = set()
+    unique_sources = []
+    for doc in relevant_docs:
+        url = doc["metadata"].get("source_url")
+        if url and url not in seen:
+            seen.add(url)
+            unique_sources.append({
+                "title": doc["metadata"].get("title", "Untitled"),
+                "source_url": url
+            })
 
-# Initialize session state
-if "question_input" not in st.session_state:
-    st.session_state.question_input = ""
+    for i, src in enumerate(unique_sources):
+        response_parts.append(f"{i + 1}. [{src['title']}]({src['source_url']})")
 
-# --- Question Input ---
-question = st.text_input(
-    "Type your question:",
-    value=st.session_state.question_input,
-    placeholder="e.g., How does the Federal Reserve influence interest rates?",
-    key="main_input"
-)
+    return "\n".join(response_parts)
 
-# --- Suggested Questions ---
-st.markdown("#### Explore Topics")
-important_questions = [
-    "What is the purpose of the Federal Reserve?",
-    "How is the Federal Reserve structured?",
-    "What is the role of the FOMC?",
-    "How does the Fed supervise banks?"
-]
-
-q_cols = st.columns(2)
-for i, q in enumerate(important_questions):
-    with q_cols[i % 2]:
-        if st.button(q, key=f"btn_{i}"):
-            st.session_state.question_input = q
-            st.rerun()
-
-# --- Search and Answer ---
-if question:
-    q_embedding = model.encode([question]).astype("float32")
-    D, I = index.search(q_embedding, k=10)
-
-    context = ""
-    sources = []
-    added = 0
-
-    for i in I[0]:
-        meta = metadata[i]
-        if meta["type"] != "aboutthefed":
-            continue
-
-        filepath = os.path.join("chunks", meta["filename"])
-        if not os.path.exists(filepath):
-            continue
-
-        with open(filepath, "r", encoding="utf-8") as f:
-            content = f.read()
-
-        context += f"\n---\n{content}"
-
-        base = meta.get("source", "Unknown")
-        page_title = base.replace("aboutthefed_", "").replace("_", " ").strip().title()
-        sources.append((page_title, meta.get("url")))
-
-        added += 1
-        if added >= 5:
-            break
-
-    if not context:
-        st.warning("No relevant 'About the Fed' content found for your question.")
-    else:
-        system_prompt = "You are a helpful assistant answering questions using verified information from the Federal Reserve's public About the Fed pages."
-        user_prompt = f"""Answer the following question using only the context below. If the information isn't available, respond accordingly.
+# Generate answer from GPT-4
+def generate_answer(query: str, context: str) -> str:
+    prompt = f"""
+Answer the following question using the context below. Be concise and accurate.
 
 Context:
 {context}
 
-Question: {question}
+Question: {query}
 """
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant for answering questions about the U.S. Federal Reserve."},
+            {"role": "user", "content": prompt}
+        ],
+        temperature=0.2,
+        max_tokens=500
+    )
+    return response["choices"][0]["message"]["content"]
 
-        with st.spinner("Retrieving answer..."):
-            response = client.messages.create(
-                model="claude-3-haiku-20240307",
-                max_tokens=500,
-                temperature=0.2,
-                system=system_prompt,
-                messages=[{"role": "user", "content": user_prompt}]
-            )
+# Streamlit app
+st.set_page_config(page_title="FedBot: About the Fed Q/A")
+st.title("FedBot")
+st.subheader("Ask questions about the Federal Reserve")
 
-        st.markdown("### Answer")
-        st.markdown(response.content[0].text)
+query = st.text_input("Enter your question")
 
-        st.markdown("### Sources")
-        for name, url in sources:
-            if url:
-                st.markdown(f"- [{name}]({url})")
-            else:
-                st.markdown(f"- {name}")
+if query:
+    with st.spinner("Searching..."):
+        index, metadata = load_faiss_index_and_metadata()
+        query_embedding = embed_query(query)
+        relevant_docs = search_index(query_embedding, index, metadata, k=5)
 
-# --- Footer ---
-st.markdown("""
----
-<footer>
-  This tool uses public data from federalreserve.gov and Anthropic's Claude 3 model to provide answers based on "About the Fed" content. It is not affiliated with the Federal Reserve System.
-</footer>
-""", unsafe_allow_html=True)
+        context = "\n\n".join(doc["text"] for doc in relevant_docs)
+        answer = generate_answer(query, context)
+        final_response = format_response(relevant_docs, answer)
+
+        st.markdown(final_response, unsafe_allow_html=True)
