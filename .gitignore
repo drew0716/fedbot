@@ -14,11 +14,9 @@ __pycache__/
 # 📂 Local raw crawl data (ignored)
 about_the_fed_pages/
 
-# ✅ Keep chunks/ in repo but ignore untracked files unless explicitly added
-# Allow GitHub Actions to commit chunk files
-# This line ignores the folder by default
+# Ignore chunks/ folder
 chunks/
-# ...but this line *overrides* the ignore for committed content
+# BUT allow all files inside it to be tracked if added explicitly
 !chunks/**
 # Optional: ignore any temp files inside chunks/ that aren't .txt
 chunks/*.tmp
