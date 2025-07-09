@@ -1,94 +1,70 @@
 import streamlit as st
-import openai
 import os
-import json
-from dotenv import load_dotenv
-from typing import List
+import pickle
 import faiss
+from sentence_transformers import SentenceTransformer
 import numpy as np
 
-load_dotenv()
+# Load embedding model
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# Load OpenAI API key
-openai.api_key = os.getenv("OPENAI_API_KEY")
-
-# Load FAISS index and document metadata
+# Load FAISS index and metadata
 def load_faiss_index_and_metadata():
-    index = faiss.read_index("vector_index/faiss.index")
-    with open("vector_index/metadata.json", "r") as f:
-        metadata = json.load(f)
+    index_path = "vector_index/faiss.index"
+    meta_path = "vector_index/chunk_data.pkl"
+
+    if not os.path.exists(index_path) or not os.path.exists(meta_path):
+        st.error("❌ FAISS index or metadata not found. Please run `embed_and_store.py` to generate them.")
+        st.stop()
+
+    index = faiss.read_index(index_path)
+    with open(meta_path, "rb") as f:
+        metadata = pickle.load(f)
     return index, metadata
 
-# Embed the query
-def embed_query(query: str) -> np.ndarray:
-    response = openai.Embedding.create(
-        input=query,
-        model="text-embedding-ada-002"
-    )
-    return np.array(response['data'][0]['embedding'], dtype=np.float32)
+# Perform search
+def search_index(query, index, metadata, top_k=5):
+    embedding = model.encode([query])
+    distances, indices = index.search(np.array(embedding).astype("float32"), top_k)
+    results = []
+    for i in indices[0]:
+        if i < len(metadata):
+            results.append(metadata[i])
+    return results
 
-# Search the index
-def search_index(query_embedding: np.ndarray, index, metadata, k: int = 5):
-    D, I = index.search(np.array([query_embedding]), k)
-    return [metadata[i] for i in I[0] if i < len(metadata)]
+# Load index and metadata
+index, metadata = load_faiss_index_and_metadata()
 
-# Display results with deduplicated sources
-def format_response(relevant_docs: List[dict], answer: str) -> str:
-    response_parts = [answer.strip(), "\n\n**Sources:**"]
+# Streamlit UI
+st.set_page_config(page_title="FedBot", page_icon="📊")
+st.title("FedBot: Ask About the Fed")
+st.markdown("""
+Ask questions about the structure, policies, and people behind the U.S. Federal Reserve System.
+""")
 
-    # Deduplicate by source_url
-    seen = set()
-    unique_sources = []
-    for doc in relevant_docs:
-        url = doc["metadata"].get("source_url")
-        if url and url not in seen:
-            seen.add(url)
-            unique_sources.append({
-                "title": doc["metadata"].get("title", "Untitled"),
-                "source_url": url
-            })
+# Suggested questions
+st.markdown("### 🔎 Try a sample question:")
+col1, col2 = st.columns(2)
+with col1:
+    if st.button("What does the Board of Governors do?"):
+        st.session_state.query = "What does the Board of Governors do?"
+with col2:
+    if st.button("Who appoints Federal Reserve Board members?"):
+        st.session_state.query = "Who appoints Federal Reserve Board members?"
 
-    for i, src in enumerate(unique_sources):
-        response_parts.append(f"{i + 1}. [{src['title']}]({src['source_url']})")
-
-    return "\n".join(response_parts)
-
-# Generate answer from GPT-4
-def generate_answer(query: str, context: str) -> str:
-    prompt = f"""
-Answer the following question using the context below. Be concise and accurate.
-
-Context:
-{context}
-
-Question: {query}
-"""
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages=[
-            {"role": "system", "content": "You are a helpful assistant for answering questions about the U.S. Federal Reserve."},
-            {"role": "user", "content": prompt}
-        ],
-        temperature=0.2,
-        max_tokens=500
-    )
-    return response["choices"][0]["message"]["content"]
-
-# Streamlit app
-st.set_page_config(page_title="FedBot: About the Fed Q/A")
-st.title("FedBot")
-st.subheader("Ask questions about the Federal Reserve")
-
-query = st.text_input("Enter your question")
+# Main input
+query = st.text_input("\n💬 Your question:", value=st.session_state.get("query", ""))
 
 if query:
-    with st.spinner("Searching..."):
-        index, metadata = load_faiss_index_and_metadata()
-        query_embedding = embed_query(query)
-        relevant_docs = search_index(query_embedding, index, metadata, k=5)
+    st.markdown("---")
+    st.markdown("### 📄 Answer:")
+    results = search_index(query, index, metadata)
 
-        context = "\n\n".join(doc["text"] for doc in relevant_docs)
-        answer = generate_answer(query, context)
-        final_response = format_response(relevant_docs, answer)
+    for result in results:
+        source_url = result.get("url", "")
+        st.markdown(f"- [🔗 {source_url}]({source_url})")
 
-        st.markdown(final_response, unsafe_allow_html=True)
+        chunk_file = os.path.join("chunks", result["filename"])
+        if os.path.exists(chunk_file):
+            with open(chunk_file, "r", encoding="utf-8") as f:
+                st.write(f.read())
