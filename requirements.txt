@@ -1,8 +1,9 @@
 aiohttp
 beautifulsoup4
-openai
+anthropic
 faiss-cpu
 numpy
 python-dotenv
 streamlit
 sentence-transformers
+tqdm
