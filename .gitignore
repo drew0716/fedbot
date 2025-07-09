@@ -2,8 +2,8 @@
 .env
 
 # 🧠 Model output and metadata
-*.pkl
-*.index
+# *.pkl
+# *.index
 
 # 📦 Python cache
 __pycache__/
