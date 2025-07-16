@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/board-votes-2024.htm -->
 <!-- title: Federal Reserve Board - Board Votes 2024 -->
-<!-- date_fetched: 2025-07-09T02:18:43.518575Z -->
+<!-- date_fetched: 2025-07-16T21:08:29.747093Z -->
 
 Home
 About the Fed

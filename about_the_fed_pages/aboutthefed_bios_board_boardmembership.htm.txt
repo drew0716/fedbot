@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/bios/board/boardmembership.htm -->
 <!-- title: Federal Reserve Board - Board of Governors Members, 1914-Present -->
-<!-- date_fetched: 2025-07-09T02:18:26.725242Z -->
+<!-- date_fetched: 2025-07-16T21:08:09.256106Z -->
 
 Home
 About the Fed

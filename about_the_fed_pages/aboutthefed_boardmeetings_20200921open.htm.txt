@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20200921open.htm -->
 <!-- title: Federal Reserve Board - September 21, 2020 -- Open Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:36.644726Z -->
+<!-- date_fetched: 2025-07-16T21:08:22.739856Z -->
 
 Home
 About the Fed

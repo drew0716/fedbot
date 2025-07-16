@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20231025open.htm -->
 <!-- title: Federal Reserve Board - Open Board Meeting - October 25, 2023 -->
-<!-- date_fetched: 2025-07-09T02:18:31.267722Z -->
+<!-- date_fetched: 2025-07-16T21:08:17.343758Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20191017closed.htm -->
 <!-- title: Federal Reserve Board - October 17, 2019 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:38.389887Z -->
+<!-- date_fetched: 2025-07-16T21:08:24.470916Z -->
 
 Home
 About the Fed

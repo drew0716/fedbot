@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20210913closed.htm -->
 <!-- title: Federal Reserve Board - September 13, 2021 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:34.642829Z -->
+<!-- date_fetched: 2025-07-16T21:08:20.817745Z -->
 
 Home
 About the Fed

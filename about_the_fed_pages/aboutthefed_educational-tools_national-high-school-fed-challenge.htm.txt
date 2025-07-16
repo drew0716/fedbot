@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/national-high-school-fed-challenge.htm -->
 <!-- title: The Fed - National High School Fed Challenge -->
-<!-- date_fetched: 2025-07-09T02:18:26.876966Z -->
+<!-- date_fetched: 2025-07-16T21:08:12.850871Z -->
 
 Home
 About the Fed

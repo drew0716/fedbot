@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/discussion-questions-federal-reserve-after-wwii.htm -->
 <!-- title: Federal Reserve Board - Lecture Two: The Federal Reserve after WWII -->
-<!-- date_fetched: 2025-07-09T02:18:45.829972Z -->
+<!-- date_fetched: 2025-07-16T21:08:32.064376Z -->
 
 Home
 About the Fed

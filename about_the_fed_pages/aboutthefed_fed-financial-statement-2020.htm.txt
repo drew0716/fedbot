@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/fed-financial-statement-2020.htm -->
 <!-- title: Federal Reserve Board - 2020 -->
-<!-- date_fetched: 2025-07-09T02:18:52.086912Z -->
+<!-- date_fetched: 2025-07-16T21:08:38.841565Z -->
 
 Home
 About the Fed

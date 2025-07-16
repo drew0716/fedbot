@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/chairmans-lecture-series-about.htm -->
 <!-- title: Federal Reserve Board - Chairman Bernanke's College Lecture Series -->
-<!-- date_fetched: 2025-07-09T02:18:27.028452Z -->
+<!-- date_fetched: 2025-07-16T21:08:13.000904Z -->
 
 Home
 About the Fed

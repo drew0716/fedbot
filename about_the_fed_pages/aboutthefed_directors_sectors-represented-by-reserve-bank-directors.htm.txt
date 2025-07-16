@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/directors/sectors-represented-by-reserve-bank-directors.htm -->
 <!-- title: The Fed - Sectors Represented by Reserve Bank Directors -->
-<!-- date_fetched: 2025-07-09T02:18:25.014171Z -->
+<!-- date_fetched: 2025-07-16T21:08:12.137875Z -->
 
 Home
 About the Fed

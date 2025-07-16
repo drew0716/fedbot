@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section19.htm -->
 <!-- title: Federal Reserve Board - Section 19. Bank Reserves -->
-<!-- date_fetched: 2025-07-09T02:18:24.047006Z -->
+<!-- date_fetched: 2025-07-16T21:08:11.031286Z -->
 
 Home
 About the Fed

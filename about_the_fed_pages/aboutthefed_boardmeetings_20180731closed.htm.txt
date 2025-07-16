@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20180731closed.htm -->
 <!-- title: Federal Reserve Board - July 31, 2018 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:40.442462Z -->
+<!-- date_fetched: 2025-07-16T21:08:26.644703Z -->
 
 Home
 About the Fed

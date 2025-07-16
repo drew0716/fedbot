@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section28.htm -->
 <!-- title: Federal Reserve Board - Section 28. Reduction of capital of national banks -->
-<!-- date_fetched: 2025-07-09T02:18:24.766006Z -->
+<!-- date_fetched: 2025-07-16T21:08:11.843722Z -->
 
 Home
 About the Fed

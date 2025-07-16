@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/federal-reserve-system-dallas.htm -->
 <!-- title: Federal Reserve Board - Federal Reserve Bank of Dallas -->
-<!-- date_fetched: 2025-07-09T02:18:21.272934Z -->
+<!-- date_fetched: 2025-07-16T21:08:07.293226Z -->
 
 Home
 About the Fed
@@ -126,7 +126,7 @@ Las Cruces Machine Mfg. & Engineering, Inc.
 Mesilla Park, New Mexico
 2025
 Christian Perez Giese
-Senior Vice President
+Executive Vice President – Director
 CBRE, Inc.
 El Paso, Texas
 2026
@@ -256,4 +256,4 @@ Laredo, Texas
 2027
 Back to Top
 Last Update:
-                    June 06, 2025
+                    July 11, 2025

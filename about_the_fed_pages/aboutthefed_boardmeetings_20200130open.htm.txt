@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20200130open.htm -->
 <!-- title: Federal Reserve Board - Notice of Open Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:37.757988Z -->
+<!-- date_fetched: 2025-07-16T21:08:23.845246Z -->
 
 Home
 About the Fed

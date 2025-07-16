@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20201215closed.htm -->
 <!-- title: Federal Reserve Board - December 15, 2020 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:36.062041Z -->
+<!-- date_fetched: 2025-07-16T21:08:22.162310Z -->
 
 Home
 About the Fed

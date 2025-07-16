@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-5-federal-reserve-notes.htm -->
 <!-- title: The Fed - Chapter 5. Federal Reserve Notes -->
-<!-- date_fetched: 2025-07-09T02:18:53.620565Z -->
+<!-- date_fetched: 2025-07-16T21:08:40.230673Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/officialstaff.htm -->
 <!-- title: Federal Reserve Board - Official Staff -->
-<!-- date_fetched: 2025-07-09T02:18:20.306306Z -->
+<!-- date_fetched: 2025-07-16T21:08:06.346222Z -->
 
 Home
 About the Fed
@@ -46,16 +46,14 @@ Senior
 Associate General Counsel
 Alicia Foster,
 Associate General Counsel
+Asad Kudiya
+, Associate General Counsel
 Sean Croston
 , Deputy Associate General Counsel
 Jason A. Gonzalez,
 Deputy Associate General Counsel
-Asad Kudiya
-, Deputy Associate General Counsel
 Jay Schwarz
 , Deputy Associate General Counsel
-Dafina Stewart,
-Deputy Associate General Counsel
 Evan Howard Winerman,
 Deputy Associate General Counsel
 Lucy Chang,
@@ -95,8 +93,6 @@ Richard Nathan Ragan,
 Senior Associate Director
 Lisa H. Ryu,
 Senior Associate Director
-Todd Conklin,
-Associate Director
 Christopher Finger,
 Associate Director
 Jeffery Gunther,
@@ -106,8 +102,6 @@ Associate Director
 Kavita Jain,
 Associate Director
 Richard A. Naylor II,
-Associate Director
-Robert Sarama,
 Associate Director
 Uzma Wahhab,
 Associate Director
@@ -123,8 +117,6 @@ Juan Climent,
 Deputy Associate Director
 James Ray Diggs,
 Deputy Associate Director
-Christine E. Graham
-, Deputy Associate Director
 Ryan Lordos,
 Deputy Associate Director
 Lara K. Lylozian
@@ -139,8 +131,6 @@ Brent Richards
 , Deputy Associate Director
 Vaishali Sack,
 Deputy Associate Director
-Margaret Sherry
-, Deputy Associate Director
 Steven M. Spurry,
 Deputy Associate Director
 Catherine Ann Tilford,
@@ -208,8 +198,6 @@ Carol Bertaut,
 Senior Adviser
 Brett Berger,
 Senior Adviser
-Paul Wood
-, Senior Adviser
 Ricardo Correa,
 Senior Adviser
 Dario Caldara,
@@ -234,8 +222,6 @@ Senior Associate Director
 Elizabeth K. Kiser,
 Senior
 Associate Director
-David E. Lebow,
-Senior Associate Director
 Michael G. Palumbo,
 Senior Associate Director
 John J. Stevens, Senior
@@ -311,7 +297,9 @@ Wendy Dunn
 Division of Monetary Affairs
 Trevor A. Reeve,
 Director
-James A. Clouse,
+Michael T. Kiley,
+Deputy Director
+Elizabeth Klee,
 Deputy Director
 Nellisha Ramdass
 , Deputy
@@ -380,12 +368,8 @@ Adviser
 Division of Financial Stability
 Andreas W. Lehnert,
 Director
-Michael T. Kiley,
-Deputy Director
 William F. Bassett,
 Senior Associate Director
-Elizabeth Klee,
-Senior Associate Director
 Namirembe Mukasa,
 Associate Director and Chief of Staff
 Skander Van den Heuvel,
@@ -420,8 +404,6 @@ David Newville,
 Senior Associate Director
 Benjamin Olson
 , Senior Associate Director
-David E. Buchholz,
-Associate Director
 Angelyque Campbell,
 Associate Director
 Joseph A. Firschein,
@@ -599,12 +581,12 @@ Monica Yvette Manning
 , Associate Director
 Thomas Murphy,
 Associate Director
-Jeffrey R. Peirce,
-Associate Director
+Margaret Sherry
+, Associate Director
 Kimberly Briggs
 , Deputy Associate Director
 Office of Inspector General
-Mark Bialek,
+Michael E. Horowitz,
 Inspector General
 Fred W. Gibson,
 Deputy Inspector General
@@ -628,4 +610,4 @@ Related Content
 Board Members
 Back to Top
 Last Update:
-                    March 11, 2025
+                    July 09, 2025

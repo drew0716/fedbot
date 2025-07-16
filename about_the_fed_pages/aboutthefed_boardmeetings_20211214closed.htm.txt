@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20211214closed.htm -->
 <!-- title: Federal Reserve Board - December 14, 2021 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:34.120195Z -->
+<!-- date_fetched: 2025-07-16T21:08:20.265699Z -->
 
 Home
 About the Fed

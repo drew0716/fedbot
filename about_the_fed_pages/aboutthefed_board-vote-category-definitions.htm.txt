@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/board-vote-category-definitions.htm -->
 <!-- title: Federal Reserve Board - Board Vote Category Definitions -->
-<!-- date_fetched: 2025-07-09T02:18:26.558964Z -->
+<!-- date_fetched: 2025-07-16T21:08:12.417815Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/board-of-governors-org-chart-accessible.htm -->
 <!-- title: The Fed - Board of Governors of the Federal Reserve System -->
-<!-- date_fetched: 2025-07-09T02:18:27.309490Z -->
+<!-- date_fetched: 2025-07-16T21:08:13.274422Z -->
 
 Home
 About the Fed

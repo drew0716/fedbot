@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20221024closed.htm -->
 <!-- title: Federal Reserve Board - October 24, 2022 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:32.883686Z -->
+<!-- date_fetched: 2025-07-16T21:08:18.968575Z -->
 
 Home
 About the Fed

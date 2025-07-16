@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section12a.htm -->
 <!-- title: Federal Reserve Board - Section 12A. Federal Open Market Committee -->
-<!-- date_fetched: 2025-07-09T02:18:23.492495Z -->
+<!-- date_fetched: 2025-07-16T21:08:10.546959Z -->
 
 Home
 About the Fed

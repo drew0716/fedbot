@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/board-meeting-sunshine.htm -->
 <!-- title: Federal Reserve Board - Government in the Sunshine Meeting Memorandum -->
-<!-- date_fetched: 2025-07-09T02:18:25.331710Z -->
+<!-- date_fetched: 2025-07-16T21:08:08.420128Z -->
 
 Home
 About the Fed

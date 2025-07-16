@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/fed-financial-statements-2016.htm -->
 <!-- title: Federal Reserve Board - 2016 -->
-<!-- date_fetched: 2025-07-09T02:18:52.837207Z -->
+<!-- date_fetched: 2025-07-16T21:08:39.137808Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20200824closed.htm -->
 <!-- title: Federal Reserve Board - August 24, 2020 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:36.807051Z -->
+<!-- date_fetched: 2025-07-16T21:08:22.907807Z -->
 
 Home
 About the Fed

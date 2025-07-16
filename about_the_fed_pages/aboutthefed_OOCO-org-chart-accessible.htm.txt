@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/OOCO-org-chart-accessible.htm -->
 <!-- title: The Fed - Office of the Chief Operating Officer -->
-<!-- date_fetched: 2025-07-09T02:18:27.406094Z -->
+<!-- date_fetched: 2025-07-16T21:08:13.418984Z -->
 
 Home
 About the Fed
@@ -9,7 +9,8 @@ Board Organization Charts
 Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
 Office of the Chief Operating Officer
 Board of Governors of the Federal Reserve System
-April 20, 2025
+April 20, 2025 REVISED
+*
 Chief Operating Officer, Winona Varnon
 71
 EEO Programs & OMWI Director, Sheila Clark
@@ -24,8 +25,13 @@ Data Operations
 Chief Risk Officer, Andrew Leonard
 Division of Information Technology, Jeff Riedel
 Division of Management, Vacant
+1
 Division of Financial Management, Rendell Jones
 Official Format
+* The Office of the Chief Operating Officer organizational chart was revised to add footnote 1.
+Return to text.
+1. Winona Varnon, COO, is acting director of the Division of Management until a new director has been appointed.
+Return to text.
 Back to Top
 Last Update:
-                January 31, 2025
+                July 15, 2025

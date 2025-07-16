@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/lecture-series-the-aftermath-of-the-crisis-accessible.htm -->
 <!-- title: Federal Reserve Board - Accessible Version of Figures from Lecture 4 -->
-<!-- date_fetched: 2025-07-09T02:18:50.157295Z -->
+<!-- date_fetched: 2025-07-16T21:08:38.395115Z -->
 
 Home
 About the Fed

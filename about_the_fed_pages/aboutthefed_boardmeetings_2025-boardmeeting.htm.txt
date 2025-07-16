@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/2025-boardmeeting.htm -->
 <!-- title: Federal Reserve Board - 2025 Board Meetings -->
-<!-- date_fetched: 2025-07-09T02:18:25.383751Z -->
+<!-- date_fetched: 2025-07-16T21:08:08.473927Z -->
 
 Home
 About the Fed
@@ -8,6 +8,10 @@ Board Meetings
 2025 Board Meetings
 RSS
 Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+Monday, July 14, 2025
+10:00 a.m.
+Closed
+Meeting details
 Wednesday, June 25, 2025
 2:00 p.m.
 Open

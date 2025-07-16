@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20240430closed.htm -->
 <!-- title: Federal Reserve Board - Closed Board Meeting -- April 30, 2024 -->
-<!-- date_fetched: 2025-07-09T02:18:30.431169Z -->
+<!-- date_fetched: 2025-07-16T21:08:16.503726Z -->
 
 Home
 About the Fed

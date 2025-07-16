@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/fedchallenge.htm -->
 <!-- title: Federal Reserve Board - College Fed Challenge -->
-<!-- date_fetched: 2025-07-09T02:18:45.094782Z -->
+<!-- date_fetched: 2025-07-16T21:08:30.861467Z -->
 
 Home
 About the Fed

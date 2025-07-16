@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20210727closed.htm -->
 <!-- title: Federal Reserve Board - July 27, 2021 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:34.789311Z -->
+<!-- date_fetched: 2025-07-16T21:08:20.981554Z -->
 
 Home
 About the Fed

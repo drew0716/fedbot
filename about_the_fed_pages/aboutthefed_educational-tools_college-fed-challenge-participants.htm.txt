@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/college-fed-challenge-participants.htm -->
 <!-- title: The Fed - Participating Schools -->
-<!-- date_fetched: 2025-07-09T02:18:45.423735Z -->
+<!-- date_fetched: 2025-07-16T21:08:31.646285Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20181031open.htm -->
 <!-- title: Federal Reserve Board - October 31, 2018 -- Notice of Open Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:40.184424Z -->
+<!-- date_fetched: 2025-07-16T21:08:26.330419Z -->
 
 Home
 About the Fed

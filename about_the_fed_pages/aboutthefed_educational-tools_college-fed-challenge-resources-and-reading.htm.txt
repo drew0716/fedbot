@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/college-fed-challenge-resources-and-reading.htm -->
 <!-- title: Federal Reserve Board - Resources & Reading -->
-<!-- date_fetched: 2025-07-09T02:18:45.242456Z -->
+<!-- date_fetched: 2025-07-16T21:08:31.460288Z -->
 
 Home
 About the Fed

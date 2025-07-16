@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardvotes2013.htm -->
 <!-- title: Federal Reserve Board - Board Votes 2013 -->
-<!-- date_fetched: 2025-07-09T02:18:44.901715Z -->
+<!-- date_fetched: 2025-07-16T21:08:30.715744Z -->
 
 Home
 About the Fed

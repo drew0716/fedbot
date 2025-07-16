@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20211020closed.htm -->
 <!-- title: Federal Reserve Board - October 20, 2021 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-09T02:18:34.428879Z -->
+<!-- date_fetched: 2025-07-16T21:08:20.579972Z -->
 
 Home
 About the Fed

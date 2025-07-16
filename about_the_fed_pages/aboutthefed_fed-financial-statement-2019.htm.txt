@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/fed-financial-statement-2019.htm -->
 <!-- title: Federal Reserve Board - 2019 -->
-<!-- date_fetched: 2025-07-09T02:18:52.662352Z -->
+<!-- date_fetched: 2025-07-16T21:08:38.891695Z -->
 
 Home
 About the Fed

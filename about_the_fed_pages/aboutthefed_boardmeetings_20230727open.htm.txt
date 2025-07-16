@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20230727open.htm -->
 <!-- title: Federal Reserve Board - Open Board Meeting -- July 27, 2023 -->
-<!-- date_fetched: 2025-07-09T02:18:31.629426Z -->
+<!-- date_fetched: 2025-07-16T21:08:17.662960Z -->
 
 Home
 About the Fed

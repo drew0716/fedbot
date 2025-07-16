@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/appendix-b-dividends.htm -->
 <!-- title: The Fed - Appendix B. Dividends -->
-<!-- date_fetched: 2025-07-09T02:18:54.252160Z -->
+<!-- date_fetched: 2025-07-16T21:08:40.557455Z -->
 
 Home
 About the Fed

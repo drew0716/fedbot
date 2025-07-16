@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/abbreviations.htm -->
 <!-- title: The Fed - Abbreviations -->
-<!-- date_fetched: 2025-07-09T02:18:53.899882Z -->
+<!-- date_fetched: 2025-07-16T21:08:39.970126Z -->
 
 Home
 About the Fed
