@@ -124,8 +124,7 @@ if question:
 
     for i in I[0]:
         meta = metadata[i]
-        if meta["type"] != "aboutthefed":
-            continue
+        chunk_type = meta.get("type", "aboutthefed")
 
         filepath = os.path.join("chunks", meta["filename"])
         if not os.path.exists(filepath):
@@ -138,14 +137,20 @@ if question:
 
         title_raw = meta.get("source", "Unknown Source")
         title_parts = title_raw.replace(".txt", "").replace("_chunk", "").replace("_", " ").split()
-        if "fedexplained" in title_parts:
-            try:
-                section_index = title_parts.index("fedexplained") + 1
-                title = f"About the Fed: Fed Explained – {' '.join(title_parts[section_index:]).title()}"
-            except:
-                title = "About the Fed: Fed Explained"
+
+        if chunk_type == "aboutthefed":
+            if "fedexplained" in title_parts:
+                try:
+                    section_index = title_parts.index("fedexplained") + 1
+                    title = f"About the Fed: Fed Explained – {' '.join(title_parts[section_index:]).title()}"
+                except:
+                    title = "About the Fed: Fed Explained"
+            else:
+                title = f"About the Fed: {' '.join(title_parts).title()}"
+        elif chunk_type == "faq":
+            title = "FAQ: " + (meta.get("title") or "Federal Reserve FAQ")
         else:
-            title = f"About the Fed: {' '.join(title_parts).title()}"
+            title = meta.get("title", "Untitled")
 
         sources.append((title, meta.get("url")))
         added += 1
@@ -155,7 +160,12 @@ if question:
     if not context:
         st.warning("No relevant 'About the Fed' content found for your question.")
     else:
-        system_prompt = "You are a helpful assistant answering questions using verified information from the Federal Reserve's public About the Fed pages."
+        system_prompt = (
+            "You are a helpful assistant answering questions using verified information from the United States Federal Reserve. "
+            "Your answers are based only on two official sources: the 'About the Fed' section and the official FAQ pages at federalreserve.gov. "
+            "Always provide citations to the source(s) used. "
+            "If the answer is not present in the context, say you could not find it."
+        )
         user_prompt = f"""Answer the following question using only the context below. If the information isn't available, respond accordingly.
 
 Context:
@@ -187,7 +197,7 @@ Question: {question}
 st.markdown("""
 ---
 <footer>
-  This tool uses public data from federalreserve.gov and Anthropic's Claude 3 model to provide answers based on "About the Fed" content.<br>
+  This tool uses public data from federalreserve.gov and Anthropic's Claude 3 model to provide answers based on "About the Fed" and "FAQs" content.<br>
   <strong>Disclaimer:</strong> This tool is not affiliated with or endorsed by the Federal Reserve System.
 </footer>
 """, unsafe_allow_html=True)
