@@ -45,7 +45,7 @@ for chunk in tqdm(chunk_data):
         metadata.append({
             "filename": chunk["filename"],
             "source": chunk["source"],
-            "type": chunk.get("type", "aboutthefed"),
+            "type": chunk["type"],
             "url": chunk.get("url", "")
         })
 

@@ -1,6 +1,6 @@
 # FedBot: About the Fed Q\&A
 
-**FedBot** is an interactive question-and-answer web app that uses Retrieval-Augmented Generation (RAG) to help users explore official information about the United States Federal Reserve. It focuses exclusively on content from the **"About the Fed"** section of [federalreserve.gov](https://www.federalreserve.gov/aboutthefed.htm).
+**FedBot** is an interactive question-and-answer web app that uses Retrieval-Augmented Generation (RAG) to help users explore official information about the United States Federal Reserve. It focuses exclusively on content from the **"About the Fed"** and **"FAQs"** sections of [federalreserve.gov](https://www.federalreserve.gov/aboutthefed.htm).
 
 FedBot uses a semantic search pipeline with document embedding, vector indexing, and large language model responses from Anthropic’s Claude 3.
 
@@ -42,7 +42,7 @@ FedBot uses a semantic search pipeline with document embedding, vector indexing,
 
 FedBot is automatically kept up-to-date using a GitHub Actions workflow that runs every other day. It performs the following:
 
-1. Crawls the latest “About the Fed” pages
+1. Crawls the latest “About the Fed” and "FAQs" pages
 2. Extracts and chunks the content
 3. Rebuilds the vector index
 4. Updates `last_updated.txt` and `force_redeploy.txt`
