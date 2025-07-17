@@ -1,0 +1,10 @@
+Why does the Federal Reserve aim for inflation of 2 percent over the longer run?
+The Federal Open Market Committee (FOMC) judges that inflation of 2 percent over the longer run, as measured by the annual change in the price index for personal consumption expenditures, is most consistent with the Federal Reserve’s mandate for maximum employment and price stability. When households and businesses can reasonably expect inflation to remain low and stable, they are able to make sound decisions regarding saving, borrowing, and investment, which contributes to a well-functioning economy.
+For many years, inflation in the United States has run below the Federal Reserve’s 2 percent goal. It is understandable that higher prices for essential items, such as food, gasoline, and shelter, add to the burdens faced by many families, especially those struggling with lost jobs and incomes. At the same time, inflation that is too low can weaken the economy. When inflation runs well below its desired level, households and businesses will come to expect this over time, pushing expectations for inflation in the future below the Federal Reserve’s longer-run inflation goal. This can pull actual inflation even lower, resulting in a cycle of ever-lower inflation and inflation expectations.
+If inflation expectations fall, interest rates would decline too. In turn, there would be less room to cut interest rates to boost employment during an economic downturn. Evidence from around the world suggests that once this problem sets in, it can be very difficult to overcome. To address this challenge, following periods when inflation has been running persistently below 2 percent, appropriate monetary policy will likely aim to achieve inflation modestly above 2 percent for some time. By seeking inflation that averages 2 percent over time, the FOMC will help to ensure longer-run inflation expectations remain well anchored at 2 percent.
+Related Information
+FOMC statement of longer-run goals and policy strategy
+FOMC economic projections FAQs
+Monetary Policy Report to the Congress
+Bureau of Labor Statistics
+Related Questions

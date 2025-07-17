@@ -1,0 +1,9 @@
+Is the FedNow Service replacing cash? Is it a central bank digital currency?
+No. The FedNow Service is not related to a digital currency. The FedNow Service is a payment service the Federal Reserve is making available for banks and credit unions to transfer funds for their customers. It is like other Federal Reserve payment services, such as Fedwire and FedACH. The FedNow Service is neither a form of currency nor a step toward eliminating any form of payment, including cash.
+The Federal Reserve has made no decision on issuing a central bank digital currency (CBDC) and would only proceed with the issuance of a CBDC with an authorizing law. Testifying before the House Financial Services Committee in March 2023, Chair Powell said a CBDC is, “something we would certainly need Congressional approval for.”
+Related Information
+FedNow FAQs
+CBDC FAQs
+Back to Top
+Last Update:
+                    July 12, 2023
