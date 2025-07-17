@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20211008closed.htm -->
 <!-- title: Federal Reserve Board - October 8, 2021 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-16T21:08:20.648671Z -->
+<!-- date_fetched: 2025-07-17T00:34:22.632165Z -->
 
 Home
 About the Fed

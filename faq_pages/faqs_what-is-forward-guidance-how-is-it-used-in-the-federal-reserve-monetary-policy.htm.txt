@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/what-is-forward-guidance-how-is-it-used-in-the-federal-reserve-monetary-policy.htm -->
 <!-- title: The Fed - What is forward guidance, and how is it used in the Federal Reserve's monetary policy? -->
-<!-- date_fetched: 2025-07-16T21:08:49.366410Z -->
+<!-- date_fetched: 2025-07-17T00:35:05.326125Z -->
 
 Home
 FAQs

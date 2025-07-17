@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section21.htm -->
 <!-- title: Federal Reserve Board - Section 21. Bank Examinations -->
-<!-- date_fetched: 2025-07-16T21:08:11.135053Z -->
+<!-- date_fetched: 2025-07-17T00:34:12.087335Z -->
 
 Home
 About the Fed

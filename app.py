@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer
 import anthropic
 
 # Anthropic API key
-api_key = st.secrets["ANTHROPIC_API_KEY"]
+api_key = st.secrets.get("ANTHROPIC_API_KEY")
 if not api_key:
     st.error("Anthropic API key not found. Set ANTHROPIC_API_KEY in your environment.")
     st.stop()
@@ -78,8 +78,10 @@ if os.path.exists("last_updated.txt"):
 @st.cache_resource
 def load_assets():
     model = SentenceTransformer("all-MiniLM-L6-v2")
-    index = faiss.read_index("faiss_index.index")
-    with open("metadata.pkl", "rb") as f:
+    index_path = os.path.join("output", "faiss_index.index")
+    metadata_path = os.path.join("output", "metadata.pkl")
+    index = faiss.read_index(index_path)
+    with open(metadata_path, "rb") as f:
         metadata = pickle.load(f)
     return model, index, metadata
 
@@ -116,49 +118,37 @@ for i, q in enumerate(important_questions):
 # --- Search and Answer ---
 if question:
     q_embedding = model.encode([question]).astype("float32")
+    faiss.normalize_L2(q_embedding)  # normalize for cosine similarity
     D, I = index.search(q_embedding, k=10)
 
     context = ""
     sources = []
     added = 0
 
-    for i in I[0]:
-        meta = metadata[i]
-        chunk_type = meta.get("type", "aboutthefed")
-
-        filepath = os.path.join("chunks", meta["filename"])
-        if not os.path.exists(filepath):
+    for idx in I[0]:
+        meta_entry = metadata[idx]
+        chunk_type = meta_entry.get("type", "aboutthefed")
+        chunk_file = os.path.join("chunks", meta_entry["filename"])
+        if not os.path.exists(chunk_file):
             continue
-
-        with open(filepath, "r", encoding="utf-8") as f:
-            content = f.read()
-
+        with open(chunk_file,  "r", encoding="utf-8") as cf:
+            content = cf.read()
         context += f"\n---\n{content}"
 
-        title_raw = meta.get("source", "Unknown Source")
-        title_parts = title_raw.replace(".txt", "").replace("_chunk", "").replace("_", " ").split()
-
+        # Build display title
+        source_key = meta_entry.get("source", "").replace(".txt", "")
         if chunk_type == "aboutthefed":
-            if "fedexplained" in title_parts:
-                try:
-                    section_index = title_parts.index("fedexplained") + 1
-                    title = f"About the Fed: Fed Explained – {' '.join(title_parts[section_index:]).title()}"
-                except:
-                    title = "About the Fed: Fed Explained"
-            else:
-                title = f"About the Fed: {' '.join(title_parts).title()}"
-        elif chunk_type == "faq":
-            title = "FAQ: " + (meta.get("title") or "Federal Reserve FAQ")
+            title = f"About the Fed: {source_key.replace('_', ' ').title()}"
         else:
-            title = meta.get("title", "Untitled")
+            title = "FAQ: " + (meta_entry.get("title") or "Federal Reserve FAQ")
 
-        sources.append((title, meta.get("url")))
+        sources.append((title, meta_entry.get("url")))
         added += 1
         if added >= 5:
             break
 
     if not context:
-        st.warning("No relevant 'About the Fed' content found for your question.")
+        st.warning("No relevant content found for your question.")
     else:
         system_prompt = (
             "You are a helpful assistant answering questions using verified information from the United States Federal Reserve. "
@@ -202,7 +192,7 @@ st.markdown("""
 </footer>
 """, unsafe_allow_html=True)
 
-# 🔁 Show force redeploy timestamp (optional but useful)
+# 🔁 Show force redeploy timestamp
 if os.path.exists("force_redeploy.txt"):
     with open("force_redeploy.txt", "r") as f:
         refreshed = f.read().strip()

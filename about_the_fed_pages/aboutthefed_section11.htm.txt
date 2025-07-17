@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section11.htm -->
 <!-- title: Federal Reserve Board - Section 11. Powers of Board of Governors of the Federal Reserve System -->
-<!-- date_fetched: 2025-07-16T21:08:10.067637Z -->
+<!-- date_fetched: 2025-07-17T00:34:11.249029Z -->
 
 Home
 About the Fed

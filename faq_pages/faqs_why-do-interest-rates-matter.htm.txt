@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/why-do-interest-rates-matter.htm -->
 <!-- title: The Fed - Why do interest rates matter? -->
-<!-- date_fetched: 2025-07-16T21:08:49.854719Z -->
+<!-- date_fetched: 2025-07-17T00:35:05.206970Z -->
 
 Home
 FAQs

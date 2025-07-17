@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20191115closed.htm -->
 <!-- title: Federal Reserve Board - November 15, 2019 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-16T21:08:24.206605Z -->
+<!-- date_fetched: 2025-07-17T00:34:26.232486Z -->
 
 Home
 About the Fed

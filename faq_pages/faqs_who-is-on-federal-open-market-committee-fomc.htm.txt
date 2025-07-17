@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/who-is-on-federal-open-market-committee-fomc.htm -->
 <!-- title: The Fed - Who is on the Federal Open Market Committee? -->
-<!-- date_fetched: 2025-07-16T21:08:48.675171Z -->
+<!-- date_fetched: 2025-07-17T00:35:04.080060Z -->
 
 Home
 FAQs

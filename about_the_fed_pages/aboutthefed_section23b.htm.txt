@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section23b.htm -->
 <!-- title: Federal Reserve Board - Section 23B. Restrictions on Transactions with Affiliates -->
-<!-- date_fetched: 2025-07-16T21:08:11.366868Z -->
+<!-- date_fetched: 2025-07-17T00:34:12.391761Z -->
 
 Home
 About the Fed

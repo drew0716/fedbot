@@ -25,6 +25,7 @@ chunks/*.bak
 # 🚫 VSCode + Streamlit configs (safe to ignore)
 .vscode/
 .streamlit/config.toml
+.streamlit/secrets.toml
 
 # 📁 System files
 .DS_Store

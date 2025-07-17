@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/lecture-series-the-aftermath-of-the-crisis.htm -->
 <!-- title: Federal Reserve Board - The Aftermath of the Crisis -->
-<!-- date_fetched: 2025-07-16T21:08:31.961413Z -->
+<!-- date_fetched: 2025-07-17T00:34:37.483926Z -->
 
 Home
 About the Fed

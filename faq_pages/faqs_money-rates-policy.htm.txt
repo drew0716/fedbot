@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/money-rates-policy.htm -->
 <!-- title: The Fed - Money, Interest Rates, and Monetary Policy -->
-<!-- date_fetched: 2025-07-16T21:08:46.396631Z -->
+<!-- date_fetched: 2025-07-17T00:35:01.696183Z -->
 
 Home
 FAQs

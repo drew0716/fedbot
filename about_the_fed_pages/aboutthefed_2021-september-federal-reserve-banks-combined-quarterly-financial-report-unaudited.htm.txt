@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/2021-september-federal-reserve-banks-combined-quarterly-financial-report-unaudited.htm -->
 <!-- title: The Fed - Federal Reserve Banks Combined Quarterly Financial Report Unaudited - September 30, 2021 -->
-<!-- date_fetched: 2025-07-16T21:08:33.253510Z -->
+<!-- date_fetched: 2025-07-17T00:34:38.855441Z -->
 
 Home
 About the Fed

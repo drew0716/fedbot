@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/centennial/inventory_submission_faq.htm -->
 <!-- title: Federal Reserve Board - Inventory Submission FAQ -->
-<!-- date_fetched: 2025-07-16T21:08:14.238631Z -->
+<!-- date_fetched: 2025-07-17T00:34:15.955506Z -->
 
 Home
 About the Fed

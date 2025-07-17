@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/economy_14419.htm -->
 <!-- title: The Fed - What is inflation and how does the Federal Reserve evaluate changes in the rate of inflation? -->
-<!-- date_fetched: 2025-07-16T21:08:46.862929Z -->
+<!-- date_fetched: 2025-07-17T00:35:02.296147Z -->
 
 Home
 FAQs

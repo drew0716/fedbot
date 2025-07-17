@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-6-reporting-requirements.htm#xsubsection-18-fc187708 -->
 <!-- title: The Fed - Chapter 6. Reporting Requirements -->
-<!-- date_fetched: 2025-07-16T21:08:42.247923Z -->
+<!-- date_fetched: 2025-07-17T00:34:58.452543Z -->
 
 Home
 About the Fed

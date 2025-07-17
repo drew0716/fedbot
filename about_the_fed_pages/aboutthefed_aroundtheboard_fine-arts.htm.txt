@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/aroundtheboard/fine-arts.htm -->
 <!-- title: Federal Reserve Board - Fine Arts Program -->
-<!-- date_fetched: 2025-07-16T21:08:14.552444Z -->
+<!-- date_fetched: 2025-07-17T00:34:16.298387Z -->
 
 Home
 About the Fed

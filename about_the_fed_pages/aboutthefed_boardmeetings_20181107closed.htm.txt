@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20181107closed.htm -->
 <!-- title: Federal Reserve Board - November 7, 2018 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-16T21:08:26.211562Z -->
+<!-- date_fetched: 2025-07-17T00:34:28.274511Z -->
 
 Home
 About the Fed

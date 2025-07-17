@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/MA-org-chart-accessible.htm -->
 <!-- title: The Fed - Division of Monetary Affairs -->
-<!-- date_fetched: 2025-07-16T21:08:13.866791Z -->
+<!-- date_fetched: 2025-07-17T00:34:15.027325Z -->
 
 Home
 About the Fed

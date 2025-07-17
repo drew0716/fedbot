@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20171212closed.htm -->
 <!-- title: Federal Reserve Board - December 12, 2017 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-16T21:08:27.850312Z -->
+<!-- date_fetched: 2025-07-17T00:34:29.943798Z -->
 
 Home
 About the Fed

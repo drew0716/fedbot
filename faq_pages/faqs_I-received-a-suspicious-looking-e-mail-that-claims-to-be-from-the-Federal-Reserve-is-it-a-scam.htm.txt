@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/I-received-a-suspicious-looking-e-mail-that-claims-to-be-from-the-Federal-Reserve-is-it-a-scam.htm -->
 <!-- title: The Fed - I received a suspicious-looking e-mail that claims to be from the Federal Reserve. Is it a scam? -->
-<!-- date_fetched: 2025-07-16T21:08:49.487710Z -->
+<!-- date_fetched: 2025-07-17T00:35:04.679756Z -->
 
 Home
 FAQs

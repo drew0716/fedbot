@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-4-system-open-market-account.htm#xsubsection-115-bdc6237d -->
 <!-- title: The Fed - Chapter 4. System Open Market Account -->
-<!-- date_fetched: 2025-07-16T21:08:44.649170Z -->
+<!-- date_fetched: 2025-07-17T00:34:57.293130Z -->
 
 Home
 About the Fed

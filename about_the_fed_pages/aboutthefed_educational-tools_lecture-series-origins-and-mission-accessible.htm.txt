@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/lecture-series-origins-and-mission-accessible.htm -->
 <!-- title: Federal Reserve Board - Accessible Version of Figures from Lecture 1 -->
-<!-- date_fetched: 2025-07-16T21:08:35.836675Z -->
+<!-- date_fetched: 2025-07-17T00:34:50.377247Z -->
 
 Home
 About the Fed

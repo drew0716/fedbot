@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/appendix-e-reserved.htm -->
 <!-- title: The Fed - Appendix E. Reserved -->
-<!-- date_fetched: 2025-07-16T21:08:40.741855Z -->
+<!-- date_fetched: 2025-07-17T00:34:55.683146Z -->
 
 Home
 About the Fed

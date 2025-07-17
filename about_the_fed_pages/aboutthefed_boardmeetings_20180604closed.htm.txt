@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20180604closed.htm -->
 <!-- title: Federal Reserve Board - June 4, 2018 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-16T21:08:27.154063Z -->
+<!-- date_fetched: 2025-07-17T00:34:29.256488Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section15.htm -->
 <!-- title: Federal Reserve Board - Section 15. Government Deposits -->
-<!-- date_fetched: 2025-07-16T21:08:10.777293Z -->
+<!-- date_fetched: 2025-07-17T00:34:11.749756Z -->
 
 Home
 About the Fed

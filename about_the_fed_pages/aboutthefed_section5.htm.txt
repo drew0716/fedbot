@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section5.htm -->
 <!-- title: Federal Reserve Board - Section 5. Stock Issues; Increase and Decrease of Capital -->
-<!-- date_fetched: 2025-07-16T21:08:10.348843Z -->
+<!-- date_fetched: 2025-07-17T00:34:10.690430Z -->
 
 Home
 About the Fed

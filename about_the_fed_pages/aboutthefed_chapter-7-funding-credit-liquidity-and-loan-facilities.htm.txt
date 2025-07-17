@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-7-funding-credit-liquidity-and-loan-facilities.htm -->
 <!-- title: The Fed - Chapter 7. Funding, Credit, Liquidity, and Loan Facilities -->
-<!-- date_fetched: 2025-07-16T21:08:40.178886Z -->
+<!-- date_fetched: 2025-07-17T00:34:55.177230Z -->
 
 Home
 About the Fed

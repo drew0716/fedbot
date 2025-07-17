@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/what-is-the-federal-reserves-role-in-the-circulation-of-coins.htm -->
 <!-- title: The Fed - What is the Federal Reserve’s role in the circulation of coins? -->
-<!-- date_fetched: 2025-07-16T21:08:47.989116Z -->
+<!-- date_fetched: 2025-07-17T00:35:02.996610Z -->
 
 Home
 FAQs

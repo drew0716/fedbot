@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/what-does-the-federal-reserve-mean-when-it-says-monetary-policy-remains-accommodative.htm -->
 <!-- title: The Fed - What does the Federal Reserve mean when it says monetary policy is “accommodative” or “restrictive”? -->
-<!-- date_fetched: 2025-07-16T21:08:49.587190Z -->
+<!-- date_fetched: 2025-07-17T00:35:05.451936Z -->
 
 Home
 FAQs

@@ -22,12 +22,21 @@ FAQ_SEEN = set()
 
 os.makedirs(SAVE_DIR, exist_ok=True)
 
-def is_valid_url(href):
-    return href and href.startswith("/aboutthefed") and not href.endswith(".pdf")
+def is_valid_link(href):
+    if not href:
+        return False
+    p = urlparse(href).path.lower()
+    return (
+        (p.startswith("/aboutthefed") or p.startswith(FAQ_PREFIX))
+        and not p.endswith(".pdf")
+    )
 
 def is_faq_url(href):
-    # Only crawl HTML pages under /faqs/ and not PDFs
-    return href and href.startswith(FAQ_PREFIX) and href.endswith(".htm")
+    if not href:
+        return False
+    p = urlparse(href).path.lower()
+    return p.startswith(FAQ_PREFIX) and p.endswith((".htm", ".html"))
+
 
 def clean_soup(soup):
     for tag in soup(["header", "nav", "footer", "script", "style"]):
@@ -63,7 +72,7 @@ async def crawl_page(session, url, queue):
         return
 
     title, content = extract_main_content(html)
-    if not content or len(content.strip()) < 100:
+    if not content or len(content.strip()) < 20:
         print(f"[SKIP] {url} (too short or empty)")
         return
 
@@ -82,7 +91,7 @@ async def crawl_page(session, url, queue):
     for a in soup.find_all("a", href=True):
         href = a["href"]
         full_url = urljoin(BASE_URL, href)
-        if is_valid_url(href) and full_url not in SEEN:
+        if is_valid_link(href) and full_url not in SEEN:
             await queue.put(full_url)
 
 async def worker(queue, session):
@@ -101,7 +110,7 @@ async def crawl_faq_page(session, url, queue):
         return
 
     title, content = extract_main_content(html)
-    if not content or len(content.strip()) < 100:
+    if not content or len(content.strip()) < 10:
         print(f"[SKIP] {url} (too short or empty)")
         return
 

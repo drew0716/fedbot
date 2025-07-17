@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section14.htm -->
 <!-- title: Federal Reserve Board - Section 14. Open-Market Operations -->
-<!-- date_fetched: 2025-07-16T21:08:10.724728Z -->
+<!-- date_fetched: 2025-07-17T00:34:11.680592Z -->
 
 Home
 About the Fed

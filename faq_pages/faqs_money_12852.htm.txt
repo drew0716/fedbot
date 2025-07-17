@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/money_12852.htm -->
 <!-- title: The Fed - Why has the size of the Federal Reserve’s balance changed over time? -->
-<!-- date_fetched: 2025-07-16T21:08:49.686331Z -->
+<!-- date_fetched: 2025-07-17T00:35:05.501694Z -->
 
 Home
 FAQs

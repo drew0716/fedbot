@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/fed-education.htm -->
 <!-- title: Federal Reserve Board - FedEd Federal Reserve Education Outreach -->
-<!-- date_fetched: 2025-07-16T21:08:12.953438Z -->
+<!-- date_fetched: 2025-07-17T00:34:13.849552Z -->
 
 Home
 About the Fed

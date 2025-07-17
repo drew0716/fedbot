@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20191210closed.htm -->
 <!-- title: Federal Reserve Board - December 10, 2019 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-16T21:08:24.110998Z -->
+<!-- date_fetched: 2025-07-17T00:34:26.135556Z -->
 
 Home
 About the Fed

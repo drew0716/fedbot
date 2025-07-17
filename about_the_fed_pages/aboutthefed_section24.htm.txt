@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section24.htm -->
 <!-- title: Federal Reserve Board - Section 24. Real Estate Loans -->
-<!-- date_fetched: 2025-07-16T21:08:11.417376Z -->
+<!-- date_fetched: 2025-07-17T00:34:12.442645Z -->
 
 Home
 About the Fed

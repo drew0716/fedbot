@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section27.htm -->
 <!-- title: Federal Reserve Board - Section 27. Tax on national bank notes -->
-<!-- date_fetched: 2025-07-16T21:08:11.790827Z -->
+<!-- date_fetched: 2025-07-17T00:34:12.818570Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/how-does-the-federal-reserve-board-determine-how-much-currency-to-order-each-year.htm -->
 <!-- title: The Fed - How does the Federal Reserve Board determine how much currency to order each year? -->
-<!-- date_fetched: 2025-07-16T21:08:48.138056Z -->
+<!-- date_fetched: 2025-07-17T00:35:03.046581Z -->
 
 Home
 FAQs

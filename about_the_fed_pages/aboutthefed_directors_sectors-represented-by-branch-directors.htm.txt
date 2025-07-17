@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/directors/sectors-represented-by-branch-directors.htm -->
 <!-- title: The Fed - Sectors Represented by Branch Directors -->
-<!-- date_fetched: 2025-07-16T21:08:12.198138Z -->
+<!-- date_fetched: 2025-07-17T00:34:10.026520Z -->
 
 Home
 About the Fed

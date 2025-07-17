@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section25.htm -->
 <!-- title: Federal Reserve Board - Section 25. Foreign Branches -->
-<!-- date_fetched: 2025-07-16T21:08:11.574476Z -->
+<!-- date_fetched: 2025-07-17T00:34:12.544752Z -->
 
 Home
 About the Fed

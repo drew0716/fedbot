@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/mvc.htm -->
 <!-- title: Federal Reserve Board - Model Validation Council -->
-<!-- date_fetched: 2025-07-16T21:08:08.352837Z -->
+<!-- date_fetched: 2025-07-17T00:34:08.974765Z -->
 
 Home
 About the Fed

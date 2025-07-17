@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/currency_12773.htm -->
 <!-- title: The Fed - How much U.S. currency is in circulation? -->
-<!-- date_fetched: 2025-07-16T21:08:47.084233Z -->
+<!-- date_fetched: 2025-07-17T00:35:02.520163Z -->
 
 Home
 FAQs

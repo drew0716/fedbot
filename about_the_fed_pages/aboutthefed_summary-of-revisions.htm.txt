@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/summary-of-revisions.htm -->
 <!-- title: The Fed - Summary of Revisions -->
-<!-- date_fetched: 2025-07-16T21:08:39.835691Z -->
+<!-- date_fetched: 2025-07-17T00:34:54.546142Z -->
 
 Home
 About the Fed

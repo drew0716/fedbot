@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/about_12593.htm -->
 <!-- title: The Fed - How is the Federal Reserve System structured? -->
-<!-- date_fetched: 2025-07-16T21:08:49.264409Z -->
+<!-- date_fetched: 2025-07-17T00:35:04.407714Z -->
 
 Home
 FAQs

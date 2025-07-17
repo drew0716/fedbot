@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/about_12591.htm -->
 <!-- title: The Fed - Who are the members of the Federal Reserve Board, and how are they selected? -->
-<!-- date_fetched: 2025-07-16T21:08:49.637195Z -->
+<!-- date_fetched: 2025-07-17T00:35:04.508668Z -->
 
 Home
 FAQs

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/discussion-questions-federal-reserve-response-to-financial-crisis.htm -->
 <!-- title: Federal Reserve Board - Lecture Three: The Federal Reserve's Response to the Financial Crisis -->
-<!-- date_fetched: 2025-07-16T21:08:13.050464Z -->
+<!-- date_fetched: 2025-07-17T00:34:14.145566Z -->
 
 Home
 About the Fed

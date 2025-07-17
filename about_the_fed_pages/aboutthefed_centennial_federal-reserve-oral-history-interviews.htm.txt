@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/centennial/federal-reserve-oral-history-interviews.htm -->
 <!-- title: Federal Reserve Board - Federal Reserve Oral History Interviews -->
-<!-- date_fetched: 2025-07-16T21:08:14.286550Z -->
+<!-- date_fetched: 2025-07-17T00:34:07.077826Z -->
 
 Home
 About the Fed

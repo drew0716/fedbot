@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/procurement/aquisition-policy.htm -->
 <!-- title: Federal Reserve Board - Acquisition Policy -->
-<!-- date_fetched: 2025-07-16T21:08:12.541796Z -->
+<!-- date_fetched: 2025-07-17T00:34:13.312758Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/money_12855.htm -->
 <!-- title: The Fed - What is the difference between monetary policy and fiscal policy, and how are they related? -->
-<!-- date_fetched: 2025-07-16T21:08:46.661273Z -->
+<!-- date_fetched: 2025-07-17T00:35:02.073516Z -->
 
 Home
 FAQs

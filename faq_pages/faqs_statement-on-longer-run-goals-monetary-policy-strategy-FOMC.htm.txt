@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/statement-on-longer-run-goals-monetary-policy-strategy-FOMC.htm -->
 <!-- title: The Fed - What is the Statement on Longer-Run Goals and Monetary Policy Strategy, and why does the Federal Open Market Committee publish it? -->
-<!-- date_fetched: 2025-07-16T21:08:49.164544Z -->
+<!-- date_fetched: 2025-07-17T00:35:05.601042Z -->
 
 Home
 FAQs

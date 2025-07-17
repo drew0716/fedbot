@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardvotes2020.htm -->
 <!-- title: Federal Reserve Board - Board Votes 2020 -->
-<!-- date_fetched: 2025-07-16T21:08:30.082941Z -->
+<!-- date_fetched: 2025-07-17T00:34:35.232256Z -->
 
 Home
 About the Fed

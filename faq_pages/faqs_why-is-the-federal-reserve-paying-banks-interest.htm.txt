@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/why-is-the-federal-reserve-paying-banks-interest.htm -->
 <!-- title: The Fed - Why does the Federal Reserve pay banks interest? -->
-<!-- date_fetched: 2025-07-16T21:08:49.753312Z -->
+<!-- date_fetched: 2025-07-17T00:35:05.375322Z -->
 
 Home
 FAQs

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20231113closed.htm -->
 <!-- title: Federal Reserve Board - Closed Board Meeting -- November 13, 2023 -->
-<!-- date_fetched: 2025-07-16T21:08:17.175648Z -->
+<!-- date_fetched: 2025-07-17T00:34:19.196960Z -->
 
 Home
 About the Fed

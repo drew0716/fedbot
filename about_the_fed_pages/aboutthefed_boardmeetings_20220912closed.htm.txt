@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20220912closed.htm -->
 <!-- title: Federal Reserve Board - September 12, 2022 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-16T21:08:19.278489Z -->
+<!-- date_fetched: 2025-07-17T00:34:21.270213Z -->
 
 Home
 About the Fed

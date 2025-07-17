@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20180827closed.htm -->
 <!-- title: Federal Reserve Board - August 27, 2018 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-16T21:08:26.595954Z -->
+<!-- date_fetched: 2025-07-17T00:34:28.645315Z -->
 
 Home
 About the Fed

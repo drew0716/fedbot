@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/appendix-c-fr-34-accounts.htm -->
 <!-- title: The Fed - Appendix C. FR 34 Accounts -->
-<!-- date_fetched: 2025-07-16T21:08:40.629826Z -->
+<!-- date_fetched: 2025-07-17T00:34:55.571352Z -->
 
 Home
 About the Fed

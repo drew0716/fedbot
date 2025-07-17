@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/board-votes-by-year.htm -->
 <!-- title: Federal Reserve Board - Board Votes by Year -->
-<!-- date_fetched: 2025-07-16T21:08:12.369944Z -->
+<!-- date_fetched: 2025-07-17T00:34:13.140444Z -->
 
 Home
 About the Fed

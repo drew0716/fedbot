@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/OSEC-org-chart-accessible.htm -->
 <!-- title: The Fed - Office of the Secretary -->
-<!-- date_fetched: 2025-07-16T21:08:14.015420Z -->
+<!-- date_fetched: 2025-07-17T00:34:15.177082Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20170306closed.htm -->
 <!-- title: Federal Reserve Board - March 6, 2017 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-16T21:08:29.248072Z -->
+<!-- date_fetched: 2025-07-17T00:34:31.431074Z -->
 
 Home
 About the Fed

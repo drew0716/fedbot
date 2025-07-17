@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section31.htm -->
 <!-- title: Federal Reserve Board - Section 31. Reservation of right to amend -->
-<!-- date_fetched: 2025-07-16T21:08:12.083332Z -->
+<!-- date_fetched: 2025-07-17T00:34:13.090795Z -->
 
 Home
 About the Fed

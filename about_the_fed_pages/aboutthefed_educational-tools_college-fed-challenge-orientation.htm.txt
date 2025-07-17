@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/college-fed-challenge-orientation.htm -->
 <!-- title: Federal Reserve Board - College Fed Challenge Orientation Video -->
-<!-- date_fetched: 2025-07-16T21:08:31.700179Z -->
+<!-- date_fetched: 2025-07-17T00:34:37.166390Z -->
 
 Home
 About the Fed

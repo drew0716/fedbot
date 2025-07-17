@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-8-special-topics.htm#xsubsection-19-83294497 -->
 <!-- title: The Fed - Chapter 8. Special Topics -->
-<!-- date_fetched: 2025-07-16T21:08:42.547949Z -->
+<!-- date_fetched: 2025-07-17T00:34:55.898680Z -->
 
 Home
 About the Fed

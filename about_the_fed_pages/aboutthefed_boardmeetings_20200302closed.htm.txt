@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20200302closed.htm -->
 <!-- title: Federal Reserve Board - March 2, 2020 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-16T21:08:23.679125Z -->
+<!-- date_fetched: 2025-07-17T00:34:25.716068Z -->
 
 Home
 About the Fed

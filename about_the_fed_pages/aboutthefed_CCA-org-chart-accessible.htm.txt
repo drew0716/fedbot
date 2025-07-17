@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/CCA-org-chart-accessible.htm -->
 <!-- title: The Fed - Division of Consumer & Community Affairs -->
-<!-- date_fetched: 2025-07-16T21:08:13.371009Z -->
+<!-- date_fetched: 2025-07-17T00:34:14.417937Z -->
 
 Home
 About the Fed

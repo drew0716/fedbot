@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section8.htm -->
 <!-- title: Federal Reserve Board - Section 8. Conversion of state banks into national banks -->
-<!-- date_fetched: 2025-07-16T21:08:09.654861Z -->
+<!-- date_fetched: 2025-07-17T00:34:10.860602Z -->
 
 Home
 About the Fed

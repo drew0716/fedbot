@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/federal-open-market-committee-fomc-not-public.htm -->
 <!-- title: The Fed - Federal Open Market Committee (FOMC) meetings are not open to the public, so how do I know what the FOMC is doing? -->
-<!-- date_fetched: 2025-07-16T21:08:48.724668Z -->
+<!-- date_fetched: 2025-07-17T00:35:04.130819Z -->
 
 Home
 FAQs

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/directors/roles-and-responsibilities-of-directors.htm -->
 <!-- title: The Fed - Roles and Responsibilities of Directors -->
-<!-- date_fetched: 2025-07-16T21:08:12.271649Z -->
+<!-- date_fetched: 2025-07-17T00:34:10.080071Z -->
 
 Home
 About the Fed

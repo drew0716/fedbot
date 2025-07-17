@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/about-the-fed.htm -->
 <!-- title: The Fed - About the Fed -->
-<!-- date_fetched: 2025-07-16T21:08:46.344074Z -->
+<!-- date_fetched: 2025-07-17T00:35:01.593503Z -->
 
 Home
 FAQs

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/how-does-the-federal-reserve-buying-and-selling-of-securities-relate-to-the-borrowing-decisions-of-the-federal-government.htm -->
 <!-- title: The Fed - How does the Federal Reserve's buying and selling of securities relate to the borrowing decisions of the federal government? -->
-<!-- date_fetched: 2025-07-16T21:08:49.536914Z -->
+<!-- date_fetched: 2025-07-17T00:35:05.551746Z -->
 
 Home
 FAQs
