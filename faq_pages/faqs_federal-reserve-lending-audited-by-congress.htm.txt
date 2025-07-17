@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/federal-reserve-lending-audited-by-congress.htm -->
 <!-- title: The Fed - Is the Fed’s emergency lending audited by the Congress?  Is information about the Fed’s emergency lending provided to the public? -->
-<!-- date_fetched: 2025-07-17T00:35:05.103856Z -->
+<!-- date_fetched: 2025-07-17T02:40:10.555968Z -->
 
 Home
 FAQs

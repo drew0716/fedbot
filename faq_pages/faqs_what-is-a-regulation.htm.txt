@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/what-is-a-regulation.htm -->
 <!-- title: The Fed - What is a regulation and how is it made? -->
-<!-- date_fetched: 2025-07-17T00:35:04.181331Z -->
+<!-- date_fetched: 2025-07-17T02:40:10.280543Z -->
 
 Home
 FAQs

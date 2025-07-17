@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/fed-financial-statement-2023.htm -->
 <!-- title: Federal Reserve Board - 2023 -->
-<!-- date_fetched: 2025-07-17T00:34:50.602045Z -->
+<!-- date_fetched: 2025-07-17T02:39:58.406788Z -->
 
 Home
 About the Fed

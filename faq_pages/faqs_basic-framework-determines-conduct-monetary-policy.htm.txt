@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/basic-framework-determines-conduct-monetary-policy.htm -->
 <!-- title: The Fed - What is the basic legal framework that determines the conduct of monetary policy? -->
-<!-- date_fetched: 2025-07-17T00:35:05.670842Z -->
+<!-- date_fetched: 2025-07-17T02:40:11.001405Z -->
 
 Home
 FAQs

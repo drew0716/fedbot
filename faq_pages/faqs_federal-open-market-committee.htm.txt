@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/federal-open-market-committee.htm -->
 <!-- title: The Fed - Federal Open Market Committee -->
-<!-- date_fetched: 2025-07-17T00:35:01.474073Z -->
+<!-- date_fetched: 2025-07-17T02:40:08.591031Z -->
 
 Home
 FAQs

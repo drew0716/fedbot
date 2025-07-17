@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section9.htm -->
 <!-- title: Federal Reserve Board - Section 9. State Banks as Members -->
-<!-- date_fetched: 2025-07-17T00:34:10.914351Z -->
+<!-- date_fetched: 2025-07-17T02:39:16.940566Z -->
 
 Home
 About the Fed

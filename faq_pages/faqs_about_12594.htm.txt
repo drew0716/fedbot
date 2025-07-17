@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/about_12594.htm -->
 <!-- title: The Fed - What is the purpose of the Federal Reserve System? -->
-<!-- date_fetched: 2025-07-17T00:35:02.399733Z -->
+<!-- date_fetched: 2025-07-17T02:40:09.578593Z -->
 
 Home
 FAQs

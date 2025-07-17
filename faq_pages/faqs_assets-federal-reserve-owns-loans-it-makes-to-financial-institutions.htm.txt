@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/assets-federal-reserve-owns-loans-it-makes-to-financial-institutions.htm -->
 <!-- title: The Fed - How can I learn more about the securities the Federal Reserve owns and the loans it makes to financial institutions? -->
-<!-- date_fetched: 2025-07-17T00:35:05.003057Z -->
+<!-- date_fetched: 2025-07-17T02:40:10.606108Z -->
 
 Home
 FAQs

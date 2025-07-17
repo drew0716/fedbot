@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/what-economic-goals-does-federal-reserve-seek-to-achieve-through-monetary-policy.htm -->
 <!-- title: The Fed - What economic goals does the Federal Reserve seek to achieve through its monetary policy? -->
-<!-- date_fetched: 2025-07-17T00:35:05.256874Z -->
+<!-- date_fetched: 2025-07-17T02:40:12.927620Z -->
 
 Home
 FAQs

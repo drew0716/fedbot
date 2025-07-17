@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/k8.htm -->
 <!-- title: Federal Reserve Board - Holidays Observed - K.8 -->
-<!-- date_fetched: 2025-07-17T00:34:06.122156Z -->
+<!-- date_fetched: 2025-07-17T02:39:12.649628Z -->
 
 Home
 About the Fed

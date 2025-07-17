@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-1-balance-sheet.htm#xsubsection-1134-a490eeb6 -->
 <!-- title: The Fed - Chapter 1. Balance Sheet -->
-<!-- date_fetched: 2025-07-17T00:34:59.222373Z -->
+<!-- date_fetched: 2025-07-17T02:40:06.432551Z -->
 
 Home
 About the Fed

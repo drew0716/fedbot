@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/fedexplained/accessible-version.htm#fsoc-grx-alt -->
 <!-- title: The Fed Explained - Accessible: FOMC's target federal funds rate or range, change (basis points) and level -->
-<!-- date_fetched: 2025-07-17T00:34:16.553141Z -->
+<!-- date_fetched: 2025-07-17T02:39:23.418678Z -->
 
 Skip to main content
 FOMC's target range for the federal funds rate

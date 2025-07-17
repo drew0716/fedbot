@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/fed-financial-statement-2018.htm -->
 <!-- title: Federal Reserve Board - 2018 -->
-<!-- date_fetched: 2025-07-17T00:34:53.471286Z -->
+<!-- date_fetched: 2025-07-17T02:40:00.121658Z -->
 
 Home
 About the Fed

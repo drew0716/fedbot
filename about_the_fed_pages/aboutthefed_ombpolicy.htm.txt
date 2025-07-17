@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/ombpolicy.htm -->
 <!-- title: Federal Reserve Board - Ombuds Policy Statement -->
-<!-- date_fetched: 2025-07-17T00:34:16.247989Z -->
+<!-- date_fetched: 2025-07-17T02:39:23.160358Z -->
 
 Home
 About the Fed

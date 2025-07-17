@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/federal-reserve-public-balance-sheet.htm -->
 <!-- title: The Fed - Does the Federal Reserve tell the public what it holds on its balance sheet? -->
-<!-- date_fetched: 2025-07-17T00:35:05.153996Z -->
+<!-- date_fetched: 2025-07-17T02:40:10.505583Z -->
 
 Home
 FAQs

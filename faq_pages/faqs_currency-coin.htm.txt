@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/currency-coin.htm -->
 <!-- title: The Fed - Currency and Coin -->
-<!-- date_fetched: 2025-07-17T00:35:01.374169Z -->
+<!-- date_fetched: 2025-07-17T02:40:08.765341Z -->
 
 Home
 FAQs

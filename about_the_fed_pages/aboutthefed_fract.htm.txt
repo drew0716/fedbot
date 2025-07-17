@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/fract.htm -->
 <!-- title: Federal Reserve Board - Federal Reserve Act -->
-<!-- date_fetched: 2025-07-17T00:34:05.770519Z -->
+<!-- date_fetched: 2025-07-17T02:39:12.220422Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/ -->
 <!-- title: Federal Reserve Board - Board Members -->
-<!-- date_fetched: 2025-07-17T00:34:44.816241Z -->
+<!-- date_fetched: 2025-07-17T02:39:52.008906Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/why-is-it-important-to-separate-federal-reserve-monetary-policy-decisions-from-political-influence.htm -->
 <!-- title: The Fed - Why is it important to separate Federal Reserve monetary policy decisions from political influence? -->
-<!-- date_fetched: 2025-07-17T00:35:04.934307Z -->
+<!-- date_fetched: 2025-07-17T02:40:12.728364Z -->
 
 Home
 FAQs

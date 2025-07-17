@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/aroundtheboard/aroundtheboard.htm -->
 <!-- title: Federal Reserve Board - The Board Buildings -->
-<!-- date_fetched: 2025-07-17T00:34:07.179570Z -->
+<!-- date_fetched: 2025-07-17T02:39:13.749536Z -->
 
 Home
 About the Fed

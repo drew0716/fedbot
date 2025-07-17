@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20250625open.htm -->
 <!-- title: Federal Reserve Board - Open Board Meeting -- June 25, 2025 -->
-<!-- date_fetched: 2025-07-17T00:34:16.634607Z -->
+<!-- date_fetched: 2025-07-17T02:39:24.256553Z -->
 
 Home
 About the Fed

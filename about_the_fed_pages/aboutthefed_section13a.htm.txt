@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section13a.htm -->
 <!-- title: Federal Reserve Board - Section 13A.* Discount of agricultural paper -->
-<!-- date_fetched: 2025-07-17T00:34:11.629539Z -->
+<!-- date_fetched: 2025-07-17T02:39:17.676762Z -->
 
 Home
 About the Fed

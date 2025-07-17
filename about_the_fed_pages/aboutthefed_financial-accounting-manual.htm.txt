@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/financial-accounting-manual.htm -->
 <!-- title: The Fed - About This Manual -->
-<!-- date_fetched: 2025-07-17T00:34:54.093154Z -->
+<!-- date_fetched: 2025-07-17T02:40:01.349632Z -->
 
 Home
 About the Fed

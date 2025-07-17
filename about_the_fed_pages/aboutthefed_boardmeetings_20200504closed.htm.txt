@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20200504closed.htm -->
 <!-- title: Federal Reserve Board - May 4, 2020 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-17T00:34:25.502235Z -->
+<!-- date_fetched: 2025-07-17T02:39:33.352593Z -->
 
 Home
 About the Fed

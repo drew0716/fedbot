@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/does-the-federal-reserve-maintain-accounts-for-individuals-can-individuals-use-such-accounts-to-pay-bills-and-get-money.htm -->
 <!-- title: The Fed - Does the Federal Reserve maintain accounts for individuals? Can individuals use such accounts to pay bills and get money? -->
-<!-- date_fetched: 2025-07-17T00:35:02.245357Z -->
+<!-- date_fetched: 2025-07-17T02:40:09.472612Z -->
 
 Home
 FAQs

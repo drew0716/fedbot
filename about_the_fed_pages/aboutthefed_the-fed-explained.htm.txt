@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/the-fed-explained.htm -->
 <!-- title: Federal Reserve Board - The Fed Explained -->
-<!-- date_fetched: 2025-07-17T00:34:05.933870Z -->
+<!-- date_fetched: 2025-07-17T02:39:12.409727Z -->
 
 Home
 About the Fed

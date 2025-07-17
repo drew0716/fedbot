@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20211102closed.htm -->
 <!-- title: Federal Reserve Board - November 2, 2021 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-17T00:34:22.466101Z -->
+<!-- date_fetched: 2025-07-17T02:39:30.299823Z -->
 
 Home
 About the Fed

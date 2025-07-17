@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/summary-economic-projections-sep.htm -->
 <!-- title: The Fed - What is the Summary of Economic Projections? -->
-<!-- date_fetched: 2025-07-17T00:35:03.961838Z -->
+<!-- date_fetched: 2025-07-17T02:40:10.831248Z -->
 
 Home
 FAQs

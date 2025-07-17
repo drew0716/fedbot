@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/is-the-federal-reserve-aware-of-ongoing-payment-delays-for-consumers-and-businesses.htm -->
 <!-- title: The Fed - Is the Federal Reserve aware of ongoing payment delays for consumers and businesses that started on November 3, 2023? -->
-<!-- date_fetched: 2025-07-17T00:35:02.671660Z -->
+<!-- date_fetched: 2025-07-17T02:40:10.026642Z -->
 
 Home
 FAQs

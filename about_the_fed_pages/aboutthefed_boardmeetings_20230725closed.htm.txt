@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20230725closed.htm -->
 <!-- title: Federal Reserve Board - Closed Board Meeting -- July 25, 2023 -->
-<!-- date_fetched: 2025-07-17T00:34:19.736266Z -->
+<!-- date_fetched: 2025-07-17T02:39:27.472011Z -->
 
 Home
 About the Fed

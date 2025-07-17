@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/faqs-fomc-officials-investment-trading-policy.htm -->
 <!-- title: Federal Reserve Board - FAQs -->
-<!-- date_fetched: 2025-07-17T00:34:13.535900Z -->
+<!-- date_fetched: 2025-07-17T02:39:20.364364Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section2a.htm -->
 <!-- title: Federal Reserve Board - Section 2A. Monetary policy objectives -->
-<!-- date_fetched: 2025-07-17T00:34:10.349098Z -->
+<!-- date_fetched: 2025-07-17T02:39:16.315262Z -->
 
 Home
 About the Fed

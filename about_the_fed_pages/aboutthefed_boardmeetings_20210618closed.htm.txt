@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20210618closed.htm -->
 <!-- title: Federal Reserve Board - June 18, 2021 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-17T00:34:23.094844Z -->
+<!-- date_fetched: 2025-07-17T02:39:30.934060Z -->
 
 Home
 About the Fed

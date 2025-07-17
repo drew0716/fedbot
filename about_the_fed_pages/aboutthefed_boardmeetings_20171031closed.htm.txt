@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20171031closed.htm -->
 <!-- title: Federal Reserve Board - October 31, 2017 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-17T00:34:30.211171Z -->
+<!-- date_fetched: 2025-07-17T02:39:38.113507Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20200908closed.htm -->
 <!-- title: Federal Reserve Board - September 8, 2020 -->
-<!-- date_fetched: 2025-07-17T00:34:24.868180Z -->
+<!-- date_fetched: 2025-07-17T02:39:32.715418Z -->
 
 Home
 About the Fed

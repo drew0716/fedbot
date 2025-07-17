@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/fed-financial-statement-2022.htm -->
 <!-- title: Federal Reserve Board - 2022 -->
-<!-- date_fetched: 2025-07-17T00:34:52.618311Z -->
+<!-- date_fetched: 2025-07-17T02:39:58.460616Z -->
 
 Home
 About the Fed

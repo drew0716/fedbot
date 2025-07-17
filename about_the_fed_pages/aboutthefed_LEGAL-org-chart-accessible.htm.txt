@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/LEGAL-org-chart-accessible.htm -->
 <!-- title: The Fed - Legal Division -->
-<!-- date_fetched: 2025-07-17T00:34:14.976689Z -->
+<!-- date_fetched: 2025-07-17T02:39:21.839069Z -->
 
 Home
 About the Fed

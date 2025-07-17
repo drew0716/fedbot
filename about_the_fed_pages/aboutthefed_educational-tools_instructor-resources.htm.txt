@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/instructor-resources.htm -->
 <!-- title: Federal Reserve Board - Lecture One: Origins and Mission of the Federal Reserve -->
-<!-- date_fetched: 2025-07-17T00:34:37.537051Z -->
+<!-- date_fetched: 2025-07-17T02:39:44.789291Z -->
 
 Home
 About the Fed

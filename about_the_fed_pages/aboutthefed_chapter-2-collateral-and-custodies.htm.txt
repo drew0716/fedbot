@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-2-collateral-and-custodies.htm -->
 <!-- title: The Fed - Chapter 2. Collateral and Custodies -->
-<!-- date_fetched: 2025-07-17T00:34:54.777564Z -->
+<!-- date_fetched: 2025-07-17T02:40:02.058675Z -->
 
 Home
 About the Fed

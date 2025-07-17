@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20171120closed.htm -->
 <!-- title: Federal Reserve Board - November 20, 2017 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-17T00:34:30.111181Z -->
+<!-- date_fetched: 2025-07-17T02:39:38.013134Z -->
 
 Home
 About the Fed

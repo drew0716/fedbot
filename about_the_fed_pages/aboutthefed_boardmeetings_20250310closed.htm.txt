@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20250310closed.htm -->
 <!-- title: Federal Reserve Board - Closed Board Meeting -- March 10, 2025 -->
-<!-- date_fetched: 2025-07-17T00:34:17.099962Z -->
+<!-- date_fetched: 2025-07-17T02:39:24.762758Z -->
 
 Home
 About the Fed

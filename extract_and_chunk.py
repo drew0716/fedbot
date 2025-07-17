@@ -1,86 +1,127 @@
 import os
-import faiss
+import shutil
 import pickle
-import numpy as np
-from tqdm import tqdm
-from sentence_transformers import SentenceTransformer
+import re
 
-# Directories and files
-CHUNKS_DIR      = "chunks"
+# --- Configuration ---
+SOURCE_DIRS     = ["about_the_fed_pages", "faq_pages"]
+OUTPUT_DIR      = "chunks"
 CHUNK_META_FILE = "chunk_data.pkl"
-OUTPUT_DIR      = "output"
-INDEX_FILE      = os.path.join(OUTPUT_DIR, "faiss_index.index")
-METADATA_FILE   = os.path.join(OUTPUT_DIR, "metadata.pkl")
 
-# Ensure output directory exists
+# Chunking parameters
+CHUNK_SIZE = 200    # words per chunk
+OVERLAP    = 50     # words
+MIN_WORDS  = 20     # skip fragments smaller than this
+
+# --- Cleanup old outputs ---
+if os.path.exists(OUTPUT_DIR):
+    print(f"🔄 Removing existing '{OUTPUT_DIR}' directory...")
+    shutil.rmtree(OUTPUT_DIR)
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Load embedding model
-def load_model():
-    print("🧠 Loading embedding model...")
-    return SentenceTransformer("all-MiniLM-L6-v2")
+if os.path.exists(CHUNK_META_FILE):
+    print(f"🔄 Removing existing metadata file '{CHUNK_META_FILE}'...")
+    os.remove(CHUNK_META_FILE)
 
-# Load chunk metadata
-def load_metadata():
-    if not os.path.exists(CHUNK_META_FILE):
-        raise FileNotFoundError(f"Chunk metadata file not found: {CHUNK_META_FILE}")
-    with open(CHUNK_META_FILE, "rb") as f:
-        return pickle.load(f)
+# --- Utility functions ---
+def split_into_chunks(text, chunk_size=CHUNK_SIZE, overlap=OVERLAP):
+    words = text.split()
+    step = chunk_size - overlap
+    chunks = []
+    for i in range(0, len(words), step):
+        chunk = words[i : i + chunk_size]
+        if len(chunk) >= MIN_WORDS:
+            chunks.append(" ".join(chunk))
+    return chunks
 
-# Read text chunks and build arrays
-def prepare_embeddings(chunk_data, model):
-    texts = []
-    meta  = []
-    for idx, chunk in enumerate(tqdm(chunk_data, desc="Reading chunks")):
-        fname = chunk.get("filename")
-        path  = os.path.join(CHUNKS_DIR, fname)
-        if not os.path.exists(path):
-            print(f"⚠️ Missing chunk file: {fname}")
-            continue
-        text = open(path, "r", encoding="utf-8").read().strip()
-        if not text:
-            continue
-        texts.append(text)
-        meta.append({
-            "id":       idx,
-            "filename": fname,
-            "source":   chunk.get("source", ""),
-            "type":     chunk.get("type", ""),
-            "url":      chunk.get("url", "")
+
+def extract_metadata(lines):
+    meta = {}
+    for ln in lines:
+        ln = ln.strip()
+        if ln.startswith("<!--") and ln.endswith("-->") and ":" in ln:
+            kv = ln[4:-3].strip()
+            key, val = kv.split(":", 1)
+            meta[key.strip()] = val.strip()
+        elif not ln.startswith("<!--"):
+            break
+    return meta
+
+# --- Main processing ---
+all_chunks = []
+files = []
+for src in SOURCE_DIRS:
+    if not os.path.isdir(src):
+        print(f"⚠️ Source directory not found, skipping: '{src}'")
+        continue
+    for fname in os.listdir(src):
+        if fname.lower().endswith(".txt"):
+            files.append((src, fname))
+
+print(f"📂 Found {len(files)} source files in {SOURCE_DIRS}")
+
+for src, fname in files:
+    path = os.path.join(src, fname)
+    with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+        lines = f.readlines()
+    if len(lines) < 2:
+        print(f"⚠️ Skipping malformed file: {fname}")
+        continue
+
+    meta = extract_metadata(lines)
+    source_url = meta.get('source_url', '')
+    if not source_url:
+        print(f"⚠️ No source_url header, skipping: {fname}")
+        continue
+
+    # Extract content body
+    start_idx = next((i for i, ln in enumerate(lines) if not ln.strip().startswith('<!--')), len(lines))
+    content = ''.join(lines[start_idx:]).strip()
+    if len(content.split()) < MIN_WORDS:
+        print(f"⚠️ Content too short, skipping: {fname}")
+        continue
+
+    base = fname[:-4]  # drop .txt
+    # FAQ pages: split by question blocks
+    if src == 'faq_pages':
+        # Identify Q&A pairs by lines ending with '?'
+        qa_lines = content.splitlines()
+        qa_blocks = []
+        current = []
+        for ln in qa_lines:
+            if ln.strip().endswith('?'):
+                if current:
+                    qa_blocks.append('\n'.join(current).strip())
+                current = [ln]
+            else:
+                current.append(ln)
+        if current:
+            qa_blocks.append('\n'.join(current).strip())
+        chunks = [blk for blk in qa_blocks if len(blk.split()) >= MIN_WORDS]
+        chunk_type = 'faq'
+    else:
+        # Regular chunking for aboutthefed pages
+        chunks = split_into_chunks(content)
+        chunk_type = 'aboutthefed'
+
+    # Write out chunks
+    for i, chunk in enumerate(chunks, start=1):
+        out_name = f"{base}_chunk{i}.txt"
+        out_path = os.path.join(OUTPUT_DIR, out_name)
+        with open(out_path, 'w', encoding='utf-8') as out_f:
+            out_f.write(chunk)
+        all_chunks.append({
+            'filename': out_name,
+            'source':   base,
+            'type':     chunk_type,
+            'url':      source_url,
+            'title':    meta.get('title', ''),
+            'date_fetched': meta.get('date_fetched', '')
         })
-    if not texts:
-        raise ValueError("❌ No valid text chunks found to embed.")
-    # Generate and normalize embeddings for cosine similarity
-    print("🔍 Generating embeddings...")
-    embeddings = model.encode(texts, show_progress_bar=True)
-    embeddings = np.array(embeddings, dtype="float32")
-    faiss.normalize_L2(embeddings)
-    return embeddings, meta
 
-# Build FAISS index with inner-product
-def build_index(embeddings, meta):
-    dim = embeddings.shape[1]
-    print("💾 Building FAISS index (cosine similarity)...")
-    index_flat = faiss.IndexFlatIP(dim)
-    index = faiss.IndexIDMap(index_flat)
-    ids = np.array([m["id"] for m in meta], dtype=np.int64)
-    index.add_with_ids(embeddings, ids)
-    return index
+print(f"✅ Created {len(all_chunks)} chunks in '{OUTPUT_DIR}'")
 
-# Save index and metadata to disk
-def save_output(index, meta):
-    print(f"📁 Saving FAISS index to: {os.path.abspath(INDEX_FILE)}")
-    faiss.write_index(index, INDEX_FILE)
-    print(f"📁 Saving metadata to: {os.path.abspath(METADATA_FILE)}")
-    with open(METADATA_FILE, "wb") as f:
-        pickle.dump(meta, f)
-    faq_cnt   = sum(1 for m in meta if m.get("type") == "faq")
-    about_cnt = len(meta) - faq_cnt
-    print(f"✅ Indexed {len(meta)} chunks: {about_cnt} 'aboutthefed', {faq_cnt} 'faq'.")
-
-if __name__ == "__main__":
-    model       = load_model()
-    chunk_data  = load_metadata()
-    embeddings, meta = prepare_embeddings(chunk_data, model)
-    index       = build_index(embeddings, meta)
-    save_output(index, meta)
+# --- Save metadata ---
+with open(CHUNK_META_FILE, 'wb') as mf:
+    pickle.dump(all_chunks, mf)
+print(f"🧠 Saved metadata to '{CHUNK_META_FILE}'")

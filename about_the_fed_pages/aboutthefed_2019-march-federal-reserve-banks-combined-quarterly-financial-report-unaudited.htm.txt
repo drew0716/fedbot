@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/2019-march-federal-reserve-banks-combined-quarterly-financial-report-unaudited.htm -->
 <!-- title: The Fed - Federal Reserve Banks Combined Quarterly Financial Report Unaudited - March 31, 2019 -->
-<!-- date_fetched: 2025-07-17T00:34:39.655596Z -->
+<!-- date_fetched: 2025-07-17T02:39:46.607294Z -->
 
 Home
 About the Fed

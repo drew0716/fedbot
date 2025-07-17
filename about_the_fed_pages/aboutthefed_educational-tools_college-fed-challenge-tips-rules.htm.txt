@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/college-fed-challenge-tips-rules.htm -->
 <!-- title: Federal Reserve Board - Rules and Tips -->
-<!-- date_fetched: 2025-07-17T00:34:36.848411Z -->
+<!-- date_fetched: 2025-07-17T02:39:44.168361Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/college-fed-challenge-create-a-team.htm -->
 <!-- title: Federal Reserve Board - Create a New Team (For Students and Teachers) -->
-<!-- date_fetched: 2025-07-17T00:34:37.036547Z -->
+<!-- date_fetched: 2025-07-17T02:39:44.331508Z -->
 
 Home
 About the Fed

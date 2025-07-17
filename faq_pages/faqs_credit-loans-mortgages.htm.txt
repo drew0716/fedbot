@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/credit-loans-mortgages.htm -->
 <!-- title: The Fed - Credit, Loans, and Mortgages -->
-<!-- date_fetched: 2025-07-17T00:35:01.745860Z -->
+<!-- date_fetched: 2025-07-17T02:40:08.971901Z -->
 
 Home
 FAQs

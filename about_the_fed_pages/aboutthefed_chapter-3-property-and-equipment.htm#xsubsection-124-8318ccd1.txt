@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/chapter-3-property-and-equipment.htm#xsubsection-124-8318ccd1 -->
 <!-- title: The Fed - Chapter 3. Property and Equipment -->
-<!-- date_fetched: 2025-07-17T00:34:56.655178Z -->
+<!-- date_fetched: 2025-07-17T02:40:03.931876Z -->
 
 Home
 About the Fed

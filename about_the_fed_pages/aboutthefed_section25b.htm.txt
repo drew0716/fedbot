@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section25b.htm -->
 <!-- title: Federal Reserve Board - Section 25B. Jurisdiction of suits* -->
-<!-- date_fetched: 2025-07-17T00:34:12.669701Z -->
+<!-- date_fetched: 2025-07-17T02:39:18.755165Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/lecture-series-federal-reserve-response-to-the-financial-crisis-accessible.htm -->
 <!-- title: Federal Reserve Board - Accessible Version of Figures from Lecture 3 -->
-<!-- date_fetched: 2025-07-17T00:34:50.883667Z -->
+<!-- date_fetched: 2025-07-17T02:39:58.144556Z -->
 
 Home
 About the Fed

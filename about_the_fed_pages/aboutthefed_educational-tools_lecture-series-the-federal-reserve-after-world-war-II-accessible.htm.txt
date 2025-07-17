@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/lecture-series-the-federal-reserve-after-world-war-II-accessible.htm -->
 <!-- title: Federal Reserve Board - Accessible Version of Figures from Lecture 2 -->
-<!-- date_fetched: 2025-07-17T00:34:51.909396Z -->
+<!-- date_fetched: 2025-07-17T02:39:59.215204Z -->
 
 Home
 About the Fed

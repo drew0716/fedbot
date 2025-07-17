@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20220726closed.htm -->
 <!-- title: Federal Reserve Board - Tuesday, July 26, 2022  -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-17T00:34:21.368936Z -->
+<!-- date_fetched: 2025-07-17T02:39:29.163843Z -->
 
 Home
 About the Fed

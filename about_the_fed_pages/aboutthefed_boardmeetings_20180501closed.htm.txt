@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20180501closed.htm -->
 <!-- title: Federal Reserve Board - May 1, 2018 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-17T00:34:29.407637Z -->
+<!-- date_fetched: 2025-07-17T02:39:37.325131Z -->
 
 Home
 About the Fed

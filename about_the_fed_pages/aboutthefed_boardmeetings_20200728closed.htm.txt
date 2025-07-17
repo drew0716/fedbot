@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20200728closed.htm -->
 <!-- title: Federal Reserve Board - July 28, 2020 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-17T00:34:24.967268Z -->
+<!-- date_fetched: 2025-07-17T02:39:32.764591Z -->
 
 Home
 About the Fed

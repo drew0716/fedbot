@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs.htm -->
 <!-- title: Federal Reserve Board - FAQs -->
-<!-- date_fetched: 2025-07-17T00:35:01.129119Z -->
+<!-- date_fetched: 2025-07-17T02:40:08.333138Z -->
 
 Home
 FAQs

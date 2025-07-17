@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/directors/policy-governing-directors.htm -->
 <!-- title: Federal Reserve Board - Policies Governing Directors -->
-<!-- date_fetched: 2025-07-17T00:34:10.146212Z -->
+<!-- date_fetched: 2025-07-17T02:39:16.084028Z -->
 
 Home
 About the Fed

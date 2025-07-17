@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/economy_14424.htm -->
 <!-- title: The Fed - What is the lowest level of unemployment that the U.S. economy can sustain? -->
-<!-- date_fetched: 2025-07-17T00:35:03.536910Z -->
+<!-- date_fetched: 2025-07-17T02:40:11.600020Z -->
 
 Home
 FAQs

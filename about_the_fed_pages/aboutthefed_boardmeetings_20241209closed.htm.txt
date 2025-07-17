@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/boardmeetings/20241209closed.htm -->
 <!-- title: Federal Reserve Board - December 9, 2024 -- Closed Board Meeting -->
-<!-- date_fetched: 2025-07-17T00:34:17.488492Z -->
+<!-- date_fetched: 2025-07-17T02:39:25.089662Z -->
 
 Home
 About the Fed

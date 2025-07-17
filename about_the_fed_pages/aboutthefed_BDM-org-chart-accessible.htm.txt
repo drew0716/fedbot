@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/BDM-org-chart-accessible.htm -->
 <!-- title: The Fed - Division of Board Members -->
-<!-- date_fetched: 2025-07-17T00:34:14.466304Z -->
+<!-- date_fetched: 2025-07-17T02:39:21.264515Z -->
 
 Home
 About the Fed

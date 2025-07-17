@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/what-is-aggregate-demand.htm -->
 <!-- title: The Fed - What is aggregate demand? -->
-<!-- date_fetched: 2025-07-17T00:35:03.758322Z -->
+<!-- date_fetched: 2025-07-17T02:40:10.454732Z -->
 
 Home
 FAQs

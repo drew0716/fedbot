@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/financial-accounting-manual-for-federal-reserve-banks.htm -->
 <!-- title: The Fed - Financial Accounting Manual for Federal Reserve Banks -->
-<!-- date_fetched: 2025-07-17T00:34:37.741139Z -->
+<!-- date_fetched: 2025-07-17T02:39:48.199686Z -->
 
 Home
 About the Fed

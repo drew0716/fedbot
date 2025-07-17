@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section9a.htm -->
 <!-- title: Federal Reserve Board - Section 9A. Participation in lotteries prohibited -->
-<!-- date_fetched: 2025-07-17T00:34:10.967037Z -->
+<!-- date_fetched: 2025-07-17T02:39:16.994378Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section17.htm -->
 <!-- title: Federal Reserve Board - Section 17. Deposit of bonds by national banks -->
-<!-- date_fetched: 2025-07-17T00:34:11.853068Z -->
+<!-- date_fetched: 2025-07-17T02:39:17.914067Z -->
 
 Home
 About the Fed

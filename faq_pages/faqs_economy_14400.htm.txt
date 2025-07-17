@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/economy_14400.htm -->
 <!-- title: The Fed - Why does the Federal Reserve aim for inflation of 2 percent over the longer run? -->
-<!-- date_fetched: 2025-07-17T00:35:02.145567Z -->
+<!-- date_fetched: 2025-07-17T02:40:09.369395Z -->
 
 Home
 FAQs

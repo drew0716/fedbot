@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section22.htm -->
 <!-- title: Federal Reserve Board - Section 22. Offenses of examiners, member banks, officers, and directors -->
-<!-- date_fetched: 2025-07-17T00:34:12.140986Z -->
+<!-- date_fetched: 2025-07-17T02:39:18.220275Z -->
 
 Home
 About the Fed

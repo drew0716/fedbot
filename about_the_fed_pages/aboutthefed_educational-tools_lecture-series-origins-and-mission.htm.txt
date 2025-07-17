@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/educational-tools/lecture-series-origins-and-mission.htm -->
 <!-- title: Federal Reserve Board - Origins and Mission of the Federal Reserve -->
-<!-- date_fetched: 2025-07-17T00:34:37.318484Z -->
+<!-- date_fetched: 2025-07-17T02:39:44.566127Z -->
 
 Home
 About the Fed

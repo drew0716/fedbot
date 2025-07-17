@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/ipac.htm -->
 <!-- title: Federal Reserve Board - Insurance Policy Advisory Committee -->
-<!-- date_fetched: 2025-07-17T00:34:08.924034Z -->
+<!-- date_fetched: 2025-07-17T02:39:15.856786Z -->
 
 Home
 About the Fed

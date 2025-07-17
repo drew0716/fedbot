@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section24a.htm -->
 <!-- title: Federal Reserve Board - Section 24A. Investment in Bank Premises or Stock of Corporation Holding Premises -->
-<!-- date_fetched: 2025-07-17T00:34:12.494139Z -->
+<!-- date_fetched: 2025-07-17T02:39:18.590088Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/fed-financial-statements-2012.htm -->
 <!-- title: Federal Reserve Board - 2012 -->
-<!-- date_fetched: 2025-07-17T00:34:53.819453Z -->
+<!-- date_fetched: 2025-07-17T02:40:01.039773Z -->
 
 Home
 About the Fed

@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/section18.htm -->
 <!-- title: Federal Reserve Board - Section 18. Refunding Bonds -->
-<!-- date_fetched: 2025-07-17T00:34:11.904151Z -->
+<!-- date_fetched: 2025-07-17T02:39:17.965715Z -->
 
 Home
 About the Fed

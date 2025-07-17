@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/faqs/what-is-the-fednow-service.htm -->
 <!-- title: The Fed - What is the FedNow® Service? -->
-<!-- date_fetched: 2025-07-17T00:35:02.720925Z -->
+<!-- date_fetched: 2025-07-17T02:40:10.076585Z -->
 
 Home
 FAQs

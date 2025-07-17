@@ -1,6 +1,6 @@
 <!-- source_url: https://www.federalreserve.gov/aboutthefed/2019-september-federal-reserve-banks-combined-quarterly-financial-report-unaudited.htm -->
 <!-- title: The Fed - Federal Reserve Banks Combined Quarterly Financial Report Unaudited - September 30, 2019 -->
-<!-- date_fetched: 2025-07-17T00:34:39.952704Z -->
+<!-- date_fetched: 2025-07-17T02:39:46.898456Z -->
 
 Home
 About the Fed
