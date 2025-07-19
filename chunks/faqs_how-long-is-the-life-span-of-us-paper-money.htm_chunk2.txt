@@ -1,19 +1,20 @@
 How long is the lifespan of U.S. paper money?
 When currency is deposited with a Federal Reserve Bank, the quality of each note is evaluated by sophisticated processing equipment. Notes that meet our strict quality criteria--that is, that are still in good condition--continue to circulate, while those that do not are taken out of circulation and destroyed. This process determines the lifespan of a Federal Reserve note.
 The lifespan of Federal Reserve notes varies by denomination and depends on a number of factors, including how the denomination is used by the public. For example, larger denominations such as $100 notes are often used as a store of value, which means they pass between users less frequently than lower-denominations such as $5 notes, which are more often used for transactions.
+The methodology used to estimate banknote lifespan was updated in 2025 to reflect the latest understanding of best practices.
 Denomination
 Estimated Lifespan*
 $1
-6.6 years
+7.2 years
 $5
-4.7 years
+5.8 years
 $10
-5.3 years
+5.7 years
 $20
-7.8 years
+11.1 years
 $50
-12.2 years
+14.9 years
 $100
-22.9 years
-*Estimated lifespans as of December 2018. Because the $2 note does not widely circulate, we do not publish its estimated lifespan.
+24.0 years
+*Estimated lifespans as of May 2025. Note lifespan estimates reflect best estimates of average note lifespan based on available data. Actual lifespan may vary depending on exact circumstances around usage. Because the $2 note does not widely circulate, we do not publish its estimated lifespan.
 Related Questions
